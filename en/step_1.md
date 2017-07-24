@@ -10,7 +10,7 @@ In this project you will use loops to create a racing turtle game and draw a rac
 
 ### Additional information for club leaders
 
-If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/turtle-race/print).
+If you need to print this project, please use the [Printer friendly version](https://projects.raspberry-pi.org/en/projects/turtle-race/print).
 
 
 --- collapse ---
