@@ -6,7 +6,7 @@
 
 ### Software
 
-__This project uses Python 3.__ We recommend using [trinket](https://trinket.io/) to write Python online. This project contains the following Trinkets:
+This project uses Python 3. We recommend using [trinket](https://trinket.io/) to write Python online. This project contains the following Trinkets:
 
 + ['Turtle Race' starting point -- jumpto.cc/python-new](http://jumpto.cc/python-new)
 
