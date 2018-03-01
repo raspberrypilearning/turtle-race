@@ -14,10 +14,10 @@ technologies: python
 site_areas: codeclub, python
 steps:
 - title: Introduction
+- title: What you will need
 - title: Race track
 - title: 'Challenge: More lines'
 - title: Racing turtles
 - title: 'Challenge: Race time!'
 - title: 'Challenge: Do a twirl'
 - title: 'Challenge: Dashed lines'
-

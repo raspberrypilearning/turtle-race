@@ -1,11 +1,15 @@
 --- challenge ---
-## Challenge: Do a twirl
+## Challenge: Race time!
+  
+Now you're ready to race. Pick a turtle and an opponent and see who wins. 
 
-Can you use a `for turn in range():` loop to make each turtle do a 360 degree twirl after they get to the starting line? You'll need to make sure they are facing in the right direction at the start of the race!
+Can you add more turtles so you can race with more friends?
 
-`ada.right(36)` will turn the red turtle right by 36 degrees. 
+![screenshot](images/race-more.png)
+ 
+Colours include: orange, purple, violet, tomato, turquoise, magenta and brown - or you can go to <a href="http://jumpto.cc/colours">jumpto.cc/colours</a> and pick any colour you like!
 
-**Hint:** A full turn is 360 degrees. A turtle could turn right 10 degrees 36 times, or left 5 degrees 72 times, or any other numbers make 360!
 
+ 
 
 --- /challenge ---
