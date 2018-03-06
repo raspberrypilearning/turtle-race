@@ -17,7 +17,7 @@ This project introduces for loops through a fun turtle race game. Loops are used
 By making your turtle race game, you will learn:
 
 + How to write for loops in python
-+ Using random in python
++ Using random numbers in python
 + How to move the Python Turtle
 + How to draw different coloured lines with Python Turtle
 
