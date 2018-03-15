@@ -1,0 +1,22 @@
+hero_image: images/turtle-race.png
+theme: blue
+duration: 2
+listed: true
+ingredient: false
+copyedit: false
+curriculum: creator, design-0, programming-0, phys-comp-0, manufacture-0, community-0
+title: Schildkröten-Rennen!
+description: Lass die Schildkröten im Wettrennen gegeneinander antreten! 
+original_url: https://codeclubprojects.org/en-GB/python/turtle-race
+interests: ''
+technologies: python
+site_areas: codeclub, python
+steps:
+- title: Einführung
+- title: Rennstrecke
+- title: 'Aufgabe: Noch mehr Linien'
+- title: Schildkröten Wettrennen 
+- title: 'Aufgabe: Das Rennen kann losgehen!'
+- title: 'Aufgabe: Dreh dich mal'
+- title: 'Aufgabe: Gestrichelte Linien'
+
