@@ -44,7 +44,7 @@ Vas a crear un juego con tortugas de carreras. Primero necesitarán una pista de
 
 + ¡Ah, tendrás que levantar el lápiz primero!
 
-  ![screenshot](race-penup.png)
+  ![screenshot](images/race-penup.png)
   
 + En lugar de dibujar una línea horizontalmente, dibujemos líneas verticales para crear una pista:
 
