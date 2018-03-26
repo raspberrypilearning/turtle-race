@@ -14,12 +14,11 @@ This project introduces for loops through a fun turtle race game. Loops are used
 
 ### What you will learn
 
-By making your turtle race game, you will learn:
+By making your turtle race game, you will learn how to:
 
-+ How to write for loops in python
-+ Using random numbers in python
-+ How to move the Python Turtle
-+ How to draw different coloured lines with Python Turtle
++ Write for loops in Python
++ Use random numbers in Python
++ Draw lines in different colours with Python Turtle
 
 This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
 
