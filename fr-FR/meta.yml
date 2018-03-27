@@ -1,0 +1,22 @@
+hero_image: images/turtle-race.png
+theme: blue
+duration: 2
+listed: true
+ingredient: false
+copyedit: false
+curriculum: creator, design-0, programming-0, phys-comp-0, manufacture-0, community-0
+title: Course de tortues!
+description: Crée un jeu de course de tortues!
+original_url: https://codeclubprojects.org/en-GB/python/turtle-race
+interests: ''
+technologies: python
+site_areas: codeclub, python
+steps:
+- title: Introduction
+- title: Piste de course
+- title: 'Défi: Plus de lignes'
+- title: La course de tortues
+- title: "Défi: L'heure de la course!"
+- title: 'Défi: Fais une pirouette'
+- title: 'Défi: Lignes pointillées'
+
