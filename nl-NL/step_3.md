@@ -1,22 +1,22 @@
-## Race track
+## Racebaan
 
-You're going to create a game with racing turtles. First they'll need a race track.
+Je gaat een spel maken met raceschildpadden. Eerst hebben ze een racebaan nodig.
 
 + Open the blank Python template Trinket: <a href="http://jumpto.cc/python-new" target="_blank">jumpto.cc/python-new</a>.
 
-+ Add the following code to draw a line using the 'turtle':
++ Voeg de volgende code toe om een ​​lijn te tekenen met de 'turtle" (schildpad):
     
     ![screenshot](images/race-forward.png)
 
-+ Now let's use the turtle to draw some track markings for the race.
++ Laten we nu de schildpad gebruiken om een ​​parcours voor de race te tekenen.
     
-    The turtle `write` function writes text to the screen.
+    De turtle `write` functie schrijft tekst naar het scherm.
     
-    Try it:
+    Probeer het uit:
     
     ![screenshot](images/race-markings1.png)
 
-+ Now you need to fill in the numbers in between to create markings:
++ Nu moet je erin de getallen invullen om de markeringen aan te brengen:
     
     ![screenshot](images/race-markings2.png)
 
