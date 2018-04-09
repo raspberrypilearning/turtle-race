@@ -1,8 +1,8 @@
 \--- challenge \---
 
-## Challenge: Dashed lines
+## Uitdaging: stippellijnen
 
-Can you use a loop to make the track lines dashed instead of solid?
+Kunt je een lus gebruiken om de lijnen van de tracks onderbroken in plaats van doorgetrokken weer te geven?
 
 ![screenshot](images/race-finished.png)
 
