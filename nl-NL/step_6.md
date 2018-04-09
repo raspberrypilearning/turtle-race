@@ -1,13 +1,13 @@
 \--- challenge \---
 
-## Challenge: Race time!
+## Uitdaging: racetijd!
 
-Now you're ready to race. Pick a turtle and an opponent and see who wins.
+Nu ben je klaar om te racen. Kies een schildpad en een tegenstander en kijk wie er wint.
 
-Can you add more turtles so you can race with more friends?
+Kun je meer schildpadden toevoegen zodat je met meer vrienden kunt racen?
 
 ![screenshot](images/race-more.png)
 
-Colours include: orange, purple, violet, tomato, turquoise, magenta and brown - or you can go to [jumpto.cc/colours](http://jumpto.cc/colours) and pick any colour you like!
+Kleuren omvatten: orange, purple, violet, tomato, turquoise, magenta and brown - of je kunt naar [jumpto.cc/colours](http://jumpto.cc/colours) gaan en elke gewenste kleur kiezen!
 
 \--- /challenge \---
