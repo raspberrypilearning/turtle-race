@@ -4,7 +4,7 @@ Użyj pętli, aby narysować tor wyścigowy i stwórz grę, w której zółwie �
 
 ### Co stworzysz
 
-Ten projekt wprowadza pętlę "for" poprzez zabawną grę w wyścigi żółwi. Pętle zostaną użyte do narysowania toru wyścigowego i do tego, aby żółwie przesuwały się o losową liczbę kroków w każdej turze. W grę można grać w grupie - każda osoba wybiera swojego zółwia, a zwycięzcą zostaje ten, który zajdzie najdalej.
+Ten projekt uczy, jak użwać pętli "for" dzięki zabawnej grze w wyścigi żółwi. Pętle zostaną użyte do narysowania toru wyścigowego i do tego, aby żółwie przesuwały się o losową liczbę kroków w każdej turze. W grę można grać w grupie - każda osoba wybiera swojego zółwia, a zwycięzcą zostaje ten, który zajdzie najdalej.
 
 <div class="trinket">
   <iframe src="https://trinket.io/embed/python/9339862606?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
@@ -16,9 +16,9 @@ Ten projekt wprowadza pętlę "for" poprzez zabawną grę w wyścigi żółwi. P
 
 Tworząc grę Wyścig Zółwi, nauczysz się:
 
-+ Jak używać peli "for" w Pythonie
++ Jak używać pętli "for" w Pythonie
 + Jak używać liczb losowych w Pythonie
-+ Jak rysować linie o różnych kolorach za pomocą Python Turtle
++ Jak rysować linie o różnych kolorach za pomocą żółwia w Pythonie
 
 Ten projekt obejmuje elementy z następujących wątków z [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum)"}:
 
