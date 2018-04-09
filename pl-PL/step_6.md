@@ -1,13 +1,13 @@
 \--- challenge \---
 
-## Challenge: Race time!
+## Wyzwanie: Czas na wyścigi!
 
-Now you're ready to race. Pick a turtle and an opponent and see who wins.
+Teraz jesteś gotowy do wyścigu. Wybierz żółwia i przeciwnika i zobacz, kto wygra.
 
-Can you add more turtles so you can race with more friends?
+Czy możesz dodać więcej żółwi, aby w wyścigu mogło wziąć udział więcej osób?
 
 ![screenshot](images/race-more.png)
 
-Colours include: orange, purple, violet, tomato, turquoise, magenta and brown - or you can go to [jumpto.cc/colours](http://jumpto.cc/colours) and pick any colour you like!
+Możesz użyć tych kolorów: orange (pomarańczowy), purple (purpurowy), violet (fioletowy), tomato (pomidorowy), turquoise (turkusowy), magenta (rózowy) i brown (brązowy), albo wejść na stronę [jumpto.cc/colours](http://jumpto.cc/colours) i wybrać dowolny kolor, który lubisz!
 
 \--- /challenge \---
