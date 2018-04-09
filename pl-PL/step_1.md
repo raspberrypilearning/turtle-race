@@ -1,10 +1,10 @@
 ## Wprowadzenie
 
-Use loops to draw a race track and create a racing turtle game.
+Użyj pętli, aby narysować tor wyścigowy i stwórz grę, w której zółwie ściagają się ze sobą.
 
-### What you will make
+### Co stworzysz
 
-This project introduces for loops through a fun turtle race game. Loops are used to draw the race track and to make the turtles move a random number of steps each turn. If you have a group of people to play the game, each person pick a turtle and the one that gets the furthest is the winner.
+Ten projekt wprowadza pętlę "for" poprzez zabawną grę w wyścigi żółwi. Pętle zostaną użyte do narysowania toru wyścigowego i do tego, aby żółwie przesuwały się o losową liczbę kroków w każdej turze. If you have a group of people to play the game, each person pick a turtle and the one that gets the furthest is the winner.
 
 <div class="trinket">
   <iframe src="https://trinket.io/embed/python/9339862606?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
