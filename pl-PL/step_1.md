@@ -20,7 +20,7 @@ Tworząc grę Wyścig Zółwi, nauczysz się:
 + Jak używać liczb losowych w Pythonie
 + Jak rysować linie o różnych kolorach za pomocą żółwia w Pythonie
 
-Ten projekt obejmuje elementy z następujących wątków z [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum)"}:
+Ten projekt obejmuje elementy z następujących wątków z [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
 
 + [Użycie podstawowych konstrukcji programistycznych do tworzenia prostych programów](https://www.raspberrypi.org/curriculum/programming/creator/){:target="_blank"}
 
