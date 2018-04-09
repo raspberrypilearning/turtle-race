@@ -1,0 +1,35 @@
+---
+hero_image: images / turtle-race.png
+theme: синій
+duration: 2
+listed: true
+ingredient: false
+copyedit: false
+curriculum: 1, design-0, programming-1, phys-comp-0, manufacture-0, community-0
+title: Черепашка гонки!
+description: Гонки черепах проти одного!
+original_url: https://codeclubprojects.org/en-GB/python/turtle-race
+interests: games
+technologies: python
+site_areas: projects
+hardware: ''
+software: python
+version: 3
+last_tested: 2017-01-01
+steps:
+  - 
+    title: Вступ
+  - 
+    title: What you will need
+  - 
+    title: Race track
+  - 
+    title: 'Challenge: More lines'
+  - 
+    title: Racing turtles
+  - 
+    title: 'Challenge: Race time!'
+  - 
+    title: 'Challenge: Do a twirl'
+  - 
+    title: 'Challenge: Dashed lines'
