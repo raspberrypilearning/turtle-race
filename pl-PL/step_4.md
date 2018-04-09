@@ -1,4 +1,4 @@
-\--- challenge \---
+--- challenge ---
 
 ## Wyzwanie: Więcej linii
 
@@ -8,4 +8,4 @@ Czy potrafisz zmienić swój kod tak, aby linie pionowe zajmowały cały ekran?
 
 Jeśli chcesz, aby żółw był jeszcze szybszy, możesz użyć `speed(0)`.
 
-\--- /challenge \---
+--- /challenge ---
