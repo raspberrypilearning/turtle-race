@@ -8,7 +8,7 @@ Je gaat een spel maken met raceschildpadden. Eerst hebben ze een racebaan nodig.
     
     ![screenshot](images/race-forward.png)
 
-+ Laten we nu de schildpad gebruiken om een ​​parcours voor de race te tekenen.
++ Laten we nu de schildpad gebruiken om de baanmarkeringen voor de race te tekenen.
     
     De turtle `write` functie schrijft tekst naar het scherm.
     
@@ -20,38 +20,38 @@ Je gaat een spel maken met raceschildpadden. Eerst hebben ze een racebaan nodig.
     
     ![screenshot](images/race-markings2.png)
 
-+ Did you notice that your code is very repetitive? The only thing that changes is the number to write.
++ Is het je opgevallen dat je code steeds weer herhaald wordt? Het enige dat verandert, is het aantal dat moet worden geschreven.
     
-    There's a better way of doing this in Python. You can use a `for` loop.
+    Er is een betere manier om dit in Python te doen. U kunt een `for` lus gebruiken.
     
-    Update your code to use a `for` loop:
+    Werk je code bij door een​​ `for` lus te gebruiken:
     
     ![screenshot](images/race-for.png)
 
-+ Hmm, that only prints numbers up to 4. In Python `range(5)` returns five numbers, from 0 up to 4. To get it to also return 5 you'll need to use `range(6)`:
++ Hmm, dat drukt alleen getallen tot 4 af. `range(5) ` geeft In Python vijf getallen terug, van 0 tot en met 4. Om ook 5 terug te krijgen, moet je `range(6)` gebruiken:
     
     ![screenshot](images/race-range.png)
 
-+ Now we can draw some track markings. The turtle starts at coordinates (0,0) in the middle of the screen.
++ Nu kunnen we wat baanmarkeringen tekenen. De schildpad begint op coördinaten (0,0) in het midden van het scherm.
     
-    Move the turtle to the top left instead:
+    Beweeg de schildpad in plaats daarvan naar linksboven:
     
     ![screenshot](images/race-goto.png)
 
-+ Ah, you'll want to lift the pen up first!
++ Ah, je moet eerst de pen optillen!
     
     ![screenshot](images/race-penup.png)
 
-+ Instead of drawing a line horizontally, let's draw vertical lines to create a track:
++ In plaats van een lijn horizontaal te tekenen, tekenen we verticale lijnen om een ​​track te maken:
     
     ![screenshot](images/race-lines.png)
     
-    `right(90)` makes the turtle turn right 90 degrees (a right angle.) Moving `forward(10)` before putting the pen down leaves a small gap between the number and the start of the line. After drawing the line you lift up the pen and go `backward(160)` the length of the line plus the gap.
+    `right(90)` zorgt ervoor dat de schildpad een hoek van 90 graden rechtsom (een rechte hoek) maakt. Een `forward(10)` beweging voordat de pen naar beneden wordt geplaatst, laat een kleine opening tussen het nummer en het begin van de lijn ontstaan. Nadat je de lijn hebt getekend, til je de pen op en ga je `backward(160)` (achteruit) over de lengte van de lijn plus de tussenruimte.
 
-+ It looks neater if you centre the numbers:
++ Het ziet er netter uit als je de cijfers centreert:
     
     ![screenshot](images/race-center.png)
 
-+ And you can speed up the turtle so it draws faster:
++ En je kunt de schildpad versnellen zodat hij sneller tekent:
     
     ![screenshot](images/race-speed.png)
