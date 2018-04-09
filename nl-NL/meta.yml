@@ -9,9 +9,9 @@ curriculum: 1, design-0, programming-1, phys-comp-0, manufacture-0, community-0
 title: Schildpad Race!
 description: Race met schildpadden tegen elkaar!
 original_url: https://codeclubprojects.org/en-GB/python/turtle-race
-interests: games
+interests: spellen
 technologies: Python
-site_areas: projects
+site_areas: projecten
 hardware: ''
 software: python
 version: 3
@@ -20,16 +20,16 @@ steps:
   - 
     title: Inleiding
   - 
-    title: What you will need
+    title: Wat heb je nodig
   - 
-    title: Race track
+    title: Racebaan
   - 
-    title: 'Challenge: More lines'
+    title: 'Uitdaging: meer lijnen'
   - 
-    title: Racing turtles
+    title: Raceschildpadden
   - 
-    title: 'Challenge: Race time!'
+    title: 'Uitdaging: racetijd!'
   - 
-    title: 'Challenge: Do a twirl'
+    title: 'Uitdaging: maak een draai'
   - 
-    title: 'Challenge: Dashed lines'
+    title: 'Uitdaging: stippellijnen'
