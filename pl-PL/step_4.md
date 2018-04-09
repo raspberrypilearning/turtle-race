@@ -1,11 +1,11 @@
 \--- challenge \---
 
-## Challenge: More lines
+## Wyzwanie: Więcej linii
 
-Can you change your code so that the track lines go right across the screen?
+Czy potrafisz zmienić swój kod tak, aby linie pionowe zajmowały cały ekran?
 
 ![screenshot](images/race-challenge1.png)
 
-If you want to make the turtle go even faster you can use `speed(0)`.
+Jeśli chcesz, aby żółw był jeszcze szybszy, możesz użyć `speed(0)`.
 
 \--- /challenge \---
