@@ -28,7 +28,7 @@ Dit project behandelt elementen uit de volgende onderdelen van de[Raspberry Pi D
 
 Als je dit project wilt afdrukken, gebruik dan de [ printvriendelijke versie ](https://projects.raspberrypi.org/en/projects/project-name/print) {:target="_ blank"}.
 
-Use the link in the footer to access the GitHub repository for this project, which contains all resources (including an example finished project) in the 'en/resources' folder.
+Gebruik de link in de voettekst voor toegang tot de GitHub opslagplaats voor dit project, met daarin alle bronnen (inclusief een voorbeeld van een voltooid project) in de map ' nl-Nl/resources'.
 
 ### Additional information for club leaders
 
