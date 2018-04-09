@@ -24,12 +24,12 @@ Dit project behandelt elementen uit de volgende onderdelen van de[Raspberry Pi D
 
 + [ Gebruik basale programmeerconstructies om eenvoudige programma's te maken ](https://www.raspberrypi.org/curriculum/programming/creator/) {:target="_ blank"}
 
-### Additional information for educators
+### Aanvullende informatie voor clubleiders
 
 Als je dit project wilt afdrukken, gebruik dan de [ printvriendelijke versie ](https://projects.raspberrypi.org/en/projects/project-name/print) {:target="_ blank"}.
 
 Gebruik de link in de voettekst voor toegang tot de GitHub opslagplaats voor dit project, met daarin alle bronnen (inclusief een voorbeeld van een voltooid project) in de map ' nl-Nl/resources'.
 
-### Additional information for club leaders
+### Aanvullende informatie voor clubleiders
 
-If you need to print this project, please use the [Printer friendly version](https://projects.raspberry-pi.org/en/projects/turtle-race/print).
+Als je dit project wilt afdrukken, gebruik dan de [Printervriendelijke versie](https://projects.raspberry-pi.org/en/projects/turtle-race/print).
