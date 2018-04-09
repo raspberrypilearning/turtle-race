@@ -1,6 +1,6 @@
 ## Tor wyścigowy
 
-Będziesz tworzyć grę ze ścigającymi się żółwiami. Najpierw będą one potrzebować toru wyścigowego.
+Będziesz tworzyć grę ze ścigającymi się żółwiami. Zaczniemy od stworzenia dla nich toru wyścigowego.
 
 + Otwórz pusty szablon dla języka Python w edytorze Trinket: <a href="http://jumpto.cc/python-new" target="_blank">jumpto.cc/python-new</a>.
 
@@ -12,7 +12,7 @@ Będziesz tworzyć grę ze ścigającymi się żółwiami. Najpierw będą one p
     
     Funkcja `write` zapisuje tekst na ekranie.
     
-    Spróbuj:
+    Wypróbuj:
     
     ![screenshot](images/race-markings1.png)
 
@@ -22,7 +22,7 @@ Będziesz tworzyć grę ze ścigającymi się żółwiami. Najpierw będą one p
 
 + Czy zauważyłeś, że twój kod jest bardzo powtarzalny? Jedyne, co się zmienia, to liczba, którą żółw zapisuje na ekranie.
     
-    W Pythonie jest na to lepszy sposób. Możesz użyć pętli `for`.
+    W Pythonie jest lepszy sposób na to, aby zapisać taki powtarzający się kod. Możesz użyć pętli `for`.
     
     Zmień swój kod używając pętli `for`:
     
