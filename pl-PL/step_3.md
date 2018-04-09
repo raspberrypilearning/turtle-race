@@ -1,6 +1,6 @@
-## Race track
+## Tor wyścigowy
 
-You're going to create a game with racing turtles. First they'll need a race track.
+Będziesz tworzyć grę ze ścigającymi się żółwiami. Najpierw będą one potrzebować toru wyścigowego.
 
 + Open the blank Python template Trinket: <a href="http://jumpto.cc/python-new" target="_blank">jumpto.cc/python-new</a>.
 
