@@ -1,11 +1,11 @@
 \--- challenge \---
 
-## Challenge: Dashed lines
+## Wyzwanie: Linie przerywane
 
-Can you use a loop to make the track lines dashed instead of solid?
+Czy możesz użyć pętli, aby zamiast lini ciągłych narysować linie przerywane?
 
 ![screenshot](images/race-finished.png)
 
-**Hint:** Find the code that draws a straight line. Try using:`for`, `forward()`, `penup()` and `pendown()`
+**Wskazówka:** Znajdź kod, który rysuje linię prostą. Spróbuj użyć: `for`, `forward()`, `penup()` i `pendown()`
 
 \--- /challenge \---
