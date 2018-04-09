@@ -1,11 +1,11 @@
 \--- challenge \---
 
-## Challenge: Do a twirl
+## Uitdaging: maak een draai
 
-Can you use a `for turn in range():` loop to make each turtle do a 360 degree twirl after they get to the starting line? You'll need to make sure they are facing in the right direction at the start of the race!
+Kun je een `for turn in range():` gebruiken om elke schildpad een draai van 360 graden te laten maken nadat ze bij de startlijn zijn aangekomen? Je moet ervoor zorgen dat ze aan het begin van de race in de goede richting kijken!
 
-`ada.right(36)` will turn the red turtle right by 36 degrees.
+` ada.right (36) ` zal de rode schildpad 36 graden draaien.
 
-**Hint:** A full turn is 360 degrees. A turtle could turn right 10 degrees 36 times, or left 5 degrees 72 times, or any other numbers make 360!
+**Hint:** Een volledige draai is 360 graden. Een schildpad zou 36 keer 10 graden naar rechts kunnen draaien, of 72 keer 5 graden, of gebruik andere cijfers om tot 360 graden te komen!
 
 \--- /challenge \---
