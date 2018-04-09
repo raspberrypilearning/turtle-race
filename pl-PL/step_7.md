@@ -1,4 +1,4 @@
-\--- challenge \---
+--- challenge ---
 
 ## Wyzwanie: Zakręć się
 
@@ -8,4 +8,4 @@ Czy możesz użyć pętli `for turn in range():`, aby każdy żółw zrobił obr
 
 **Podpowiedź:** Pełny obrót to 360 stopni. Żółw może 36 razy skręcić w prawo o 10 stopni, lub 72 razy w lewo o 5 stopni. Możesz też wybrać inne liczby, które razem utworzą 360!
 
-\--- /challenge \---
+--- /challenge ---
