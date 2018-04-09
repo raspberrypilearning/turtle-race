@@ -1,4 +1,4 @@
-\--- challenge \---
+--- challenge ---
 
 ## Wyzwanie: Czas na wyścigi!
 
@@ -10,4 +10,4 @@ Czy potrafisz dodać więcej żółwi, aby w wyścigu mogło wziąć udział wi�
 
 Możesz użyć tych kolorów: orange (pomarańczowy), purple (purpurowy), violet (fioletowy), tomato (pomidorowy), turquoise (turkusowy), magenta (rózowy) i brown (brązowy), albo wejść na stronę [jumpto.cc/colours](http://jumpto.cc/colours) i wybrać dowolny kolor, który lubisz!
 
-\--- /challenge \---
+--- /challenge ---
