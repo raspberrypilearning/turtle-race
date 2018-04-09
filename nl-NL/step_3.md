@@ -2,7 +2,7 @@
 
 Je gaat een spel maken met raceschildpadden. Eerst hebben ze een racebaan nodig.
 
-+ Open the blank Python template Trinket: <a href="http://jumpto.cc/python-new" target="_blank">jumpto.cc/python-new</a>.
++ Open de lege Python-sjabloon Trinket: <a href="http://jumpto.cc/python-new" target="_blank">jumpto.cc/python-new</a>.
 
 + Voeg de volgende code toe om een ​​lijn te tekenen met de 'turtle" (schildpad):
     
