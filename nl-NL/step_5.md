@@ -2,26 +2,26 @@
 
 Now for the fun bit. Let's add some racing turtles. It would be really boring if the turtles did the same thing every time so they will move a random number of steps each turn. The winner is the turtle that gets the furthest in 100 turns.
 
-+ When you use commands like `forward(20)` you are using a single turtle. But you can create more turtles. Add the following code to the end of your script (but make sure it's not indented):
++ Wanneer je commando's zoals `forward(20)` gebruikt, gebruik je een enkele schildpad. Maar je kunt meer schildpadden maken. Voeg de volgende code toe aan het einde van je script (maar zorg ervoor dat de code niet ingespringt):
     
     ![screenshot](images/race-red.png)
     
-    The first line creates a turtle called 'ada'. The next lines set the colour and shape of the turtle. Now it really looks like a turtle!
+    De eerste regel creëert een schildpad genaamd 'ada'. De volgende regels bepalen de kleur en vorm van de schildpad. Nu lijkt het echt op een schildpad!
 
-+ Let's send the turtle to the starting line:
++ Laten we de schildpad naar de startlijn sturen:
     
     ![screenshot](images/race-start.png)
 
-+ Now you need to make the turtle race by moving a random number of steps at a time. You'll need the `randint` function from the Python `random` library. Add this `import` line to the top of your script:
++ Nu moet je de schildpad laten racen door een willekeurig aantal stappen tegelijk te verplaatsen. Je hebt de ` randint ` functie van de Python ` random ` bibliotheek nodig. Voeg deze `import` regel aan de bovenkant van je script toe:
     
     ![screenshot](images/race-randint.png)
 
-+ The `randint` function returns a random integer (whole number) between the values chosen. The turtle will move forward 1, 2, 3, 4, or 5 steps at each turn.
++ De `randint` functie retourneert een tussen de gekozen waarden, willekeurig integer (geheel) getal. De schildpad beweegt bij elke beurt 1, 2, 3, 4 of 5 stappen vooruit.
     
     ![screenshot](images/race-random.png)
 
-+ One turtle isn't much of a race! Let's add another one:
++ Met een schildpad is het niet echt een race! Laten we er nog een toevoegen:
     
     ![screenshot](images/race-blue.png)
     
-    Note that the code for moving the blue turtle needs to be in **the same** `for` loop as the code for moving the red turtle so that they each make a move every turn.
+    Merk op dat de code voor het verplaatsen van de blauwe schildpad in **dezelfde** `for` lus moet zijn als de code voor het verplaatsen van de rode schildpad zodat ze elke beurt een zet doen.
