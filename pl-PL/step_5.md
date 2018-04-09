@@ -1,6 +1,6 @@
 ## Wyścigi żółwi
 
-A teraz najważniejsza część gry. Dodajmy parę wyścigowych żółwi. Gra będzie naprawdę nudna, jeśli żółwie będą robić to samo za każdym razem, więc będziemy przesuwać je o losową liczbę kroków w każdej turze. Zwycięzcą będzie żółw, który dotrze najdalej po 100 turach.
+A teraz najważniejsza część gry. Dodajmy kilka wyścigowych żółwi. Gra będzie naprawdę nudna, jeśli żółwie będą robić to samo za każdym razem, więc będziemy przesuwać je o losową liczbę kroków w każdej turze. Zwycięzcą będzie żółw, który dotrze najdalej po 100 turach.
 
 + Kiedy używasz poleceń takich jak `forward(20)`, używasz pojedynczego żółwia. Możesz jednak stworzyć więcej żółwi. Dodaj następujący kod na końcu skryptu (ale upewnij się, że nie jest wcięty):
     
