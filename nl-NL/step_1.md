@@ -1,10 +1,10 @@
 ## Inleiding
 
-Use loops to draw a race track and create a racing turtle game.
+Gebruik lussen om een een racecircuit te tekenen en maak een schildpad racespel.
 
-### What you will make
+### Wat ga je maken
 
-This project introduces for loops through a fun turtle race game. Loops are used to draw the race track and to make the turtles move a random number of steps each turn. If you have a group of people to play the game, each person pick a turtle and the one that gets the furthest is the winner.
+Dit project introduceert for loops in een leuk schildpad racespel. Lussen worden gebruikt om het racecircuit te tekenen en om de schildpadden een willekeurig aantal stappen per beurt te laten doen. Als je met een groep mensen het spel te speelt, kiest elke persoon een schildpad en degene die het verst is, is de winnaar.
 
 <div class="trinket">
   <iframe src="https://trinket.io/embed/python/9339862606?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
@@ -12,21 +12,21 @@ This project introduces for loops through a fun turtle race game. Loops are used
   <img src="images/race-finished.png">
 </div>
 
-### What you will learn
+### Wat je gaat leren
 
-By making your turtle race game, you will learn how to:
+Door het maken van jouw schildpad race spel, leer je hoe:
 
-+ Write for loops in Python
-+ Use random numbers in Python
-+ Draw lines in different colours with Python Turtle
++ Schrijf for-lussen in Python
++ Gebruik willekeurige getallen in Python
++ Teken lijnen in verschillende kleuren met Python Turtle
 
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
+Dit project behandelt elementen uit de volgende onderdelen van de[Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
 
-+ [Use basic programming constructs to create simple programs.](https://www.raspberrypi.org/curriculum/programming/creator/){:target="_blank"}
++ [ Gebruik basale programmeerconstructies om eenvoudige programma's te maken ](https://www.raspberrypi.org/curriculum/programming/creator/) {:target="_ blank"}
 
 ### Additional information for educators
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/project-name/print){:target="_blank"}.
+Als je dit project wilt afdrukken, gebruik dan de [ printvriendelijke versie ](https://projects.raspberrypi.org/en/projects/project-name/print) {:target="_ blank"}.
 
 Use the link in the footer to access the GitHub repository for this project, which contains all resources (including an example finished project) in the 'en/resources' folder.
 
