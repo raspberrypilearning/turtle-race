@@ -4,7 +4,7 @@
 
 Teraz jesteś gotowy do wyścigu. Wybierz żółwia i przeciwnika i zobacz, kto wygra.
 
-Czy możesz dodać więcej żółwi, aby w wyścigu mogło wziąć udział więcej osób?
+Czy potrafisz dodać więcej żółwi, aby w wyścigu mogło wziąć udział więcej osób?
 
 ![screenshot](images/race-more.png)
 
