@@ -12,16 +12,16 @@ A teraz najważniejsza część gry. Dodajmy parę wyścigowych żółwi. Gra b�
     
     ![screenshot](images/race-start.png)
 
-+ Teraz musisz zrobić wyścig, przesuwając żółwia o losową liczbę kroków. You'll need the `randint` function from the Python `random` library. Add this `import` line to the top of your script:
++ Teraz musisz zrobić wyścig, przesuwając żółwia o losową liczbę kroków. Będziesz potrzebować funkcji `randint` z biblioteki Pythona o nazwie `random`. Dodaj linię z instrukcją `import` na początku skryptu:
     
     ![screenshot](images/race-randint.png)
 
-+ The `randint` function returns a random integer (whole number) between the values chosen. The turtle will move forward 1, 2, 3, 4, or 5 steps at each turn.
++ Funkcja `randint` zwraca losową liczbę całkowitą (ang. integer) między wybranymi wartościami. Żółw przesunie się o 1, 2, 3, 4 lub 5 kroków w każdej turze.
     
     ![screenshot](images/race-random.png)
 
-+ One turtle isn't much of a race! Let's add another one:
++ Wyścigi z jednym żółwiem to nie wyścigi! Dodajmy jeszcze jednego:
     
     ![screenshot](images/race-blue.png)
     
-    Note that the code for moving the blue turtle needs to be in **the same** `for` loop as the code for moving the red turtle so that they each make a move every turn.
+    Zauważ, że kod do przesuwania niebieskiego żółwia musi być w **tej samej** pętli `for`, co kod do przesuwania czerwonego żółwia, tak aby każdy wykonał ruch w danej turze.
