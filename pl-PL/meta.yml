@@ -1,0 +1,35 @@
+---
+hero_image: images/turtle-race.png
+theme: blue
+duration: 2
+listed: true
+ingredient: false
+copyedit: false
+curriculum: 1, design-0, programming-1, phys-comp-0, manufacture-0, community-0
+title: Wyścigi Żółwi!
+description: Żółwie ścigają się ze sobą!
+original_url: https://codeclubprojects.org/en-GB/python/turtle-race
+interests: games
+technologies: python
+site_areas: projects
+hardware: ''
+software: python
+version: 3
+last_tested: 2017-01-01
+steps:
+  - 
+    title: Wprowadzenie
+  - 
+    title: Czego będziesz potrzebować
+  - 
+    title: Tor wyścigowy
+  - 
+    title: 'Wyzwanie: Więcej linii'
+  - 
+    title: Wyścigi żółwi
+  - 
+    title: 'Wyzwanie: Czas na wyścigi!'
+  - 
+    title: 'Wyzwanie: Zakręć się'
+  - 
+    title: 'Wyzwanie: Linie przerywane'
