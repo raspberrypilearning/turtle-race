@@ -1,6 +1,6 @@
-## Racing turtles
+## Raceschildpadden
 
-Now for the fun bit. Let's add some racing turtles. It would be really boring if the turtles did the same thing every time so they will move a random number of steps each turn. The winner is the turtle that gets the furthest in 100 turns.
+Nu voor het leuke. Laten we wat raceschildpadden toevoegen. Het zou heel saai zijn als de schildpadden elke keer hetzelfde deden, dus ze zullen elke beurt een willekeurig aantal stappen verplaatsen. De winnaar is de schildpad die het verst komt in 100 beurten.
 
 + Wanneer je commando's zoals `forward(20)` gebruikt, gebruik je een enkele schildpad. Maar je kunt meer schildpadden maken. Voeg de volgende code toe aan het einde van je script (maar zorg ervoor dat de code niet ingespringt):
     
