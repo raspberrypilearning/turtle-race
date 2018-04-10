@@ -1,13 +1,13 @@
 \--- завдання \---
 
-## Challenge: Race time!
+## Виклик: Час перегонів!
 
-Now you're ready to race. Pick a turtle and an opponent and see who wins.
+Тепер ви готові до перегонів. Вибери черепаху та суперника і подивіться, хто виграє.
 
-Can you add more turtles so you can race with more friends?
+Чи можете ви додати більше черепах, щоб ви могли змагатися з друзями?
 
-![screenshot](images/race-more.png)
+![скріншот](images/race-more.png)
 
-Colours include: orange, purple, violet, tomato, turquoise, magenta and brown - or you can go to [jumpto.cc/colours](http://jumpto.cc/colours) and pick any colour you like!
+Кольори включають: апельсин, пурпур, фіалка, помідор, бірюза, пурпуровий і коричневий - або ви можете перейти до [jumpto.cc/colours](http://jumpto.cc/colours) і вибрати будь-який колір, який вам подобається!
 
-\--- /challenge \---
+\--- / виклик \---
