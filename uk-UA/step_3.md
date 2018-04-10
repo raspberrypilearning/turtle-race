@@ -1,57 +1,57 @@
-## Race track
+## Гонка
 
-You're going to create a game with racing turtles. First they'll need a race track.
+Ви збираєтеся створити гру з гоночних черепах. Спочатку їм потрібна гоночна траса.
 
-+ Open the blank Python template Trinket: <a href="http://jumpto.cc/python-new" target="_blank">jumpto.cc/python-new</a>.
++ Відкрийте пустий шаблон Python Брелок: <a href="http://jumpto.cc/python-new" target="_blank">jumpto.cc/python-new</a>.
 
-+ Add the following code to draw a line using the 'turtle':
++ Додайте наступний код, щоб намалювати лінію за допомогою "черепашки":
     
-    ![screenshot](images/race-forward.png)
+    ![скріншот](images/race-forward.png)
 
-+ Now let's use the turtle to draw some track markings for the race.
++ Тепер давайте використовувати черепаху, щоб намалювати певну марку доріг.
     
-    The turtle `write` function writes text to the screen.
+    Черепаха `писати` функція записує текст на екран.
     
-    Try it:
+    Спробуй це:
     
-    ![screenshot](images/race-markings1.png)
+    ![скріншот](images/race-markings1.png)
 
-+ Now you need to fill in the numbers in between to create markings:
++ Тепер вам потрібно заповнити цифри між ними, щоб створити маркування:
     
-    ![screenshot](images/race-markings2.png)
+    ![скріншот](images/race-markings2.png)
 
-+ Did you notice that your code is very repetitive? The only thing that changes is the number to write.
++ Ви помітили, що ваш код дуже повторюється? Єдине, що змінюється - це число, яке потрібно написати.
     
-    There's a better way of doing this in Python. You can use a `for` loop.
+    Існує кращий спосіб це зробити в Python. Ви можете використовувати `для циклу`.
     
-    Update your code to use a `for` loop:
+    Оновіть код, щоб використати `для циклу`:
     
-    ![screenshot](images/race-for.png)
+    ![скріншот](images/race-for.png)
 
-+ Hmm, that only prints numbers up to 4. In Python `range(5)` returns five numbers, from 0 up to 4. To get it to also return 5 you'll need to use `range(6)`:
++ Хм, що друкує лише цифри до 4. У Python `діапазон (5)` повертає п'ять цифр від 0 до 4. Щоб отримати його також, поверніться 5, вам потрібно буде використовувати `діапазон (6)`:
     
-    ![screenshot](images/race-range.png)
+    ![скріншот](images/race-range.png)
 
-+ Now we can draw some track markings. The turtle starts at coordinates (0,0) in the middle of the screen.
++ Тепер ми можемо намалювати певні відмітки доріжки. Черепаха починається з координат (0,0) посередині екрана.
     
-    Move the turtle to the top left instead:
+    Перемістіть черепаху вгору вліво замість:
     
-    ![screenshot](images/race-goto.png)
+    ![скріншот](images/race-goto.png)
 
-+ Ah, you'll want to lift the pen up first!
++ Ах, ти спочатку хочеш підняти пену!
     
-    ![screenshot](images/race-penup.png)
+    ![скріншот](images/race-penup.png)
 
-+ Instead of drawing a line horizontally, let's draw vertical lines to create a track:
++ Замість того, щоб малювати лінію горизонтально, давайте намалювати вертикальні лінії для створення композиції:
     
-    ![screenshot](images/race-lines.png)
+    ![скріншот](images/race-lines.png)
     
-    `right(90)` makes the turtle turn right 90 degrees (a right angle.) Moving `forward(10)` before putting the pen down leaves a small gap between the number and the start of the line. After drawing the line you lift up the pen and go `backward(160)` the length of the line plus the gap.
+    `праворуч (90)` робить черепашку поворотом праворуч 90 градусів (правий кут). Переміщення `вперед (10)` перед тим, як залишити перо, залишає невеликий проміжок між номером і початком рядка. Після нанесення лінії ви піднімаєте ручку та йди `назад (160)` довжину лінії плюс розрив.
 
-+ It looks neater if you centre the numbers:
++ Якщо ви орієнтуєте цифри, це виглядає краще:
     
-    ![screenshot](images/race-center.png)
+    ![скріншот](images/race-center.png)
 
-+ And you can speed up the turtle so it draws faster:
++ І ви можете прискорити черепаху так, що вона тягнеться швидше:
     
-    ![screenshot](images/race-speed.png)
+    ![скріншот](images/race-speed.png)
