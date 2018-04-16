@@ -9,6 +9,8 @@ Czy możesz użyć pętli, aby zamiast lini ciągłych narysować linie przerywa
 **Wskazówka:** Znajdź kod, który rysuje linię prostą. Spróbuj użyć: `for`, `forward()`, `penup()` i `pendown()`
 
 --- /challenge ---
+\
+\
 
 \*\*\*
 
