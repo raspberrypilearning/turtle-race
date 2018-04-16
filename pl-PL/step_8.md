@@ -10,6 +10,7 @@ Czy możesz użyć pętli, aby zamiast lini ciągłych narysować linie przerywa
 
 --- /challenge ---
 
+\*\*\*
 
 ### Tłumaczenie wykonane przez wolontariuszy
 
