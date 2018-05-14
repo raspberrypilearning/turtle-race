@@ -16,7 +16,7 @@ This project introduces for loops through a fun turtle race game. Loops are used
 
 By making your turtle race game, you will learn how to:
 
-+ Write for loops in Python
++ Write `for` loops in Python
 + Use random numbers in Python
 + Draw lines in different colours with Python Turtle
 
@@ -24,9 +24,13 @@ This project covers elements from the following strands of the [Raspberry Pi Dig
 
 + [Use basic programming constructs to create simple programs.](https://www.raspberrypi.org/curriculum/programming/creator/){:target="_blank"}
 
+![iDEA](images/idea.png)
+
+Completion of this project will earn you points towards your bronze "Digital Maker" iDEA badge. For more information, visit [idea.org.uk](https://idea.org.uk).
+
 ### Additional information for educators
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/project-name/print){:target="_blank"}.
+If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/turtle-race/print){:target="_blank"}.
 
 Use the link in the footer to access the GitHub repository for this project, which contains all resources (including an example finished project) in the 'en/resources' folder.
 
