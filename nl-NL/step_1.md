@@ -16,7 +16,7 @@ Dit project introduceert for loops in een leuk schildpad racespel. Lussen worden
 
 Door het maken van jouw schildpad race spel, leer je:
 
-+ Write `for` loops in Python
++ ` for ` loops (lussen) schrijven in Python
 + willekeurige getallen te gebruiken in Python
 + lijnen te tekenen in verschillende kleuren met Python Turtle
 
@@ -26,7 +26,7 @@ Dit project behandelt elementen uit de volgende onderdelen van de[Raspberry Pi D
 
 ![iDEA](images/idea.png)
 
-Completion of this project will earn you points towards your bronze "Digital Maker" iDEA badge. For more information, visit [idea.org.uk](https://idea.org.uk).
+Als je dit project voltooit, krijg je punten voor je iDEA-badge "Digital Maker" in brons. Ga naar [ idea.org.uk](https://idea.org.uk) voor meer informatie.
 
 ### Aanvullende informatie voor clubleiders
 
