@@ -16,7 +16,7 @@ Ten projekt uczy, jak użwać pętli "for" dzięki zabawnej grze w wyścigi żó
 
 Tworząc grę Wyścig Zółwi, nauczysz się:
 
-+ Write `for` loops in Python
++ Jak stosować pętle `for` w Pythonie
 + Jak używać liczb losowych w Pythonie
 + Jak rysować linie o różnych kolorach za pomocą żółwia w Pythonie
 
@@ -26,14 +26,14 @@ Ten projekt obejmuje elementy z następujących wątków z [Raspberry Pi Digital
 
 ![iDEA](images/idea.png)
 
-Completion of this project will earn you points towards your bronze "Digital Maker" iDEA badge. For more information, visit [idea.org.uk](https://idea.org.uk).
+Za ukończenie tego projektu otrzymasz punkty, które możesz wykorzystać w celu uzyskania odznaki "Digital Maker" w programie iDEA. Aby uzyskać więcej informacji, odwiedź stronę [idea.org.uk](https://idea.org.uk).
 
 ### Dodatkowe informacje dla nauczycieli
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/turtle-race/print){:target="_blank"}.
+Jeśli chcesz wydrukować ten projekt, użyj [wersji do druku](https://projects.raspberrypi.org/en/projects/turtle-race/print){:target="_blank"}.
 
-Use the link in the footer to access the GitHub repository for this project, which contains all resources (including an example finished project) in the 'en/resources' folder.
+Skorzystaj z odnośnika w stopce, aby uzyskać dostęp do repozytorium kodu tego projektu w serwisie GitHub. Repozytorium to zawiera wszystkie zasoby (w tym przykład gotowego projektu) w folderze 'pl-PL/resources'.
 
 ### Dodatkowe informacje dla liderów klubów
 
-If you need to print this project, please use the [Printer friendly version](https://projects.raspberry-pi.org/en/projects/turtle-race/print).
+Jeśli chcesz wydrukować ten projekt, użyj [wersji do druku](https://projects.raspberry-pi.org/en/projects/turtle-race/print).
