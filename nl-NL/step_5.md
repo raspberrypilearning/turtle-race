@@ -1,6 +1,6 @@
 ## Raceschildpadden
 
-Nu voor het leuke. Laten we wat raceschildpadden toevoegen. Het zou heel saai zijn als de schildpadden elke keer hetzelfde deden, dus ze zullen elke beurt een willekeurig aantal stappen verplaatsen. De winnaar is de schildpad die het verst komt in 100 beurten.
+Nu het leuke deel. Laten we wat raceschildpadden toevoegen. Het zou heel saai zijn als de schildpadden elke keer hetzelfde deden, dus ze zullen elke beurt een willekeurig aantal stappen verplaatsen. De winnaar is de schildpad die het verst komt in 100 beurten.
 
 + Wanneer je commando's zoals `forward(20)` gebruikt, gebruik je een enkele schildpad. Maar je kunt meer schildpadden maken. Voeg de volgende code toe aan het einde van je script (maar zorg ervoor dat de code niet ingespringt):
     
@@ -12,11 +12,11 @@ Nu voor het leuke. Laten we wat raceschildpadden toevoegen. Het zou heel saai zi
     
     ![screenshot](images/race-start.png)
 
-+ Nu moet je de schildpad laten racen door een willekeurig aantal stappen tegelijk te verplaatsen. Je hebt de ` randint ` functie van de Python ` random ` bibliotheek nodig. Voeg deze `import` regel aan de bovenkant van je script toe:
++ Nu moet je de schildpad laten racen door elke beurt een willekeurig aantal stappen te zetten. Je hebt de ` randint ` functie van de Python ` random ` bibliotheek nodig. Voeg deze `import` regel toe aan de bovenkant van je script:
     
     ![screenshot](images/race-randint.png)
 
-+ De `randint` functie retourneert een tussen de gekozen waarden, willekeurig integer (geheel) getal. De schildpad beweegt bij elke beurt 1, 2, 3, 4 of 5 stappen vooruit.
++ De `randint` functie geeft een willekeurige integer (geheel getal) tussen de gekozen waarden. De schildpad beweegt bij elke beurt 1, 2, 3, 4 of 5 stappen vooruit.
     
     ![screenshot](images/race-random.png)
 
@@ -24,4 +24,4 @@ Nu voor het leuke. Laten we wat raceschildpadden toevoegen. Het zou heel saai zi
     
     ![screenshot](images/race-blue.png)
     
-    Merk op dat de code voor het verplaatsen van de blauwe schildpad in **dezelfde** `for` lus moet zijn als de code voor het verplaatsen van de rode schildpad zodat ze elke beurt een zet doen.
+    Merk op dat de code voor het verplaatsen van de blauwe schildpad in **dezelfde** `for` -lus moet staan als de code voor het verplaatsen van de rode schildpad, zodat ze elke beurt een zet doen.
