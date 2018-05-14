@@ -7,8 +7,8 @@ speed(0)
 penup()
 goto(-140, 140)
 
-for step in range(15):
-  write(step, align='center')
+for stap in range(15):
+  write(stap, align='center')
   right(90)
   for num in range(8):
     penup()
@@ -20,53 +20,53 @@ for step in range(15):
   left(90)
   forward(20)
 
-red = Turtle()
-red.color('red')
-red.shape('turtle')
+rood = Turtle()
+rood.color('red')
+rood.shape('turtle')
 
-red.penup()
-red.goto(-160, 100)
-red.pendown()
+rood.penup()
+rood.goto(-160, 100)
+rood.pendown()
 
-for turn in range(10):
-  red.right(36)
+for draai in range(10):
+  rood.right(36)
 
-blue = Turtle()
-blue.color('blue')
-blue.shape('turtle')
+blauw = Turtle()
+blauw.color('blue')
+blauw.shape('turtle')
 
-blue.penup()
-blue.goto(-160, 70)
-blue.pendown()
+blauw.penup()
+blauw.goto(-160, 70)
+blauw.pendown()
 
-for turn in range(72):
-  blue.left(5)
+for draai in range(72):
+  blauw.left(5)
 
-green = Turtle()
-green.shape('turtle')
-green.color('yellow')
+groen = Turtle()
+groen.shape('turtle')
+groen.color('geel')
 
-green.penup()
-green.goto(-160, 40)
-green.pendown()
+groen.penup()
+groen.goto(-160, 40)
+groen.pendown()
 
-for turn in range(60):
-  green.right(6)
+for draai in range(60):
+  groen.right(6)
 
-yellow = Turtle()
-yellow.shape('turtle')
-yellow.color('turquoise')
+geel = Turtle()
+geel.shape('turtle')
+geel.color('turquoise')
 
-yellow.penup()
-yellow.goto(-160, 10)
-yellow.pendown()
+geel.penup()
+geel.goto(-160, 10)
+geel.pendown()
 
-for turn in range(30):
-  yellow.left(12)
+for draai in range(30):
+  geel.left(12)
 
-for turn in range(100):
-  red.forward(randint(1,5))
-  blue.forward(randint(1,5))
-  green.forward(randint(1,5))
-  yellow.forward(randint(1,5))
+for draai in range(100):
+  rood.forward(randint(1,5))
+  blauw.forward(randint(1,5))
+  groen.forward(randint(1,5))
+  geel.forward(randint(1,5))
   
