@@ -16,7 +16,7 @@
 
 Зробіть свою гру в черепаховій гонці, ви навчитеся:
 
-+ Пишіть для циклів у Python
++ Write `for` loops in Python
 + Використовуйте випадкові числа в Python
 + Намалюйте лінії різного кольору з Python Turtle
 
@@ -24,12 +24,16 @@
 
 + [Використовуйте основні конструкторські програми для створення простих програм.](https://www.raspberrypi.org/curriculum/programming/creator/)(: target = "_ blank")
 
+![iDEA](images/idea.png)
+
+Completion of this project will earn you points towards your bronze "Digital Maker" iDEA badge. For more information, visit [idea.org.uk](https://idea.org.uk).
+
 ### Додаткова інформація для вихователів
 
-Якщо вам потрібно надрукувати цей проект, скористайтеся [версія для друку](https://projects.raspberrypi.org/en/projects/project-name/print)(: target = "_ blank").
+If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/turtle-race/print){:target="_blank"}.
 
-Скористайтеся посиланням у нижньому колонтитулі, щоб отримати доступ до сховища GitHub для даного проекту, який містить усі ресурси (включаючи приклад готового проекту) в папці en / resources.
+Use the link in the footer to access the GitHub repository for this project, which contains all resources (including an example finished project) in the 'en/resources' folder.
 
 ### Додаткова інформація для лідерів клубу
 
-Якщо вам потрібно надрукувати цей проект, скористайтеся [Версія для друку](https://projects.raspberry-pi.org/en/projects/turtle-race/print).
+If you need to print this project, please use the [Printer friendly version](https://projects.raspberry-pi.org/en/projects/turtle-race/print).
