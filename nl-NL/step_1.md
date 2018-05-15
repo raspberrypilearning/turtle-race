@@ -22,7 +22,7 @@ Door het maken van jouw schildpad race spel, leer je:
 
 Dit project behandelt elementen uit de volgende onderdelen van de[Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
 
-+ [ Gebruik basale programmeerconstructies om eenvoudige programma's te maken ](https://www.raspberrypi.org/curriculum/programming/creator/) {:target="_ blank"}
++ [ Gebruik basale programmeerconstructies om eenvoudige programma's te maken ](https://www.raspberrypi.org/curriculum/programming/creator/){:target="_ blank"}
 
 ![iDEA](images/idea.png)
 
