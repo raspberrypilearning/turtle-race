@@ -26,7 +26,7 @@ Dit project behandelt elementen uit de volgende onderdelen van de[Raspberry Pi D
 
 ![iDEA](images/idea.png)
 
-Als je dit project voltooit, krijg je punten voor je iDEA-badge "Digital Maker" in brons. Ga naar [ idea.org.uk](https://idea.org.uk) voor meer informatie.
+Als je dit project voltooit, krijg je punten voor je bronzen iDEA-badge "Digital Maker". Ga naar [idea.org.uk](https://idea.org.uk) voor meer informatie.
 
 ### Aanvullende informatie voor clubleiders
 
