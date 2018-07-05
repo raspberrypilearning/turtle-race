@@ -1,4 +1,4 @@
-\--- desafio \---
+\--- challenge \---
 
 ## Challenge: Do a twirl
 
