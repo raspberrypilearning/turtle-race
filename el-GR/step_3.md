@@ -1,34 +1,34 @@
-## Race track
+## Πίστα αγώνα
 
-You're going to create a game with racing turtles. First they'll need a race track.
+Πρόκειται να δημιουργήσεις ένα παιχνίδι με αγωνιστικές χελώνες. Πρώτα θα χρειαστείς μια αγωνιστική πίστα.
 
-+ Open the blank Python template Trinket: <a href="http://jumpto.cc/python-new" target="_blank">jumpto.cc/python-new</a>.
++ Άνοιξε το κενό πρότυπο Python Trinket: <a href="http://jumpto.cc/python-new" target="_blank">jumpto.cc/python-new</a>.
 
-+ Add the following code to draw a line using the 'turtle':
++ Πρόσθεσε τον ακόλουθο κώδικα για να σχεδιάσεις μια γραμμή χρησιμοποιώντας τη 'χελώνα':
     
     ![screenshot](images/race-forward.png)
 
-+ Now let's use the turtle to draw some track markings for the race.
++ Τώρα ας χρησιμοποιήσουμε τη χελώνα για να σχεδιάσεις μερικές σημάνσεις στην πίστα για τον αγώνα.
     
-    The turtle `write` function writes text to the screen.
+    Η λειτουργία `write` της χελώνας γράφει κείμενο στην οθόνη.
     
-    Try it:
+    Δοκίμασέ το:
     
     ![screenshot](images/race-markings1.png)
 
-+ Now you need to fill in the numbers in between to create markings:
++ Τώρα πρέπει να συμπληρώσεις τους αριθμούς για να δημιουργήσεις σημάνσεις:
     
     ![screenshot](images/race-markings2.png)
 
-+ Did you notice that your code is very repetitive? The only thing that changes is the number to write.
++ Παρατήρησες ότι ο κώδικας είναι επαναλαμβανόμενος; Το μόνο που αλλάζει είναι ο αριθμός που γράφεις.
     
-    There's a better way of doing this in Python. You can use a `for` loop.
+    Υπάρχει καλύτερος τρόπος να το κάνεις αυτό στην Python. Μπορείς να χρησιμοποιήσεις ένα βρόχο `for`.
     
-    Update your code to use a `for` loop:
+    Ενημέρωσε τον κώδικα για να χρησιμοποιεί ένα βρόχο `for`:
     
     ![screenshot](images/race-for.png)
 
-+ Hmm, that only prints numbers up to 4. In Python `range(5)` returns five numbers, from 0 up to 4. To get it to also return 5 you'll need to use `range(6)`:
++ Χμμ, αυτό εκτυπώνει μόνο αριθμούς μέχρι 4. Στην Python η `range(5)` επιστρέφει πέντε αριθμούς, από 0 έως 4. Για να το κάνεις να επιστρέφει και το 5, θα χρειαστεί να χρησιμοποιήσεις την `range(6)`:
     
     ![screenshot](images/race-range.png)
 
