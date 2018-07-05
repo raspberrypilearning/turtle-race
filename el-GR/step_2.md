@@ -1,9 +1,9 @@
-## What you will need
+## Τι θα χρειαστείς
 
-### Hardware
+### Υλικό
 
-+ An internet-connected computer
++ Ένας υπολογιστής συνδεδεμένος στο διαδίκτυο
 
-### Software
+### Λογισμικό
 
-This project uses Python 3. We recommend using [Trinket](https://trinket.io/), which allows you to write Python code online.
+Αυτό το έργο χρησιμοποιεί Python 3. Συνιστούμε να χρησιμοποιήσεις την online εφαρμογή [Trinket](https://trinket.io/), που σου επιτρέπει να γράψεις κώδικα Python online.
