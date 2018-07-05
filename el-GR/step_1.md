@@ -1,10 +1,10 @@
-## Introduction
+## Εισαγωγή
 
-Use loops to draw a race track and create a racing turtle game.
+Χρησιμοποίησε βρόχους επανάληψης για να σχεδιάσεις μια αγωνιστική πίστα και να δημιουργήσεις ένα παιχνίδι αγώνα χελώνων.
 
-### What you will make
+### Τι θα κάνεις
 
-This project introduces for loops through a fun turtle race game. Loops are used to draw the race track and to make the turtles move a random number of steps each turn. If you have a group of people to play the game, each person pick a turtle and the one that gets the furthest is the winner.
+Αυτό το έργο κάνει μια εισαγωγή στους βρόχους επανάληψης μέσα από ένα διασκεδαστικό παιχνίδι αγώνα χελώνων. Οι βρόχοι χρησιμοποιούνται για το σχεδιασμό της αγωνιστικής διαδρομής και για την κίνηση των χελώνων για τυχαίο αριθμό βημάτων σε κάθε στροφή. Εάν έχεις μια ομάδα ανθρώπων για να παίξεις το παιχνίδι, κάθε άτομο επιλέγει μια χελώνα και αυτή που φτάνει πιο μακρυά είναι η νικήτρια.
 
 <div class="trinket">
   <iframe src="https://trinket.io/embed/python/9339862606?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
@@ -12,28 +12,28 @@ This project introduces for loops through a fun turtle race game. Loops are used
   <img src="images/race-finished.png">
 </div>
 
-### What you will learn
+### Τι θα μάθεις
 
-By making your turtle race game, you will learn how to:
+Με το παιχνίδι αγώνα χελώνων, θα μάθεις πώς να:
 
-+ Write `for` loops in Python
-+ Use random numbers in Python
-+ Draw lines in different colours with Python Turtle
++ Γράφεις `for` βρόχους επανάληψης στην Python
++ Χρησιμοποιείς τυχαίους αριθμούς στην Python
++ Σχεδιάζεις γραμμές με διαφορετικά χρώματα με την χελώνα στην Python
 
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
+Αυτό το πρόγραμμα καλύπτει στοιχεία από τις ακόλουθες πτυχές του [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
 
-+ [Use basic programming constructs to create simple programs.](https://www.raspberrypi.org/curriculum/programming/creator/){:target="_blank"}
++ [Χρησιμοποίησε βασικές δομές προγραμματισμού για να δημιουργήσεις απλά προγράμματα](https://www.raspberrypi.org/curriculum/programming/creator/){:target="_blank"}
 
 ![iDEA](images/idea.png)
 
-Completion of this project will earn you points towards your bronze "Digital Maker" iDEA badge. For more information, visit [idea.org.uk](https://idea.org.uk).
+Η ολοκλήρωση αυτού του έργου θα σου δόσει πόντους για το χάλκινο σήμα "Digital Maker" iDEA. Για περισσότερες πληροφορίες, μπες στο [idea.org.uk](https://idea.org.uk).
 
-### Additional information for educators
+### Πρόσθετες πληροφορίες για εκπαιδευτικούς
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/turtle-race/print){:target="_blank"}.
+Αν χρειαστεί να εκτυπώσεις αυτό το έργο, χρησιμοποίησε την [εκτυπώσιμη έκδοση](https://projects.raspberrypi.org/en/projects/turtle-race/print)"{:target="_blank"}.
 
-Use the link in the footer to access the GitHub repository for this project, which contains all resources (including an example finished project) in the 'en/resources' folder.
+Χρησιμοποίησε το σύνδεσμο στο υποσέλιδο για να αποκτήσεις πρόσβαση στο αποθετήριο GitHub για αυτό το έργο, το οποίο περιέχει όλους τους πόρους (συμπεριλαμβανομένου ενός έργου που έχει ολοκληρωθεί στο παράδειγμα) στο φάκελο 'en/resources'.
 
-### Additional information for club leaders
+### Πρόσθετες πληροφορίες για τους συντονιστές των ομάδων
 
-If you need to print this project, please use the [Printer friendly version](https://projects.raspberry-pi.org/en/projects/turtle-race/print).
+Αν χρειαστεί να εκτυπώσεις αυτό το έργο, χρησιμοποίησε την [εκτυπώσιμη έκδοση](https://projects.raspberry-pi.org/en/projects/turtle-race/print).
