@@ -1,11 +1,11 @@
 \--- challenge \---
 
-## Challenge: Dashed lines
+## チャレンジ：破線を描いてみよう
 
-Can you use a loop to make the track lines dashed instead of solid?
+実線のトラックの代わりに破線のトラックを描いてループさせてみよう
 
-![screenshot](images/race-finished.png)
+![スクリーンショット](images/race-finished.png)
 
-**Hint:** Find the code that draws a straight line. Try using:`for`, `forward()`, `penup()` and `pendown()`
+**ヒント：**直線を描くコードを探してみよう。 `for`, `forward()`, `penup()` と`pendown()`を使ってみよう
 
 \--- /challenge \---
