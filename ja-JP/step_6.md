@@ -1,13 +1,13 @@
 \--- challenge \---
 
-## Challenge: Race time!
+## チャレンジ：レースの時間！
 
-Now you're ready to race. Pick a turtle and an opponent and see who wins.
+ようやくレースの準備ができました。かめをみんな選んで、どれが勝つかみてみよう。
 
-Can you add more turtles so you can race with more friends?
+友達がもっといたら、かめを増やしてみよう。
 
-![screenshot](images/race-more.png)
+![スクリーンショット](images/race-more.png)
 
-Colours include: orange, purple, violet, tomato, turquoise, magenta and brown - or you can go to [jumpto.cc/colours](http://jumpto.cc/colours) and pick any colour you like!
+色はオレンジ、むらさき、すみれ、トマト、ターコィズ、ピンク、そして茶色から選べるよ。[jumpto.cc/colours](http://jumpto.cc/colours)ここにいったら、何色でも好きな色が選べるよ。
 
-\--- /challenge \---
+\--- challenge \---
