@@ -1,10 +1,10 @@
-## Introduction
+## はじめに
 
-Use loops to draw a race track and create a racing turtle game.
+ループを使って、かめが競争するトラックを描いてみよう。
 
-### What you will make
+### 作るもの
 
-This project introduces for loops through a fun turtle race game. Loops are used to draw the race track and to make the turtles move a random number of steps each turn. If you have a group of people to play the game, each person pick a turtle and the one that gets the furthest is the winner.
+かめの競争を作ってみることで、ループについて学びます。 競争するトラックを描くことと、かめがランダムに進むことにループを使います。 もしゲームをみんなでするなら、それぞれかめを選んでみよう。1番早かったかめを選んだ人の勝ち！
 
 <div class="trinket">
   <iframe src="https://trinket.io/embed/python/9339862606?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
@@ -12,28 +12,28 @@ This project introduces for loops through a fun turtle race game. Loops are used
   <img src="images/race-finished.png">
 </div>
 
-### What you will learn
+### 学習すること
 
-By making your turtle race game, you will learn how to:
+かめの競争をつくることで、以下のことを学べます。
 
-+ Write `for` loops in Python
-+ Use random numbers in Python
-+ Draw lines in different colours with Python Turtle
++ Pythonでの`for`文の書き方
++ Pythonでのランダム(乱数)の使い方
++ Python Turtleで様々な色の線の書き方
 
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
+このプロジェクトでは [Raspberry Pi デジタル・メイキング・カリキュラム](http://rpf.io/curriculum)の要素を学びます。
 
-+ [Use basic programming constructs to create simple programs.](https://www.raspberrypi.org/curriculum/programming/creator/){:target="_blank"}
++ [基本的なプログラミング構造を使用して簡単なプログラムを作成する](https://www.raspberrypi.org/curriculum/programming/creator/)
 
-![iDEA](images/idea.png)
+![IDEA](images/idea.png)
 
-Completion of this project will earn you points towards your bronze "Digital Maker" iDEA badge. For more information, visit [idea.org.uk](https://idea.org.uk).
+このプロジェクトの完成はデジタルメイカーの銅色のアイディアバッチがもらえること。詳細は[idea.org.uk](https://idea.org.uk)ここから。
 
-### Additional information for educators
+### 教育者のための追加情報
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/turtle-race/print){:target="_blank"}.
+このプロジェクトを印刷する必要がある場合は、 [印刷用バージョン](https://projects.raspberrypi.org/en/projects/turtle-race/print)を使用してください。
 
-Use the link in the footer to access the GitHub repository for this project, which contains all resources (including an example finished project) in the 'en/resources' folder.
+フッターのリンクを使用して、このプロジェクトのGitHubリポジトリにアクセスします。このリポジトリには、 'en / resources'フォルダ内のすべてのリソース（完成プロジェクトの例を含む）が含まれています。
 
-### Additional information for club leaders
+### クラブリーダーのための追加情報
 
-If you need to print this project, please use the [Printer friendly version](https://projects.raspberry-pi.org/en/projects/turtle-race/print).
+このプロジェクトを印刷する必要がある場合は、 [印刷用バージョン](https://projects.raspberry-pi.org/en/projects/turtle-race/print)を使用してください。
