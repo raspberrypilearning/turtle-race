@@ -1,9 +1,9 @@
-## What you will need
+## 必要なもの
 
-### Hardware
+### ハードウェア
 
-+ An internet-connected computer
++ インターネットにつながったコンピュータ
 
-### Software
+### ソフトウェア
 
-This project uses Python 3. We recommend using [Trinket](https://trinket.io/), which allows you to write Python code online.
+このプロジェクトPythonは3を使います。オンラインでもパイソンが使える[Trinket](https://trinket.io/)というものを使いましょう。
