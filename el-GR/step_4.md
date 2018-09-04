@@ -1,11 +1,11 @@
 \--- challenge \---
 
-## Challenge: More lines
+## Πρόκληση: περισσότερες γραμμές
 
-Can you change your code so that the track lines go right across the screen?
+Μπορείς να αλλάξεις τον κώδικά σου έτσι ώστε οι γραμμές του στίβου να πηγαίνουν δεξιά στην οθόνη;
 
 ![screenshot](images/race-challenge1.png)
 
-If you want to make the turtle go even faster you can use `speed(0)`.
+Εάν θέλεις να κάνεις την χελώνα να πηγαίνει ακόμα πιο γρήγορα μπορείς να χρησιμοποιήσεις την `speed(0)`.
 
 \--- /challenge \---
