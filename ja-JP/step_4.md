@@ -1,11 +1,11 @@
 \--- challenge \---
 
-## Challenge: More lines
+## チャレンジ：もっと線を描いてみよう。
 
-Can you change your code so that the track lines go right across the screen?
+画面の右側にも線を描くようにコードを変えてみよう。
 
-![screenshot](images/race-challenge1.png)
+![スクリーンショット](images/race-challenge1.png)
 
-If you want to make the turtle go even faster you can use `speed(0)`.
+`speed(0)`を使えば、タートルがもっと早く描いてくれるよ
 
 \--- /challenge \---
