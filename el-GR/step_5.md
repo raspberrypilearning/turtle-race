@@ -1,6 +1,6 @@
-## Racing turtles
+## Αγωνιστικές χελώνες
 
-Now for the fun bit. Let's add some racing turtles. It would be really boring if the turtles did the same thing every time so they will move a random number of steps each turn. The winner is the turtle that gets the furthest in 100 turns.
+Ας το κάνουμε πιο διασκεδαστικό. Ας προσθέσουμε μερικές αγωνιστικές χελώνες. Θα ήταν πραγματικά βαρετό αν οι χελώνες έκαναν το ίδιο πράγμα κάθε φορά, για αυτό θα κινούνται έναν τυχαίο αριθμό βημάτων. Νικήτρια είναι η χελώνα που φτάνει πιο μακρυά σε 100 στροφές.
 
 + When you use commands like `forward(20)` you are using a single turtle. But you can create more turtles. Add the following code to the end of your script (but make sure it's not indented):
     
