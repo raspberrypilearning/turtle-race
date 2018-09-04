@@ -16,7 +16,7 @@ Nawr am y rhan hwyliog. Gadewch i ni ychwanegu rhai crwbanod rasio. Byddai'n ddi
     
     ![sgrinlun](images/race-randint.png)
 
-+ Mae'r swyddogaeth` randint ` yn dychwelyd cyfanrif (rhif cyfan) hap rhwng y gwerthoedd a ddewiswyd. Bydd y crwban yn symud ymlaen 1, 2, 3, 4, neu 5 cam ar bob tro.
++ Mae'r swyddogaeth `randint` yn dychwelyd cyfanrif (rhif cyfan) hap rhwng y gwerthoedd a ddewiswyd. Bydd y crwban yn symud ymlaen 1, 2, 3, 4, neu 5 cam ar bob tro.
     
     ![sgrinlun](images/race-random.png)
 

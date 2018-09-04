@@ -22,7 +22,7 @@ Wrth wneud eich gêm rasio crwbanod, byddwch chi'n dysgu sut i:
 
 Mae'r prosiect hwn yn cwmpasu elfennau o ffrydiau dilynol y [Cwricwlwm Creu Digidol Raspberry Pi](http://rpf.io/curriculum){:target="_blank"}:
 
-+ [Defnyddiwch lluniadau rhaglennu sylfaenol i greu rhaglenni syml.](https://www.raspberrypi.org/curriculum/programming/creator/) {:target="_blank"}
++ [Defnyddiwch lluniadau rhaglennu sylfaenol i greu rhaglenni syml.](https://www.raspberrypi.org/curriculum/programming/creator/){:target="_blank"}
 
 ![iDEA](images/idea.png)
 
