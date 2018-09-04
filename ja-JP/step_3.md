@@ -1,57 +1,57 @@
-## Race track
+## 競争するトラック
 
-You're going to create a game with racing turtles. First they'll need a race track.
+これから、かめが競争するゲームを作ります。まず最初にトラックをつくっていこう。
 
-+ Open the blank Python template Trinket: <a href="http://jumpto.cc/python-new" target="_blank">jumpto.cc/python-new</a>.
++ Trinket（トリンケット）:　<a href="http://jumpto.cc/python-new" target="_blank">jumpto.cc/python-new</a>.　ここを開いてみよう。
 
-+ Add the following code to draw a line using the 'turtle':
++ 以下のコードを加えて線を引いてみよう。
     
-    ![screenshot](images/race-forward.png)
+    ![スクリーンショット](images/race-forward.png)
 
-+ Now let's use the turtle to draw some track markings for the race.
++ 今度はタートルを使って、レースのトラックを作ってみよう。
     
-    The turtle `write` function writes text to the screen.
+    タートルに`write(ライト)`という機能で画面に文字を描こう。
     
-    Try it:
+    試してみる：
     
-    ![screenshot](images/race-markings1.png)
+    ![スクリーンショット](images/race-markings1.png)
 
-+ Now you need to fill in the numbers in between to create markings:
++ 下のようにゴールまでの数字を入れてみよう。
     
-    ![screenshot](images/race-markings2.png)
+    ![スクリーンショット](images/race-markings2.png)
 
-+ Did you notice that your code is very repetitive? The only thing that changes is the number to write.
++ 今書いたコードに繰り返していることはあるかな？数字だけを変えてみよう。
     
-    There's a better way of doing this in Python. You can use a `for` loop.
+    Pythonにはもっといい方法があります。
     
-    Update your code to use a `for` loop:
+    `for`文というものを使って書き直してみよう：
     
-    ![screenshot](images/race-for.png)
+    ![スクリーンショット](images/race-for.png)
 
-+ Hmm, that only prints numbers up to 4. In Python `range(5)` returns five numbers, from 0 up to 4. To get it to also return 5 you'll need to use `range(6)`:
++ えーっと、数字が4までいきました。Pythonでは`range(5)`とすると0から4までの5個の数字を返します。5まで使いたいときは`range(6)`とすれば使えるよ：
     
-    ![screenshot](images/race-range.png)
+    ![スクリーンショット](images/race-range.png)
 
-+ Now we can draw some track markings. The turtle starts at coordinates (0,0) in the middle of the screen.
++ さて、いくつかのトラックを描いてみよう。かめは(0,0)というスクリーンの真ん中からスタートするよ。
     
-    Move the turtle to the top left instead:
+    かめを左上に動かしてみよう。
     
-    ![screenshot](images/race-goto.png)
+    ![スクリーンショット](images/race-goto.png)
 
-+ Ah, you'll want to lift the pen up first!
++ →矢印の先だけ最初に描いてみよう。
     
-    ![screenshot](images/race-penup.png)
+    ![スクリーンショット](images/race-penup.png)
 
-+ Instead of drawing a line horizontally, let's draw vertical lines to create a track:
++ 水平な線の代わりに、垂直な線をトラックとして描いてみよう。
     
-    ![screenshot](images/race-lines.png)
+    ![スクリーンショット](images/race-lines.png)
     
-    `right(90)` makes the turtle turn right 90 degrees (a right angle.) Moving `forward(10)` before putting the pen down leaves a small gap between the number and the start of the line. After drawing the line you lift up the pen and go `backward(160)` the length of the line plus the gap.
+    `right(90) `はタートルを時計回りに90度動かしてくれる。線を描く前に`forward(10)`をすることで、数字と線の始まる位置をずらしてくれる。これがもしなかったら、矢印の先と数字が被ってしまって見えなくなってしまう。 線が描けたら、ペンをあげて`backward(160)`をして線を描き始めた少し上まで戻ってみよう。
 
-+ It looks neater if you centre the numbers:
++ 以下のようにコードを加えると、見た目が綺麗に見えるよ
     
-    ![screenshot](images/race-center.png)
+    ![スクリーンショット](images/race-center.png)
 
-+ And you can speed up the turtle so it draws faster:
++ そして、スピードアップを加えるとタートルが線を早く描いてくれるよ。
     
-    ![screenshot](images/race-speed.png)
+    ![スクリーンショット](images/race-speed.png)
