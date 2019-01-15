@@ -1,27 +1,28 @@
-## Racing turtles
+## 거북이 경주
 
-Now for the fun bit. Let's add some racing turtles. It would be really boring if the turtles did the same thing every time so they will move a random number of steps each turn. The winner is the turtle that gets the furthest in 100 turns.
+이제 재미있게 놀아봅시다. 경주용 거북을 추가해 봅시다! 거북이가 매번 똑같이 똑같은 속도로 움직이면 정말 지루할 것입니다. 100보만에 가장 멀리 이동한 거북이가 우승자가 됩니다.
 
-+ When you use commands like `forward(20)` you are using a single turtle. But you can create more turtles. Add the following code to the end of your script (but make sure it's not indented):
++ 당신이 `forward(20)` 같은 명령을 사용할 때 당신은 하나의 거북이를 사용합니다. 하지만 여러분은 더 많은 거북이를 만들 수 있습니다. 스크립트 끝에 다음 코드를 추가하세요. (반드시 들여쓰기되지 않았는지 확인하세요).
     
-    ![screenshot](images/race-red.png)
+    ![스크린샷](images/race-red.png)
     
-    The first line creates a turtle called 'ada'. The next lines set the colour and shape of the turtle. Now it really looks like a turtle!
+    첫번째 거북이는 'ada'라고 부르도록 하겠습니다. 다음 줄은 거북이의 모양과 색깔을 결정합니다. 정말 거북이같이 보이네요!
 
-+ Let's send the turtle to the starting line:
++ 거북이를 시작점으로 보내봅시다!
     
-    ![screenshot](images/race-start.png)
+    ![스크린샷](images/race-start.png)
 
-+ Now you need to make the turtle race by moving a random number of steps at a time. You'll need the `randint` function from the Python `random` library. Add this `import` line to the top of your script:
++ 그리고 랜덤하게 거북이를 움직이는 레이스를 만들어 봅시다. 이를 구현하기 위해서는 파이썬 `random` 라이브러리의 `randint`가 필요합니다. 이를 `import`에 넣어주세요.
     
-    ![screenshot](images/race-randint.png)
+    ![스크린샷](images/race-randint.png)
 
-+ The `randint` function returns a random integer (whole number) between the values chosen. The turtle will move forward 1, 2, 3, 4, or 5 steps at each turn.
++ `randint` 함수는 지정된 값 내에서 랜덤한 정수를 반환합니다. 거북이는 1, 2, 3, 4 혹은 5스텝을 랜덤하게 이동하게 됩니다.
     
-    ![screenshot](images/race-random.png)
+    ![스크린샷](images/race-random.png)
 
-+ One turtle isn't much of a race! Let's add another one:
++ 한 거북이만 가지고는 경기를 하기 어렵겠죠? 다른 거북이도 추가해 봅시다!
     
-    ![screenshot](images/race-blue.png)
+    ![스크린샷](images/race-blue.png)
     
-    Note that the code for moving the blue turtle needs to be in **the same** `for` loop as the code for moving the red turtle so that they each make a move every turn.
+    파란 거북이를 움직이는 코드는, 붉은 거북이를 움직였을 때와 **같게** for</0>문을 사용하면 됩니다.</p></li>
+</ul>
