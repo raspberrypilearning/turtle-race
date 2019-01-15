@@ -1,0 +1,35 @@
+---
+hero_image: images / turtle-race.png
+theme: màu xanh da trời
+duration: 2
+listed: true
+ingredient: false
+copyedit: false
+curriculum: 1, thiết kế-0, lập trình-1, phys-comp-0, sản xuất-0, cộng đồng-0
+title: Rùa Race!
+description: Cuộc đua rùa chống lại eachother!
+original_url: https://codeclubprojects.org/en-GB/python/turtle-race
+interests: Trò chơi
+technologies: con trăn
+site_areas: dự án
+hardware: ''
+software: con trăn
+version: 3
+last_tested: 2017-01-01
+steps:
+  - 
+    title: Giới thiệu
+  - 
+    title: Những gì bạn sẽ cần
+  - 
+    title: Đường đua
+  - 
+    title: 'Thách thức: Nhiều dòng hơn'
+  - 
+    title: Đua rùa
+  - 
+    title: 'Thách thức: Cuộc đua thời gian!'
+  - 
+    title: 'Thách thức: Xoay vòng'
+  - 
+    title: 'Thách thức: Đường nét đứt'
