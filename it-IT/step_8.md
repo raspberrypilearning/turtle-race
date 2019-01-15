@@ -1,11 +1,11 @@
-\--- challenge \---
+\--- /challenge \---
 
-## Challenge: Dashed lines
+## Sfida: linee tratteggiate
 
-Can you use a loop to make the track lines dashed instead of solid?
+Puoi usare un ciclo per fare le linee tratteggiate anziché intere?
 
 ![screenshot](images/race-finished.png)
 
-**Hint:** Find the code that draws a straight line. Try using:`for`, `forward()`, `penup()` and `pendown()`
+**Suggerimento**: Trova il codice che disegna una linea dritta. Prova ad usare: `for`, `forward()`, `penup()` e `pendown()`.
 
 \--- /challenge \---
