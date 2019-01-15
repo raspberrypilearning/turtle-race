@@ -1,11 +1,11 @@
 \--- challenge \---
 
-## Challenge: Dashed lines
+## Πρόκληση: Διακεκομμένες γραμμές
 
-Can you use a loop to make the track lines dashed instead of solid?
+Μπορείς να χρησιμοποιήσεις ένα βρόχο για να κάνεις τις γραμμές αγώνα διακεκομμένες αντί για συμπαγείς;
 
 ![screenshot](images/race-finished.png)
 
-**Hint:** Find the code that draws a straight line. Try using:`for`, `forward()`, `penup()` and `pendown()`
+**Συμβουλή:** Βρες τον κώδικα που σχεδιάζει μια ευθεία γραμμή. Δοκίμασε να χρησιμοποιήσεις τις εντολές: `for`, `forward()`, `penup()` και `pendown()`
 
 \--- /challenge \---
