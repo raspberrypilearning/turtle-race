@@ -1,11 +1,11 @@
 \--- challenge \---
 
-## Challenge: Do a twirl
+## Πρόκληση: Κάνε ένα στριφογύρισμα
 
-Can you use a `for turn in range():` loop to make each turtle do a 360 degree twirl after they get to the starting line? You'll need to make sure they are facing in the right direction at the start of the race!
+Μπορείς να χρησιμοποιήσεις ένα `for turn in range():` βρόχο για να κάνεις κάθε χελώνα να κάνει μια περιστροφή 360 μοιρών αφού φτάσει στη γραμμή εκκίνησης; Θα πρέπει να βεβαιωθείς ότι θα κοιτούν προς τον τερματισμό!
 
-`ada.right(36)` will turn the red turtle right by 36 degrees.
+Με την `ada.right(36)` η κόκκινη χελώνα θα στρίψει δεξιά κατά 36 μοίρες.
 
-**Hint:** A full turn is 360 degrees. A turtle could turn right 10 degrees 36 times, or left 5 degrees 72 times, or any other numbers make 360!
+**Συμβουλή:** Μια πλήρης στροφή είναι 360 μοίρες. Μια χελώνα θα μπορούσε να στρίψει δεξιά 10 μοίρες για 36 φορές, ή αριστερά 5 μοίρες για 72 φορές, ή όποιο άλλο συνδυασμό κάνει 360!
 
 \--- /challenge \---
