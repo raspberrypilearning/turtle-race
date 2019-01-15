@@ -1,11 +1,11 @@
 \--- challenge \---
 
-## Challenge: More lines
+## Sfida: altre linee
 
-Can you change your code so that the track lines go right across the screen?
+Riesci a cambiare il tuo codice così che le linee del tracciato percorrano lo schermo verso destra?
 
 ![screenshot](images/race-challenge1.png)
 
-If you want to make the turtle go even faster you can use `speed(0)`.
+Se vuoi far andare la tartaruga ancora più veloce puoi usare `speed(0)`.
 
 \--- /challenge \---
