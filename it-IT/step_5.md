@@ -1,27 +1,27 @@
-## Racing turtles
+## Tartarughe da corsa
 
-Now for the fun bit. Let's add some racing turtles. It would be really boring if the turtles did the same thing every time so they will move a random number of steps each turn. The winner is the turtle that gets the furthest in 100 turns.
+Ora arriva la parte divertente. Aggiungiamo alcune tartarughe da corsa. Sarebbe davvero noioso se le tartarughe facessero la stessa cosa ogni volta; per questo si muoveranno di numero casuale di passi ad ogni turno. La vincitrice è la tartaruga che arriva più lontana in 100 turni.
 
-+ When you use commands like `forward(20)` you are using a single turtle. But you can create more turtles. Add the following code to the end of your script (but make sure it's not indented):
++ Quando usi comandi come `forward(20)` stai usando una sola tartaruga. Ma puoi crearne di più. Aggiungi il seguente codice alla fina del tuo codice (assicurati che non sia identato):
     
     ![screenshot](images/race-red.png)
     
-    The first line creates a turtle called 'ada'. The next lines set the colour and shape of the turtle. Now it really looks like a turtle!
+    La prima linea crea una tartaruga chiamata 'ada'. Le linee successive impostano il colore e la forma della tartaruga. Ora sembra davvero una tartaruga!
 
-+ Let's send the turtle to the starting line:
++ Mandiamola alla linea d'inizio:
     
     ![screenshot](images/race-start.png)
 
-+ Now you need to make the turtle race by moving a random number of steps at a time. You'll need the `randint` function from the Python `random` library. Add this `import` line to the top of your script:
++ Ora dovrai far muovere la tartaruga da corsa di un numero casuale di passi ogni volta. Avrai bisogna della funzione `randint` della libreria di Python `random`. Aggiungi questa istruzione `import` in cima al tuo codice:
     
     ![screenshot](images/race-randint.png)
 
-+ The `randint` function returns a random integer (whole number) between the values chosen. The turtle will move forward 1, 2, 3, 4, or 5 steps at each turn.
++ La funzione `randint` dà in output un numero intero casuale compreso tra i valori scelti. La tartaruga si muoverà in avanti di 1, 2, 3, 4 o 5 passi ad ogni turno.
     
     ![screenshot](images/race-random.png)
 
-+ One turtle isn't much of a race! Let's add another one:
++ Non è una gran bella gara con una tartaruga! Aggiungiamone un'altra:
     
     ![screenshot](images/race-blue.png)
     
-    Note that the code for moving the blue turtle needs to be in **the same** `for` loop as the code for moving the red turtle so that they each make a move every turn.
+    Nota che il codice per muovere la tartaruga blu deve essere **nello stesso** ciclo `for` del codice che muove quella rossa, così che ognuna faccia una mossa ad ogni turno.
