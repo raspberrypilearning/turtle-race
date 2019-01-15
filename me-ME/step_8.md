@@ -1,11 +1,11 @@
 \--- challenge \---
 
-## Challenge: Dashed lines
+## Izazov: Isprekidane linije
 
-Can you use a loop to make the track lines dashed instead of solid?
+Možeš li, koristeći petlju, da napraviš da linije trkališta ne budu pune, već isprekidane?
 
 ![screenshot](images/race-finished.png)
 
-**Hint:** Find the code that draws a straight line. Try using:`for`, `forward()`, `penup()` and `pendown()`
+**Pomoć:** Pronađi kôd koji crta pravu liniju. Pokušaj da koristiš: `for`, `forward()`, `penup()` i `pendown()`.
 
 \--- /challenge \---
