@@ -1,11 +1,11 @@
 \--- challenge \---
 
-## Challenge: More lines
+## 挑战：更多线条
 
-Can you change your code so that the track lines go right across the screen?
+你能修改你的代码来在屏幕上向右侧绘制更多的跑道线条吗？
 
-![screenshot](images/race-challenge1.png)
+![截图](images/race-challenge1.png)
 
-If you want to make the turtle go even faster you can use `speed(0)`.
+如果你想让画笔移动得更快，可以使用`speed(0)`函数。
 
 \--- /challenge \---
