@@ -1,13 +1,13 @@
 \--- challenge \---
 
-## Challenge: Race time!
+## Sfida: tempo di gara!
 
-Now you're ready to race. Pick a turtle and an opponent and see who wins.
+Ora sei pronto per gareggiare. Scegli una tartaruga e un avversario, e guarda chi vince.
 
-Can you add more turtles so you can race with more friends?
+Riesci ad aggiungere altre tartarughe per correre con più amici?
 
 ![screenshot](images/race-more.png)
 
-Colours include: orange, purple, violet, tomato, turquoise, magenta and brown - or you can go to [jumpto.cc/colours](http://jumpto.cc/colours) and pick any colour you like!
+Tra i colori puoi trovare: arancione, viola, violetto, rosso pomodoro, turchese, magenta e marrone - oppure puoi andare su [jumpto.cc/colours](http://jumpto.cc/colours) e scegliere qualunque colore tu voglia!
 
 \--- /challenge \---
