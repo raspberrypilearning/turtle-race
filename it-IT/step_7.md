@@ -1,11 +1,11 @@
 \--- challenge \---
 
-## Challenge: Do a twirl
+## Sfida: fai un giro
 
-Can you use a `for turn in range():` loop to make each turtle do a 360 degree twirl after they get to the starting line? You'll need to make sure they are facing in the right direction at the start of the race!
+Riesci ad usare il ciclo `for turn in range():` per far fare ad ogni tartaruga un giro di 360 gradi prima che vadano alla linea di partenza? Dovrai assicurarti che sia nella giusta direzione all'inizio della gara!
 
-`ada.right(36)` will turn the red turtle right by 36 degrees.
+`ada.right(36)` farà girare la tartaruga rossa a destra di 36 gradi.
 
-**Hint:** A full turn is 360 degrees. A turtle could turn right 10 degrees 36 times, or left 5 degrees 72 times, or any other numbers make 360!
+**Suggerimento**: Un giro completo è di 360 gradi. Una tartaruga potrebbe girare a destra di 10 gradi per 36 volte, oppure a sinistra di 5 gradi per 72 volte, oppure usando altri numeri che fanno come prodotto 360!
 
 \--- /challenge \---
