@@ -1,13 +1,13 @@
 \--- challenge \---
 
-## Challenge: Race time!
+## Izazov: Vrijeme je za utrku!
 
-Now you're ready to race. Pick a turtle and an opponent and see who wins.
+Sada je sve spremno za utrku. Odaberi kornjaču i njenog protivnika i pogledajmo tko će pobijediti.
 
-Can you add more turtles so you can race with more friends?
+Možeš li dodati još kornjača kako bi se mogao utrkivati s više prijatelja?
 
 ![screenshot](images/race-more.png)
 
-Colours include: orange, purple, violet, tomato, turquoise, magenta and brown - or you can go to [jumpto.cc/colours](http://jumpto.cc/colours) and pick any colour you like!
+Uključene su sljedeće boje: 'orange', 'purple', 'violet', 'tomato', 'turquoise', 'magenta' i 'brown'. Možeš kliknuti i na [jumpto.cc/colours](http://jumpto.cc/colours) i odabrati boju koju želiš!
 
 \--- /challenge \---
