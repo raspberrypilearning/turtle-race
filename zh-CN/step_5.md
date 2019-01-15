@@ -1,27 +1,27 @@
-## Racing turtles
+## 赛跑的乌龟
 
-Now for the fun bit. Let's add some racing turtles. It would be really boring if the turtles did the same thing every time so they will move a random number of steps each turn. The winner is the turtle that gets the furthest in 100 turns.
+现在我们到了有趣的时刻了。 让我们添加一些赛跑的乌龟。 如果所有的乌龟每次都移动同样的步数，那就没有意思了，我们要让它们每次移动一个随机的步数。 在100个回合之后，跑得最远的那个乌龟将获得胜利。
 
-+ When you use commands like `forward(20)` you are using a single turtle. But you can create more turtles. Add the following code to the end of your script (but make sure it's not indented):
++ 当你使用像 `forward(20)` 这样的命令时 , 你控制的只是一只乌龟。但你可以添加更多的乌龟。将以下代码添加到程序的末尾（但请确保它没有缩进）：
     
-    ![screenshot](images/race-red.png)
+    ![截图](images/race-red.png)
     
-    The first line creates a turtle called 'ada'. The next lines set the colour and shape of the turtle. Now it really looks like a turtle!
+    第一行代码创建了一个名为‘ada’的乌龟。接下来的两行分别设置了它的颜色和形状。现在它看起来确实是像一只乌龟了！
 
-+ Let's send the turtle to the starting line:
++ 让我们把乌龟放到起跑线：
     
-    ![screenshot](images/race-start.png)
+    ![截图](images/race-start.png)
 
-+ Now you need to make the turtle race by moving a random number of steps at a time. You'll need the `randint` function from the Python `random` library. Add this `import` line to the top of your script:
++ 现在你需要通过一次移动一个随机步数来让乌龟赛跑。 您将需要 python `random` 库中的 `randint` 函数。 将这个`import`语句添加到你的程序的顶部:
     
-    ![screenshot](images/race-randint.png)
+    ![截图](images/race-randint.png)
 
-+ The `randint` function returns a random integer (whole number) between the values chosen. The turtle will move forward 1, 2, 3, 4, or 5 steps at each turn.
++ `randint` 函数将返回设定范围之间的一个随机整数（不带小数点的数字）。乌龟将在每个回合中向前移动1、2、3、4或5步。
     
-    ![screenshot](images/race-random.png)
+    ![截图](images/race-random.png)
 
-+ One turtle isn't much of a race! Let's add another one:
++ 一只乌龟跑就不是比赛了！让我们再添加一个：
     
-    ![screenshot](images/race-blue.png)
+    ![截图](images/race-blue.png)
     
-    Note that the code for moving the blue turtle needs to be in **the same** `for` loop as the code for moving the red turtle so that they each make a move every turn.
+    请注意移动蓝色乌龟的代码需要和移动红色乌龟代码在**同一个**`for`循环中，以确保每个回合所有的乌龟都会向前移动。
