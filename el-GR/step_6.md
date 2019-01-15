@@ -1,13 +1,13 @@
 \--- challenge \---
 
-## Challenge: Race time!
+## Πρόκληση: Ώρα για αγώνα!
 
-Now you're ready to race. Pick a turtle and an opponent and see who wins.
+Τώρα είσαι έτοιμος να αγωνιστείς. Επέλεξε μία χελώνα και μία αντίπαλο και δες ποιος θα κερδίσει.
 
-Can you add more turtles so you can race with more friends?
+Μπορείς να προσθέσεις περισσότερες χελώνες ώστε να αγωνίζεσαι με περισσότερους φίλους;
 
 ![screenshot](images/race-more.png)
 
-Colours include: orange, purple, violet, tomato, turquoise, magenta and brown - or you can go to [jumpto.cc/colours](http://jumpto.cc/colours) and pick any colour you like!
+Τα χρώματα περιλαμβάνουν: πορτοκαλί, μοβ, βιολετί, ντοματί, τυρκουάζ, φούξια και καφέ - ή μπορείς να μεταβείς στο <jumpto.cc/colours</a> και να επιλέξεις οποιοδήποτε χρώμα θέλεις!
 
 \--- /challenge \---
