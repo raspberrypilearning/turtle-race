@@ -1,57 +1,57 @@
-## Race track
+## Trkalište
 
-You're going to create a game with racing turtles. First they'll need a race track.
+Napravićeš igru u kojoj se trkaju kornjače. Za to će im prvo trebati trkalište.
 
-+ Open the blank Python template Trinket: <a href="http://jumpto.cc/python-new" target="_blank">jumpto.cc/python-new</a>.
++ Otvori prazan Python šablon u Trinketu: <a href="http://jumpto.cc/python-new" target="_blank">jumpto.cc/python-new</a>.
 
-+ Add the following code to draw a line using the 'turtle':
++ Dodaj sljedeći kôd za crtanje linije koristeći 'kornjaču' (turtle):
     
     ![screenshot](images/race-forward.png)
 
-+ Now let's use the turtle to draw some track markings for the race.
++ Sada, koristeći kornjaču, nacrtajmo oznake trkališta.
     
-    The turtle `write` function writes text to the screen.
+    Funkcija `write` ispisuje tekst na ekranu.
     
-    Try it:
+    Isprobaj:
     
     ![screenshot](images/race-markings1.png)
 
-+ Now you need to fill in the numbers in between to create markings:
++ Sada treba da upišeš brojeve kako bi napravio/napravila oznake:
     
     ![screenshot](images/race-markings2.png)
 
-+ Did you notice that your code is very repetitive? The only thing that changes is the number to write.
++ Primjećuješ li da se tvoj kôd u velikoj mjeri ponavlja? Mijenjaju se jedino brojevi koje treba upisati.
     
-    There's a better way of doing this in Python. You can use a `for` loop.
+    U Pythonu postoji bolji način da to napraviš. Možeš da koristiš `for` petlju.
     
-    Update your code to use a `for` loop:
+    Izmijeni svoj kôd koristeći `for` petlju:
     
     ![screenshot](images/race-for.png)
 
-+ Hmm, that only prints numbers up to 4. In Python `range(5)` returns five numbers, from 0 up to 4. To get it to also return 5 you'll need to use `range(6)`:
++ Hm, ovo ispisuje samo brojeve do 4. U Pythonu, `range(5)` daje pet brojeva, od 0 do 4. Ako želiš da ispiše i broj 5, moraš da koristiš `range(6)`:
     
     ![screenshot](images/race-range.png)
 
-+ Now we can draw some track markings. The turtle starts at coordinates (0,0) in the middle of the screen.
++ Sada možemo da nacrtamo oznake trkališta. Kornjača počinje od koordinata (0,0) koje se nalaze na sredini ekrana.
     
-    Move the turtle to the top left instead:
+    Pomjeri kornjaču u gornji lijevi ugao:
     
     ![screenshot](images/race-goto.png)
 
-+ Ah, you'll want to lift the pen up first!
++ Ah, prvo moraš da podigneš olovku!
     
     ![screenshot](images/race-penup.png)
 
-+ Instead of drawing a line horizontally, let's draw vertical lines to create a track:
++ Umjesto da crtamo liniju horizontalno, nacrtajmo trkalište pomoću vertikalnih linija:
     
     ![screenshot](images/race-lines.png)
     
-    `right(90)` makes the turtle turn right 90 degrees (a right angle.) Moving `forward(10)` before putting the pen down leaves a small gap between the number and the start of the line. After drawing the line you lift up the pen and go `backward(160)` the length of the line plus the gap.
+    Naredbom `right(90)` kornjača će okreće udesno za 90 stepeni (pravi ugao). Pomjeranjem naprijed pomoću naredbe `forward(10)` prije spuštanja olovke ostaje mala praznina između broja i početka linije. Nakon što nacrtaš liniju, podigni olovku i koristi `backward(160)` da ideš unazad za dužinu linije i praznine.
 
-+ It looks neater if you centre the numbers:
++ Izgledaće urednije ako centriraš brojeve:
     
     ![screenshot](images/race-center.png)
 
-+ And you can speed up the turtle so it draws faster:
++ Takođe, možeš da ubrzaš kornjaču kako bi brže crtala:
     
     ![screenshot](images/race-speed.png)
