@@ -1,57 +1,57 @@
-## Race track
+## 레이스 트랙 만들기
 
-You're going to create a game with racing turtles. First they'll need a race track.
+경주용 거북이가 있는 게임을 만들 것인데, 먼저 레이스 트랙이 필요합니다.
 
-+ Open the blank Python template Trinket: <a href="http://jumpto.cc/python-new" target="_blank">jumpto.cc/python-new</a>.
++ 빈 파이썬 Trinket 템플릿을 엽니다. <a href="http://jumpto.cc/python-new" target="_blank"> jumpto.cc/python-new</a>.
 
-+ Add the following code to draw a line using the 'turtle':
++ '거북이'를 사용하여 다음과 같이 선을 그리는 코드를 추가하세요.
     
-    ![screenshot](images/race-forward.png)
+    ![스크린샷](images/race-forward.png)
 
-+ Now let's use the turtle to draw some track markings for the race.
++ 이제 거북이를 사용하여 레이스 트랙을 그려 봅시다.
     
-    The turtle `write` function writes text to the screen.
+    거북이의 `write` 함수는 텍스트를 화면에 쓰는 역할을 합니다.
     
-    Try it:
+    한번 시도해 보세요:
     
-    ![screenshot](images/race-markings1.png)
+    ![스크린샷](images/race-markings1.png)
 
-+ Now you need to fill in the numbers in between to create markings:
++ 이제 마킹을 위해 아래와 같이 숫자를 채워 봅시다.
     
-    ![screenshot](images/race-markings2.png)
+    ![스크린샷](images/race-markings2.png)
 
-+ Did you notice that your code is very repetitive? The only thing that changes is the number to write.
++ 코드가 굉장히 반복되는 부분이 많다는 것을 아셨나요? 유일하게 바뀌는 것은 작성하는 숫자입니다.
     
-    There's a better way of doing this in Python. You can use a `for` loop.
+    파이썬에서는 이렇게 반복되는 부분을 짧게 하기 위해 `for`문으로 짧게 코드를 짤 수 있습니다.
     
-    Update your code to use a `for` loop:
+    아래와 같이 `for` 를 사용하여 코드를 업데이트 하세요.
     
-    ![screenshot](images/race-for.png)
+    ![스크린샷](images/race-for.png)
 
-+ Hmm, that only prints numbers up to 4. In Python `range(5)` returns five numbers, from 0 up to 4. To get it to also return 5 you'll need to use `range(6)`:
++ 흠, 0부터 4까지밖에 값이 안 나오는 문제가 있네요. 파이썬에서 `range(5)`는 0부터 4까지의 숫자를 반환하므로, 5를 반환하고 싶으면 `range(6)`을 사용해야 합니다.
     
-    ![screenshot](images/race-range.png)
+    ![스크린샷](images/race-range.png)
 
-+ Now we can draw some track markings. The turtle starts at coordinates (0,0) in the middle of the screen.
++ 레이스 트랙을 이렇게 그렸습니다. 여기서 거북이는 (0, 0) 좌표인 화면 정중앙에서 시작되게 되어 있는데요,
     
-    Move the turtle to the top left instead:
+    이제 거북이의 시작점을 왼쪽 위로 옮겨 봅시다.
     
-    ![screenshot](images/race-goto.png)
+    ![스크린샷](images/race-goto.png)
 
-+ Ah, you'll want to lift the pen up first!
++ 아, 먼저 펜을 들어야 합니다!
     
-    ![screenshot](images/race-penup.png)
+    ![스크린샷](images/race-penup.png)
 
-+ Instead of drawing a line horizontally, let's draw vertical lines to create a track:
++ 선을 수평으로 그리는 대신, 수직으로 그려 봅시다:
     
-    ![screenshot](images/race-lines.png)
+    ![스크린샷](images/race-lines.png)
     
-    `right(90)` makes the turtle turn right 90 degrees (a right angle.) Moving `forward(10)` before putting the pen down leaves a small gap between the number and the start of the line. After drawing the line you lift up the pen and go `backward(160)` the length of the line plus the gap.
+    `right(90)`은 거북이가 90도 오른쪽으로 돌리는 것을 의미합니다. `forward(10)`는 숫자 간 작은 간격을 남깁니다. 선을 그리고 나서 `backward(160)` 명령이 다음 숫자로 위치를 이동하게 합니다.
 
-+ It looks neater if you centre the numbers:
++ 숫자를 가운데에 배치하면 더 멋있게 보이겠죠?
     
-    ![screenshot](images/race-center.png)
+    ![스크린샷](images/race-center.png)
 
-+ And you can speed up the turtle so it draws faster:
++ 그리고 아래와 같이 스피드를 늘려 거북이가 빠르게 그림을 그리도록 만들 수 있습니다.
     
-    ![screenshot](images/race-speed.png)
+    ![스크린샷](images/race-speed.png)
