@@ -1,10 +1,10 @@
-## Introduction
+## Uvod
 
-Use loops to draw a race track and create a racing turtle game.
+Koristi petlje za crtanje trkališta i napravi utrku kornjača.
 
-### What you will make
+### Napravit ćeš
 
-This project introduces for loops through a fun turtle race game. Loops are used to draw the race track and to make the turtles move a random number of steps each turn. If you have a group of people to play the game, each person pick a turtle and the one that gets the furthest is the winner.
+U ovom projektu se uči o for petljama kroz zabavnu igru utrke kornjača. Petlje se koriste za crtanje trkališta i pomicanje kornjača nasumičan broj koraka u svakom krugu. Pozovi prijatelje da zaigraju s tobom! Svaka osoba neka odabere kornjaču, a ona kornjača koja dođe najdalje je pobjednik.
 
 <div class="trinket">
   <iframe src="https://trinket.io/embed/python/9339862606?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
@@ -12,28 +12,28 @@ This project introduces for loops through a fun turtle race game. Loops are used
   <img src="images/race-finished.png">
 </div>
 
-### What you will learn
+### Naučit ćeš
 
-By making your turtle race game, you will learn how to:
+Izradom igre utrke kornjača naučit ćeš kako:
 
-+ Write `for` loops in Python
-+ Use random numbers in Python
-+ Draw lines in different colours with Python Turtle
++ Pisati `for` petlje u Pythonu
++ Koristiti nasumične brojeve u Pythonu
++ Nacrtati linije različitih boja sa Python Turtle-om
 
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
+Ovaj projekt obuhvaća elemente iz sljedećih dijelova [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum) nastavnog plana i programa{:target="_blank"}:
 
-+ [Use basic programming constructs to create simple programs.](https://www.raspberrypi.org/curriculum/programming/creator/){:target="_blank"}
++ [Korištenje osnova programiranja za izradu jednostavnih programa](https://www.raspberrypi.org/curriculum/programming/creator/){:target="_blank"}
 
 ![iDEA](images/idea.png)
 
-Completion of this project will earn you points towards your bronze "Digital Maker" iDEA badge. For more information, visit [idea.org.uk](https://idea.org.uk).
+Dovršavanjem ovog projekta dobit ćeš bodove za osvajanje brončane iDEA značke "Digital Maker". Za više informacija, posjeti [idea.org.uk](https://idea.org.uk).
 
-### Additional information for educators
+### Dodatne informacije za nastavnike
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/turtle-race/print){:target="_blank"}.
+Ako želite ispisati ovaj projekt, molimo Vas da koristite [verziju koja je prilagođena za ispis](https://projects.raspberrypi.org/en/projects/turtle-race/print)"}.
 
-Use the link in the footer to access the GitHub repository for this project, which contains all resources (including an example finished project) in the 'en/resources' folder.
+Koristite poveznicu u podnožju da bi pristupili GitHub repozitoriju ovog projekta koji sadrži sve resurse (uključujući i primjer dovršenog projekta) u mapi 'hr/resources'.
 
-### Additional information for club leaders
+### Dodatne informacije za voditelje kluba
 
-If you need to print this project, please use the [Printer friendly version](https://projects.raspberry-pi.org/en/projects/turtle-race/print).
+Ako želite ispisati ovaj projekt, molimo Vas da koristite [verziju koja je prilagođena za ispis](https://projects.raspberry-pi.org/en/projects/turtle-race/print).
