@@ -1,11 +1,11 @@
 \--- challenge \---
 
-## Challenge: Do a twirl
+## 挑战: 做一个旋转
 
-Can you use a `for turn in range():` loop to make each turtle do a 360 degree twirl after they get to the starting line? You'll need to make sure they are facing in the right direction at the start of the race!
+你可以用`for turn in range():`循环让每个乌龟在到达起跑线时旋转360度吗？ 在比赛开始前，你要确保它们都面向右方！
 
-`ada.right(36)` will turn the red turtle right by 36 degrees.
+`ada.right(36)` 会将红色乌龟ada向右旋转36度。
 
-**Hint:** A full turn is 360 degrees. A turtle could turn right 10 degrees 36 times, or left 5 degrees 72 times, or any other numbers make 360!
+**提示： **完整的转弯是360度。一只乌龟可以向右转10度36次，或者向左转5度72次，或者任何可以完成360旋转的其它数字！
 
 \--- /challenge \---
