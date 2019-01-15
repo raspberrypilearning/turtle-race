@@ -1,13 +1,13 @@
 \--- challenge \---
 
-## Challenge: Race time!
+## 과제: 레이스 타임!
 
-Now you're ready to race. Pick a turtle and an opponent and see who wins.
+이제 경주할 준비가 되었습니다. 거북이를 선택하여 누가 이기는지 확인해 보세요!
 
-Can you add more turtles so you can race with more friends?
+친구들과 경기를 하기 위한 거북이를 추가할 수 있나요?
 
-![screenshot](images/race-more.png)
+![스크린샷](images/race-more.png)
 
-Colours include: orange, purple, violet, tomato, turquoise, magenta and brown - or you can go to [jumpto.cc/colours](http://jumpto.cc/colours) and pick any colour you like!
+탑재된 색상: orange, purple, violet, tomato, turquoise, magenta, brown 등, 이외 색상은 [jumpto.cc/colours](http://jumpto.cc/colours) 에서 확인하세요.
 
 \--- /challenge \---
