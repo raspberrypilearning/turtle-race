@@ -1,11 +1,11 @@
 \--- challenge \---
 
-## Challenge: Do a twirl
+## 과제: 빙글빙글 돌리기!
 
-Can you use a `for turn in range():` loop to make each turtle do a 360 degree twirl after they get to the starting line? You'll need to make sure they are facing in the right direction at the start of the race!
+`for turn in range():`를 활용하여 거북이를 360도 회전시킬 수 있나요? 경주가 시작될 때는 오른쪽으로 향해야 한다는 것을 기억하십시오.
 
-`ada.right(36)` will turn the red turtle right by 36 degrees.
+`ada.right(36)` 코드는 빨간 거북이를 36도 오른쪽으로 회전시킵니다.
 
-**Hint:** A full turn is 360 degrees. A turtle could turn right 10 degrees 36 times, or left 5 degrees 72 times, or any other numbers make 360!
+**힌트:** 1바퀴 거북이를 돌리면 360도를 돕니다. 따라서, 거북은 10번씩 36번 돌거나 5도를 72번 돌면 1바퀴를 돌 수 있습니다.
 
 \--- /challenge \---
