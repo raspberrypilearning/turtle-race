@@ -1,9 +1,9 @@
-## What you will need
+## Trebat ćeš
 
-### Hardware
+### Hardver
 
-+ An internet-connected computer
++ Računalo povezano s internetom
 
-### Software
+### Softver
 
-This project uses Python 3. We recommend using [Trinket](https://trinket.io/), which allows you to write Python code online.
+U ovom projektu koristi se Python 3. Predlažemo korištenje [Trinketa](https://trinket.io/) za online pisanje u Pythonu.
