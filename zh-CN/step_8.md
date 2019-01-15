@@ -1,11 +1,11 @@
 \--- challenge \---
 
-## Challenge: Dashed lines
+## 挑战：虚线
 
-Can you use a loop to make the track lines dashed instead of solid?
+你能用一个循环来画出虚线的跑道线，而不是实线的吗？
 
-![screenshot](images/race-finished.png)
+![截图](images/race-finished.png)
 
-**Hint:** Find the code that draws a straight line. Try using:`for`, `forward()`, `penup()` and `pendown()`
+**Hint:**查找绘制一条虚线的代码。 尝试使用：`for`, `forward()`, `penup()` 以及 `pendown()`
 
 \--- /challenge \---
