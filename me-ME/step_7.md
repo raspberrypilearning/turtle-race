@@ -1,11 +1,11 @@
 \--- challenge \---
 
-## Challenge: Do a twirl
+## Izazov: Napravi zaokret
 
-Can you use a `for turn in range():` loop to make each turtle do a 360 degree twirl after they get to the starting line? You'll need to make sure they are facing in the right direction at the start of the race!
+Možeš li da upotrijebiš petlju `for krug in range():` tako da svaka kornjača napravi zaokret od 360 stepeni nakon što dođe do startne linije? Pobrini se da kornjače budu okrenute u pravom smjeru na početku trke!
 
-`ada.right(36)` will turn the red turtle right by 36 degrees.
+`ada.right(36)` će okrenuti crvenu kornjaču za 36 stepeni udesno.
 
-**Hint:** A full turn is 360 degrees. A turtle could turn right 10 degrees 36 times, or left 5 degrees 72 times, or any other numbers make 360!
+**Pomoć:** Puni zaokret je 360 stepeni. Kornjača može da se okrene za 10 stepeni udesno 36 puta, ili za 5 stepeni ulijevo 72 puta. Možeš koristiti bilo koje brojeve koji daju 360 kada se pomnože!
 
 \--- /challenge \---
