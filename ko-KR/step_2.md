@@ -1,9 +1,9 @@
-## What you will need
+## 준비물
 
-### Hardware
+### 하드웨어
 
-+ An internet-connected computer
++ 인터넷에 연결된 컴퓨터
 
-### Software
+### 소프트웨어
 
-This project uses Python 3. We recommend using [Trinket](https://trinket.io/), which allows you to write Python code online.
+이 프로젝트는 Python3을 사용합니다. 파이썬 코드를 온라인으로 작성 가능한 [Trinket](https://trinket.io/)을 사용할 것을 권장합니다.
