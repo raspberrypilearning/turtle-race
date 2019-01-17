@@ -1,72 +1,74 @@
-#!/bin/python3
+import turtle
+import random
 
-from turtle import *
-from random import randint
+t = turtle.Turtle()
+t.penup()
+t.goto(-160, 140)
+t.right(90)
+x, y = t.position()
 
-speed(0)
-penup()
-goto(-140, 140)
+for step in range(16):
+    if step != 0 :
+        t.write(step, align='center')
+        for n in range(8):
+            t.penup()
+            t.forward(10)
+            t.pendown()
+            t.forward(10)
+    else :
+        t.forward(10)
+        t.pendown()
+        t.forward(150)
+    x = x + 20
+    t.penup()
+    t.goto(x, y)
+t.hideturtle()
 
-for step in range(15):
-  write(step, align='center')
-  right(90)
-  for num in range(8):
-    penup()
-    forward(10)
-    pendown()
-    forward(10)
-  penup()
-  backward(160)
-  left(90)
-  forward(20)
+one = turtle.Turtle()
+one.shape('turtle')
+one.color('red')
+one.penup()
+one.goto(-180, 100)
+one.right(360)
+one.pendown()
 
-red = Turtle()
-red.color('red')
-red.shape('turtle')
+two = turtle.Turtle()
+two.shape('turtle')
+two.color('yellow')
+two.penup()
+two.goto(-180, 70)
+two.right(360)
+two.pendown()
 
-red.penup()
-red.goto(-160, 100)
-red.pendown()
+three = turtle.Turtle()
+three.shape('turtle')
+three.color('green')
+three.penup()
+three.goto(-180, 40)
+three.right(360)
+three.pendown()
 
-for turn in range(10):
-  red.right(36)
+four = turtle.Turtle()
+four.shape('turtle')
+four.color('blue')
+four.penup()
+four.goto(-180, 10)
+four.right(360)
+four.pendown()
 
-blue = Turtle()
-blue.color('blue')
-blue.shape('turtle')
+r = []
+d = [0, 0, 0, 0]
+while(True):
+    for i in range(4):
+        ran = random.randint(1,5)
+        r.append(ran)
+        d[i] = d[i] + ran
+    one.forward(r[0])
+    two.forward(r[1])
+    three.forward(r[2])
+    four.forward(r[3])
+    r = []
+    if d[0] >= 320 or d[1] >= 320 or d[2] >= 320 or d[3] >= 320:
+        break
 
-blue.penup()
-blue.goto(-160, 70)
-blue.pendown()
-
-for turn in range(72):
-  blue.left(5)
-
-green = Turtle()
-green.shape('turtle')
-green.color('yellow')
-
-green.penup()
-green.goto(-160, 40)
-green.pendown()
-
-for turn in range(60):
-  green.right(6)
-
-yellow = Turtle()
-yellow.shape('turtle')
-yellow.color('turquoise')
-
-yellow.penup()
-yellow.goto(-160, 10)
-yellow.pendown()
-
-for turn in range(30):
-  yellow.left(12)
-
-for turn in range(100):
-  red.forward(randint(1,5))
-  blue.forward(randint(1,5))
-  green.forward(randint(1,5))
-  yellow.forward(randint(1,5))
-  
+turtle.done()
