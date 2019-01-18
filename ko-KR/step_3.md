@@ -1,8 +1,8 @@
 ## 레이스 트랙 만들기
 
-경주용 거북이가 있는 게임을 만들 것인데, 먼저 레이스 트랙이 필요합니다.
+거북이 경주 게임을 만들 것입니다. 먼저 레이스 트랙이 필요합니다.
 
-+ 빈 파이썬 Trinket 템플릿을 엽니다. <a href="http://jumpto.cc/python-new" target="_blank"> jumpto.cc/python-new</a>.
++ 빈 파이썬 템플릿을 엽니다. <a href="http://jumpto.cc/python-new" target="_blank"> jumpto.cc/python-new</a>.
 
 + '거북이'를 사용하여 다음과 같이 선을 그리는 코드를 추가하세요.
     
@@ -10,13 +10,13 @@
 
 + 이제 거북이를 사용하여 레이스 트랙을 그려 봅시다.
     
-    거북이의 `write` 함수는 텍스트를 화면에 쓰는 역할을 합니다.
+    거북이의 `write` 함수는 화면에 글자를 씁니다.
     
     한번 시도해 보세요:
     
     ![스크린샷](images/race-markings1.png)
 
-+ 이제 마킹을 위해 아래와 같이 숫자를 채워 봅시다.
++ 이제 표시해 주기 위해 아래와 같이 숫자를 입력 해야 합니다:
     
     ![스크린샷](images/race-markings2.png)
 
