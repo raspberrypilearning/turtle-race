@@ -6,9 +6,9 @@
 
 ![스크린샷](images/race-finished.png)
 
-**힌트: ** 직선을 그리는 코드를 찾아 봅시다. `for`, `forward()`, `penup()` and `pendown()`를 사용해 보세요.
+**힌트:** 직선을 그리는 코드를 찾아 봅시다. `for`, `forward()`, `penup()` and `pendown()`를 사용해 보세요.
 
-<0>for</0>, <0>forward()</0>, <0>penup()</0> and <0>pendown()</0>를 사용해 보세요.
+--- /challenge ---
 
 ### 커뮤니티 기여 번역 
 
