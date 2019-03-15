@@ -36,4 +36,4 @@ Defnyddiwch y ddolen yn y troedyn i gael gafael ar y storfa GitHub ar gyfer y pr
 
 ### Gwybodaeth ychwanegol ar gyfer arweinwyr clwb
 
-Os oes angen i chi argraffu'r prosiect hwn, defnyddiwch y [Fersiwn hwylus i'w argraffu](https://projects.raspberry-pi.org/cy-GB/projects/turtle-race/print).
+Os oes angen i chi argraffu'r prosiect hwn, defnyddiwch y [Fersiwn hwylus i'w argraffu](https://projects.raspberrypi.org/cy-GB/projects/turtle-race/print).

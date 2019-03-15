@@ -32,4 +32,4 @@ Skorzystaj z odnośnika w stopce, aby uzyskać dostęp do repozytorium kodu tego
 
 ### Dodatkowe informacje dla liderów klubów
 
-Jeśli chcesz wydrukować ten projekt, użyj [wersji do druku](https://projects.raspberry-pi.org/en/projects/turtle-race/print).
+Jeśli chcesz wydrukować ten projekt, użyj [wersji do druku](https://projects.raspberrypi.org/en/projects/turtle-race/print).

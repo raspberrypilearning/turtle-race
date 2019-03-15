@@ -36,4 +36,4 @@ Gebruik de link in de voettekst voor toegang tot de GitHub opslagplaats voor dit
 
 ### Aanvullende informatie voor clubleiders
 
-Als je dit project wilt afdrukken, gebruik dan de [Printervriendelijke versie](https://projects.raspberry-pi.org/nl-NL/projects/turtle-race/print).
+Als je dit project wilt afdrukken, gebruik dan de [Printervriendelijke versie](https://projects.raspberrypi.org/nl-NL/projects/turtle-race/print).
