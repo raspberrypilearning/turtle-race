@@ -36,4 +36,4 @@
 
 ### Πρόσθετες πληροφορίες για τους συντονιστές των ομάδων
 
-Αν χρειαστεί να εκτυπώσεις αυτό το έργο, χρησιμοποίησε την [εκτυπώσιμη έκδοση](https://projects.raspberry-pi.org/el-GR/projects/turtle-race/print).
+Αν χρειαστεί να εκτυπώσεις αυτό το έργο, χρησιμοποίησε την [εκτυπώσιμη έκδοση](https://projects.raspberrypi.org/el-GR/projects/turtle-race/print).

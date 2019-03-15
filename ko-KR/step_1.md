@@ -36,4 +36,4 @@
 
 ### 교육자들을 위한 추가 정보
 
-이 프로젝트를 인쇄하려면 [프린트용 문서](https://projects.raspberry-pi.org/ko-KR/projects/turtle-race/print)를 사용하십시오.
+이 프로젝트를 인쇄하려면 [프린트용 문서](https://projects.raspberrypi.org/ko-KR/projects/turtle-race/print)를 사용하십시오.

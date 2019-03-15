@@ -36,4 +36,4 @@ Koristite link koji se nalazi u podnožju stranice da pristupite GitHub repozito
 
 ### Dodatne informacije za vođe kluba
 
-Ukoliko je potrebno da odštampate ovaj projekat, koristite [Verziju za štampu](https://projects.raspberry-pi.org/me-ME/projects/turtle-race/print).
+Ukoliko je potrebno da odštampate ovaj projekat, koristite [Verziju za štampu](https://projects.raspberrypi.org/me-ME/projects/turtle-race/print).
