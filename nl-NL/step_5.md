@@ -24,4 +24,4 @@ Nu het leuke deel. Laten we wat raceschildpadden toevoegen. Het zou heel saai zi
     
     ![screenshot](images/race-blue.png)
     
-    Merk op dat de code voor het verplaatsen van de blauwe schildpad in **dezelfde** `for` -lus moet staan als de code voor het verplaatsen van de rode schildpad, zodat ze elke beurt een zet doen.
+    Merk op dat de code voor het verplaatsen van de blauwe schildpad in **dezelfde** `for`-lus moet staan als de code voor het verplaatsen van de rode schildpad, zodat ze elke beurt een zet doen.
