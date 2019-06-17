@@ -1,6 +1,6 @@
 \--- challenge \---
 
-## Challenge: Race time!
+## Aufgabe: Dreh dich mal
 
 Now you're ready to race. Pick a turtle and an opponent and see who wins.
 
