@@ -1,8 +1,8 @@
-\--- challenge \---
+\--- desafio \---
 
 ## Desafio: mais linhas
 
-Você pode mudar o seu código para que as linhas da pista passem pela tela?
+Você pode mudar o seu código para que as linhas da trilha passem pela tela?
 
 ![screenshot](images/race-challenge1.png)
 
