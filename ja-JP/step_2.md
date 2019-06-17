@@ -6,4 +6,4 @@
 
 ### ソフトウェア
 
-このプロジェクトPythonは3を使います。オンラインでもパイソンが使える[Trinket](https://trinket.io/)というものを使いましょう。
+このプロジェクトはPython 3を使います。オンラインでPythonを書くことができる[Trinket](https://trinket.io/)の使用をお勧めします。
