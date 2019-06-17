@@ -33,7 +33,3 @@ Izradom ovog projekta dobićeš bodove za osvajanje bronzane iDEA značke "Digit
 Ukoliko je potrebno da odštampate ovaj projekat, koristite [verziju za štampu](https://projects.raspberrypi.org/en/projects/turtle-race/print){:target="_blank"}.
 
 Koristite link koji se nalazi u podnožju stranice da pristupite GitHub repozitorijumu za ovaj projekat, koji sadrži sve izvore (uključujući primjer završenog projekta) u 'en/resources' folderu.
-
-### Dodatne informacije za vođe kluba
-
-Ukoliko je potrebno da odštampate ovaj projekat, koristite [Verziju za štampu](https://projects.raspberry-pi.org/en/projects/turtle-race/print).
