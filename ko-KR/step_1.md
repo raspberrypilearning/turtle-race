@@ -33,7 +33,3 @@
 이 프로젝트를 인쇄하려면 [프린트용 버전](https://projects.raspberrypi.org/en/projects/turtle-race/print){:target="_blank"}을 사용하십시오.
 
 아래쪽에 있는 이 프로젝트를 위한 GitHub repository 링크를 이용하세요. (완성된 프로젝트 예제를 포함한) 모든 리소스가 'en/resources' 폴더에 들어 있습니다.
-
-### 교육자들을 위한 추가 정보
-
-이 프로젝트를 인쇄하려면 [프린트용 문서](https://projects.raspberry-pi.org/en/projects/turtle-race/print)를 사용하십시오.
