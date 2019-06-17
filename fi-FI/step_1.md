@@ -33,7 +33,3 @@ Tämän projektin loppuun saat ansaita pisteitä kohti pronssia "Digital Maker" 
 Jos haluat tulostaa tämän projektin, käytä [tulostusystävällistä versiota](https://projects.raspberrypi.org/en/projects/turtle-race/print){: target = "_ blank"}.
 
 Käytä alatunnisteen linkkiä päästäksesi tämän hankkeen GitHub-arkistoon, joka sisältää kaikki resurssit (mukaan lukien esimerkki valmiista projekteista) 'en / resources' -kansiossa.
-
-### Lisätietoja klubin johtajille
-
-Jos haluat tulostaa tämän projektin, käytä [Tulostettava versio](https://projects.raspberry-pi.org/en/projects/turtle-race/print).
