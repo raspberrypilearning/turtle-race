@@ -1,6 +1,6 @@
 ## 跑道
 
-您将编写一个乌龟赛跑的游戏。首先，它们需要一个跑道。
+您将编写一个乌龟赛跑的游戏。首先，此游戏需要建立一个跑道。
 
 + 单击链接<a href="http://jumpto.cc/python-new" target="_blank">jumpto.cc/python-new</a>，打开一个空白的Trinket Python模版。
 
@@ -8,11 +8,11 @@
     
     ![截图](images/race-forward.png)
 
-+ 现在让我们使用turtle模块来为赛跑绘制一些跑道标记。
++ 现在让我们使用turtle模块来为赛跑绘制跑道标记。
     
     Turtle模块中的`write`函数能在屏幕上绘制文本。
     
-    试一下：
+    尝试一下：
     
     ![截图](images/race-markings1.png)
 
@@ -20,15 +20,15 @@
     
     ![截图](images/race-markings2.png)
 
-+ 你注意到你的代码是非常重复的吗？它们唯一不同的地方只是输入的数字。
++ 你注意到你的代码是非常重复的吗？它们唯一不同的地方是输入的数字。
     
     在Python中有一种更好的方法来写这样重复的代码。您可以使用`for`循环。
     
-    使用`for`循环来修改你的代码：
+    使用`for`循环来更新你的代码：
     
     ![截图](images/race-for.png)
 
-+ 嗯，这只打印了从0到4之间的数字。Python中的`range(5)`函数将返回从0到4的五个数字。要让它输出到数字5，您则需要使用`range(6)`：
++ 嗯，这只打印了从0到4之间的数字。Python中的`range(5)`函数将返回从0到4的五个数字。要让它返回数字5，您则需要使用`range(6)`：
     
     ![截图](images/race-range.png)
 
