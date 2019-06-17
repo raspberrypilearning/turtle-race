@@ -1,27 +1,27 @@
-## Racing turtles
+## Carreras de tortugas
 
-Now for the fun bit. Let's add some racing turtles. It would be really boring if the turtles did the same thing every time so they will move a random number of steps each turn. The winner is the turtle that gets the furthest in 100 turns.
+Ahora a por la parte divertida. Añadamos algunas tortugas de carreras. Sería realmente aburrido si las tortugas hicieran lo mismo cada vez, así que se moverán un número aleatorio de pasos cada turno. El ganador es la tortuga que llega más lejos en 100 turnos.
 
-+ When you use commands like `forward(20)` you are using a single turtle. But you can create more turtles. Add the following code to the end of your script (but make sure it's not indented):
++ Cuando usas comandos como `forward(20)` Estás usando una sola tortuga. Pero puedes crear más tortugas. Añade el siguiente código al final de tu script (pero asegúrate de que no tenga sangría):
     
-    ![screenshot](images/race-red.png)
+    ![captura de pantalla](images/race-red.png)
     
-    The first line creates a turtle called 'ada'. The next lines set the colour and shape of the turtle. Now it really looks like a turtle!
+    La primera línea crea una tortuga llamada 'ada'. Las siguientes líneas establecen el color y la forma de la tortuga. ¡Ahora realmente parece una tortuga!
 
-+ Let's send the turtle to the starting line:
++ Vamos a enviar a la tortuga a la línea de partida:
     
-    ![screenshot](images/race-start.png)
+    ![captura de pantalla](images/race-start.png)
 
-+ Now you need to make the turtle race by moving a random number of steps at a time. You'll need the `randint` function from the Python `random` library. Add this `import` line to the top of your script:
++ Ahora necesitas hacer que la tortuga se mueva un número aleatorio de pasos a la vez. Necesitarás la función `randint` de la librería de Python `random`. Añade esta línea `import` en la parte superior de tu script:
     
-    ![screenshot](images/race-randint.png)
+    ![captura de pantalla](images/race-randint.png)
 
-+ The `randint` function returns a random integer (whole number) between the values chosen. The turtle will move forward 1, 2, 3, 4, or 5 steps at each turn.
++ La función `randint` devuelve un entero aleatorio (número entero) entre los valores elegidos. La tortuga avanzará 1, 2, 3, 4 o 5 pasos en cada turno.
     
-    ![screenshot](images/race-random.png)
+    ![captura de pantalla](images/race-random.png)
 
-+ One turtle isn't much of a race! Let's add another one:
++ ¡Una tortuga no da para una gran carrera! Añadamos otra:
     
-    ![screenshot](images/race-blue.png)
+    ![captura de pantalla](images/race-blue.png)
     
-    Note that the code for moving the blue turtle needs to be in **the same** `for` loop as the code for moving the red turtle so that they each make a move every turn.
+    Tenga en cuenta que el código para mover la tortuga azul debe estar en **el mismo** bucle `for` al igual que el código para mover la tortuga roja para que cada uno haga un movimiento en cada turno.
