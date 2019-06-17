@@ -8,4 +8,4 @@ Možeš li, uz pomoć petlje, napraviti da su linije trkališta isprekidane umje
 
 **Pomoć:** Pronađi kôd kojim se crtaju ravne crte. Pokušaj koristiti: `for`, `forward()`, `penup()` i `pendown()`.
 
-\--- /challenge \---
+\--- challenge \---
