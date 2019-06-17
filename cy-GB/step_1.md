@@ -33,7 +33,3 @@ Bydd cwblhau'r prosiect hwn yn ennill pwyntiau i chi tuag at eich bathodyn iDEA 
 Fersiwn ar gyfer argraffuOs oes angen i chi argraffu'r prosiect hwn, defnyddiwch y [fersiwn hwylus i'w argraffu](https://projects.raspberrypi.org/en/projects/turtle-race/print){:target="_blank"}.
 
 Defnyddiwch y ddolen yn y troedyn i gael gafael ar y storfa GitHub ar gyfer y prosiect hwn, sy'n cynnwys holl adnoddau (gan gynnwys enghraifft o brosiect gorffenedig) yn y ffolder 'en/resources'.
-
-### Gwybodaeth ychwanegol ar gyfer arweinwyr clwb
-
-Os oes angen i chi argraffu'r prosiect hwn, defnyddiwch y [Fersiwn hwylus i'w argraffu](https://projects.raspberry-pi.org/en/projects/turtle-race/print).
