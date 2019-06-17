@@ -1,8 +1,8 @@
-## مضمار السباق
+## التحدي: خطوط أخرى
 
 ستنشئ لعبة السلاحف المتسابقة. لذا ستحتاج أولًا إلى مضمار سباق.
 
-+ افتح Trinket الذي يحتوي على قالب Python فارغ: <a href="http://jumpto.cc/python-new" target="_blank">jumpto.cc/python-new</a>.
++ افتح trinket يحتوي على قالب Python فارغ:<a href="http://jumpto.cc/python-new" target="_blank">jumpto.cc/python-new</a>.
 
 + أضف التعليمات البرمجية التالية لرسم خط باستخدام 'turtle':
     
