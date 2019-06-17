@@ -22,9 +22,9 @@ Je gaat een spel maken met raceschildpadden. Eerst hebben ze een racebaan nodig.
 
 + Is het je opgevallen dat de code steeds weer herhaald wordt? Het enige dat verandert, is het getal achter write.
     
-    Er is een betere manier om dit in Python te doen. Je kunt een `for` -lus gebruiken.
+    Er is een betere manier om dit in Python te doen. Je kunt een `for`-lus gebruiken.
     
-    Werk je code bij door een​​ `for` lus te gebruiken:
+    Werk je code bij door een​​ `for`-lus te gebruiken:
     
     ![screenshot](images/race-for.png)
 
