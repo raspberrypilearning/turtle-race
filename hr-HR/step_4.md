@@ -8,4 +8,4 @@ Možeš li izmijeniti kôd tako da linije idu preko cijelog ekrana?
 
 Možeš koristiti `speed(0)` ako želiš ubrzati kornjaču.
 
-\--- /challenge \---
+\--- challenge \---
