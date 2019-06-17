@@ -26,14 +26,10 @@
 
 ![iDEA](images/idea.png)
 
-完成此项目您将获得积分用以赢取“Digital Maker”的iDEA铜牌徽章。有关更多信息，请访问[ idea.org.uk ](https://idea.org.uk) 。
+通过完成此项目，您将获得积分用以赢取“Digital Maker”的iDEA青铜徽章。更多有关信息，请访问[ idea.org.uk ](https://idea.org.uk) 。
 
 ### 教师参考信息
 
 如果您需要打印本项目文件，请使用[适合打印版本](https://projects.raspberrypi.org/en/projects/turtle-race/print){:target="_blank"}。
 
-使用页脚中的链接访问此项目的GitHub资源库，在'en/resources'文件夹中包含了所有资源（包括完成的项目的示例）。
-
-### 俱乐部领导的其他信息
-
-如果您需要打印本项目文件，请使用[适合打印版本](https://projects.raspberry-pi.org/en/projects/turtle-race/print)
+使用页脚中的链接访问此项目的GitHub资源库，在'en/resources'文件夹中包含了所有资源（包括一个已完成的项目示例）。
