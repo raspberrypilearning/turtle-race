@@ -1,8 +1,8 @@
-\--- challenge \---
+\--- desafio \---
 
-## Challenge: Dashed lines
+## Desafio: linhas tracejadas
 
-Can you use a loop to make the track lines dashed instead of solid?
+Você pode usar um loop para tornar as linhas tracejadas em vez de sólidas?
 
 ![screenshot](images/race-finished.png)
 
