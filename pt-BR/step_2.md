@@ -1,9 +1,9 @@
-## O que você precisará
+## O que você vai precisar
 
 ### Hardware
 
 + Um computador conectado à internet
 
-### Programas
+### Software
 
 Este projeto usa o Python 3. Recomendamos usar [Trinket](https://trinket.io/), que permite escrever código Python online.
