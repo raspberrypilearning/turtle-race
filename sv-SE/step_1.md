@@ -33,7 +33,3 @@ Genomförandet av detta projekt kommer att tjäna poäng mot ditt iDEA-märke i 
 Om du behöver skriva ut det här projektet, använd den [-skrivarvänliga versionen](https://projects.raspberrypi.org/en/projects/turtle-race/print){: target = "_ blank"}.
 
 Använd länken i sidfoten för att komma åt GitHub-förvaret för det här projektet, som innehåller alla resurser (inklusive ett exempel färdigt projekt) i mappen "en / resurser".
-
-### Ytterligare information för klubbledare
-
-Om du behöver skriva ut det här projektet, använd [Utskriftsvänlig version](https://projects.raspberry-pi.org/en/projects/turtle-race/print).
