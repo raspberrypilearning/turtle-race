@@ -1,57 +1,57 @@
-## Race track
+## Pista de carreras
 
-You're going to create a game with racing turtles. First they'll need a race track.
+Vas a crear un juego con carreras de tortugas. Primero necesitarán una pista de carreras.
 
-+ Open the blank Python template Trinket: <a href="http://jumpto.cc/python-new" target="_blank">jumpto.cc/python-new</a>.
++ Abre la plantilla Python en blanco en Trinket: <a href="http://jumpto.cc/python-new" target="_blank">jumpto.cc/python-new</a>.
 
-+ Add the following code to draw a line using the 'turtle':
++ Añade el siguiente código para dibujar una línea usando la 'tortuga':
     
-    ![screenshot](images/race-forward.png)
+    ![captura de pantalla](images/race-forward.png)
 
-+ Now let's use the turtle to draw some track markings for the race.
++ Ahora vamos a usar la tortuga para dibujar algunas marcas de pista para la carrera.
     
-    The turtle `write` function writes text to the screen.
+    La función `write` de la tortuga escribe texto en la pantalla.
     
-    Try it:
+    Pruébalo:
     
-    ![screenshot](images/race-markings1.png)
+    ![captura de pantalla](images/race-markings1.png)
 
-+ Now you need to fill in the numbers in between to create markings:
++ Ahora necesitas completar los números intermedios para crear marcas:
     
-    ![screenshot](images/race-markings2.png)
+    ![captura de pantalla](images/race-markings2.png)
 
-+ Did you notice that your code is very repetitive? The only thing that changes is the number to write.
++ ¿Te has dado cuenta de que tu código es muy repetitivo? Lo único que cambia es el número que se escribe.
     
-    There's a better way of doing this in Python. You can use a `for` loop.
+    Hay una manera mejor de hacer esto en Python. Puedes usar un bucle `for`.
     
-    Update your code to use a `for` loop:
+    Actualiza tu código para usar un bucke `for`:
     
-    ![screenshot](images/race-for.png)
+    ![captura de pantalla](images/race-for.png)
 
-+ Hmm, that only prints numbers up to 4. In Python `range(5)` returns five numbers, from 0 up to 4. To get it to also return 5 you'll need to use `range(6)`:
++ Hmm, eso solo imprime números hasta el 4. En Python `range(5)` devuelve cinco números, de 0 a 4. Para que también devuelva el 5, deberás utilizar `range(6)`:
     
-    ![screenshot](images/race-range.png)
+    ![captura de pantalla](images/race-range.png)
 
-+ Now we can draw some track markings. The turtle starts at coordinates (0,0) in the middle of the screen.
++ Ahora podemos dibujar algunas marcas de pista. La tortuga comienza en las coordenadas (0,0) en el centro de la pantalla.
     
-    Move the turtle to the top left instead:
+    Mejor mueve la tortuga a la parte superior izquierda:
     
-    ![screenshot](images/race-goto.png)
+    ![captura de pantalla](images/race-goto.png)
 
-+ Ah, you'll want to lift the pen up first!
++ ¡Ah, querrás levantar primero el bolígrafo!
     
-    ![screenshot](images/race-penup.png)
+    ![captura de pantalla](images/race-penup.png)
 
-+ Instead of drawing a line horizontally, let's draw vertical lines to create a track:
++ En lugar de dibujar una línea horizontal, dibujemos líneas verticales para crear una pista:
     
-    ![screenshot](images/race-lines.png)
+    ![captura de pantalla](images/race-lines.png)
     
-    `right(90)` makes the turtle turn right 90 degrees (a right angle.) Moving `forward(10)` before putting the pen down leaves a small gap between the number and the start of the line. After drawing the line you lift up the pen and go `backward(160)` the length of the line plus the gap.
+    `right(90)` hace que la tortuga gire a la derecha 90 grados (en ángulo recto). Moviendo `forward(10)` antes de dejar el lápiz, deja un pequeño espacio entre el número y el inicio de la línea. Después de dibujar la línea, levanta el lápiz y ve `backward(160)` la longitud de la línea más la separación.
 
-+ It looks neater if you centre the numbers:
++ Se ve mejor si centras los números:
     
-    ![screenshot](images/race-center.png)
+    ![captura de pantalla](images/race-center.png)
 
-+ And you can speed up the turtle so it draws faster:
++ Y puedes acelerar la tortuga para que se dibuje más rápido:
     
-    ![screenshot](images/race-speed.png)
+    ![captura de pantalla](images/race-speed.png)
