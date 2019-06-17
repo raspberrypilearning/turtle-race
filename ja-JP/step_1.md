@@ -1,10 +1,10 @@
 ## はじめに
 
-ループを使って、かめが競争するトラックを描いてみよう。
+ループを使ってレーストラックを描いて、カメが競争するゲームを作りましょう。
 
 ### 作るもの
 
-かめの競争を作ってみることで、ループについて学びます。 競争するトラックを描くことと、かめがランダムに進むことにループを使います。 もしゲームをみんなでするなら、それぞれかめを選んでみよう。1番早かったかめを選んだ人の勝ち！
+このプロジェクトでは、カメが競争する楽しいゲームを通じて繰り返しを紹介します。 繰り返しは、レーストラックを描くことと、カメを順番にランダムな歩数で動かすのに使います。 もしゲームをみんなでするなら、それぞれカメを選んでみよう。一番速いカメを選んだ人が勝ちです。
 
 <div class="trinket">
   <iframe src="https://trinket.io/embed/python/9339862606?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
@@ -12,28 +12,24 @@
   <img src="images/race-finished.png">
 </div>
 
-### 学習すること
+### 学ぶこと
 
-かめの競争をつくることで、以下のことを学べます。
+カメのレースをつくることで、以下のことを学べます。
 
-+ Pythonでの`for`文の書き方
++ Pythonでの`for`ループの書き方
 + Pythonでのランダム(乱数)の使い方
 + Python Turtleで様々な色の線の書き方
 
-このプロジェクトでは [Raspberry Pi デジタル・メイキング・カリキュラム](http://rpf.io/curriculum)の要素を学びます。
+このプロジェクトでは[Raspberry Piデジタル・メイキング・カリキュラム](http://rpf.io/curriculum){:target="_blank"}の以下の要素を学びます。
 
-+ [基本的なプログラミング構造を使用して簡単なプログラムを作成する](https://www.raspberrypi.org/curriculum/programming/creator/)
++ [基本的なプログラミング構造を使用して簡単なプログラムを作成する](https://www.raspberrypi.org/curriculum/programming/creator/){:target="_blank"}
 
-![IDEA](images/idea.png)
+![iDEA](images/idea.png)
 
-このプロジェクトの完成はデジタルメイカーの銅色のアイディアバッチがもらえること。詳細は[idea.org.uk](https://idea.org.uk)ここから。
+このプロジェクトを完了すると、 「Digital Maker」iDEAのブロンズバッジに向けたポイントがもらえます。詳細については、[idea.org.ukをご覧ください](https://idea.org.uk) 。
 
 ### 教育者のための追加情報
 
-このプロジェクトを印刷する必要がある場合は、 [印刷用バージョン](https://projects.raspberrypi.org/en/projects/turtle-race/print)を使用してください。
+このプロジェクトを印刷する必要がある場合は、 [印刷用バージョン](https://projects.raspberrypi.org/en/projects/turtle-race/print){:target="_blank"}を使用してください。
 
-フッターのリンクを使用して、このプロジェクトのGitHubリポジトリにアクセスします。このリポジトリには、 'en / resources'フォルダ内のすべてのリソース（完成プロジェクトの例を含む）が含まれています。
-
-### クラブリーダーのための追加情報
-
-このプロジェクトを印刷する必要がある場合は、 [印刷用バージョン](https://projects.raspberry-pi.org/en/projects/turtle-race/print)を使用してください。
+フッターのリンクを使用して、このプロジェクトのGitHubリポジトリにアクセスします。このリポジトリには、「en/resources」フォルダ内のすべてのリソース（完成プロジェクトの例を含む）が含まれています。
