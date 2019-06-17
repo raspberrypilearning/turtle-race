@@ -10,7 +10,7 @@ title: Schildkröten-Rennen!
 description: Lass die Schildkröten im Wettrennen gegeneinander antreten!
 original_url: https://codeclubprojects.org/en-GB/python/turtle-race
 interests: games
-technologies: python
+technologies: Python
 site_areas: projects
 hardware: ''
 software: python
@@ -18,9 +18,9 @@ version: 3
 last_tested: 2017-01-01
 steps:
   - 
-    title: Einführung
+    title: Einleitung
   - 
-    title: Rennstrecke
+    title: Was du brauchen wirst
   - 
     title: 'Aufgabe: Noch mehr Linien'
   - 
