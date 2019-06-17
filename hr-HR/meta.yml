@@ -11,16 +11,16 @@ description: Neka se kornjače utrkuju jedna protiv druge!
 original_url: https://codeclubprojects.org/en-GB/python/turtle-race
 interests: games
 technologies: python
-site_areas: projects
+site_areas: projekti
 hardware: ''
 software: python
 version: 3
 last_tested: 2017-01-01
 steps:
   - 
-    title: Uvod
+    title: Sretan rođendan
   - 
-    title: Trebat ćeš
+    title: Ono što će vam trebati
   - 
     title: Trkalište
   - 
