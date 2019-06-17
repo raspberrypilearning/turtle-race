@@ -33,7 +33,3 @@ Việc hoàn thành dự án này sẽ giúp bạn kiếm được điểm cho h
 Nếu bạn cần in dự án này, vui lòng sử dụng phiên bản [thân thiện với máy in](https://projects.raspberrypi.org/en/projects/turtle-race/print){: target = "_ blank"}.
 
 Sử dụng liên kết ở chân trang để truy cập kho lưu trữ GitHub cho dự án này, chứa tất cả các tài nguyên (bao gồm một ví dụ đã hoàn thành dự án) trong thư mục 'en / resources'.
-
-### Thông tin bổ sung cho các nhà lãnh đạo câu lạc bộ
-
-Nếu bạn cần in dự án này, hãy sử dụng [phiên bản thân thiện với máy in](https://projects.raspberry-pi.org/en/projects/turtle-race/print).
