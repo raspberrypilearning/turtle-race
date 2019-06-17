@@ -33,7 +33,3 @@ Za ukończenie tego projektu otrzymasz punkty, które możesz wykorzystać w cel
 Jeśli chcesz wydrukować ten projekt, użyj [wersji do druku](https://projects.raspberrypi.org/en/projects/turtle-race/print){:target="_blank"}.
 
 Skorzystaj z odnośnika w stopce, aby uzyskać dostęp do repozytorium kodu tego projektu w serwisie GitHub. Repozytorium to zawiera wszystkie zasoby (w tym przykład gotowego projektu) w folderze 'pl-PL/resources'.
-
-### Dodatkowe informacje dla liderów klubów
-
-Jeśli chcesz wydrukować ten projekt, użyj [wersji do druku](https://projects.raspberry-pi.org/en/projects/turtle-race/print).
