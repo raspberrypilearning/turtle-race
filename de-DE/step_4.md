@@ -1,6 +1,6 @@
 \--- challenge \---
 
-## Challenge: More lines
+## Schildkröten Wettrennen
 
 Can you change your code so that the track lines go right across the screen?
 
