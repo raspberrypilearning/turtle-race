@@ -12,7 +12,7 @@
   <img src="images/race-finished.png">
 </div>
 
-### ماذا ستتعلم
+### ما الذي ستتعلمه
 
 من خلال إنشاء لعبة سباق السلاحف، سوف تتعلم كيفية:
 
@@ -20,7 +20,7 @@
 + استخدام الأرقام العشوائية في Python
 + جرافيكيات السلحفاة في Python
 
-يتناول هذا المشروع عناصر من الصفوف التالية من المناهج الرقمية الخاصة بـ [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
+يتناول هذا المشروع عناصر من معايير المناهج الرقمية الخاصة بـ [Raspberry Pi](http://rpf.io/curriculum){:target="_blank"}:
 
 + [استخدام تراكيب البرمجة الأساسية لإنشاء برامج بسيطة]. <a "https://www.raspberrypi.org/curriculum/programming/creator/">
 
@@ -30,10 +30,6 @@
 
 ### معلومات إضافية للمعلمين
 
-إذا كنت بحاجة إلى طباعة هذا المشروع، فيُرجى استخدام نسخة [سهلة الطباعة.](https://projects.raspberry-pi.org/en/projects/turtle-race/print).
+إذا كنت بحاجة إلى طباعة هذا المشروع، فالرجاء استخدام [نسخة متوافقة مع الطابعة](https://projects.raspberrypi.org/en/projects/turtle-race/print){:target="_blank"}.
 
-استخدم الرابط الموجود في التذييل للوصول إلى مستودع GitHub لهذا المشروع، والذي يحتوي على جميع المصادر (بما في ذلك المشروع النهائي) في مجلد 'en/resources'.
-
-### معلومات إضافية لقادة النادي
-
-إذا كنت بحاجة إلى طباعة هذا المشروع، فيُرجى استخدام نسخة [سهلة الطباعة.](https://projects.raspberry-pi.org/en/projects/turtle-race/print).
+استخدم الرابط الموجود في تذييل الصفحة للوصول إلى مستودع GitHub لهذا المشروع، الذي يحتوي على كل الموارد (ومنها مثال لمشروع مكتمل) في المجلد 'ar-Sa/resources'.
