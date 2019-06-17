@@ -8,4 +8,4 @@ Možeš li koristiti petlju `for zaokret in range():` kako bi svaka kornjača na
 
 **Pomoć:** Puni krug iznosi 360 stupnjeva. Kornjača se može okrenuti 10 stupnjeva udesno 36 puta ili 5 stupnjeva ulijevo 72 puta. Možeš koristiti bilo koju kombinaciju brojeva koji pomnoženi daju 360!
 
-\--- /challenge \---
+\--- challenge \---
