@@ -2,7 +2,7 @@
 
 Koristi petlje za crtanje trkališta i napravi utrku kornjača.
 
-### Napravit ćeš
+### Što ćete napraviti
 
 U ovom projektu se uči o for petljama kroz zabavnu igru utrke kornjača. Petlje se koriste za crtanje trkališta i pomicanje kornjača nasumičan broj koraka u svakom krugu. Pozovi prijatelje da zaigraju s tobom! Svaka osoba neka odabere kornjaču, a ona kornjača koja dođe najdalje je pobjednik.
 
@@ -12,7 +12,7 @@ U ovom projektu se uči o for petljama kroz zabavnu igru utrke kornjača. Petlje
   <img src="images/race-finished.png">
 </div>
 
-### Naučit ćeš
+### Što ćete naučiti
 
 Izradom igre utrke kornjača naučit ćeš kako:
 
@@ -20,7 +20,7 @@ Izradom igre utrke kornjača naučit ćeš kako:
 + Koristiti nasumične brojeve u Pythonu
 + Nacrtati linije različitih boja sa Python Turtle-om
 
-Ovaj projekt obuhvaća elemente iz sljedećih dijelova [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum) nastavnog plana i programa{:target="_blank"}:
+Ovaj projekt pokriva elemente iz sljedećih dijelova kurikuluma [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
 
 + [Korištenje osnova programiranja za izradu jednostavnih programa](https://www.raspberrypi.org/curriculum/programming/creator/){:target="_blank"}
 
@@ -28,12 +28,8 @@ Ovaj projekt obuhvaća elemente iz sljedećih dijelova [Raspberry Pi Digital Mak
 
 Dovršavanjem ovog projekta dobit ćeš bodove za osvajanje brončane iDEA značke "Digital Maker". Za više informacija, posjeti [idea.org.uk](https://idea.org.uk).
 
-### Dodatne informacije za nastavnike
-
-Ako želite ispisati ovaj projekt, molimo Vas da koristite [verziju koja je prilagođena za ispis](https://projects.raspberrypi.org/en/projects/turtle-race/print)"}.
-
-Koristite poveznicu u podnožju da bi pristupili GitHub repozitoriju ovog projekta koji sadrži sve resurse (uključujući i primjer dovršenog projekta) u mapi 'hr/resources'.
-
 ### Dodatne informacije za voditelje kluba
 
-Ako želite ispisati ovaj projekt, molimo Vas da koristite [verziju koja je prilagođena za ispis](https://projects.raspberry-pi.org/en/projects/turtle-race/print).
+Ako trebate ispisati ovaj projekt, koristite [printer-friendly version](https://projects.raspberrypi.org/en/projects/turtle-race/print){:Target="_ blank"}.
+
+Koristite poveznicu u podnožju da bi pristupili GitHub repozitoriju ovog projekta koji sadrži sve resurse (uključujući i primjer dovršenog projekta) u mapi 'hr-HR/resources'.
