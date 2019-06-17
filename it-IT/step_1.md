@@ -33,7 +33,3 @@ Il completamento di questo progetto ti farà guadagnare punti per il tuo badge d
 Se intendete stampare questo progetto, cliccate su [Versione stampabile](https://projects.raspberrypi.org/en/projects/turtle-race/print){:target="_blank"}.
 
 Cliccate il link a piè di pagina per accedere alla repository di GitHub relativa a questo progetto, che contiene tutte le risorse necessarie (incluso un esempio di progetto completo) nella cartella 'en/resources'.
-
-### Ulteriori informazioni per gli organizzatori dei club
-
-Se intendete stampare questo progetto, cliccate su [Versione stampabile](https://projects.raspberry-pi.org/en/projects/turtle-race/print).
