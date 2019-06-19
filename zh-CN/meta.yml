@@ -7,7 +7,7 @@ ingredient: false
 copyedit: false
 curriculum: creator, design-0, programming-0, phys-comp-0, manufacture-0, community-0
 title: 乌龟赛跑！
-description: 让乌龟比赛跑步！
+description: Race turtles against each other!
 original_url: https://codeclubprojects.org/zh-CN/python/turtle-race
 interests: 游戏
 technologies: python
