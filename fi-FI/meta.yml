@@ -7,7 +7,7 @@ ingredient: false
 copyedit: false
 curriculum: 1, design-0, ohjelmointi-1, phys-comp-0, valmistus-0, yhteisö-0
 title: Turtle Race!
-description: Kilpikonnat vastustavat toisiaan!
+description: Race turtles against each other!
 original_url: https://codeclubprojects.org/en-GB/python/turtle-race
 interests: pelit
 technologies: pytonkäärme
