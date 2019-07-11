@@ -2,12 +2,12 @@
 
 ## Aufgabe: Dreh dich mal
 
-Now you're ready to race. Pick a turtle and an opponent and see who wins.
+Jetzt kannst du loslegen. Wähle eine Schildkröte und einen Gegner und beobachte, wer gewinnt.
 
-Can you add more turtles so you can race with more friends?
+Kannst du mehr Schildkröten hinzufügen, damit du gegen weitere Freunde antreten kannst?
 
 ![screenshot](images/race-more.png)
 
-Colours include: orange, purple, violet, tomato, turquoise, magenta and brown - or you can go to [jumpto.cc/colours](http://jumpto.cc/colours) and pick any colour you like!
+Zu den Farben gehören: Orange, Lila, Violett, Tomate, Türkis, Magenta und Braun - oder gehe zu [ jumpto.cc/colours ](http://jumpto.cc/colours) und wähle jede Farbe, die du magst!
 
 \--- /challenge \---
