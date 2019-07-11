@@ -2,10 +2,10 @@
 
 ## Schildkröten Wettrennen
 
-Can you change your code so that the track lines go right across the screen?
+Kannst du den Code ändern, damit sich die Laufbahn-Spuren quer über den Bildschirm ziehen?
 
 ![screenshot](images/race-challenge1.png)
 
-If you want to make the turtle go even faster you can use `speed(0)`.
+Wenn du willst, dass sich die Schildkröte noch schneller bewegt, kannst du die Eingabe `speed(0)` (Geschwindigkeit) nutzen.
 
 \--- /challenge \---
