@@ -6,6 +6,6 @@ Kunt je een lus gebruiken om de lijnen van de tracks onderbroken in plaats van d
 
 ![screenshot](images/race-finished.png)
 
-**Hint:** Zoek de code die een rechte lijn tekent. Probeer het gebruik van: ` for `, ` forward () `, ` penup () ` en ` pendown () `
+**Hint:** Zoek de code die een rechte lijn tekent. Probeer het gebruik van: `for`, `forward()`, `penup()` en `pendown()`
 
 \--- /challenge \---
