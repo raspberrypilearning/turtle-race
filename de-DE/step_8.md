@@ -1,11 +1,11 @@
 \--- challenge \---
 
-## Challenge: Dashed lines
+## Aufgabe: Gestrichelte Linien
 
-Can you use a loop to make the track lines dashed instead of solid?
+Kannst du eine Schleife verwenden, um die Spurlinien gestrichelt anstatt durchgehend zu zeichnen?
 
 ![screenshot](images/race-finished.png)
 
-**Hint:** Find the code that draws a straight line. Try using:`for`, `forward()`, `penup()` and `pendown()`
+**Hinweis: ** finde den Code, der eine gerade Linie zeichnet. Versuche es `for`, `forward()`, `penup()` and `pendown()`
 
 \--- /challenge \---
