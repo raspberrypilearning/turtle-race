@@ -2,7 +2,7 @@
 
 Nu het leuke deel. Laten we wat raceschildpadden toevoegen. Het zou heel saai zijn als de schildpadden elke keer hetzelfde deden, dus ze zullen elke beurt een willekeurig aantal stappen verplaatsen. De winnaar is de schildpad die het verst komt in 100 beurten.
 
-+ Wanneer je commando's zoals `forward(20)` gebruikt, gebruik je een enkele schildpad. Maar je kunt meer schildpadden maken. Voeg de volgende code toe aan het einde van je script (maar zorg ervoor dat de code niet ingespringt):
++ Wanneer je commando's zoals `forward(20)` gebruikt, gebruik je een enkele schildpad. Maar je kunt meer schildpadden maken. Voeg de volgende code toe aan het einde van je script (maar zorg ervoor dat de code niet inspringt):
     
     ![screenshot](images/race-red.png)
     
@@ -12,7 +12,7 @@ Nu het leuke deel. Laten we wat raceschildpadden toevoegen. Het zou heel saai zi
     
     ![screenshot](images/race-start.png)
 
-+ Nu moet je de schildpad laten racen door elke beurt een willekeurig aantal stappen te zetten. Je hebt de ` randint ` functie van de Python ` random ` bibliotheek nodig. Voeg deze `import` regel toe aan de bovenkant van je script:
++ Nu moet je de schildpad laten racen door elke beurt een willekeurig aantal stappen te zetten. Je hebt de `randint` functie van de Python `random` bibliotheek nodig. Voeg deze `import` regel toe aan de bovenkant van je script:
     
     ![screenshot](images/race-randint.png)
 
