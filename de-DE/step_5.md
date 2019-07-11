@@ -1,27 +1,27 @@
 ## Aufgabe: Das Rennen kann losgehen!
 
-Now for the fun bit. Let's add some racing turtles. It would be really boring if the turtles did the same thing every time so they will move a random number of steps each turn. The winner is the turtle that gets the furthest in 100 turns.
+Nun kommen wir zum spaßigen Teil. Fügen wir einige Rennschildkröten hinzu. Es wäre wirklich langweilig, wenn die Schildkröten jedes Mal das Gleiche tun würden, also werden wir sie in jeder Runde eine zufällige Anzahl von Schritten bewegen. Die Schildkröte gewinnt, die in 100 Runden am weitesten kommt.
 
-+ When you use commands like `forward(20)` you are using a single turtle. But you can create more turtles. Add the following code to the end of your script (but make sure it's not indented):
++ Wenn du Befehle wie `forward (20)` verwendest, bewegst du eine einzelne Schildkröte. Du kannst aber weitere Schildkröten erstellen. Füge den folgenden Code am Ende deines Skripts hinzu (stelle sicher, dass der Anfang nicht eingerückt ist):
     
     ![Screenshot](images/race-red.png)
     
-    The first line creates a turtle called 'ada'. The next lines set the colour and shape of the turtle. Now it really looks like a turtle!
+    In der ersten Zeile wird eine Schildkröte namens "Ada" erstellt. Die nächste Zeile legt die Farbe und Form der Schildkröte fest. Jetzt sieht sie wirklich aus wie eine Schildkröte!
 
-+ Let's send the turtle to the starting line:
++ Lass uns die Schildkröte an die Startlinie schicken:
     
     ![screenshot](images/race-start.png)
 
-+ Now you need to make the turtle race by moving a random number of steps at a time. You'll need the `randint` function from the Python `random` library. Add this `import` line to the top of your script:
++ Jetzt kannst du die Schildkröte zum Rennen bringen, indem du sie eine zufällige Anzahl von Schritten bewegst. Du wirst die die `randint` Funktion aus der Python `random` benötigen. Füge diese `import` Zeile an den Anfang des Skripts hinzu:
     
     ![Screenshot](images/race-randint.png)
 
-+ The `randint` function returns a random integer (whole number) between the values chosen. The turtle will move forward 1, 2, 3, 4, or 5 steps at each turn.
++ Die `randint` Funktion produziert eine zufällige Ganzzahl (gerade Zahl) zwischen den gewählten Werten. Die Schildkröte bewegt sich in jeder Runde 1, 2, 3, 4 oder 5 Schritte vorwärts.
     
     ![screenshot](images/race-random.png)
 
-+ One turtle isn't much of a race! Let's add another one:
++ Eine Schildkröte allein bedeutet kein großes Rennen! Fügen wir noch eine hinzu:
     
     ![screenshot](images/race-blue.png)
     
-    Note that the code for moving the blue turtle needs to be in **the same** `for` loop as the code for moving the red turtle so that they each make a move every turn.
+    Beachte, dass der Code zum Bewegen der blauen Schildkröte **die gleiche** `for` Loop (Zählschleife) nutzen muss, wie der Code, der die rote Schildkröte bewegt hat, damit beide Schildkröten jede Runde eine Bewegung ausführen.
