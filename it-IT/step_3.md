@@ -8,7 +8,7 @@ Stai per creare un gioco con tartarughe da corsa. Per prima cosa avranno bisogno
     
     ![screenshot](images/race-forward.png)
 
-+ Ora usiamo la tartaruga per disegnare alcuni segni della pista per la gara.
++ Ora usiamo la tartaruga per disegnare alcune marcature della pista per la gara.
     
     La funzione `write` della tartaruga scrive del testo sullo schermo.
     
@@ -16,7 +16,7 @@ Stai per creare un gioco con tartarughe da corsa. Per prima cosa avranno bisogno
     
     ![screenshot](images/race-markings1.png)
 
-+ Ora devi inserire i numeri in mezzo per creare i contrassegni:
++ Ora devi inserire i numeri in mezzo per creare le marcature:
     
     ![screenshot](images/race-markings2.png)
 
