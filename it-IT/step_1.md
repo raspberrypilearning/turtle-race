@@ -2,9 +2,9 @@
 
 Usa i cicli per disegnare un tracciato di gara e creare un gioco di tartarughe da corsa.
 
-### Che cosa farai
+### Cosa farai
 
-Questo progetti introduce i cicli for attraverso un divertente gioco di corse di tartarughe. I cicli sono usati per disegnare il percorso di gara e per far muovere le tartarughe di un numero casuale di passi ad ogni turno. Se hai un gruppo di persone con cui giocare, ogni persona può scegliere una tartaruga e quella che arriva più lontana è la vincitrice.
+Questo progetto introduce ai cicli attraverso un divertente gioco di corse di tartarughe. I cicli vengono utilizzati per tracciare la pista e per far muovere le tartarughe in modo casuale per ogni turno. Se hai un gruppo di persone con cui giocare, ogni persona può scegliere una tartaruga e quella che arriva più lontana vince.
 
 <div class="trinket">
   <iframe src="https://trinket.io/embed/python/9339862606?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
@@ -14,7 +14,7 @@ Questo progetti introduce i cicli for attraverso un divertente gioco di corse di
 
 ### Cosa imparerai
 
-Facendo il gioco di corse di tartarughe: imparerai come:
+Creando il tuo gioco di corse di tartarughe, imparerai come:
 
 + Scrivere cicli `for` in Python
 + Usare numeri casuali in Python
