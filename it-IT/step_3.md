@@ -32,13 +32,13 @@ Stai per creare un gioco con tartarughe da corsa. Per prima cosa avranno bisogno
     
     ![screenshot](images/race-range.png)
 
-+ Ora possiamo disegnare qualche segno per delimitare il tracciato. La tartaruga inizia alle cordinate (0,0) al centro dello schermo.
++ Ora possiamo disegnare qualche marcatura del tracciato. La tartaruga inizia alle cordinate (0,0) al centro dello schermo.
     
     Spostala invece in alto a sinistra:
     
     ![screenshot](images/race-goto.png)
 
-+ Ah, dovrai alzare la penna prima!
++ Ah, ma prima ti consigliamo di alzare la penna!
     
     ![screenshot](images/race-penup.png)
 
