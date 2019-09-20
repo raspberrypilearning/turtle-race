@@ -4,7 +4,7 @@ Zeichne mit Programmschleifen eine Rennstrecke und erstelle ein Rennspiel für S
 
 ### Was du machen wirst
 
-In diesem Projekt lernen wir über Schleifenanschlüsse, in dem wir ein Schildkröten-Rennspiel erstellen. Programmschleifen werden verwendet um die Rennstrecke zu zeichnen. Außerdem werden wir Programmschleifen nutzen um die Schildkröten in jeder Runde um eine zufällige Anzahl an Schritten zu bewegen. Wenn du das Spiel in einer Gruppe spielst, wählt jede Person eine Schildkröte aus, und die Person, die am weitesten kommt, ist der Gewinner.
+Dieses Projekt ist eine Einführung in Schleifen basierend auf einem lustigen Rennspiel. Schleifen werden eingesetzt, um die Rennstrecke zu zeichnen und die Schildkröten in jeder Runde um eine zufällige Anzahl an Schritten zu bewegen. Wenn du das Spiel in einer Gruppe spielst, wählt jede Person eine Schildkröte aus und diejenige, die am weitesten kommt, ist der Gewinner.
 
 <div class="trinket">
   <iframe src="https://trinket.io/embed/python/9339862606?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
