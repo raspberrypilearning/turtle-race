@@ -1,13 +1,13 @@
 \--- challenge \---
 
-## Challenge: Race time!
+## Задача: время гонки!
 
-Now you're ready to race. Pick a turtle and an opponent and see who wins.
+Теперь ты готов к гонке. Выбери черепашку и противника и выясните, кто победит.
 
-Can you add more turtles so you can race with more friends?
+Можешь ли ты добавить больше черепашек для гонок с ещё большим количеством игроков?
 
-![screenshot](images/race-more.png)
+![снимок экрана](images/race-more.png)
 
-Colours include: orange, purple, violet, tomato, turquoise, magenta and brown - or you can go to [jumpto.cc/colours](http://jumpto.cc/colours) and pick any colour you like!
+Цвета включают в себя: orange (оранжевый), purple (пурпурный), violet (фиолетовый), tomato (томатный), turquoise (бирюзовый), magentа (маджента) и brown (коричневый) — или ты можешь выбрать любой понравившийся тебе цвет на [jumpto.cc/colours](http://jumpto.cc/colours)!
 
 \--- /challenge \---
