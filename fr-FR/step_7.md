@@ -1,11 +1,11 @@
 \--- challenge \---
 
-## Challenge: Do a twirl
+## Défi: Faire un tourbillon
 
-Can you use a `for turn in range():` loop to make each turtle do a 360 degree twirl after they get to the starting line? You'll need to make sure they are facing in the right direction at the start of the race!
+Peux-tu utiliser une boucle `for turn in range():` pour que chaque tortue fasse un tourbillon de 360 degrés après avoir atteint la ligne de départ? Tu devras t'assurer qu'ils font face dans la bonne direction au début de la course!
 
-`ada.right(36)` will turn the red turtle right by 36 degrees.
+`ada.right(36)` tournera la tortue rouge à droite de 36 degrés.
 
-**Hint:** A full turn is 360 degrees. A turtle could turn right 10 degrees 36 times, or left 5 degrees 72 times, or any other numbers make 360!
+**Indice:** Un tour complet est à 360 degrés. Une tortue peut tourner à droite 36 fois de 10 degrés, ou à gauche de 5 degrés 72 fois, ou n’importe quel autre chiffre faisant 360!
 
 \--- /challenge \---
