@@ -7,7 +7,7 @@ ingredient: false
 copyedit: false
 curriculum: 1, design-0, programming-1, phys-comp-0, manufacture-0, community-0
 title: Course de tortues!
-description: Crée un jeu de course de tortues!
+description: Fait courir les tortues les unes contre les autres!
 original_url: https://codeclubprojects.org/en-GB/python/turtle-race
 interests: games
 technologies: python
@@ -20,16 +20,16 @@ steps:
   - 
     title: Introduction
   - 
+    title: Ce dont tu auras besoin
+  - 
     title: Piste de course
   - 
-    title: 'Défi: Plus de lignes'
+    title: 'Défi : Plus de lignes'
   - 
-    title: 'La course de tortues'
+    title: Tortues de course
   - 
-    title: 'Défi: L''heure de la course!'
+    title: 'Défi: c''est l''heure de la course!'
   - 
-    title: 'Défi: Fais une pirouette'
+    title: 'Défi: Faire un tourbillon'
   - 
     title: 'Défi: Lignes pointillées'
-  - 
-    title: 'Challenge: Dashed lines'
