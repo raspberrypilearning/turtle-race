@@ -1,8 +1,8 @@
 ## Tartarughe da corsa
 
-Ora arriva la parte divertente. Aggiungiamo alcune tartarughe da corsa. Sarebbe davvero noioso se le tartarughe facessero la stessa cosa ogni volta; per questo si muoveranno di numero casuale di passi ad ogni turno. La vincitrice è la tartaruga che arriva più lontana in 100 turni.
+Ora arriva la parte divertente. Aggiungiamo alcune tartarughe da corsa. Sarebbe davvero noioso se le tartarughe facessero la stessa cosa ogni volta; per questo si muoveranno di un numero casuale di passi ad ogni turno. La vincitrice è la tartaruga che arriva più lontana in 100 turni.
 
-+ Quando usi comandi come `forward(20)` stai usando una sola tartaruga. Ma puoi crearne di più. Aggiungi il seguente codice alla fina del tuo codice (assicurati che non sia identato):
++ Quando usi comandi come `forward(20)` stai usando una sola tartaruga. Ma puoi crearne di più. Aggiungi il seguente codice alla fine del tuo (assicurati che non sia indentato):
     
     ![screenshot](images/race-red.png)
     
@@ -12,7 +12,7 @@ Ora arriva la parte divertente. Aggiungiamo alcune tartarughe da corsa. Sarebbe 
     
     ![screenshot](images/race-start.png)
 
-+ Ora dovrai far muovere la tartaruga da corsa di un numero casuale di passi ogni volta. Avrai bisogna della funzione `randint` della libreria di Python `random`. Aggiungi questa istruzione `import` in cima al tuo codice:
++ Ora dovrai far muovere la tartaruga da corsa di un numero casuale di passi ogni volta. Avrai bisogno della funzione `randint` della libreria di Python `random`. Aggiungi questa istruzione `import` in cima al tuo codice:
     
     ![screenshot](images/race-randint.png)
 
