@@ -32,7 +32,7 @@ Stai per creare un gioco con tartarughe da corsa. Per prima cosa avranno bisogno
     
     ![screenshot](images/race-range.png)
 
-+ Ora possiamo disegnare qualche marcatura del tracciato. La tartaruga inizia alle cordinate (0,0) al centro dello schermo.
++ Ora possiamo disegnare qualche parte del tracciato. La tartaruga inizia alle coordinate (0,0) al centro dello schermo.
     
     Spostala invece in alto a sinistra:
     
@@ -46,7 +46,7 @@ Stai per creare un gioco con tartarughe da corsa. Per prima cosa avranno bisogno
     
     ![screenshot](images/race-lines.png)
     
-    `right(90)` fa girare la tartaruga a destra di 90 gradi (un angolo retto). Inserire `forward(10)` prima di abbassare la penna lascia un piccolo spazio tra il numero e l'inizio della linea. Dopo aver disegnato la linea alzerai la penna e andrei `backward(160)`, ovvero la lunghezza della linea più lo spazio.
+    `right(90)` fa girare la tartaruga a destra di 90 gradi (un angolo retto). Inserire `forward(10)` prima di abbassare la penna, lascia un piccolo spazio tra il numero e l'inizio della linea. Dopo aver disegnato la linea, alzerai la penna e andrai `backward(160)`, ovvero la lunghezza della linea più lo spazio.
 
 + Sembra più ordinato se allinei i numeri al centro:
     
