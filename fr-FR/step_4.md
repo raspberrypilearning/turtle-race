@@ -1,11 +1,11 @@
 \--- challenge \---
 
-## Challenge: More lines
+## Défi : Plus de lignes
 
-Can you change your code so that the track lines go right across the screen?
+Peux-tu changer ton code pour que les lignes de piste traversent l'écran?
 
-![screenshot](images/race-challenge1.png)
+![capture d’écran](images/race-challenge1.png)
 
-If you want to make the turtle go even faster you can use `speed(0)`.
+Si tu veux que la tortue aille encore plus vite, tu peux utiliser `speed(0)` .
 
 \--- /challenge \---
