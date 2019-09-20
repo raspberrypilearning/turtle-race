@@ -1,27 +1,27 @@
-## Racing turtles
+## Гоночные черепахи
 
-Now for the fun bit. Let's add some racing turtles. It would be really boring if the turtles did the same thing every time so they will move a random number of steps each turn. The winner is the turtle that gets the furthest in 100 turns.
+Время немного позабавиться. Давай добавит несколько гоночных черепашек. Было бы очень скучно, если черепашки совершали одни и те же действия каждый раз, так что пусть за каждую итерацию (за каждый проход цикла) каждая из черепашек делает случайное число шагов. Победителем будет назначена черепашка, прошедшая дальше всех за 100 итераций (100 проходов цикла).
 
-+ When you use commands like `forward(20)` you are using a single turtle. But you can create more turtles. Add the following code to the end of your script (but make sure it's not indented):
++ Когда ты используешь команды вроде `forward(20)`, ты командуешь одной черепашкой. Но ты можешь создать больше черепах. Добавь следующий код в конец скрипта (убедись, что он добавится без отступа):
     
-    ![screenshot](images/race-red.png)
+    ![снимок экрана](images/race-red.png)
     
-    The first line creates a turtle called 'ada'. The next lines set the colour and shape of the turtle. Now it really looks like a turtle!
+    Первая строка создает черепашку под названием «Ада». Следующие строки устанавливают цвет и форму черепашки. Теперь это действительно похоже на черепашку!
 
-+ Let's send the turtle to the starting line:
++ Давай отправим черепашку на стартовую линию:
     
-    ![screenshot](images/race-start.png)
+    ![снимок экрана](images/race-start.png)
 
-+ Now you need to make the turtle race by moving a random number of steps at a time. You'll need the `randint` function from the Python `random` library. Add this `import` line to the top of your script:
++ Теперь нужно научить черепаху передвигаться, делая случайное количество шагов за раз. Тебе понадобится функция `randint` (от random integer, т.е. случайное целое) из библиотеки `random` в Python. Добавь эту строку с `import` в верхнюю часть твоего скрипта:
     
-    ![screenshot](images/race-randint.png)
+    ![снимок экрана](images/race-randint.png)
 
-+ The `randint` function returns a random integer (whole number) between the values chosen. The turtle will move forward 1, 2, 3, 4, or 5 steps at each turn.
++ Функция `randint` возвращает случайное целое число в диапазоне между указанными значениями. Черепашка будет двигаться вперёд на 1, 2, 3, 4, или 5 шага за каждую итерацию (т.е. проход цикла).
     
-    ![screenshot](images/race-random.png)
+    ![снимок экрана](images/race-random.png)
 
-+ One turtle isn't much of a race! Let's add another one:
++ Не так уж много у нас черепах для гонки! Давай добавим ещё одну:
     
-    ![screenshot](images/race-blue.png)
+    ![снимок экрана](images/race-blue.png)
     
-    Note that the code for moving the blue turtle needs to be in **the same** `for` loop as the code for moving the red turtle so that they each make a move every turn.
+    Заметь, что код для перемещения синей черепашки должен располагаться в **том же** цикле `for`, что и код для перемещения красной черепашки, чтобы каждая из них передвигалась на каждой итерации.
