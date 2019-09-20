@@ -1,27 +1,27 @@
-## Racing turtles
+## Tortues de course
 
-Now for the fun bit. Let's add some racing turtles. It would be really boring if the turtles did the same thing every time so they will move a random number of steps each turn. The winner is the turtle that gets the furthest in 100 turns.
+Maintenant pour le plaisir. Ajoutons des tortues de course. Ce serait vraiment ennuyeux que les tortues fassent la même chose à chaque fois pour pouvoir faire un nombre aléatoire de pas à chaque tour. Le gagnant est la tortue la plus éloignée en 100 tours.
 
-+ When you use commands like `forward(20)` you are using a single turtle. But you can create more turtles. Add the following code to the end of your script (but make sure it's not indented):
++ Lorsque tu utilises des commandes telles que `forward(20)` tu utilises une seule tortue. Mais tu peux créer plus de tortues. Ajoute le code suivant à la fin de ton script (mais assures-toi qu'il ne soit pas en retrait):
     
-    ![screenshot](images/race-red.png)
+    ![capture d'écran](images/race-red.png)
     
-    The first line creates a turtle called 'ada'. The next lines set the colour and shape of the turtle. Now it really looks like a turtle!
+    La première ligne crée une tortue appelée 'ada'. Les lignes suivantes définissent la couleur et la forme de la tortue. Maintenant, ça ressemble vraiment à une tortue!
 
-+ Let's send the turtle to the starting line:
++ Envoyons la tortue à la ligne de départ:
     
-    ![screenshot](images/race-start.png)
+    ![capture d'écran](images/race-start.png)
 
-+ Now you need to make the turtle race by moving a random number of steps at a time. You'll need the `randint` function from the Python `random` library. Add this `import` line to the top of your script:
++ Maintenant, tu dois faire la course de tortue en déplaçant un nombre aléatoire de pas à la fois. Tu auras besoin de la fonction `randint` de la bibliothèque Python `random`. Ajoute cette ligne `import` en haut de ton script:
     
-    ![screenshot](images/race-randint.png)
+    ![capture d'écran](images/race-randint.png)
 
-+ The `randint` function returns a random integer (whole number) between the values chosen. The turtle will move forward 1, 2, 3, 4, or 5 steps at each turn.
++ La fonction `randint` renvoie un entier aléatoire (nombre entier) entre les valeurs choisies. La tortue avancera de 1, 2, 3, 4 ou 5 pas à chaque tour.
     
-    ![screenshot](images/race-random.png)
+    ![capture d'écran](images/race-random.png)
 
-+ One turtle isn't much of a race! Let's add another one:
++ Une tortue n'est pas assez ! Ajoutons-en une autre :
     
-    ![screenshot](images/race-blue.png)
+    ![capture d'écran](images/race-blue.png)
     
-    Note that the code for moving the blue turtle needs to be in **the same** `for` loop as the code for moving the red turtle so that they each make a move every turn.
+    Note que le code pour déplacer la tortue bleue doit être dans **le même** boucle `for` comme le code pour déplacer la tortue rouge afin qu’elles bougent à chaque tour.
