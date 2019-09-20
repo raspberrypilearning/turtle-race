@@ -1,11 +1,11 @@
 \--- challenge \---
 
-## Challenge: Do a twirl
+## Задача: сделать полный поворот
 
-Can you use a `for turn in range():` loop to make each turtle do a 360 degree twirl after they get to the starting line? You'll need to make sure they are facing in the right direction at the start of the race!
+Можешь ли ты использовать цикл `for turn in range():` для вращения каждой черепашки на 360 градусов после перемещения её на стартовую линию? Убедись, что черепашки смотрят в правильном направлении в момент начала гонки!
 
-`ada.right(36)` will turn the red turtle right by 36 degrees.
+`ada.right(36)` повернёт красную черепашку вправо (по часовой стрелке) на 36 градусов.
 
-**Hint:** A full turn is 360 degrees. A turtle could turn right 10 degrees 36 times, or left 5 degrees 72 times, or any other numbers make 360!
+**Подсказка:** Полный поворот составляет 360 градусов. Черепашка может повернуть вправо на 10 градусов 36 раз, или влево на 5 градусов 72 раза, или любые другие количества раз и градусов, которые при умножении дают 360!
 
 \--- /challenge \---
