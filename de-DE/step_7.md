@@ -1,6 +1,6 @@
 \--- challenge \---
 
-## Aufgabe: Gestrichelte Linien
+## Aufgabe: Bring die Schildkröte dazu, sich zu drehen
 
 Kannst du eine `for turn in range():` Schleife verwenden, damit jede Schildkröte eine 360-Grad-Drehung ausführt, nachdem sie an der Startlinie angekommen ist? Du musst sicherstellen, dass sie zu Beginn des Rennens in die richtige Richtung schauen!
 
