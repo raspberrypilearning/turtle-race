@@ -2,7 +2,7 @@
 
 ## Sfida: tempo di gara!
 
-Ora sei pronto per gareggiare. Scegli una tartaruga e un avversario, e guarda chi vince.
+Ora sei pronto per gareggiare. Scegli una tartaruga e un avversario e guarda chi vince.
 
 Riesci ad aggiungere altre tartarughe per correre con più amici?
 
