@@ -2,10 +2,10 @@
 
 ## Aufgabe: Gestrichelte Linien
 
-Kannst du eine Schleife verwenden, um die Spurlinien gestrichelt anstatt durchgehend zu zeichnen?
+Kannst du eine Schleife verwenden, um die Distanz Markierungen gestrichelt anstatt durchgehend zu zeichnen?
 
-![screenshot](images/race-finished.png)
+![Screenshot](images/race-finished.png)
 
-**Hinweis: ** finde den Code, der eine gerade Linie zeichnet. Versuche es `for`, `forward()`, `penup()` and `pendown()`
+**Hinweis: ** finde den Code, der eine gerade Linie zeichnet. Verwende dafür folgende Befehle: `for`, `forward()`, `penup()` und `pendown()`
 
 \--- /challenge \---
