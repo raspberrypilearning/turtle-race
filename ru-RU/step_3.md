@@ -1,57 +1,57 @@
-## Race track
+## Гоночная трасса
 
-You're going to create a game with racing turtles. First they'll need a race track.
+Тебе предлагается создать игру с гоночными черепахами. Для начала им понадобится гоночная трасса.
 
-+ Open the blank Python template Trinket: <a href="http://jumpto.cc/python-new" target="_blank">jumpto.cc/python-new</a>.
++ Открой пустой шаблон trinket для Python: <a href="http://jumpto.cc/python-new" target="_blank">jumpto.cc/python-new</a>.
 
-+ Add the following code to draw a line using the 'turtle':
++ Добавь следующий код, чтобы нарисовать линию, используя «черепашку» (turtle):
     
-    ![screenshot](images/race-forward.png)
+    ![снимок экрана](images/race-forward.png)
 
-+ Now let's use the turtle to draw some track markings for the race.
++ Теперь же давай используем черепашку, чтобы нарисовать размеченную трассу (трассу с пометками).
     
-    The turtle `write` function writes text to the screen.
+    Функция черепашки `write` выводит текст на экран.
     
-    Try it:
+    Попробуй:
     
-    ![screenshot](images/race-markings1.png)
+    ![снимок экрана](images/race-markings1.png)
 
-+ Now you need to fill in the numbers in between to create markings:
++ Теперь ты можешь заполнить промежутки числами для создания маркировки:
     
-    ![screenshot](images/race-markings2.png)
+    ![снимок экрана](images/race-markings2.png)
 
-+ Did you notice that your code is very repetitive? The only thing that changes is the number to write.
++ Заметил ли ты, что твой код часто повторяется? Единственное, что меняется, это число для вывода.
     
-    There's a better way of doing this in Python. You can use a `for` loop.
+    В Python есть лучший способ сделать то же самое. Ты можешь использовать цикл `for`.
     
-    Update your code to use a `for` loop:
+    Перепиши код, чтобы везде использовался цикл `for`:
     
-    ![screenshot](images/race-for.png)
+    ![снимок экрана](images/race-for.png)
 
-+ Hmm, that only prints numbers up to 4. In Python `range(5)` returns five numbers, from 0 up to 4. To get it to also return 5 you'll need to use `range(6)`:
++ Хм, в этот раз печатается только числа до 4. В Python `range(5)` возвращает пять чисел, от 0 до 4 (range переводится как диапазон). Чтобы получить также 5, тебе нужно использовать диапазон `range(6)`:
     
-    ![screenshot](images/race-range.png)
+    ![снимок экрана](images/race-range.png)
 
-+ Now we can draw some track markings. The turtle starts at coordinates (0,0) in the middle of the screen.
++ Теперь мы можем нарисовать несколько дорожных меток. Черепашка начинает с координат (0,0) в середине экрана.
     
-    Move the turtle to the top left instead:
+    Вместо этого перемести черепашку в верхний левый угол:
     
-    ![screenshot](images/race-goto.png)
+    ![снимок экрана](images/race-goto.png)
 
-+ Ah, you'll want to lift the pen up first!
++ Ах, тебе понадобится сначала поднять ручку!
     
-    ![screenshot](images/race-penup.png)
+    ![снимок экрана](images/race-penup.png)
 
-+ Instead of drawing a line horizontally, let's draw vertical lines to create a track:
++ Вместо того, чтобы рисовать линию по горизонтали, давай нарисуем вертикальные линии, чтобы создать беговую дорожку:
     
-    ![screenshot](images/race-lines.png)
+    ![снимок экрана](images/race-lines.png)
     
-    `right(90)` makes the turtle turn right 90 degrees (a right angle.) Moving `forward(10)` before putting the pen down leaves a small gap between the number and the start of the line. After drawing the line you lift up the pen and go `backward(160)` the length of the line plus the gap.
+    `right(90)` заставляет черепашку повернуть вправо на 90 градусов (на прямой угол). Перемещение `forward(10)` (т.е. вперёд на 10) перед тем, как опустить ручку, оставляет небольшой отступ между числом и началом линии. Когда линия нарисована, ты поднимаешь ручку и переходишь `backward(160)` (т.е. назад на 160) — это длина линии плюс отступ.
 
-+ It looks neater if you centre the numbers:
++ Выглядит немного лучше, если отцентрировать числа:
     
-    ![screenshot](images/race-center.png)
+    ![снимок экрана](images/race-center.png)
 
-+ And you can speed up the turtle so it draws faster:
++ И ты также можешь ускорить черепашку, чтобы отрисовка проходила быстрее:
     
-    ![screenshot](images/race-speed.png)
+    ![снимок экрана](images/race-speed.png)
