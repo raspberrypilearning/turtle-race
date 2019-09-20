@@ -1,11 +1,13 @@
 --- challenge ---
-## Aufgabe: Dreh dich mal 
 
-Kannst du eine `for turn in range():` (für drehen im Bereich()) Schleife wählen, damit jede Schildkröte sich um 360 Grad dreht, wenn sie an der Startlinie ist? Du wirst gewährleisten müssen, dass sie alle bei Rennbeginn in die richtige Richtung zeigen!
+## Aufgabe: Das Rennen kann losgehen!
 
-`ada.right(36)` wird die rote Schildkröte um 36 Grad nach rechts drehen. 
+Jetzt kannst du loslegen. Wähle eine Schildkröte und einen Gegner und beobachte, wer gewinnt.
 
-**Tipp:** Eine volle Drehung ist 360 Grad. Eine Schildkröte könnte sich 36 Mal rechts um 10 Grad drehen oder 72 Mal um 5 Grad links drehen oder jede andere beliebige Zahl, um 360 zu ergeben!
+Kannst du mehr Schildkröten hinzufügen, damit du gegen weitere Freunde antreten kannst?
 
+![Screenshot](images/race-more.png)
+
+Zu den Farben gehören: orange, purple, violet, tomato, turquoise, magenta und brown (das sind die Codes für jeweils Orange, Lila, Violett, Tomate, Türkis, Magenta und Braun) - oder gehe zu [jumpto.cc/colours](http://jumpto.cc/colours) und wähle jede Farbe, die du magst!
 
 --- /challenge ---

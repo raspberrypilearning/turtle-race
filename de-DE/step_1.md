@@ -1,6 +1,10 @@
-## Einführung
+## Einleitung
 
-In diesem Projekt wirst du Schleifen benutzen, um ein Schildkröten-Rennspiel zu erstellen und eine Rennstrecke aufzuzeichnen.  
+Zeichne mit Programmschleifen eine Rennstrecke und erstelle ein Rennspiel für Schildkröten.
+
+### Was du machen wirst
+
+Dieses Projekt ist eine Einführung in Schleifen basierend auf einem lustigen Rennspiel. Schleifen werden eingesetzt, um die Rennstrecke zu zeichnen und die Schildkröten in jeder Runde um eine zufällige Anzahl an Schritten zu bewegen. Wenn du das Spiel in einer Gruppe spielst, wählt jede Person eine Schildkröte aus und diejenige, die am weitesten kommt, ist der Gewinner.
 
 <div class="trinket">
   <iframe src="https://trinket.io/embed/python/9339862606?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
@@ -8,45 +12,24 @@ In diesem Projekt wirst du Schleifen benutzen, um ein Schildkröten-Rennspiel zu
   <img src="images/race-finished.png">
 </div>
 
-## Online Ressourcen
+### Was du lernen wirst
 
-__Dieses Projekt benutzt Python 3.__ Wir empfehlen die Nutzung von [trinket](https://trinket.io/), um Python online zu schreiben. Dieses Projekt enthält die folgenden Trinkets:
+Indem du das Schildkröten-Rennspiel erstellst, wirst du folgendes lernen:
 
-+ ['Turtle Race' starting point -- jumpto.cc/python-new](http://jumpto.cc/python-new)
++ Wie du `for` loops (Zählschleifen) in Python programmieren kannst
++ Wie du zufällige Zahlen in Python verwenden kannst
++ Wie du mit Python Turtle Linien in verschiedenen Farben malen kannst
 
-Es gibt auch ein Trinket, dass eine Lösungsvorlage für die Aufgaben enthält:
+Dieses Projekt umfasst Elemente aus den folgenden Teilen des [Raspberry Pi Digital Making Curriculums](http://rpf.io/curriculum){:target="_blank"}:
 
-+ [â€˜Turtle Raceâ€™ Finished -- trinket.io/python/9339862606](https://trinket.io/python/9339862606)
++ [Verwende grundlegende Programmierkonstrukte, um einfache Programme zu erstellen](https://www.raspberrypi.org/curriculum/programming/creator/){:target="_blank"}
 
-## Offline Ressourcen
-Dieses Projekt kann [offline beendet werden](https://www.codeclubprojects.org/en-GB/resources/python-working-offline/), falls gewünscht. Zugang zu den Projekt-Ressourcen ist durch das Klicken auf den „Projekt-Materialien“ Link für dieses Projekt möglich. Dieser Link enthält einen Abschnitt über „Projekt-Ressourcen“, die u.a. auch Ressourcen beinhalten, welche die Kinder benötigen, um dieses Projekt offline beenden zu können. Achten Sie darauf, dass jedes Kind Zugang zu einer Kopie dieser Ressourcen hat. Dieser Abschnitt enthält die folgenden Dateien:
+![iDEA](images/idea.png)
 
-+ turtle-race/turtle-race.py
+Wenn du dieses Projekt abschließt, sammelst du Punkte die dir zu einem Bronze "Digital Maker" iDEA-Abzeichen verhelfen können. Weitere Informationen findest du unter [idea.org.uk](https://idea.org.uk).
 
-Sie können eine fertig gestellte Version dieses Projekts im Abschnitt „Helfer Ressourcen“ finden, welcher u.a. Folgendes enthält:
+### Zusätzliche Informationen für Pädagogen
 
-+ turtle-race-finished/turtle-race.py
+Wenn du dieses Projekt ausdrucken möchtest, verwende die [druckerfreundliche Version](https://projects.raspberrypi.org/de-DE/projects/turtle-race/print){:target="_blank"}.
 
-(Alle der o.g. Ressourcen können auch als Projekt und Helfer `.zip` Dateien heruntergeladen werden.)
-
-## Lernziele
-+ „Für” Schleifen;
-+ Zufällig ausgewählt;
-+ Python Turtle Graphics
-
-Dieses Projekt deckt Elemente aus den folgenden Bereichen des [Raspberry Pi Lehrplans zur digitalen Produktion](http://rpf.io/curriculum):
-
-+ [Einfach Programmierungskonstrukte benutzen, um einfache Programme zu erstellen.](https://www.raspberrypi.org/curriculum/programming/creator)
-
-## Aufgaben
-+ Weitere Linien: Ändere die Anzahl der Male, in denen sich die Schleife wiederholt;
-+ Rennzeiten: Füge noch mehr Schildkröten hinzu, inklusive dem Hinzufügen von Code in einer Schleife;
-+ Dreh dich im Kreis: Veranlasse, dass sich die Schildkröte beim Start des Wettrennens im Kreis dreht, indem neue „für“ Schleifen geschrieben werden;
-+ Gestrichelte Linien:  Ändere die durchgehenden Linien zu gestrichelten Linien, dies erfordert eine geschachtelte Schleife.
-
-## Häufig gestellte Fragen (FAQ)
-+ Die Kinder müssen evtl. an den Doppelpunkt `:` am Ende eines `for` (für) erinnert werden, es ist leicht das zu übersehen. 
-+ Die verkehrte Einrückung stellt ein generelles Problem beim Schreiben von Schleifen dar.
-+ Die Kinder müssen evtl. daran erinnert werden, dass es keinen Freiraum im Code `forward(100)` (vorwärts(100)) geben darf.
-+ Die Kinder sollten gewährleisten, dass sie Worte wie 'color' (Farbe) und 'center' (mitte) in der Amerikanisch Englischen Schreibweise schreiben.
-
+Verwende den Link in der Fußzeile, um auf das GitHub-Repo für dieses Projekt zuzugreifen. Dieses enthält alle Ressourcen (einschließlich eines Beispiels für ein abgeschlossenes Projekt) im Ordner "de-DE/resources".
