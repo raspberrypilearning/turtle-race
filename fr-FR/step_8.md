@@ -1,11 +1,11 @@
 \--- challenge \---
 
-## Challenge: Dashed lines
+## Défi: Lignes pointillées
 
-Can you use a loop to make the track lines dashed instead of solid?
+Peux-tu utiliser une boucle pour que les lignes de tracé soient pointillées au lieu d'être pleines?
 
-![screenshot](images/race-finished.png)
+![capture d'écran](images/race-finished.png)
 
-**Hint:** Find the code that draws a straight line. Try using:`for`, `forward()`, `penup()` and `pendown()`
+**Indice:** Trouve le code qui trace une ligne droite. Essaie d’utiliser: `for` , `forward()` , `penup()` et `pendown()`
 
 \--- /challenge \---
