@@ -1,4 +1,4 @@
-## Tartarughe da corsa
+## Tartarughe in corsa
 
 Ora arriva la parte divertente. Aggiungiamo alcune tartarughe da corsa. Sarebbe davvero noioso se le tartarughe facessero la stessa cosa ogni volta; per questo si muoveranno di un numero casuale di passi ad ogni turno. La vincitrice è la tartaruga che arriva più lontana in 100 turni.
 

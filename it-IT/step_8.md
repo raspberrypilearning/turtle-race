@@ -1,4 +1,4 @@
---- /challenge ---
+--- challenge ---
 
 ## Sfida: linee tratteggiate
 
