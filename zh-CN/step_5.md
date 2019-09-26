@@ -12,7 +12,7 @@
     
     ![截图](images/race-start.png)
 
-+ 现在你需要通过一次移动一个随机步数来让乌龟赛跑。 您将需要 python `random` 库中的 `randint` 函数。 将这个`import`语句添加到你的程序的顶部:
++ 现在你需要通过一次移动一个随机步数来让乌龟赛跑。 您将需要调取python `random` 库中的 `randint` 函数。 将这个`import`语句添加到你的程序的顶部:
     
     ![截图](images/race-randint.png)
 
