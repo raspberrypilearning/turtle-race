@@ -6,6 +6,6 @@
 
 ![截图](images/race-finished.png)
 
-**Hint:**查找绘制一条虚线的代码。 尝试使用：`for`, `forward()`, `penup()` 以及 `pendown()`
+**Hint:**查找能绘制一条虚线的代码。 尝试使用：`for`, `forward()`, `penup()` 以及 `pendown()`
 
 \--- /challenge \---
