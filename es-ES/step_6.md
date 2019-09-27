@@ -8,6 +8,6 @@ Ahora estás listo para correr. Elige una tortuga y un oponente y mira quién ga
 
 ![captura de pantalla](images/race-more.png)
 
-Los colores incluyen: naranja, morado, violeta, tomate, turquesa, magenta y marrón, ¡o puedes ir a [jumpto.cc/colours](http://jumpto.cc/colours) y eligir cualquier color que te guste!
+Los colores incluyen: orange, purple, violet, tomato, turquoise, magenta y brown, ¡o puedes ir a [jumpto.cc/colours](http://jumpto.cc/colours) y elegir cualquier color que te guste!
 
 \--- /challenge \---
