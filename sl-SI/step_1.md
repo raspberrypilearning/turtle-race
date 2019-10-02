@@ -1,8 +1,8 @@
-## Introduction
+## Uvod
 
 Use loops to draw a race track and create a racing turtle game.
 
-### What you will make
+### Kaj boš ustvaril?
 
 This project introduces for loops through a fun turtle race game. Loops are used to draw the race track and to make the turtles move a random number of steps each turn. If you have a group of people to play the game, each person pick a turtle and the one that gets the furthest is the winner.
 
@@ -12,7 +12,7 @@ This project introduces for loops through a fun turtle race game. Loops are used
   <img src="images/race-finished.png">
 </div>
 
-### What you will learn
+### Kaj boste izvedeli?
 
 By making your turtle race game, you will learn how to:
 
@@ -20,7 +20,7 @@ By making your turtle race game, you will learn how to:
 + Use random numbers in Python
 + Draw lines in different colours with Python Turtle
 
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
+Ta projekt zajema elemente naslednjih sklopov [učnega načrta Raspberry Pi za digitalno ustvarjanje](http://rpf.io/curriculum){:target="_blank"}:
 
 + [Use basic programming constructs to create simple programs.](https://www.raspberrypi.org/curriculum/programming/creator/){:target="_blank"}
 
@@ -28,8 +28,8 @@ This project covers elements from the following strands of the [Raspberry Pi Dig
 
 Completion of this project will earn you points towards your bronze "Digital Maker" iDEA badge. For more information, visit [idea.org.uk](https://idea.org.uk).
 
-### Additional information for educators
+### Dodatne informacije za izobraževalce
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/turtle-race/print){:target="_blank"}.
+Če želite natisniti ta projekt, uporabite [tiskalniku prijazno različico](https://projects.raspberrypi.org/en/projects/turtle-race/print){:target="_blank"}.
 
-Use the link in the footer to access the GitHub repository for this project, which contains all resources (including an example finished project) in the 'en/resources' folder.
+Povezavo do GitHub repositorija, ki vsebuje tudi končni projekt (v mapi 'en/resources'), lahko najdete v nogi strani.
