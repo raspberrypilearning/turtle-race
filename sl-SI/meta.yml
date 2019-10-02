@@ -1,6 +1,6 @@
 ---
 hero_image: images/turtle-race.png
-theme: blue
+theme: modra
 duration: 2
 listed: true
 ingredient: false
@@ -18,9 +18,9 @@ version: 3
 last_tested: 2017-01-01
 steps:
   - 
-    title: Introduction
+    title: Uvod
   - 
-    title: What you will need
+    title: Kaj boste potrebovali?
   - 
     title: Race track
   - 
