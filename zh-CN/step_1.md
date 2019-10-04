@@ -20,7 +20,7 @@
 + 在Python中使用随机数
 + 使用Python Turtle绘制不同颜色的线条
 
-此项目涵盖了[树莓派 Raspberry Pi 数字制作课程](http://rpf.io/curriculum)的以下几方面内容{:target="_blank"}:
+此项目涵盖了[树莓派 Raspberry Pi 数字制作课程](http://rpf.io/curriculum){:target="_blank"}的以下几方面内容:
 
 + [使用基本的编程结构来创造简单的程序](https://www.raspberrypi.org/curriculum/programming/creator/){:target="_blank"}
 
