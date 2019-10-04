@@ -7,8 +7,8 @@ speed(0)
 penup()
 goto(-140, 140)
 
-for step in range(15):
-  write(step, align='center')
+for paso in range(15):
+  write(paso, align='center')
   right(90)
   for num in range(8):
     penup()
@@ -20,53 +20,53 @@ for step in range(15):
   left(90)
   forward(20)
 
-red = Turtle()
-red.color('red')
-red.shape('turtle')
+roja = Turtle()
+roja.color('red')
+roja.shape('turtle')
 
-red.penup()
-red.goto(-160, 100)
-red.pendown()
+roja.penup()
+roja.goto(-160, 100)
+roja.pendown()
 
 for turn in range(10):
-  red.right(36)
+  roja.right(36)
 
-blue = Turtle()
-blue.color('blue')
-blue.shape('turtle')
+azul = Turtle()
+azul.color('blue')
+azul.shape('turtle')
 
-blue.penup()
-blue.goto(-160, 70)
-blue.pendown()
+azul.penup()
+azul.goto(-160, 70)
+azul.pendown()
 
 for turn in range(72):
-  blue.left(5)
+  azul.left(5)
 
-green = Turtle()
-green.shape('turtle')
-green.color('yellow')
+verde = Turtle()
+verde.shape('turtle')
+verde.color('green')
 
-green.penup()
-green.goto(-160, 40)
-green.pendown()
+verde.penup()
+verde.goto(-160, 40)
+verde.pendown()
 
 for turn in range(60):
-  green.right(6)
+  verde.right(6)
 
-yellow = Turtle()
-yellow.shape('turtle')
-yellow.color('turquoise')
+amarillo = Turtle()
+amarillo.shape('turtle')
+amarillo.color('yellow')
 
-yellow.penup()
-yellow.goto(-160, 10)
-yellow.pendown()
+amarillo.penup()
+amarillo.goto(-160, 10)
+amarillo.pendown()
 
 for turn in range(30):
-  yellow.left(12)
+  amarillo.left(12)
 
 for turn in range(100):
-  red.forward(randint(1,5))
-  blue.forward(randint(1,5))
-  green.forward(randint(1,5))
-  yellow.forward(randint(1,5))
+  roja.forward(randint(1,5))
+  azul.forward(randint(1,5))
+  verde.forward(randint(1,5))
+  amarillo.forward(randint(1,5))
   

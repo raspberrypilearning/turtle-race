@@ -1,3 +1,4 @@
+---
 hero_image: images/turtle-race.png
 theme: blue
 duration: 2
@@ -5,8 +6,8 @@ listed: true
 ingredient: false
 copyedit: false
 curriculum: 1, design-0, programming-1, phys-comp-0, manufacture-0, community-0
-title: Carrera de Tortugas!
-description: ¡Haz que las tortugas compitan entre sí!
+title: '¡Carrera de tortugas!'
+description: '¡Haz que las tortugas compitan entre sí!'
 original_url: https://codeclubprojects.org/en-GB/python/turtle-race
 interests: games
 technologies: python
@@ -15,11 +16,12 @@ hardware: ''
 software: python
 version: 3
 last_tested: 2017-01-01
-steps: 
-- title: Introducción
-- title: Pista de carreras
-- title: 'Desafío: Más líneas'
-- title: Tortugas de carreras
-- title: 'Desafío: ¡Hora de correr!'
-- title: 'Desafío: Hacer una pirueta'
-- title: 'Desafío: Líneas discontinuas'
+steps:
+  - title: Introducción
+  - title: Lo que necesitarás
+  - title: Pista de carreras
+  - title: 'Desafío: Más líneas'
+  - title: Carreras de tortugas
+  - title: 'Desafío: ¡Hora de correr!'
+  - title: 'Desafío: Hacer una pirueta'
+  - title: 'Desafío: Líneas discontinuas'
