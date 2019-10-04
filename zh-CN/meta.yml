@@ -1,22 +1,27 @@
-hero_image: images/banner.png
+---
+hero_image: images/turtle-race.png
 theme: blue
 duration: 2
 listed: true
 ingredient: false
 copyedit: false
-curriculum: creator, design-0, programming-0, phys-comp-0, manufacture-0, community-0
-title: 海龟赛跑！
-description: 让海龟比赛跑步！
+curriculum: 1, design-0, programming-1, phys-comp-0, manufacture-0, community-0
+title: 乌龟赛跑！
+description: 让乌龟比赛跑步！
 original_url: https://codeclubprojects.org/en-GB/python/turtle-race
-interests: ''
+interests: games
 technologies: python
-site_areas: codeclub, python
+site_areas: projects
+hardware: ''
+software: python
+version: 3
+last_tested: 2017年1月1日
 steps:
-- title: 介绍
-- title: 跑道
-- title: '挑战：更多线条'
-- title: 赛跑的海龟
-- title: '挑战：比赛时间！'
-- title: '挑战：转弯'
-- title: '挑战：虚线'
-
+  - title: 介绍
+  - title: 你需要什么
+  - title: 赛道
+  - title: '挑战：更多线条'
+  - title: 赛跑的乌龟
+  - title: '挑战：比赛时间！'
+  - title: '挑战: 做一个旋转'
+  - title: '挑战：虚线'

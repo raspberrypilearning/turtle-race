@@ -1,46 +1,35 @@
 ## Introducción
 
-En este proyecto utilizaremos bucles para crear un juego de carrera de tortugas y dibujar una pista de carreras.  
+Usa bucles para dibujar una pista de carreras y crear un juego de carreras de tortugas.
+
+### Lo que harás
+
+Este proyecto introduce bucles for a través de un divertido juego de carreras de tortugas. Los bucles se utilizan para dibujar la pista de carreras y para hacer que las tortugas se muevan un número aleatorio de pasos cada turno. Si tienes un grupo de personas para jugar, cada persona elige una tortuga y la que llega más lejos es la ganadora.
 
 <div class="trinket">
-  <iframe src="https://trinket.io/embed/python/9339862606?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
+  <iframe src="https://trinket.io/embed/python/f212d9ae02?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
   </iframe>
-  <img src="race-finished.png">
+  <img src="images/race-finished.png">
 </div>
 
-## Recursos en Internet
+### Lo que aprenderás
 
-__Este proyecto utiliza Python 3.__ Recomendamos utilizar [trinket](https://trinket.io/) para escribir Python en internet. Este proyecto contiene las siguientes Trinkets:
+Al hacer tu juego de carreras de tortugas, aprenderás cómo:
 
-+ ['Turtle Race' starting point -- jumpto.cc/python-new](http://jumpto.cc/python-new)
++ Escribir bucles `for` en Python
++ Usar números aleatorios en Python
++ Dibujar líneas en diferentes colores con Python Turtle
 
-También hay un trinket que contiene una solución de ejemplo de los desafíos:
+Este proyecto incluye elementos de los siguientes aspectos del [currículo de creación digital de Raspberry Pi](http://rpf.io/curriculum){:target="_blank"}:
 
-+ [‘Turtle Race’ Finished -- trinket.io/python/9339862606](https://trinket.io/python/9339862606)
++ [Usar estructuras de programación básicas para crear programas simples.](https://www.raspberrypi.org/curriculum/programming/creator/){:target="_blank"}
 
-## Recursos fuera de Internet
-Este proyecto se puede [completed offline](https://www.codeclubprojects.org/en-GB/resources/python-working-offline/) si se prefiere. Puede acceder a los recursos del proyecto haciendo clic en el enlace de 'Project Materials' para este proyecto. Este enlace contiene una sección 'Project Resources', que incluye recursos que los niños necesitarán para completar este proyecto fuera de Internet. Asegúrese de que cada niño tiene acceso a una copia de estos recusos. Esta sección incluye los siguientes archivos:
+![iDEA](images/idea.png)
 
-+ turtle-race/turtle-race.py
+La finalización de este proyecto te permitirá ganar puntos para obtener la insignia iDEA "Digital Maker" de bronce. Para obtener más información, visite [idea.org.uk](https://idea.org.uk).
 
-También puede encontrar una versión completada de los desafíos de este proyecto en la sección 'Volunteer Resources', que contiene:
+### Información adicional para los educadores
 
-+ turtle-race-finished/turtle-race.py
+Si necesitas imprimir este proyecto, usa la [versión para imprimir](https://projects.raspberrypi.org/es-ES/projects/turtle-race/print){:target="_blank"}.
 
-(Todos los recursos anteriores también se pueden descargar como archivos `.zip` de proyecto y voluntario).
-
-## Objectivos de aprendizaje
-+ For bucles;
-+ Random;
-+ Gráficos de turtle de Python
-
-## Desafíos
-+ Más líneas - cambiar el número de veces que se repite un bucle;
-+ Número de carreras - añadir más tortugas, incluye añadir un código dentro de un bucle;
-+ Hacer una pirueta - hace que las tortugas giren al inicio escribiendo nuevos bucles `for`;
-+ Líneas discontinuas - cambia las líneas continuas en discontinuas, requiere un bucle anidado.
-
-## Preguntas frecuentes
-+ Puede que haga falta recordar a los niños sobre los dos puntos ':' al final de un `for` ya que es fácil olvidarlo.
-+ La sangría incorrecta es un problema frecuente cuando se escriben bucles.
-
+Usa el enlace en el pie de página para acceder al repositorio de GitHub para este proyecto, que contiene todos los recursos (incluyendo un ejemplo de un proyecto terminado) en la carpeta 'es-ES/resources'.
