@@ -7,10 +7,10 @@ speed(0)
 penup()
 goto(-140, 140)
 
-for cam in range(15):
-  write(cam, align='center')
+for korak in range(15):
+  write(korak, align='center')
   right(90)
-  for rhif in range(8):
+  for num in range(8):
     penup()
     forward(10)
     pendown()
@@ -20,53 +20,53 @@ for cam in range(15):
   left(90)
   forward(20)
 
-coch = Turtle()
-coch.color('red')
-coch.shape('turtle')
+crvena = Turtle()
+crvena.color('red')
+crvena.shape('turtle')
 
-coch.penup()
-coch.goto(-160, 100)
-coch.pendown()
+crvena.penup()
+crvena.goto(-160, 100)
+crvena.pendown()
 
-for tro in range(10):
-  coch.right(36)
+for krug in range(10):
+  crvena.right(36)
 
-glas = Turtle()
-glas.color('blue')
-glas.shape('turtle')
+plava = Turtle()
+plava.color('blue')
+plava.shape('turtle')
 
-glas.penup()
-glas.goto(-160, 70)
-glas.pendown()
+plava.penup()
+plava.goto(-160, 70)
+plava.pendown()
 
-for tro in range(72):
-  glas.left(5)
+for krug in range(72):
+  plava.left(5)
 
-gwyrdd = Turtle()
-gwyrdd.shape('turtle')
-gwyrdd.color('yellow')
+zelena = Turtle()
+zelena.shape('turtle')
+zelena.color('yellow')
 
-gwyrdd.penup()
-gwyrdd.goto(-160, 40)
-gwyrdd.pendown()
+zelena.penup()
+zelena.goto(-160, 40)
+zelena.pendown()
 
-for tro in range(60):
-  gwyrdd.right(6)
+for krug in range(60):
+  zelena.right(6)
 
-melyn = Turtle()
-melyn.shape('turtle')
-melyn.color('turquoise')
+zuta = Turtle()
+zuta.shape('turtle')
+zuta.color('turquoise')
 
-melyn.penup()
-melyn.goto(-160, 10)
-melyn.pendown()
+zuta.penup()
+zuta.goto(-160, 10)
+zuta.pendown()
 
-for tro in range(30):
-  melyn.left(12)
+for krug in range(30):
+  zuta.left(12)
 
-for tro in range(100):
-  coch.forward(randint(1,5))
-  glas.forward(randint(1,5))
-  gwyrdd.forward(randint(1,5))
-  melyn.forward(randint(1,5))
+for krug in range(100):
+  crvena.forward(randint(1,5))
+  plava.forward(randint(1,5))
+  zelena.forward(randint(1,5))
+  zuta.forward(randint(1,5))
   
