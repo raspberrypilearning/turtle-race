@@ -2,7 +2,7 @@
 
 Vas a crear un juego con carreras de tortugas. Primero necesitarán una pista de carreras.
 
-+ Abre la plantilla Python en blanco en Trinket: <a href="http://jumpto.cc/python-new" target="_blank">jumpto.cc/python-new</a>.
++ Abre la plantilla Python en blanco en Trinket: <a href="https://trinket.io/python/f69e360eb8" target="_blank">https://trinket.io/python/f69e360eb8</a>.
 
 + Añade el siguiente código para dibujar una línea usando la 'tortuga':
     
