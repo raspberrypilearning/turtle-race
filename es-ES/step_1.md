@@ -7,7 +7,7 @@ Usa bucles para dibujar una pista de carreras y crear un juego de carreras de to
 Este proyecto introduce bucles for a través de un divertido juego de carreras de tortugas. Los bucles se utilizan para dibujar la pista de carreras y para hacer que las tortugas se muevan un número aleatorio de pasos cada turno. Si tienes un grupo de personas para jugar, cada persona elige una tortuga y la que llega más lejos es la ganadora.
 
 <div class="trinket">
-  <iframe src="https://trinket.io/embed/python/f212d9ae02?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
+  <iframe src="https://trinket.io/embed/python/9d21bd95ea?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
   </iframe>
   <img src="images/race-finished.png">
 </div>
@@ -32,4 +32,4 @@ La finalización de este proyecto te permitirá ganar puntos para obtener la ins
 
 Si necesitas imprimir este proyecto, usa la [versión para imprimir](https://projects.raspberrypi.org/es-ES/projects/turtle-race/print){:target="_blank"}.
 
-Usa el enlace en el pie de página para acceder al repositorio de GitHub para este proyecto, que contiene todos los recursos (incluyendo un ejemplo de un proyecto terminado) en la carpeta 'es-ES/resources'.
+Usa el enlace en el pie de página para acceder al repositorio de GitHub para este proyecto, que contiene todos los recursos (incluyendo un ejemplo de un proyecto terminado) en la carpeta 'en/resources'.
