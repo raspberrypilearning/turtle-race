@@ -1,6 +1,6 @@
 ## Piste de course
 
-Tu vas créer un jeu avec des tortues de course. D'abord, ils auront besoin d'une piste de course.
+Tu vas créer un jeu avec des tortues de course. D'abord, elles auront besoin d'une piste de course.
 
 + Ouvre le modèle de Trinket Python vierge : <a href="http://jumpto.cc/python-new" target="_blank">jumpto.cc/python-new</a>.
 
@@ -24,7 +24,7 @@ Tu vas créer un jeu avec des tortues de course. D'abord, ils auront besoin d'un
     
     Il y a une meilleure façon de faire cela en Python. Tu peux utiliser une boucle `for`.
     
-    Met à jour ton code pour utiliser une boucle `for`:
+    Mets à jour ton code pour utiliser une boucle `for`:
     
     ![capture d'écran](images/race-for.png)
 
