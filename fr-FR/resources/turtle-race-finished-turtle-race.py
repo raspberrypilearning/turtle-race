@@ -7,8 +7,8 @@ speed(0)
 penup()
 goto(-140, 140)
 
-for step in range(15):
-  write(step, align='center')
+for etape in range(15):
+  write(etape, align='center')
   right(90)
   for num in range(8):
     penup()
@@ -28,7 +28,7 @@ red.penup()
 red.goto(-160, 100)
 red.pendown()
 
-for turn in range(10):
+for tourner in range(10):
   red.right(36)
 
 blue = Turtle()
@@ -39,7 +39,7 @@ blue.penup()
 blue.goto(-160, 70)
 blue.pendown()
 
-for turn in range(72):
+for tourner in range(72):
   blue.left(5)
 
 green = Turtle()
@@ -50,7 +50,7 @@ green.penup()
 green.goto(-160, 40)
 green.pendown()
 
-for turn in range(60):
+for tourner in range(60):
   green.right(6)
 
 yellow = Turtle()
@@ -61,10 +61,10 @@ yellow.penup()
 yellow.goto(-160, 10)
 yellow.pendown()
 
-for turn in range(30):
+for tourner in range(30):
   yellow.left(12)
 
-for turn in range(100):
+for tourner in range(100):
   red.forward(randint(1,5))
   blue.forward(randint(1,5))
   green.forward(randint(1,5))
