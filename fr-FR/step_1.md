@@ -32,4 +32,4 @@ La réalisation de ce projet te fera gagner des points pour ton badge bronze "Di
 
 Si vous besoin d'imprimer ce projet, merci d'utiliser la [version imprimable.](https://projects.raspberrypi.org/fr-FR/projects/turtle-race/print){:target="_blank"}.
 
-Utilisez le lien en bas de cette page pour accéder au dépôt GitHub de ce projet, qui contient toutes les ressources (y compris un exemple du projet terminé) dans le dossier 'en/ressources'.
+Utilisez le lien en bas de cette page pour accéder au dépôt GitHub de ce projet, qui contient toutes les ressources (y compris un exemple du projet terminé) dans le dossier 'en/resources'.
