@@ -1,6 +1,10 @@
 ## Introduction
 
-Au cours de ce projet, tu utiliseras des boucles pour créer un jeu de courses de tortues et dessiner une piste de course.
+Utilise des boucles pour dessiner une piste de course et crée un jeu de course de tortues.
+
+### Ce que tu feras
+
+Ce projet introduit les boucles dans un jeu amusant de course de tortues. Les boucles sont utilisées pour dessiner la piste de course et pour faire en sorte que les tortues fassent un nombre aléatoire de pas à chaque tour. Si tu as un groupe de personnes pour jouer au jeu, chaque personne choisit une tortue et celle qui obtient le plus loin est le gagnant.
 
 <div class="trinket">
   <iframe src="https://trinket.io/embed/python/9339862606?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
@@ -8,43 +12,24 @@ Au cours de ce projet, tu utiliseras des boucles pour créer un jeu de courses d
   <img src="images/race-finished.png">
 </div>
 
-## Ressources en-ligne
+### Ce que tu vas apprendre
 
-__Ce projet utilise Python 3.__ Nous recommandons l'utilisation de [Trinket](https://trinket.io/) pour écrire du code Python en-ligne. Ce projet contient les Trinkets suivants:
+En réalisant ton jeu de course de tortues, tu apprendras à:
 
-+ [Nouveau Trinket Python vierge -- jumpto.cc/python-new](http://jumpto.cc/python-new)
++ Écrire des boucles `for` en Python
++ Utiliser des numéros aléatoires en Python
++ Dessiner des lignes en différentes couleurs avec Python Turtle
 
-Il y a aussi un Trinket contenant le projet complété:
+Ce projet traite des éléments des sections suivantes du [Programme de Création Numérique Raspberry Pi](http://rpf.io/curriculum){:target="_blank"}:
 
-+ ["Course de tortues" complété -- trinket.io/python/9339862606](https://trinket.io/python/9339862606)
++ [Utilise des concepts de base de programmation pour créer des programmes simples](https://www.raspberrypi.org/curriculum/programming/creator/){:target="_blank"}
 
-## Resources hors-ligne
+![iDEA](images/idea.png)
 
-Ce projet peut être [complété hors-ligne](https://www.codeclubprojects.org/en-GB/resources/python-working-offline/) (page en Anglais) si désiré. Vous pouvez accéder aux ressources du projet en cliquant sur le lien "Matériaux du projet". Ce lien contient une section "Ressources du projet" qui inclus les ressources dont les enfants auront besoin pour compléter le projet hors-ligne. Assurez-vous que les enfants ont accès à une copie de ces ressources. Cette section inclus les fichiers suivants:
+La réalisation de ce projet te fera gagner des points pour ton badge bronze "Digital Maker" iDEA. Pour plus d'informations, visite [idea.org.uk](https://idea.org.uk).
 
-+ turtle-race/turtle-race.py
+### Informations supplémentaires pour les éducateurs
 
-Vous pouvez aussi trouver une version complétée du projet dans la section "Ressources du bénévole" qui contient:
+Si vous besoin d'imprimer ce projet, merci d'utiliser la [version imprimable.](https://projects.raspberrypi.org/fr-FR/projects/turtle-race/print){:target="_blank"}.
 
-+ turtle-race-finished/turtle-race.py
-
-(Toutes les ressources ci-dessus peuvent aussi être téléchargées dans les fichiers `.zip` projet et bénévole)
-
-## Objectifs d'apprentissage
-+ Boucles `for`;
-+ Nombres aléatoires avec `random`;
-+ Graphismes Python turtle.
-
-Ce projet couvre les éléments du fil suivant du [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum) (liens en Anglais):
-
-+ [Use basic programming constructs to create simple programs.](https://www.raspberrypi.org/curriculum/programming/creator)
-
-## Défis
-+ Plus de lignes - changer le nombre de fois qu'une boucle se répète;
-+ L'heure de la course! - ajouter des tortues, inclus l'ajout de code à l'intérieur d'une boucle;
-+ Fais une pirouette - faire tourner les tortues sur elles mêmes au départ par l'ajout de nouvelles boucles `for`;
-+ Lignes pointillées - changer les lignes continues en lignes pointillées, exige l'utilisation de boucles imbriquées.
-
-## Foire aux questions
-+ Les enfants peuvent avoir besoin de se faire rappeler l'utilisation des deux points `:` à la fin d'une instruction `for`, ils sont faciles à oublier;
-+ L'indentation incorrecte est un problème commun lors de l'écriture de boucles `for`;
+Utilisez le lien en bas de cette page pour accéder au dépôt GitHub de ce projet, qui contient toutes les ressources (y compris un exemple du projet terminé) dans le dossier 'en/resources'.

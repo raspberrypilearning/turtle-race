@@ -1,10 +1,13 @@
 --- challenge ---
-## Défi: Fais une pirouette 
 
-Peux-tu utiliser une boucle `for turn in range():` pour faire faire une pirouette de 360 degrés à chaque tortue après qu'elles aient atteint la ligne de départ? Tu devras t'assurer que les tortues pointent dans la bonne direction au départ de la course!
+## Défi: c'est l'heure de la course!
 
-`ada.right(36)` fera tourner la tortue rouge à droite de 36 degrés.
+Maintenant, tu es prêt à courir. Choisis une tortue et un adversaire et vois qui gagne.
 
-**Astuce:** Un tour complet est 360 degrés. Un tortue pourrait tourner à droite 10 degrés 36 fois, ou à gauche 5 degrés 72 fois, ou n'importe quelle autre combinaison qui fait 360!
+Peux-tu ajouter plus de tortues pour pouvoir faire la course avec plus d'amis?
+
+![capture d'écran](images/race-more.png)
+
+Les couleurs comprennent: orange, violet, tomate, turquoise, magenta et brun - ou tu peux aller à [jumpto.cc/colours](http://jumpto.cc/colours) et choisis n'importe quelle couleur que tu aimes!
 
 --- /challenge ---
