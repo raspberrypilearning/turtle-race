@@ -24,10 +24,6 @@ Ce projet traite des éléments des sections suivantes du [Programme de Créatio
 
 + [Utilise des concepts de base de programmation pour créer des programmes simples](https://www.raspberrypi.org/curriculum/programming/creator/){:target="_blank"}
 
-![iDEA](images/idea.png)
-
-La réalisation de ce projet te fera gagner des points pour ton badge bronze "Digital Maker" iDEA. Pour plus d'informations, visite [idea.org.uk](https://idea.org.uk).
-
 ### Informations supplémentaires pour les éducateurs
 
 Si vous besoin d'imprimer ce projet, merci d'utiliser la [version imprimable.](https://projects.raspberrypi.org/fr-FR/projects/turtle-race/print){:target="_blank"}.

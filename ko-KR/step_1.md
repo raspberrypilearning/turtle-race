@@ -24,10 +24,6 @@
 
 + [ 기본 프로그래밍 구조를 사용하여 간단한 프로그램 작성 ](https://www.raspberrypi.org/curriculum/programming/creator/){:target="_blank"}
 
-![iDEA](images/idea.png)
-
-이 프로젝트를 완료하면 브론즈 "Digital Maker" iDEA 배지 포인트를 얻을 수 있습니다. 자세한 내용은 [idea.org.uk](https://idea.org.uk)을 방문하십시오.
-
 ### 교육자를 위한 추가 정보
 
 이 프로젝트를 인쇄하려면 [프린트용 버전](https://projects.raspberrypi.org/ko-KR/projects/turtle-race/print){:target="_blank"}을 사용하십시오.
