@@ -24,10 +24,6 @@ Mae'r prosiect hwn yn cwmpasu elfennau o ffrydiau dilynol y [Cwricwlwm Creu Digi
 
 + [Defnyddiwch lluniadau rhaglennu sylfaenol i greu rhaglenni syml.](https://www.raspberrypi.org/curriculum/programming/creator/){:target="_blank"}
 
-![iDEA](images/idea.png)
-
-Bydd cwblhau'r prosiect hwn yn ennill pwyntiau i chi tuag at eich bathodyn iDEA "Maker digidol" efydd. Am fwy o wybodaeth, ewch i [idea.org.uk](https://idea.org.uk).
-
 ### Gwybodaeth ychwanegol ar gyfer addysgwyr
 
 Fersiwn ar gyfer argraffuOs oes angen i chi argraffu'r prosiect hwn, defnyddiwch y [fersiwn hwylus i'w argraffu](https://projects.raspberrypi.org/cy-GB/projects/turtle-race/print){:target="_blank"}.

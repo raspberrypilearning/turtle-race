@@ -24,10 +24,6 @@ Ovim projektom obuhvaćeni su elementi iz sljedećih dijelova [Raspberry Pi Digi
 
 + [Koristite osnovne programske konstrukcije za kreiranje jednostavnih programa.](https://www.raspberrypi.org/curriculum/programming/creator/){:target="_blank"}
 
-![iDEA](images/idea.png)
-
-Izradom ovog projekta dobićeš bodove za osvajanje bronzane iDEA značke "Digital Maker". Za više informacija, posjeti [idea.org.uk](https://idea.org.uk).
-
 ### Dodatne informacije za nastavnike
 
 Ukoliko je potrebno da odštampate ovaj projekat, koristite [verziju za štampu](https://projects.raspberrypi.org/me-ME/projects/turtle-race/print){:target="_blank"}.

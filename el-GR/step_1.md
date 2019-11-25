@@ -24,10 +24,6 @@
 
 + [Χρησιμοποίησε βασικές δομές προγραμματισμού για να δημιουργήσεις απλά προγράμματα](https://www.raspberrypi.org/curriculum/programming/creator/){:target="_blank"}
 
-![iDEA](images/idea.png)
-
-Η ολοκλήρωση αυτού του έργου θα σου δώσει πόντους για το χάλκινο σήμα "Digital Maker" iDEA. Για περισσότερες πληροφορίες, μπες στο [idea.org.uk](https://idea.org.uk).
-
 ### Πρόσθετες πληροφορίες για εκπαιδευτικούς
 
 Αν χρειαστεί να εκτυπώσεις αυτό το έργο, χρησιμοποίησε την [εκτυπώσιμη έκδοση](https://projects.raspberrypi.org/el-GR/projects/turtle-race/print)"{:target="_blank"}.

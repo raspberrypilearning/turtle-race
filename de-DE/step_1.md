@@ -24,10 +24,6 @@ Dieses Projekt umfasst Elemente aus den folgenden Teilen des [Raspberry Pi Digit
 
 + [Verwende grundlegende Programmierkonstrukte, um einfache Programme zu erstellen](https://www.raspberrypi.org/curriculum/programming/creator/){:target="_blank"}
 
-![iDEA](images/idea.png)
-
-Wenn du dieses Projekt abschließt, sammelst du Punkte die dir zu einem Bronze "Digital Maker" iDEA-Abzeichen verhelfen können. Weitere Informationen findest du unter [idea.org.uk](https://idea.org.uk).
-
 ### Zusätzliche Informationen für Pädagogen
 
 Wenn du dieses Projekt ausdrucken möchtest, verwende die [druckerfreundliche Version](https://projects.raspberrypi.org/de-DE/projects/turtle-race/print){:target="_blank"}.

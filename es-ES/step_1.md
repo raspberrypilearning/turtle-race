@@ -24,10 +24,6 @@ Este proyecto incluye elementos de los siguientes aspectos del [currículo de cr
 
 + [Usar estructuras de programación básicas para crear programas simples.](https://www.raspberrypi.org/curriculum/programming/creator/){:target="_blank"}
 
-![iDEA](images/idea.png)
-
-La finalización de este proyecto te permitirá ganar puntos para obtener la insignia iDEA "Digital Maker" de bronce. Para obtener más información, visite [idea.org.uk](https://idea.org.uk).
-
 ### Información adicional para los educadores
 
 Si necesitas imprimir este proyecto, usa la [versión para imprimir](https://projects.raspberrypi.org/es-ES/projects/turtle-race/print){:target="_blank"}.
