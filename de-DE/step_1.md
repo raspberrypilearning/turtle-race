@@ -24,12 +24,8 @@ Dieses Projekt umfasst Elemente aus den folgenden Teilen des [ Raspberry Pi Digi
 
 + [Verwende grundlegende Programmierkonstrukte, um einfache Programme zu erstellen ](https://www.raspberrypi.org/curriculum/programming/creator/){:target="_blank"}
 
-![iDEA](images/idea.png)
-
-Wenn du dieses Projekt abschließt, sammelst du Punkte die dir zu einem Bronze "Digital Maker" iDEA-Abzeichen verhelfen können. Weitere Informationen findest du unter [ idea.org.uk ](https://idea.org.uk).
-
 ### Zusätzliche Informationen für Pädagogen
 
-Wenn du dieses Projekt ausdrucken möchtest, verwende die [druckerfreundliche Version](https://projects.raspberrypi.org/en/projects/turtle-race/print){:target="_blank"}.
+If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/turtle-race/print){:target="_blank"}.
 
-Verwende den Link in der Fußzeile, um auf das GitHub-Repo für dieses Projekt zuzugreifen. Dieses enthält alle Ressourcen (einschließlich eines Beispiels für ein abgeschlossenes Projekt) im Ordner "de-DE/resources".
+Use the link in the footer to access the GitHub repository for this project, which contains all resources (including an example finished project) in the 'en/resources' folder.
