@@ -1,34 +1,34 @@
 ## Pista de corrida
 
-Você vai criar um jogo com as tartarugas de corrida. Primeiro eles precisam de uma pista de corrida.
+Você vai criar um jogo de corrida de tartarugas. Primeiro elas precisam de uma pista de corrida.
 
-+ No Trinket abra um modelo em branco do Python: <a href="http://jumpto.cc/python-new" target="_blank">jumpto.cc/python-new</a>.
++ Abra um modelo Python em branco no Trinket: <a href="http://jumpto.cc/python-new" target="_blank">jumpto.cc/python-new</a>.
 
 + Adicione o seguinte código para desenhar uma linha usando a 'tartaruga':
     
-    ![captura de tela](images/race-forward.png)
+    ![screenshot](images/race-forward.png)
 
 + Agora vamos usar a tartaruga para desenhar algumas marcas para a corrida.
     
-    A tartaruga `escreve` função escreve texto na tela.
+    A função turtle `write` escreve texto na tela.
     
     Tente:
     
     ![screenshot](images/race-markings1.png)
 
-+ Agora você precisa preencher os números para criar marcações:
++ Agora você precisa preencher os números intermediários para criar marcações:
     
-    ![captura de tela](images/race-markings2.png)
+    ![screenshot](images/race-markings2.png)
 
 + Você notou que seu código é muito repetitivo? A única coisa que muda é o número a ser escrito.
     
-    Existe uma maneira melhor de fazer isso em Python. Você pode usar um `para o loop`.
+    Existe uma maneira melhor de fazer isso em Python. Você pode usar um laço`for`.
     
-    Atualize seu código para usar um loop `para`:
+    Atualize seu código para usar um laço `for`:
     
     ![screenshot](images/race-for.png)
 
-+ Hmm, isso só imprime números até 4. No Python `, o intervalo (5)` retorna cinco números, de 0 a 4. Para que ele também retorne 5, você precisará usar o intervalo `(6)`:
++ Hmm, isso só imprime números até 4. No Python `range(5)` retorna cinco números, de 0 a 4. Para que ele também retorne 5, você precisará usar `range(6)`:
     
     ![screenshot](images/race-range.png)
 
@@ -46,12 +46,12 @@ Você vai criar um jogo com as tartarugas de corrida. Primeiro eles precisam de 
     
     ![screenshot](images/race-lines.png)
     
-    `direita (90)` faz com que a tartaruga vire à direita 90 graus (um ângulo reto). Movendo `para frente (10)` antes de colocar a caneta no chão, há um pequeno espaço entre o número e o início da linha. After drawing the line you lift up the pen and go `backward(160)` the length of the line plus the gap.
+    `right(90)` faz a tartaruga girar 90 graus para a direita (um ângulo reto). Movendo `forward(10)` antes de pousar a caneta, deixa um pequeno espaço entre o número e o início da linha. Após desenhar a linha, você levanta a caneta e volta `backward(160)` o comprimento da linha mais o espaço.
 
-+ Parece mais simples se você centralizar os números:
++ Fica mais nítido se você centralizar os números:
     
     ![screenshot](images/race-center.png)
 
-+ E você pode acelerar a tartaruga para que ela seja mais rápida:
++ E você pode acelerar a tartaruga para que ela desenhe mais rápido:
     
     ![screenshot](images/race-speed.png)
