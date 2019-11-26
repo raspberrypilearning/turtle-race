@@ -24,12 +24,8 @@ Detta projekt omfattar element från följande rader av [Raspberry Pi Digital Ma
 
 + [Använd grundläggande programmeringskonstruktioner för att skapa enkla program.](https://www.raspberrypi.org/curriculum/programming/creator/){: target = "_ blank"}
 
-![aning](images/idea.png)
-
-Genomförandet av detta projekt kommer att tjäna poäng mot ditt iDEA-märke i brons "Digital Maker". För mer information, besök [idea.org.uk](https://idea.org.uk).
-
 ### Ytterligare information för lärare
 
-Om du behöver skriva ut det här projektet, använd den [-skrivarvänliga versionen](https://projects.raspberrypi.org/en/projects/turtle-race/print){: target = "_ blank"}.
+If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/turtle-race/print){:target="_blank"}.
 
-Använd länken i sidfoten för att komma åt GitHub-förvaret för det här projektet, som innehåller alla resurser (inklusive ett exempel färdigt projekt) i mappen "en / resurser".
+Use the link in the footer to access the GitHub repository for this project, which contains all resources (including an example finished project) in the 'en/resources' folder.
