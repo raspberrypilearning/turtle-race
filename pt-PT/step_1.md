@@ -24,10 +24,6 @@ Este projeto abrange elementos das seguintes vertentes do [Raspberry Pi Digital 
 
 + [Use construções básicas de programação para criar programas simples.](https://www.raspberrypi.org/curriculum/programming/creator/){: target = "_ blank"}
 
-![iDEA](images/idea.png)
-
-Completion of this project will earn you points towards your bronze "Digital Maker" iDEA badge. For more information, visit [idea.org.uk](https://idea.org.uk).
-
 ### Informações adicionais para educadores
 
 If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/turtle-race/print){:target="_blank"}.
