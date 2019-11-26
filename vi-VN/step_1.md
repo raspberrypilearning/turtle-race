@@ -24,12 +24,8 @@ Dự án này bao gồm các yếu tố từ các chuỗi sau đây của chươ
 
 + [Sử dụng các cấu trúc lập trình cơ bản để tạo các chương trình đơn giản.](https://www.raspberrypi.org/curriculum/programming/creator/){: target = "_ blank"}
 
-![ý kiến](images/idea.png)
-
-Việc hoàn thành dự án này sẽ giúp bạn kiếm được điểm cho huy hiệu iDEA "Digital Maker" đồng của bạn. Để biết thêm thông tin, hãy truy cập [idea.org.uk](https://idea.org.uk).
-
 ### Thông tin bổ sung dành cho nhà giáo dục
 
-Nếu bạn cần in dự án này, vui lòng sử dụng phiên bản [thân thiện với máy in](https://projects.raspberrypi.org/en/projects/turtle-race/print){: target = "_ blank"}.
+If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/turtle-race/print){:target="_blank"}.
 
-Sử dụng liên kết ở chân trang để truy cập kho lưu trữ GitHub cho dự án này, chứa tất cả các tài nguyên (bao gồm một ví dụ đã hoàn thành dự án) trong thư mục 'en / resources'.
+Use the link in the footer to access the GitHub repository for this project, which contains all resources (including an example finished project) in the 'en/resources' folder.
