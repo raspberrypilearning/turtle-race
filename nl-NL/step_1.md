@@ -24,12 +24,8 @@ Dit project behandelt elementen uit de volgende onderdelen van het [Raspberry Pi
 
 + [Gebruik basale programmeerconstructies om eenvoudige programma's te maken.](https://www.raspberrypi.org/curriculum/programming/creator/){:target="_ blank"}
 
-![iDEA](images/idea.png)
-
-Als je dit project voltooit, krijg je punten voor je bronzen iDEA-badge "Digital Maker". Ga naar [idea.org.uk](https://idea.org.uk) voor meer informatie.
-
 ### Aanvullende informatie voor clubleiders
 
-Als je dit project wilt afdrukken, gebruik dan de [printervriendelijke versie](https://projects.raspberrypi.org/en/projects/turtle-race/print){:target="_blank"}.
+If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/turtle-race/print){:target="_blank"}.
 
-Gebruik de link in de voettekst voor toegang tot de GitHub opslagplaats voor dit project, met daarin alle bronnen (inclusief een voorbeeld van een voltooid project) in de map ' nl-NL/resources'.
+Use the link in the footer to access the GitHub repository for this project, which contains all resources (including an example finished project) in the 'en/resources' folder.
