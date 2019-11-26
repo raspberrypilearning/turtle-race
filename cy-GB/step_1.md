@@ -24,12 +24,8 @@ Mae'r prosiect hwn yn cwmpasu elfennau o ffrydiau dilynol y [Cwricwlwm Creu Digi
 
 + [Defnyddiwch lluniadau rhaglennu sylfaenol i greu rhaglenni syml.](https://www.raspberrypi.org/curriculum/programming/creator/) {:target="_blank"}
 
-![iDEA](images/idea.png)
-
-Bydd cwblhau'r prosiect hwn yn ennill pwyntiau i chi tuag at eich bathodyn iDEA "Maker digidol" efydd. Am fwy o wybodaeth, ewch i [idea.org.uk](https://idea.org.uk).
-
 ### Gwybodaeth ychwanegol ar gyfer addysgwyr
 
-Fersiwn ar gyfer argraffuOs oes angen i chi argraffu'r prosiect hwn, defnyddiwch y [fersiwn hwylus i'w argraffu](https://projects.raspberrypi.org/en/projects/turtle-race/print){:target="_blank"}.
+If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/turtle-race/print){:target="_blank"}.
 
-Defnyddiwch y ddolen yn y troedyn i gael gafael ar y storfa GitHub ar gyfer y prosiect hwn, sy'n cynnwys holl adnoddau (gan gynnwys enghraifft o brosiect gorffenedig) yn y ffolder 'en/resources'.
+Use the link in the footer to access the GitHub repository for this project, which contains all resources (including an example finished project) in the 'en/resources' folder.
