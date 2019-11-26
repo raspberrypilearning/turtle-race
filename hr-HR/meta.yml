@@ -1,3 +1,4 @@
+---
 hero_image: images/turtle-race.png
 theme: blue
 duration: 2
@@ -5,8 +6,8 @@ listed: true
 ingredient: false
 copyedit: false
 curriculum: 1, design-0, programming-1, phys-comp-0, manufacture-0, community-0
-title: Utrka kornjača
-description: U ovom projektu koristit ćeš petlje kako bi napravio utrku kornjača i nacrtao trkalište.
+title: Utrka kornjača!
+description: Neka se kornjače utrkuju jedna protiv druge!
 original_url: https://codeclubprojects.org/en-GB/python/turtle-race
 interests: games
 technologies: python
@@ -15,5 +16,12 @@ hardware: ''
 software: python
 version: 3
 last_tested: 2017-01-01
-steps: 
-- title: Utrka kornjača
+steps:
+  - title: Uvod
+  - title: Trebat ćeš
+  - title: Trkalište
+  - title: 'Izazov: Dodaj još linija'
+  - title: Kornjače za utrku
+  - title: 'Izazov: Vrijeme je za utrku!'
+  - title: 'Izazov: Napravi zaokret'
+  - title: 'Izazov: Isprekidane linije'

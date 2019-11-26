@@ -7,10 +7,10 @@ speed(0)
 penup()
 goto(-140, 140)
 
-for step in range(15):
-  write(step, align='center')
+for korak in range(15):
+  write(korak, align='center')
   right(90)
-  for num in range(8):
+  for broj in range(8):
     penup()
     forward(10)
     pendown()
@@ -20,53 +20,53 @@ for step in range(15):
   left(90)
   forward(20)
 
-red = Turtle()
-red.color('red')
-red.shape('turtle')
+crvena = Turtle()
+crvena.color('red')
+crvena.shape('turtle')
 
-red.penup()
-red.goto(-160, 100)
-red.pendown()
+crvena.penup()
+crvena.goto(-160, 100)
+crvena.pendown()
 
-for turn in range(10):
-  red.right(36)
+for zaokret in range(10):
+  crvena.right(36)
 
-blue = Turtle()
-blue.color('blue')
-blue.shape('turtle')
+plava = Turtle()
+plava.color('blue')
+plava.shape('turtle')
 
-blue.penup()
-blue.goto(-160, 70)
-blue.pendown()
+plava.penup()
+plava.goto(-160, 70)
+plava.pendown()
 
-for turn in range(72):
-  blue.left(5)
+for zaokret in range(72):
+  plava.left(5)
 
-green = Turtle()
-green.shape('turtle')
-green.color('yellow')
+zelena = Turtle()
+zelena.shape('turtle')
+zelena.color('yellow')
 
-green.penup()
-green.goto(-160, 40)
-green.pendown()
+zelena.penup()
+zelena.goto(-160, 40)
+zelena.pendown()
 
-for turn in range(60):
-  green.right(6)
+for zaokret in range(60):
+  zelena.right(6)
 
-yellow = Turtle()
-yellow.shape('turtle')
-yellow.color('turquoise')
+zuta = Turtle()
+zuta.shape('turtle')
+zuta.color('turquoise')
 
-yellow.penup()
-yellow.goto(-160, 10)
-yellow.pendown()
+zuta.penup()
+zuta.goto(-160, 10)
+zuta.pendown()
 
-for turn in range(30):
-  yellow.left(12)
+for zaokret in range(30):
+  zuta.left(12)
 
-for turn in range(100):
-  red.forward(randint(1,5))
-  blue.forward(randint(1,5))
-  green.forward(randint(1,5))
-  yellow.forward(randint(1,5))
+for zaokret in range(100):
+  crvena.forward(randint(1,5))
+  plava.forward(randint(1,5))
+  zelena.forward(randint(1,5))
+  zuta.forward(randint(1,5))
   
