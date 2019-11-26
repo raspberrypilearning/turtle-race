@@ -24,12 +24,8 @@ Questo progetto include elementi tratti dalle seguenti componenti del [Digital M
 
 + [Utilizzare i costrutti base di un linguaggio di programmazione per creare programmi semplici](https://www.raspberrypi.org/curriculum/programming/creator/){:target="_blank"}
 
-![iDEA](images/idea.png)
-
-Il completamento di questo progetto ti farà guadagnare punti per il tuo badge di bronzo iDEA "Digital Maker". Per ulteriori informazioni, visita [idea.org.uk](https://idea.org.uk).
-
 ### Informazioni aggiuntive per gli educatori
 
-Se intendete stampare questo progetto, cliccate su [Versione stampabile](https://projects.raspberrypi.org/en/projects/turtle-race/print){:target="_blank"}.
+If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/turtle-race/print){:target="_blank"}.
 
-Cliccate il link a piè di pagina per accedere alla repository di GitHub relativa a questo progetto, che contiene tutte le risorse necessarie (incluso un esempio di progetto completo) nella cartella 'en/resources'.
+Use the link in the footer to access the GitHub repository for this project, which contains all resources (including an example finished project) in the 'en/resources' folder.
