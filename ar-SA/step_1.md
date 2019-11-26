@@ -24,12 +24,8 @@
 
 + [استخدام تراكيب البرمجة الأساسية لإنشاء برامج بسيطة]. <a "https://www.raspberrypi.org/curriculum/programming/creator/">
 
-![iDEA](images/idea.png)
-
-سيكسبك إنجاز هذا المشروع نقاطاً نحو شارة iDEA البرونزية "Digital Maker". لمزيد من المعلومات، يرجى زيارة [idea.org.uk](https://idea.org.uk).
-
 ### معلومات إضافية للمعلمين
 
-إذا كنت بحاجة إلى طباعة هذا المشروع، فالرجاء استخدام [نسخة متوافقة مع الطابعة](https://projects.raspberrypi.org/en/projects/turtle-race/print){:target="_blank"}.
+If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/turtle-race/print){:target="_blank"}.
 
-استخدم الرابط الموجود في تذييل الصفحة للوصول إلى مستودع GitHub لهذا المشروع، الذي يحتوي على كل الموارد (ومنها مثال لمشروع مكتمل) في المجلد 'ar-Sa/resources'.
+Use the link in the footer to access the GitHub repository for this project, which contains all resources (including an example finished project) in the 'en/resources' folder.
