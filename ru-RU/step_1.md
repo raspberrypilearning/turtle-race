@@ -24,12 +24,8 @@
 
 + [Используйте базовые конструкции программирования для создания простых программ](https://www.raspberrypi.org/curriculum/programming/creator/){: target = "_ blank"}
 
-![iDEA](images/idea.png)
-
-Завершение этого проекта принесёт тебе очки в счёт твоего бронзового значка «Цифровой изготовитель (Digital Maker)» iDEA. Для получения дополнительной информации посети [idea.org.uk](https://idea.org.uk).
-
 ### Дополнительная информация для преподавателей
 
-Если вы хотите напечатать этот проект, то воспользуйтесь [версией для печати](https://projects.raspberrypi.org/en/projects/turtle-race/print) {:target="_blank"}.
+If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/turtle-race/print){:target="_blank"}.
 
-Используйте ссылку в нижнем колонтитуле (в самом низу сайта) для доступа к репозиторию GitHub для этого проекта, который содержит все ресурсы (включая пример завершённого проекта) в папке «en/resources».
+Use the link in the footer to access the GitHub repository for this project, which contains all resources (including an example finished project) in the 'en/resources' folder.
