@@ -1,11 +1,11 @@
-\--- desafio \---
+\--- challenge \---
 
 ## Desafio: linhas tracejadas
 
-Você pode usar um loop para tornar as linhas tracejadas em vez de sólidas?
+Você pode usar um laço para fazer as linhas da pista ficarem tracejadas em vez de sólidas?
 
 ![screenshot](images/race-finished.png)
 
-**Hint:** Find the code that draws a straight line. Try using:`for`, `forward()`, `penup()` and `pendown()`
+**Dica:** Encontre o código que desenha uma linha reta. Tente usar:`for`, `forward()`, `penup()` e `pendown()`
 
 \--- /challenge \---
