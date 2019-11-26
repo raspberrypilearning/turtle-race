@@ -1,6 +1,6 @@
 ## Trkalište
 
-Napravit ćeš igru u kojoj se utrkuju kornjače, ali prvo im treba trkalište.
+Napraviti ćeš igru u kojoj se utrkuju kornjače, ali prvo im treba trkalište.
 
 + Otvori prazan Python predložak u Trinketu: <a href="http://jumpto.cc/python-new" target="_blank">jumpto.cc/python-new</a>.
 
