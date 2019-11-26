@@ -24,12 +24,8 @@
 
 + [使用基本的编程结构来创造简单的程序](https://www.raspberrypi.org/curriculum/programming/creator/){:target="_blank"}
 
-![iDEA](images/idea.png)
-
-通过完成此项目，您将获得积分用以赢取“Digital Maker”的iDEA青铜徽章。更多有关信息，请访问[ idea.org.uk ](https://idea.org.uk) 。
-
 ### 教师参考信息
 
-如果您需要打印本项目文件，请使用[适合打印版本](https://projects.raspberrypi.org/en/projects/turtle-race/print){:target="_blank"}。
+If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/turtle-race/print){:target="_blank"}.
 
-使用页脚中的链接访问此项目的GitHub资源库，在'en/resources'文件夹中包含了所有资源（包括一个已完成的项目示例）。
+Use the link in the footer to access the GitHub repository for this project, which contains all resources (including an example finished project) in the 'en/resources' folder.
