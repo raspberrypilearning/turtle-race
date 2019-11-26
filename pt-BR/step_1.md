@@ -4,7 +4,7 @@ Use laços para desenhar uma pista de corrida e criar um jogo de corrida de tart
 
 ### O que você vai fazer
 
-Este projeto introduz para loops através de um divertido jogo de corrida de tartaruga. Loops são usados ​​para desenhar a pista de corrida e fazer as tartarugas moverem um número aleatório de passos a cada turno. Se você tem um grupo de pessoas para jogar, cada pessoa escolhe uma tartaruga e a que mais se aproxima é a vencedora.
+Este projeto introduz laços "for" através de um divertido jogo de corrida de tartarugas. Laços são usados ​​para desenhar a pista de corrida e fazer as tartarugas moverem um número aleatório de passos a cada vez. Se você tem um grupo de pessoas para jogar, cada pessoa escolhe uma tartaruga e a que chegar mais distante é a vencedora.
 
 <div class="trinket">
   <iframe src="https://trinket.io/embed/python/9339862606?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
@@ -17,19 +17,15 @@ Este projeto introduz para loops através de um divertido jogo de corrida de tar
 Ao fazer o seu jogo de corrida de tartarugas, você aprenderá a:
 
 + Escrever laços `for` em Python
-+ Usar o gerador de números aleatórios em Python
++ Usar números aleatórios em Python
 + Desenhar linhas de cores diferentes com Python Turtle
 
 Este projeto abrange elementos das seguintes vertentes do [Currículo de Criação Digital Raspberry Pi](http://rpf.io/curriculum){:target="_blank"}:
 
 + [Use construções básicas de programação para criar programas simples](https://www.raspberrypi.org/curriculum/programming/creator/){:target="_blank"}
 
-![iDEA](images/idea.png)
-
-Completion of this project will earn you points towards your bronze "Digital Maker" iDEA badge. For more information, visit [idea.org.uk](https://idea.org.uk).
-
 ### Informações adicionais para educadores
 
-Se você precisar imprimir este projeto, por favor, use a [versão para impressão](https://projects.raspberrypi.org/en/projects/turtle-race/print){:target="_blank"}.
+If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/turtle-race/print){:target="_blank"}.
 
-Use o link no rodapé para acessar o repositório do GitHub para este projeto, que contém todos os recursos (incluindo um exemplo de projeto concluído) na pasta 'en / resources'.
+Use the link in the footer to access the GitHub repository for this project, which contains all resources (including an example finished project) in the 'en/resources' folder.
