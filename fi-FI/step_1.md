@@ -24,12 +24,8 @@ Tämä projekti kattaa elementit seuraavista [Vadelma Pi Digital Making -opetuss
 
 + [Käytä yksinkertaisia ​​ohjelmointirakenteita yksinkertaisten ohjelmien luomiseen.](https://www.raspberrypi.org/curriculum/programming/creator/){: target = "_ tyhjä"}
 
-![idea](images/idea.png)
-
-Tämän projektin loppuun saat ansaita pisteitä kohti pronssia "Digital Maker" iDEA -merkki. Lisätietoja on osoitteessa [idea.org.uk](https://idea.org.uk).
-
 ### Lisätiedot kasvattajille
 
-Jos haluat tulostaa tämän projektin, käytä [tulostusystävällistä versiota](https://projects.raspberrypi.org/en/projects/turtle-race/print){: target = "_ blank"}.
+If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/turtle-race/print){:target="_blank"}.
 
-Käytä alatunnisteen linkkiä päästäksesi tämän hankkeen GitHub-arkistoon, joka sisältää kaikki resurssit (mukaan lukien esimerkki valmiista projekteista) 'en / resources' -kansiossa.
+Use the link in the footer to access the GitHub repository for this project, which contains all resources (including an example finished project) in the 'en/resources' folder.
