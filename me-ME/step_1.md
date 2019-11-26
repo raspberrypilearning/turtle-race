@@ -24,12 +24,8 @@ Ovim projektom obuhvaćeni su elementi iz sljedećih dijelova [Raspberry Pi Digi
 
 + [Koristite osnovne programske konstrukcije za kreiranje jednostavnih programa.](https://www.raspberrypi.org/curriculum/programming/creator/){:target="_blank"}
 
-![iDEA](images/idea.png)
-
-Izradom ovog projekta dobićeš bodove za osvajanje bronzane iDEA značke "Digital Maker". Za više informacija, posjeti [idea.org.uk](https://idea.org.uk).
-
 ### Dodatne informacije za nastavnike
 
-Ukoliko je potrebno da odštampate ovaj projekat, koristite [verziju za štampu](https://projects.raspberrypi.org/en/projects/turtle-race/print){:target="_blank"}.
+If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/turtle-race/print){:target="_blank"}.
 
-Koristite link koji se nalazi u podnožju stranice da pristupite GitHub repozitorijumu za ovaj projekat, koji sadrži sve izvore (uključujući primjer završenog projekta) u 'en/resources' folderu.
+Use the link in the footer to access the GitHub repository for this project, which contains all resources (including an example finished project) in the 'en/resources' folder.
