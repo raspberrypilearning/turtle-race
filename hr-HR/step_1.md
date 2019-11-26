@@ -20,7 +20,7 @@ Izradom igre utrke kornjača naučit ćeš kako:
 + Koristiti nasumične brojeve u Pythonu
 + Nacrtati linije različitih boja sa Python Turtle-om
 
-Ovaj projekt obuhvaća elemente iz sljedećih dijelova [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum) nastavnog plana i programa{:target="_blank"}:
+Ovaj projekt obuhvaća elemente iz sljedećih dijelova [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"} nastavnog plana i programa:
 
 + [Korištenje osnova programiranja za izradu jednostavnih programa](https://www.raspberrypi.org/curriculum/programming/creator/){:target="_blank"}
 

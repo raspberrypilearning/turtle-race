@@ -18,7 +18,7 @@ version: 3
 last_tested: 2017-01-01
 steps:
   - title: Uvod
-  - title: Ono što će vam trebati
+  - title: Trebat ćeš
   - title: Trkalište
   - title: 'Izazov: Dodaj još linija'
   - title: Kornjače za utrku
