@@ -6,19 +6,19 @@ listed: true
 ingredient: false
 copyedit: false
 curriculum: 1, design-0, programming-1, phys-comp-0, manufacture-0, community-0
-title: Turtle Race!
-description: Race turtles against each other!
+title: 烏龜賽跑！
+description: 烏龜們比賽跑步！
 original_url: https://codeclubprojects.org/en-GB/python/turtle-race
-interests: games
+interests: 比賽
 technologies: python
-site_areas: projects
+site_areas: 專案
 hardware: ''
 software: python
 version: 3
 last_tested: 2017-01-01
 steps:
   - 
-    title: Introduction
+    title: 簡介
   - 
     title: What you will need
   - 
