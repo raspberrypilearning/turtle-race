@@ -26,6 +26,6 @@
 
 ### Дополнительная информация для преподавателей
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/turtle-race/print){:target="_blank"}.
+Если вам нужно распечатать этот проект, пожалуйста, используйте [ версию для печати](https://projects.raspberrypi.org/en/projects/turtle-race/print) {:target="_blank"}.
 
-Use the link in the footer to access the GitHub repository for this project, which contains all resources (including an example finished project) in the 'en/resources' folder.
+Используйте ссылку в подвале для доступа к GitHub репозиторию этого проекта, в котором содержатся все материалы (включая пример готового проекта) в папке 'en / resources'.
