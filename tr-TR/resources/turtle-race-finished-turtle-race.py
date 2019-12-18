@@ -1,4 +1,5 @@
 #!/bin/python3
+# translated by Volkan ÇEVİK into Turkish
 
 from turtle import *
 from random import randint
@@ -7,10 +8,10 @@ speed(0)
 penup()
 goto(-140, 140)
 
-for step in range(15):
-  write(step, align='center')
+for kademe in range(15):
+  write(kademe, align='center')
   right(90)
-  for num in range(8):
+  for rakam in range(8):
     penup()
     forward(10)
     pendown()
@@ -20,53 +21,53 @@ for step in range(15):
   left(90)
   forward(20)
 
-red = Turtle()
-red.color('red')
-red.shape('turtle')
+ipek = Turtle()
+ipek.color('red')
+ipek.shape('turtle')
 
-red.penup()
-red.goto(-160, 100)
-red.pendown()
+ipek.penup()
+ipek.goto(-160, 100)
+ipek.pendown()
 
-for turn in range(10):
-  red.right(36)
+for sira in range(10):
+  ipek.right(36)
 
-blue = Turtle()
-blue.color('blue')
-blue.shape('turtle')
+ceyda = Turtle()
+ceyda.color('blue')
+ceyda.shape('turtle')
 
-blue.penup()
-blue.goto(-160, 70)
-blue.pendown()
+ceyda.penup()
+ceyda.goto(-160, 70)
+ceyda.pendown()
 
-for turn in range(72):
-  blue.left(5)
+for sira in range(72):
+  ceyda.left(5)
 
-green = Turtle()
-green.shape('turtle')
-green.color('yellow')
+volkan = Turtle()
+volkan.shape('turtle')
+volkan.color('yellow')
 
-green.penup()
-green.goto(-160, 40)
-green.pendown()
+volkan.penup()
+volkan.goto(-160, 40)
+volkan.pendown()
 
-for turn in range(60):
-  green.right(6)
+for sira in range(60):
+  volkan.right(6)
 
-yellow = Turtle()
-yellow.shape('turtle')
-yellow.color('turquoise')
+gulsen = Turtle()
+gulsen.shape('turtle')
+gulsen.color('turquoise')
 
-yellow.penup()
-yellow.goto(-160, 10)
-yellow.pendown()
+gulsen.penup()
+gulsen.goto(-160, 10)
+gulsen.pendown()
 
-for turn in range(30):
-  yellow.left(12)
+for sira in range(30):
+  gulsen.left(12)
 
-for turn in range(100):
-  red.forward(randint(1,5))
-  blue.forward(randint(1,5))
-  green.forward(randint(1,5))
-  yellow.forward(randint(1,5))
+for sira in range(100):
+  ipek.forward(randint(1,5))
+  ceyda.forward(randint(1,5))
+  volkan.forward(randint(1,5))
+  gulsen.forward(randint(1,5))
   
