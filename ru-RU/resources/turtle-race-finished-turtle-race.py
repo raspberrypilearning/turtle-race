@@ -7,8 +7,8 @@ speed(0)
 penup()
 goto(-140, 140)
 
-for step in range(15):
-  write(step, align='center')
+for hod in range(15):
+  write(hod, align='center')
   right(90)
   for num in range(8):
     penup()
@@ -20,53 +20,53 @@ for step in range(15):
   left(90)
   forward(20)
 
-red = Turtle()
-red.color('red')
-red.shape('turtle')
+krasny = Turtle()
+krasny.color('red')
+krasny.shape('turtle')
 
-red.penup()
-red.goto(-160, 100)
-red.pendown()
+krasny.penup()
+krasny.goto(-160, 100)
+krasny.pendown()
 
-for turn in range(10):
-  red.right(36)
+for povorot in range(10):
+  krasny.right(36)
 
-blue = Turtle()
-blue.color('blue')
-blue.shape('turtle')
+siny = Turtle()
+siny.color('blue')
+siny.shape('turtle')
 
-blue.penup()
-blue.goto(-160, 70)
-blue.pendown()
+siny.penup()
+siny.goto(-160, 70)
+siny.pendown()
 
-for turn in range(72):
-  blue.left(5)
+for povorot in range(72):
+  siny.left(5)
 
-green = Turtle()
-green.shape('turtle')
-green.color('yellow')
+zeleny = Turtle()
+zeleny.shape('turtle')
+zeleny.color('yellow')
 
-green.penup()
-green.goto(-160, 40)
-green.pendown()
+zeleny.penup()
+zeleny.goto(-160, 40)
+zeleny.pendown()
 
-for turn in range(60):
-  green.right(6)
+for povorot in range(60):
+  zeleny.right(6)
 
-yellow = Turtle()
-yellow.shape('turtle')
-yellow.color('turquoise')
+zhelty = Turtle()
+zhelty.shape('turtle')
+zhelty.color('turquoise')
 
-yellow.penup()
-yellow.goto(-160, 10)
-yellow.pendown()
+zhelty.penup()
+zhelty.goto(-160, 10)
+zhelty.pendown()
 
-for turn in range(30):
-  yellow.left(12)
+for povorot in range(30):
+  zhelty.left(12)
 
-for turn in range(100):
-  red.forward(randint(1,5))
-  blue.forward(randint(1,5))
-  green.forward(randint(1,5))
-  yellow.forward(randint(1,5))
+for povorot in range(100):
+  krasny.forward(randint(1,5))
+  siny.forward(randint(1,5))
+  zeleny.forward(randint(1,5))
+  zhelty.forward(randint(1,5))
   
