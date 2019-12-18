@@ -1,35 +1,35 @@
 ---
 hero_image: images/turtle-race.png
-theme: blue
+theme: mavi
 duration: 2
 listed: true
 ingredient: false
 copyedit: false
-curriculum: 1, design-0, programming-1, phys-comp-0, manufacture-0, community-0
-title: Turtle Race!
-description: Race turtles against each other!
+curriculum: 1, tasarım-0, programlama-1, fiziksel-hesaplama-0, üretim-0, topluluk-0
+title: Kaplumbağa Yarışı!
+description: Kaplumbağaları birbirlerine karşı yarıştırın!
 original_url: https://codeclubprojects.org/en-GB/python/turtle-race
-interests: games
+interests: oyunlar
 technologies: python
-site_areas: projects
+site_areas: projeler
 hardware: ''
 software: python
 version: 3
-last_tested: 2017-01-01
+last_tested: 01/01/2017
 steps:
   - 
-    title: Introduction
+    title: Giriş
   - 
-    title: What you will need
+    title: Nelere ihtiyacınız olacak
   - 
-    title: Race track
+    title: Yarış Pisti
   - 
-    title: 'Challenge: More lines'
+    title: 'Meydan Okuma: Daha fazla çizgi'
   - 
-    title: Racing turtles
+    title: Yarışan kaplumbağalar
   - 
-    title: 'Challenge: Race time!'
+    title: 'Meydan okuma: Yarış zamanı!'
   - 
-    title: 'Challenge: Do a twirl'
+    title: 'Meydan okuma: Bir burgu yap'
   - 
-    title: 'Challenge: Dashed lines'
+    title: 'Meydan Okuma: Kesik çizgiler'
