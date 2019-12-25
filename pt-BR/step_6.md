@@ -1,6 +1,6 @@
 \--- challenge \---
 
-## Desafio: hora da corrida!
+## Desafio: Hora da corrida!
 
 Agora você está pronto para a corrida. Escolha uma tartaruga e um adversário e veja quem vence.
 
