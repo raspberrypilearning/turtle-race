@@ -34,21 +34,21 @@ Você vai criar um jogo com tartarugas apostando corrida. Primeiro elas precisar
 
 + Agora podemos desenhar algumas marcas de pista. A tartaruga começa nas coordenadas (0,0) no meio da tela.
     
-    Mova a tartaruga para o canto superior esquerdo:
+    Em vez disso, mova a tartaruga para o canto superior esquerdo:
     
     ![screenshot](images/race-goto.png)
 
-+ Ah, você vai querer levantar a caneta primeiro!
++ Ah, você precisa levantar a caneta primeiro!
     
     ![screenshot](images/race-penup.png)
 
-+ Em vez de desenhar uma linha horizontalmente, vamos desenhar linhas verticais para criar uma trilha:
++ Em vez de desenhar uma linha horizontalmente, vamos desenhar linhas verticais para criar uma pista:
     
     ![screenshot](images/race-lines.png)
     
-    `right(90)` faz a tartaruga girar 90 graus para a direita (um ângulo reto). Movendo `forward(10)` antes de pousar a caneta, deixa um pequeno espaço entre o número e o início da linha. Após desenhar a linha, você levanta a caneta e volta `backward(160)` o comprimento da linha mais o espaço.
+    `right(90)` faz a tartaruga girar 90 graus para a direita (um ângulo reto). Movendo `forward(10)` antes de apoiar a caneta deixa um pequeno espaço entre o número e o início da linha. Depois de desenhar a linha você levanta a caneta e volta `backward(160)`, o comprimento da linha mais o espaço.
 
-+ Fica mais nítido se você centralizar os números:
++ Fica mais organizado se você centralizar os números:
     
     ![screenshot](images/race-center.png)
 
