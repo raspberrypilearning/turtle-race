@@ -1,14 +1,14 @@
 ## Pista de corrida
 
-Você vai criar um jogo de corrida de tartarugas. Primeiro elas precisam de uma pista de corrida.
+Você vai criar um jogo com tartarugas apostando corrida. Primeiro elas precisarão de uma pista de corrida.
 
 + Abra um modelo Python em branco no Trinket: <a href="http://jumpto.cc/python-new" target="_blank">jumpto.cc/python-new</a>.
 
-+ Adicione o seguinte código para desenhar uma linha usando a 'tartaruga':
++ Adicione o seguinte código para desenhar uma linha usando o módulo 'turtle':
     
     ![screenshot](images/race-forward.png)
 
-+ Agora vamos usar a tartaruga para desenhar algumas marcas para a corrida.
++ Agora vamos usar turte para desenhar algumas marcas para a corrida.
     
     A função turtle `write` escreve texto na tela.
     
@@ -16,19 +16,19 @@ Você vai criar um jogo de corrida de tartarugas. Primeiro elas precisam de uma 
     
     ![screenshot](images/race-markings1.png)
 
-+ Agora você precisa preencher os números intermediários para criar marcações:
++ Agora você precisa preencher os números no meio para criar marcações:
     
     ![screenshot](images/race-markings2.png)
 
-+ Você notou que seu código é muito repetitivo? A única coisa que muda é o número a ser escrito.
++ Você notou que seu código está muito repetitivo? A única coisa que muda é o número a ser escrito.
     
-    Existe uma maneira melhor de fazer isso em Python. Você pode usar um laço`for`.
+    Existe um jeito melhor de fazer isso em Python. Você pode usar um "loop `for`".
     
-    Atualize seu código para usar um laço `for`:
+    Atualize seu código para usar um loop `for`:
     
     ![screenshot](images/race-for.png)
 
-+ Hmm, isso só imprime números até 4. No Python `range(5)` retorna cinco números, de 0 a 4. Para que ele também retorne 5, você precisará usar `range(6)`:
++ Hmm, isso só imprime números até 4. Em Python `range(5)` retorna cinco números, de 0 a 4. Para que ele também retorne 5, você precisará usar `range(6)`:
     
     ![screenshot](images/race-range.png)
 
