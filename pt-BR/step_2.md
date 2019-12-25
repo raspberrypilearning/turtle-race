@@ -6,4 +6,4 @@
 
 ### Software
 
-Este projeto usa o Python 3. Recomendamos usar o [Trinket](https://trinket.io/), que permite escrever código Python online.
+Este projeto usa Python 3. Recomendamos usar o [Trinket](https://trinket.io/), que permite escrever código Python online.
