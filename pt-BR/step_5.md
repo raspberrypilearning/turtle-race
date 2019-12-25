@@ -1,4 +1,4 @@
-## Corrida de tartarugas
+## Colocando as tartarugas para apostar corrida
 
 Agora, a parte divertida. Vamos adicionar algumas tartarugas de corrida. Seria muito chato se as tartarugas fizessem a mesma coisa todas as vezes, então elas moverão um número aleatório de passos a cada volta. O vencedor é a tartaruga que chegar mais longe em 100 voltas.
 
