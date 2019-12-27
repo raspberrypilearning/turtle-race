@@ -24,7 +24,7 @@ Vas a crear un juego con carreras de tortugas. Primero necesitarás una pista de
     
     Hay una manera mejor de hacer esto en Python. Puedes usar un bucle `for`.
     
-    Actualiza tu código para usar un bucke `for`:
+    Actualiza tu código para usar un bucle `for`:
     
     ![captura de pantalla](images/race-for.png)
 
