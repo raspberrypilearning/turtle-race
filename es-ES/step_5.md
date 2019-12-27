@@ -24,4 +24,4 @@ Ahora a por la parte divertida. Añadamos algunas tortugas de carreras. Sería r
     
     ![captura de pantalla](images/race-blue.png)
     
-    Tenga en cuenta que el código para mover la tortuga azul debe estar en **el mismo** bucle `for` al igual que el código para mover la tortuga roja para que cada uno haga un movimiento en cada turno.
+    Ten en cuenta que el código para mover la tortuga azul debe estar en **el mismo** bucle `for` al igual que el código para mover la tortuga roja para que cada uno haga un movimiento en cada turno.
