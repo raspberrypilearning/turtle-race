@@ -1,6 +1,6 @@
 ## Pista de carreras
 
-Vas a crear un juego con carreras de tortugas. Primero necesitarán una pista de carreras.
+Vas a crear un juego con carreras de tortugas. Primero necesitarás una pista de carreras.
 
 + Abre la plantilla Python en blanco en Trinket: <a href="http://jumpto.cc/python-new" target="_blank">jumpto.cc/python-new</a>.
 
