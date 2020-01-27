@@ -1,22 +1,27 @@
-hero_image: images/banner.png
+---
+hero_image: images/turtle-race.png
 theme: blue
 duration: 2
 listed: true
 ingredient: false
 copyedit: false
-curriculum: creator, design-0, programming-0, phys-comp-0, manufacture-0, community-0
+curriculum: 1, design-0, programming-1, phys-comp-0, manufacture-0, community-0
 title: سباق السلاحف!
 description: سباق بين السلاحف!
 original_url: https://codeclubprojects.org/en-GB/python/turtle-race
-interests: ''
+interests: games
 technologies: python
-site_areas: codeclub, python
+site_areas: projects
+hardware: ''
+software: python
+version: 3
+last_tested: 2017-01-01
 steps:
-- title: المقدمة
-- title: مضمار السباق
-- title: 'التحدي: خطوط أخرى'
-- title: السلاحف المتسابقة
-- title: 'التحدي: وقت السباق!'
-- title: 'التحدي: أنشئ حركة دورانية'
-- title: 'التحدي: خطوط متقطعة'
-
+  - title: المقدمة
+  - title: ما ستحتاج إليه
+  - title: مضمار السباق
+  - title: 'Challenge: خطوط أخرى'
+  - title: السلاحف المتسابقة
+  - title: 'التحدي: وقت السباق!'
+  - title: 'التحدي: أنشئ حركة دورانية'
+  - title: 'التحدي: خطوط متقطعة'
