@@ -1,9 +1,9 @@
-## What you will need
+## Amire szükséged lesz
 
-### Hardware
+### Hardver
 
 + An internet-connected computer
 
-### Software
+### Szoftver
 
 This project uses Python 3. We recommend using [Trinket](https://trinket.io/), which allows you to write Python code online.
