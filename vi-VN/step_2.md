@@ -1,9 +1,9 @@
-## Những gì bạn sẽ cần
+## What you will need
 
-### Phần cứng
+### Hardware
 
-+ Máy tính kết nối internet
++ An internet-connected computer
 
-### Phần mềm
+### Software
 
-Dự án này sử dụng Python 3. Chúng tôi khuyên bạn nên sử dụng [Trinket](https://trinket.io/), cho phép bạn viết mã Python trực tuyến.
+This project uses Python 3. We recommend using [Trinket](https://trinket.io/), which allows you to write Python code online.
