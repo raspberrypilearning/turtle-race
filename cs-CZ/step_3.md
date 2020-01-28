@@ -12,7 +12,7 @@ You're going to create a game with racing turtles. First they'll need a race tra
     
     The turtle `write` function writes text to the screen.
     
-    Zkus to:
+    Try it:
     
     ![screenshot](images/race-markings1.png)
 
