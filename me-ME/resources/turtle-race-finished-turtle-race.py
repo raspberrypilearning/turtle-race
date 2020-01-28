@@ -1,126 +1,72 @@
 #!/bin/python3
 
-
 from turtle import *
-
-from random import
-randint
+from random import randint
 
 speed(0)
-
 penup()
-
 goto(-140, 140)
 
-
-for korak in range(15):
- 
-  write(korak, align='center')
-
+for step in range(15):
+  write(step, align='center')
   right(90)
-
   for num in range(8):
-
     penup()
- 
     forward(10)
     pendown()
- 
- 
     forward(10)
-  
-    penup()
- 
-    backward(160)
- 
-    left(90)
- 
-    forward(20)
+  penup()
+  backward(160)
+  left(90)
+  forward(20)
 
+red = Turtle()
+red.color('red')
+red.shape('turtle')
 
-crvena = Turtle()
+red.penup()
+red.goto(-160, 100)
+red.pendown()
 
-crvena.color('red')
+for turn in range(10):
+  red.right(36)
 
-crvena.shape('turtle')
+blue = Turtle()
+blue.color('blue')
+blue.shape('turtle')
 
+blue.penup()
+blue.goto(-160, 70)
+blue.pendown()
 
-crvena.penup()
+for turn in range(72):
+  blue.left(5)
 
-crvena.goto(-160, 100)
+green = Turtle()
+green.shape('turtle')
+green.color('yellow')
 
-crvena.pendown()
+green.penup()
+green.goto(-160, 40)
+green.pendown()
 
+for turn in range(60):
+  green.right(6)
 
-for krug in range(10):
-  
-crvena.right(36)
+yellow = Turtle()
+yellow.shape('turtle')
+yellow.color('turquoise')
 
+yellow.penup()
+yellow.goto(-160, 10)
+yellow.pendown()
 
-plava = Turtle()
+for turn in range(30):
+  yellow.left(12)
 
-plava.color('blue')
-
-plava.shape('turtle')
-
-
-plava.penup()
-
-plava.goto(-160, 70)
-
-plava.pendown()
-
-
-for krug in range(72):
-  
-plava.left(5)
-
-
-zelena = Turtle()
-
-zelena.shape('turtle')
-
-zelena.color('yellow')
-
-
-zelena.penup()
-
-zelena.goto(-160, 40)
-
-zelena.pendown()
-
-
-for krug in range(60):
-  
-zelena.right(6)
-
-
-zuta = Turtle()
-
-zuta.shape('turtle')
-
-zuta.color('turquoise')
-
-
-zuta.penup()
-
-zuta.goto(-160, 10)
-
-zuta.pendown()
-
-
-for krug in range(30):
-
-zuta.left(12)
-
-
-for krug in range(100):
-  
-crvena.forward(randint(1,5))
-
-plava.forward(randint(1,5))
-
-zelena.forward(randint(1,5))
-
-zuta.forward(randint(1,5))
+for turn in range(100):
+  red.forward(randint(1,5))
+  blue.forward(randint(1,5))
+  green.forward(randint(1,5))
+  yellow.forward(randint(1,5))
   
