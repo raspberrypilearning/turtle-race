@@ -18,9 +18,9 @@ version: 3
 last_tested: 2017-01-01
 steps:
   - 
-    title: Tillykke Med Fødselsdagen
+    title: Introduction
   - 
-    title: Hvad du får brug for
+    title: What you will need
   - 
     title: Race track
   - 
