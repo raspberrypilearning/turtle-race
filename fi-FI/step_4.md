@@ -1,11 +1,11 @@
-\--- haaste \---
+\--- challenge \---
 
-## Haaste: Lisää viivoja
+## Challenge: More lines
 
-Voitko vaihtaa koodisi niin, että raidat kulkevat suoraan näytön yli?
+Can you change your code so that the track lines go right across the screen?
 
-![kuvakaappaus](images/race-challenge1.png)
+![screenshot](images/race-challenge1.png)
 
-Jos haluat tehdä kilpikonnasta vieläkin nopeammin, voit käyttää `nopeutta (0)`.
+If you want to make the turtle go even faster you can use `speed(0)`.
 
-\--- /haaste \---
+\--- /challenge \---
