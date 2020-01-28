@@ -1,9 +1,9 @@
-## Vad du kommer att behöva
+## What you will need
 
-### Hårdvara
+### Hardware
 
-+ En internetansluten dator
++ An internet-connected computer
 
-### programvara
+### Software
 
-Detta projekt använder Python 3. Vi rekommenderar att du använder [Trinket](https://trinket.io/), som låter dig skriva Python-kod online.
+This project uses Python 3. We recommend using [Trinket](https://trinket.io/), which allows you to write Python code online.
