@@ -1,11 +1,11 @@
-\--- haaste \---
+\--- challenge \---
 
-## Haaste: Pyöritä
+## Challenge: Do a twirl
 
-Voitteko käyttää `: ta kääntymään alueelle ():` silmukalle, jotta kukin kilpikonna tekee 360 ​​asteen pyöräytyksestä, kun he pääsevät aloituslinjalle? Sinun on varmistettava, että he joutuvat oikeaan suuntaan kilpailun alkaessa!
+Can you use a `for turn in range():` loop to make each turtle do a 360 degree twirl after they get to the starting line? You'll need to make sure they are facing in the right direction at the start of the race!
 
-`ada.right (36)` kääntää punaisen kilpikonnan oikealle 36 astetta.
+`ada.right(36)` will turn the red turtle right by 36 degrees.
 
-**Vihje:** Täysi käännös on 360 astetta. Kilpikonna voi kääntyä oikealle 10 astetta 36 kertaa, tai jättää 5 astetta 72 kertaa, tai muut numerot tekevät 360!
+**Hint:** A full turn is 360 degrees. A turtle could turn right 10 degrees 36 times, or left 5 degrees 72 times, or any other numbers make 360!
 
-\--- /haaste \---
+\--- /challenge \---
