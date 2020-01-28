@@ -1,27 +1,27 @@
-## Kornjače za trku
+## Racing turtles
 
-Sada dolazi zabavni dio. Dodajmo nekoliko kornjača za trku. Bilo bi zaista dosadno kada bi kornjače svaki put radile istu stvar, pa će se zato u svakom krugu pomjerati nasumičan broj koraka. Pobjednik je kornjača koja stigne najdalje u 100 krugova.
+Now for the fun bit. Let's add some racing turtles. It would be really boring if the turtles did the same thing every time so they will move a random number of steps each turn. The winner is the turtle that gets the furthest in 100 turns.
 
-+ Kada koristiš naredbe kao što je `forward(20)`, koristiš samo jednu kornjaču. Ali, možeš da napraviš više kornjača. Dodaj sljedeći kôd na kraju svoje skripte (vodi računa da nije uvučen):
++ When you use commands like `forward(20)` you are using a single turtle. But you can create more turtles. Add the following code to the end of your script (but make sure it's not indented):
     
     ![screenshot](images/race-red.png)
     
-    Prvi red kreira kornjaču koja se zove 'ada'. Sljedeći redovi određuju boju i oblik kornjače. Sada stvarno izgleda kao kornjača!
+    The first line creates a turtle called 'ada'. The next lines set the colour and shape of the turtle. Now it really looks like a turtle!
 
-+ Pošaljimo kornjaču na startnu liniju:
++ Let's send the turtle to the starting line:
     
     ![screenshot](images/race-start.png)
 
-+ Sada treba da napraviš da kornjača trči tako što će se svaki put pomjerati nasumičan broj koraka. Potrebna ti je funkcija `randint` iz Pythonove `random` biblioteke. Dodaj ovaj `import` red na početak svoje skripte:
++ Now you need to make the turtle race by moving a random number of steps at a time. You'll need the `randint` function from the Python `random` library. Add this `import` line to the top of your script:
     
     ![screenshot](images/race-randint.png)
 
-+ Funkcija `randint` vraća slučajan integer (cijeli broj) koji se nalazi između odabranih vrijednosti. Kornjača će se kretati naprijed 1, 2, 3, 4 ili 5 koraka u svakom krugu.
++ The `randint` function returns a random integer (whole number) between the values chosen. The turtle will move forward 1, 2, 3, 4, or 5 steps at each turn.
     
     ![screenshot](images/race-random.png)
 
-+ Jedna kornjača nije dovoljna za trku! Dodajmo još jednu:
++ One turtle isn't much of a race! Let's add another one:
     
     ![screenshot](images/race-blue.png)
     
-    Imaj u vidu da kôd za pomjeranje plave kornjače mora da se nalazi u **istoj** `for` petlji u kojoj je kôd za pomjeranje crvene kornjače, tako da se obje kornjače pomjeraju u svakom krugu.
+    Note that the code for moving the blue turtle needs to be in **the same** `for` loop as the code for moving the red turtle so that they each make a move every turn.
