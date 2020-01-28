@@ -1,13 +1,13 @@
-\--- thử thách \---
+\--- challenge \---
 
-## Thách thức: Cuộc đua thời gian!
+## Challenge: Race time!
 
-Bây giờ bạn đã sẵn sàng để chạy đua. Chọn một con rùa và một đối thủ và xem ai thắng.
+Now you're ready to race. Pick a turtle and an opponent and see who wins.
 
-Bạn có thể thêm nhiều rùa hơn để bạn có thể đua với nhiều bạn hơn không?
+Can you add more turtles so you can race with more friends?
 
-![ảnh chụp màn hình](images/race-more.png)
+![screenshot](images/race-more.png)
 
-Màu sắc bao gồm: cam, tím, tím, cà chua, xanh ngọc, đỏ tươi và nâu - hoặc bạn có thể chuyển đến [jumpto.cc/colours](http://jumpto.cc/colours) và chọn bất kỳ màu nào bạn thích!
+Colours include: orange, purple, violet, tomato, turquoise, magenta and brown - or you can go to [jumpto.cc/colours](http://jumpto.cc/colours) and pick any colour you like!
 
-\--- /thử thách \---
+\--- /challenge \---
