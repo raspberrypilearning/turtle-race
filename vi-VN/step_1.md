@@ -1,10 +1,10 @@
-## Giới thiệu
+## Introduction
 
-Sử dụng vòng lặp để vẽ đường đua và tạo trò chơi đua rùa.
+Use loops to draw a race track and create a racing turtle game.
 
-### Những gì bạn sẽ làm
+### What you will make
 
-Dự án này giới thiệu cho các vòng thông qua một trò chơi đua rùa vui nhộn. Các vòng được sử dụng để vẽ đường đua và làm cho các con rùa di chuyển một số bước ngẫu nhiên mỗi lượt. Nếu bạn có một nhóm người chơi trò chơi, mỗi người sẽ chọn một con rùa và một con rùa xa nhất sẽ là người chiến thắng.
+This project introduces for loops through a fun turtle race game. Loops are used to draw the race track and to make the turtles move a random number of steps each turn. If you have a group of people to play the game, each person pick a turtle and the one that gets the furthest is the winner.
 
 <div class="trinket">
   <iframe src="https://trinket.io/embed/python/9339862606?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
@@ -12,19 +12,19 @@ Dự án này giới thiệu cho các vòng thông qua một trò chơi đua rù
   <img src="images/race-finished.png">
 </div>
 
-### Những gì bạn sẽ học
+### What you will learn
 
-Bằng cách tạo trò chơi đua rùa, bạn sẽ học cách:
+By making your turtle race game, you will learn how to:
 
-+ Viết `cho` vòng trong Python
-+ Sử dụng các số ngẫu nhiên trong Python
-+ Vẽ các đường màu khác nhau với Python Rùa
++ Write `for` loops in Python
++ Use random numbers in Python
++ Draw lines in different colours with Python Turtle
 
-Dự án này bao gồm các yếu tố từ các chuỗi sau đây của chương trình giảng dạy số [Raspberry Pi](http://rpf.io/curriculum){: target = "_ blank"}:
+This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
 
-+ [Sử dụng các cấu trúc lập trình cơ bản để tạo các chương trình đơn giản.](https://www.raspberrypi.org/curriculum/programming/creator/){: target = "_ blank"}
++ [Use basic programming constructs to create simple programs.](https://www.raspberrypi.org/curriculum/programming/creator/){:target="_blank"}
 
-### Thông tin bổ sung dành cho nhà giáo dục
+### Additional information for educators
 
 If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/turtle-race/print){:target="_blank"}.
 
