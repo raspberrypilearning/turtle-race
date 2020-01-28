@@ -1,11 +1,11 @@
-\--- utmaning \---
+\--- challenge \---
 
-## Utmaning: streckade linjer
+## Challenge: Dashed lines
 
-Kan du använda en slinga för att göra spårlinjerna streckade istället för solida?
+Can you use a loop to make the track lines dashed instead of solid?
 
-![skärmdump](images/race-finished.png)
+![screenshot](images/race-finished.png)
 
-**Hint:** Hitta koden som ritar en rak linje. Försök använda:`för`, `framåt ()`, `penup ()` och `pendown ()`
+**Hint:** Find the code that draws a straight line. Try using:`for`, `forward()`, `penup()` and `pendown()`
 
-\--- /utmaning \---
+\--- /challenge \---
