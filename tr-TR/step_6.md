@@ -1,13 +1,13 @@
 \--- challenge \---
 
-## Meydan okuma: Yarış zamanı!
+## Challenge: Race time!
 
-Şimdi yarışa hazırsın. Bir kaplumbağa ve bir rakip seç ve kimin kazandığını gör.
+Now you're ready to race. Pick a turtle and an opponent and see who wins.
 
-Daha fazla kaplumbağa ekleyebilir misin, böylece daha fazla arkadaşınla yarışabilirsin?
+Can you add more turtles so you can race with more friends?
 
-![ekran görüntüsü](images/race-more.png)
+![screenshot](images/race-more.png)
 
-Varolan renkler: turuncu, mor, menekşe, kırmızı, turkuaz, eflatun ve kahverengi - ya da [jumpto.cc/colours](http://jumpto.cc/colours) adresine gidip, istediğiniz rengi seçebilirsiniz!
+Colours include: orange, purple, violet, tomato, turquoise, magenta and brown - or you can go to [jumpto.cc/colours](http://jumpto.cc/colours) and pick any colour you like!
 
 \--- /challenge \---
