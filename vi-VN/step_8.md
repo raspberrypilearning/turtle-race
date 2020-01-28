@@ -1,11 +1,11 @@
-\--- thử thách \---
+\--- challenge \---
 
-## Thách thức: Đường nét đứt
+## Challenge: Dashed lines
 
-Bạn có thể sử dụng một vòng lặp để làm cho các đường theo dõi đứt quãng thay vì cứng?
+Can you use a loop to make the track lines dashed instead of solid?
 
-![ảnh chụp màn hình](images/race-finished.png)
+![screenshot](images/race-finished.png)
 
-**Gợi ý:** Tìm mã vẽ một đường thẳng. Thử sử dụng:`cho`, `tiến ()`, `penup ()` và `pendown ()`
+**Hint:** Find the code that draws a straight line. Try using:`for`, `forward()`, `penup()` and `pendown()`
 
-\--- /thử thách \---
+\--- /challenge \---
