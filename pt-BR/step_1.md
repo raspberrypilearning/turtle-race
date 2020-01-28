@@ -1,10 +1,10 @@
-## Introdução
+## Introduction
 
-Use loops para desenhar uma pista de corrida e criar um jogo de corrida de tartaruga.
+Use loops to draw a race track and create a racing turtle game.
 
-### O que você vai fazer
+### What you will make
 
-Este projeto introduz "loops for" através de um divertido jogo de corrida de tartarugas. Loops são usados ​​para desenhar a pista de corrida e fazer as tartarugas andarem um número aleatório de passos a cada turno. Se você tem um grupo de pessoas para jogar, cada pessoa escolhe uma tartaruga e a que chegar mais longe é a vencedora.
+This project introduces for loops through a fun turtle race game. Loops are used to draw the race track and to make the turtles move a random number of steps each turn. If you have a group of people to play the game, each person pick a turtle and the one that gets the furthest is the winner.
 
 <div class="trinket">
   <iframe src="https://trinket.io/embed/python/9339862606?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
@@ -12,20 +12,20 @@ Este projeto introduz "loops for" através de um divertido jogo de corrida de ta
   <img src="images/race-finished.png">
 </div>
 
-### O que você vai aprender
+### What you will learn
 
-Fazendo seu jogo de corrida de tartarugas você aprenderá a:
+By making your turtle race game, you will learn how to:
 
-+ Escrever loops `for` em Python
-+ Usar números aleatórios em Python
-+ Desenhar linhas de cores diferentes com Python Turtle
++ Write `for` loops in Python
++ Use random numbers in Python
++ Draw lines in different colours with Python Turtle
 
-Este projeto abrange elementos das seguintes vertentes do [Currículo de Criação Digital Raspberry Pi](http://rpf.io/curriculum){:target="_blank"}:
+This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
 
-+ [Use estruturas básicas de programação para criar programas simples](https://www.raspberrypi.org/curriculum/programming/creator/){:target="_blank"}
++ [Use basic programming constructs to create simple programs.](https://www.raspberrypi.org/curriculum/programming/creator/){:target="_blank"}
 
-### Informações adicionais para educadores
+### Additional information for educators
 
-Se for necessário imprimir este projeto por favor utilize a [versão para impressão](https://projects.raspberrypi.org/en/projects/turtle-race/print){:target="_blank"}.
+If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/turtle-race/print){:target="_blank"}.
 
-Utilize o link do rodapé para acessar o repositório GitHub deste projeto, que contém todos os recursos (incluindo um exemplo de projeto terminado) na pasta 'en/resources'.
+Use the link in the footer to access the GitHub repository for this project, which contains all resources (including an example finished project) in the 'en/resources' folder.
