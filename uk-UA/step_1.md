@@ -1,10 +1,10 @@
-## Вступ
+## Introduction
 
-Використай цикли, щоб намалювати трасу і створити черепаші перегони.
+Use loops to draw a race track and create a racing turtle game.
 
-### Що ти робитимеш
+### What you will make
 
-Цей проект знайомить з циклом for за допомогою веселої гри в черепаші перегони. Цикли використовуються для нанесення гоночної траси та для того, щоб черепахи рухались на випадкове число кроків кожного разу. Якщо у вас є група людей, щоб грати в гру, кожна людина вибирає черепаху. Черепаха котра досягає фінішу першою перемагає.
+This project introduces for loops through a fun turtle race game. Loops are used to draw the race track and to make the turtles move a random number of steps each turn. If you have a group of people to play the game, each person pick a turtle and the one that gets the furthest is the winner.
 
 <div class="trinket">
   <iframe src="https://trinket.io/embed/python/9339862606?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
@@ -12,19 +12,19 @@
   <img src="images/race-finished.png">
 </div>
 
-### Що ти навчишся
+### What you will learn
 
-Роблячи свою гру в черепаші перегони, ти навчишся:
+By making your turtle race game, you will learn how to:
 
-+ Писати `for` цикли в Python
-+ Використовувати випадкові числа в Python
-+ Малювати лінії різного кольору з Python Turtle
++ Write `for` loops in Python
++ Use random numbers in Python
++ Draw lines in different colours with Python Turtle
 
-Цей проект охоплює елементи з наступних напрямів навчального плану [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
+This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
 
-+ [Використовуйте основні конструкторські програми для створення простих програм.](https://www.raspberrypi.org/curriculum/programming/creator/)(: target = "_ blank")
++ [Use basic programming constructs to create simple programs.](https://www.raspberrypi.org/curriculum/programming/creator/){:target="_blank"}
 
-### Додаткова інформація для вчителів
+### Additional information for educators
 
 If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/turtle-race/print){:target="_blank"}.
 
