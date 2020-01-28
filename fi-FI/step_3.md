@@ -1,57 +1,57 @@
 ## Race track
 
-Aiot luoda pelin kilpikonnat. Ensin he tarvitsevat kilparadan.
+You're going to create a game with racing turtles. First they'll need a race track.
 
-+ Avaa tyhjä Python-mallipohja Trinket: <a href="http://jumpto.cc/python-new" target="_blank">jumpto.cc/python-new</a>.
++ Open the blank Python template Trinket: <a href="http://jumpto.cc/python-new" target="_blank">jumpto.cc/python-new</a>.
 
-+ Piirtämään viiva "turtle" käyttämällä seuraavaa koodia:
++ Add the following code to draw a line using the 'turtle':
     
-    ![kuvakaappaus](images/race-forward.png)
+    ![screenshot](images/race-forward.png)
 
-+ Käytämme nyt kilpikonnaa piirtääksesi radan jäljet.
++ Now let's use the turtle to draw some track markings for the race.
     
-    Kilpikonna `kirjoittaa` -toiminto kirjoittaa tekstiä ruudulle.
+    The turtle `write` function writes text to the screen.
     
-    Kokeile:
+    Try it:
     
-    ![kuvakaappaus](images/race-markings1.png)
+    ![screenshot](images/race-markings1.png)
 
-+ Nyt sinun on täytettävä numerot, jotta voit luoda merkkejä:
++ Now you need to fill in the numbers in between to create markings:
     
-    ![kuvakaappaus](images/race-markings2.png)
+    ![screenshot](images/race-markings2.png)
 
-+ Huomasitko, että koodisi on hyvin toistuva? Ainoa muutos on numero kirjoitettavaksi.
++ Did you notice that your code is very repetitive? The only thing that changes is the number to write.
     
-    Parempi tapa on tehdä tämä pythonilla. Voit käyttää `: a` silmukkaa.
+    There's a better way of doing this in Python. You can use a `for` loop.
     
-    Päivitä koodisi `: n` silmukan käyttämiseen:
+    Update your code to use a `for` loop:
     
-    ![kuvakaappaus](images/race-for.png)
+    ![screenshot](images/race-for.png)
 
-+ Hmm, joka tulostaa numeroita vain 4: een. Python `-alueella (5)` palauttaa viisi numeroa 0: stä 4: een. Jotta se palaa myös 5, sinun tarvitsee käyttää `alue (6)`:
++ Hmm, that only prints numbers up to 4. In Python `range(5)` returns five numbers, from 0 up to 4. To get it to also return 5 you'll need to use `range(6)`:
     
-    ![kuvakaappaus](images/race-range.png)
+    ![screenshot](images/race-range.png)
 
-+ Nyt voimme tehdä joitain jäljen merkintöjä. Kilpikonna alkaa koordinaattien (0,0) näytön keskellä.
++ Now we can draw some track markings. The turtle starts at coordinates (0,0) in the middle of the screen.
     
-    Siirrä kilpikonna vasempaan yläkulmaan sen sijaan:
+    Move the turtle to the top left instead:
     
-    ![kuvakaappaus](images/race-goto.png)
+    ![screenshot](images/race-goto.png)
 
-+ Haluat nostaa kynän ensin!
++ Ah, you'll want to lift the pen up first!
     
-    ![kuvakaappaus](images/race-penup.png)
+    ![screenshot](images/race-penup.png)
 
-+ Piirtämällä linjaa vaakasuunnassa vetämällä pystysuoria viivoja raidan luomiseksi:
++ Instead of drawing a line horizontally, let's draw vertical lines to create a track:
     
-    ![kuvakaappaus](images/race-lines.png)
+    ![screenshot](images/race-lines.png)
     
-    `oikealle (90)` tekee kilpikonnaa oikealle 90 astetta (oikealle kulmalle). Siirrä `eteenpäin (10)` ennen kynän asettamista alas jättää pienen raon numeron ja rivin alun välillä. Piirtämisen jälkeen nostat kynän ja menkät `taaksepäin (160)` rivin pituuden ja raon.
+    `right(90)` makes the turtle turn right 90 degrees (a right angle.) Moving `forward(10)` before putting the pen down leaves a small gap between the number and the start of the line. After drawing the line you lift up the pen and go `backward(160)` the length of the line plus the gap.
 
-+ Se näyttää paremmalta, jos keskit numerot:
++ It looks neater if you centre the numbers:
     
-    ![kuvakaappaus](images/race-center.png)
+    ![screenshot](images/race-center.png)
 
-+ Ja voit nopeuttaa kilpikonnaa niin, että se vetää nopeammin:
++ And you can speed up the turtle so it draws faster:
     
-    ![kuvakaappaus](images/race-speed.png)
+    ![screenshot](images/race-speed.png)
