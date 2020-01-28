@@ -1,10 +1,10 @@
-## esittely
+## Introduction
 
-Käytä silmukoita vetämään kilparata ja luo kilpikonna kilpikonna.
+Use loops to draw a race track and create a racing turtle game.
 
-### Mitä teet
+### What you will make
 
-Tämä hanke esittelee silmukoita hauskan kilpikonnaturpun kautta. Silmukoita käytetään vetämään kilparata ja tekemään kilpikonnat siirtävät satunnaisia ​​askeleita jokaiselle kierrokselle. Jos sinulla on joukko ihmisiä pelata peliä, jokainen henkilö valita kilpikonna ja se, joka saa kauimpana on voittaja.
+This project introduces for loops through a fun turtle race game. Loops are used to draw the race track and to make the turtles move a random number of steps each turn. If you have a group of people to play the game, each person pick a turtle and the one that gets the furthest is the winner.
 
 <div class="trinket">
   <iframe src="https://trinket.io/embed/python/9339862606?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
@@ -12,20 +12,20 @@ Tämä hanke esittelee silmukoita hauskan kilpikonnaturpun kautta. Silmukoita k�
   <img src="images/race-finished.png">
 </div>
 
-### Mitä opit
+### What you will learn
 
-Tekemällä turtle race -pelisi, opit:
+By making your turtle race game, you will learn how to:
 
-+ Kirjoita `ja` silmukoita Pythonissa
-+ Käytä satunnaisia ​​numeroita Pythonissa
-+ Piirrä rivit eri väreillä Python Turtle
++ Write `for` loops in Python
++ Use random numbers in Python
++ Draw lines in different colours with Python Turtle
 
-Tämä projekti kattaa elementit seuraavista [Vadelma Pi Digital Making -opetussuunnitelmasta](http://rpf.io/curriculum){: target = "_ blank"}:
+This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
 
-+ [Käytä yksinkertaisia ​​ohjelmointirakenteita yksinkertaisten ohjelmien luomiseen.](https://www.raspberrypi.org/curriculum/programming/creator/){: target = "_ tyhjä"}
++ [Use basic programming constructs to create simple programs.](https://www.raspberrypi.org/curriculum/programming/creator/){:target="_blank"}
 
-### Lisätiedot kasvattajille
+### Additional information for educators
 
-Jos haluat tulostaa tämän projektin, käytä [tulostusystävällistä versiota](https://projects.raspberrypi.org/en/projects/turtle-race/print){:target="_blank"}.
+If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/turtle-race/print){:target="_blank"}.
 
-Käytä alatunnisteen linkkiä päästäksesi tämän hankkeen GitHub-arkistoon, joka sisältää kaikki resurssit (mukaan lukien esimerkki valmiista projekteista) 'en/resources' -kansiossa.
+Use the link in the footer to access the GitHub repository for this project, which contains all resources (including an example finished project) in the 'en/resources' folder.
