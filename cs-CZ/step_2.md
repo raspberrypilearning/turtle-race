@@ -1,4 +1,4 @@
-## What you will need
+## Co budeš potřebovat
 
 ### Hardware
 
