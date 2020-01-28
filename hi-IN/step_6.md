@@ -1,6 +1,6 @@
 \--- challenge \---
 
-## Challenge: Race time!
+## चुनौती: चक्कर लगाएँ
 
 Now you're ready to race. Pick a turtle and an opponent and see who wins.
 
