@@ -1,11 +1,11 @@
 \--- challenge \---
 
-## Meydan Okuma: Daha fazla çizgi
+## Challenge: More lines
 
-Şerit çizgilerini ekranın tam ortasına gelecek şekilde kodlamanızı değiştirebilir misiniz?
+Can you change your code so that the track lines go right across the screen?
 
-![ekran görüntüsü](images/race-challenge1.png)
+![screenshot](images/race-challenge1.png)
 
-Eğer kaplumbağayı daha da hızlandırmak istiyorsanız `speed(0)` komutunu kullanabilirsiniz.
+If you want to make the turtle go even faster you can use `speed(0)`.
 
 \--- /challenge \---
