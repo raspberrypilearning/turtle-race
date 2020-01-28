@@ -18,9 +18,9 @@ version: 3
 last_tested: 2017-01-01
 steps:
   - 
-    title: Introduction
+    title: Bevezetés
   - 
-    title: What you will need
+    title: Mire lesz szükséged
   - 
     title: Race track
   - 
