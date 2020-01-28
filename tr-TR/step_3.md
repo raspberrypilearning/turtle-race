@@ -1,57 +1,57 @@
-## Yarış Pisti
+## Race track
 
-Kağlumbağaların yarıştığı bir oyun yaratacaksın. Bunun için ilk önce bir yarış pistine ihtiyaçları var.
+You're going to create a game with racing turtles. First they'll need a race track.
 
-+ Trinket'ta boş Python şablonunu açın: <a href="http://jumpto.cc/python-new" target="_blank">jumpto.cc/python-new</a>.
++ Open the blank Python template Trinket: <a href="http://jumpto.cc/python-new" target="_blank">jumpto.cc/python-new</a>.
 
-+ 'Turtle' modülünü kullanarak bir çizgi çizmek için aşağıdaki kodu ekleyin:
++ Add the following code to draw a line using the 'turtle':
     
-    ![ekran görüntüsü](images/race-forward.png)
+    ![screenshot](images/race-forward.png)
 
-+ Şimdi turtle modülünü yarış pistine biraz şerit izi çizmek için kullanalım.
++ Now let's use the turtle to draw some track markings for the race.
     
-    Turtle modülünün `write` işlevi ekrana metin yazar.
+    The turtle `write` function writes text to the screen.
     
-    Deneyin:
+    Try it:
     
-    ![ekran görüntüsü](images/race-markings1.png)
+    ![screenshot](images/race-markings1.png)
 
-+ Şimdi şerit izleri oluşturmak için aradaki sayıları doldurmanız gerekiyor:
++ Now you need to fill in the numbers in between to create markings:
     
-    ![ekran görüntüsü](images/race-markings2.png)
+    ![screenshot](images/race-markings2.png)
 
-+ Kodunuzun çok fazla tekrar ettiğini fark ettiniz mi? Kodların içinde değişen tek şey yazılan sayı.
++ Did you notice that your code is very repetitive? The only thing that changes is the number to write.
     
-    Bunu Python'da yapmanın daha iyi bir yolu var. Döngüler için `for` işlevini kullanabilirsiniz.
+    There's a better way of doing this in Python. You can use a `for` loop.
     
-    Kodunuzu `for` döngüsü kullanarak güncelleyin:
+    Update your code to use a `for` loop:
     
-    ![ekran görüntüsü](images/race-for.png)
+    ![screenshot](images/race-for.png)
 
-+ Hmm, bu yalnızca 4'e kadar olan sayıları yazdırıyor. Python `range(5)` işlevi 0'dan 4'e kadar beş rakam oluşturuyor. 5'e kadar olan sayıları yazdırmasını sağlamak için `range(6)` şeklinde kullanmanız gerekir:
++ Hmm, that only prints numbers up to 4. In Python `range(5)` returns five numbers, from 0 up to 4. To get it to also return 5 you'll need to use `range(6)`:
     
-    ![ekran görüntüsü](images/race-range.png)
+    ![screenshot](images/race-range.png)
 
-+ Şimdi bazı şerit çizgileri çizebiliriz. Python turtle modülü ekranın ortasındaki (0,0) konumundan başlar.
++ Now we can draw some track markings. The turtle starts at coordinates (0,0) in the middle of the screen.
     
-    Bunun yerine turtle modülünü sol üst köşeye getirin:
+    Move the turtle to the top left instead:
     
-    ![ekran görüntüsü](images/race-goto.png)
+    ![screenshot](images/race-goto.png)
 
-+ Ah, ama önce kalemi kaldırmak isteyebilirsin!
++ Ah, you'll want to lift the pen up first!
     
-    ![ekran görüntüsü](images/race-penup.png)
+    ![screenshot](images/race-penup.png)
 
-+ Yatay bir çizgi çizmek yerine, pisti oluşturmak için dikey çizgiler çizelim:
++ Instead of drawing a line horizontally, let's draw vertical lines to create a track:
     
-    ![ekran görüntüsü](images/race-lines.png)
+    ![screenshot](images/race-lines.png)
     
-    `right(90)` kaplumbağanın 90 derece sağa dönmesini sağlar (dik açı). `forward(10)` kalemi yere koymadan önce sayı ile çizginin başlangıcı arasında küçük bir boşluk bırakır. Çizgiyi çizdikten sonra kalemi kaldırır ve `backward(160)` komutuyla çizginin ve boşluğun uzunluğu kadar geriye doğru alırsınız.
+    `right(90)` makes the turtle turn right 90 degrees (a right angle.) Moving `forward(10)` before putting the pen down leaves a small gap between the number and the start of the line. After drawing the line you lift up the pen and go `backward(160)` the length of the line plus the gap.
 
-+ Sayıları ortalarsanız daha temiz görünür:
++ It looks neater if you centre the numbers:
     
-    ![ekran görüntüsü](images/race-center.png)
+    ![screenshot](images/race-center.png)
 
-+ Ayrıca daha hızlı çizmesi için Turtle modülünü hızlandırabiirsiniz:
++ And you can speed up the turtle so it draws faster:
     
-    ![ekran görüntüsü](images/race-speed.png)
+    ![screenshot](images/race-speed.png)
