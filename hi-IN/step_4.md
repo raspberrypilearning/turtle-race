@@ -1,6 +1,6 @@
 \--- challenge \---
 
-## Challenge: More lines
+## रेसिंग टर्टल्स
 
 Can you change your code so that the track lines go right across the screen?
 
