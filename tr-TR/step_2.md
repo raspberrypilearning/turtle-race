@@ -1,9 +1,9 @@
-## Neye ihtiyacınız olacak
+## What you will need
 
-### Donanım
+### Hardware
 
-+ İnternet bağlantılı bir bilgisayar
++ An internet-connected computer
 
-### Yazılım
+### Software
 
-Bu proje Python 3 kullanıyor. Çevrimiçi Python kodlamanıza imkan sağlayan [Trinket](https://trinket.io/)'ı kullanmanızı öneririz.
+This project uses Python 3. We recommend using [Trinket](https://trinket.io/), which allows you to write Python code online.
