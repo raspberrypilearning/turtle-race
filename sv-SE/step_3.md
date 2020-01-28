@@ -1,57 +1,57 @@
-## Loppspår
+## Race track
 
-Du ska skapa ett spel med racing sköldpaddor. Först behöver de ett racerbanor.
+You're going to create a game with racing turtles. First they'll need a race track.
 
-+ Öppna den tomma Python-mallen. Trinket: <a href="http://jumpto.cc/python-new" target="_blank">jumpto.cc/python-new</a>.
++ Open the blank Python template Trinket: <a href="http://jumpto.cc/python-new" target="_blank">jumpto.cc/python-new</a>.
 
-+ Lägg till följande kod för att rita en rad med "sköldpaddan":
++ Add the following code to draw a line using the 'turtle':
     
-    ![skärmdump](images/race-forward.png)
+    ![screenshot](images/race-forward.png)
 
-+ Låt oss nu använda sköldpaddan för att rita några spårmarkeringar för loppet.
++ Now let's use the turtle to draw some track markings for the race.
     
-    Sköldpaddan `skriv` funktionen skriver text till skärmen.
+    The turtle `write` function writes text to the screen.
     
-    Försök:
+    Try it:
     
-    ![skärmdump](images/race-markings1.png)
+    ![screenshot](images/race-markings1.png)
 
-+ Nu måste du fylla i siffrorna mellan att skapa markeringar:
++ Now you need to fill in the numbers in between to create markings:
     
-    ![skärmdump](images/race-markings2.png)
+    ![screenshot](images/race-markings2.png)
 
-+ Visste du att din kod är mycket repetitiv? Det enda som ändras är numret att skriva.
++ Did you notice that your code is very repetitive? The only thing that changes is the number to write.
     
-    Det finns ett bättre sätt att göra detta i Python. Du kan använda en `för` slinga.
+    There's a better way of doing this in Python. You can use a `for` loop.
     
-    Uppdatera din kod för att använda en `för` slinga:
+    Update your code to use a `for` loop:
     
-    ![skärmdump](images/race-for.png)
+    ![screenshot](images/race-for.png)
 
-+ Hmm, att endast skriver tal upp till 4. I Python `rad (5)` returnerar fem siffror, från 0 till 4. För att få det att också återvända 5 måste du använda `intervall (6)`:
++ Hmm, that only prints numbers up to 4. In Python `range(5)` returns five numbers, from 0 up to 4. To get it to also return 5 you'll need to use `range(6)`:
     
-    ![skärmdump](images/race-range.png)
+    ![screenshot](images/race-range.png)
 
-+ Nu kan vi rita några spårmarkeringar. Sköldpaddan börjar vid koordinaterna (0,0) mitt på skärmen.
++ Now we can draw some track markings. The turtle starts at coordinates (0,0) in the middle of the screen.
     
-    Flytta sköldpaddan till vänster till vänster istället:
+    Move the turtle to the top left instead:
     
-    ![skärmdump](images/race-goto.png)
+    ![screenshot](images/race-goto.png)
 
-+ Åh, du vill lyfta pennan först!
++ Ah, you'll want to lift the pen up first!
     
-    ![skärmdump](images/race-penup.png)
+    ![screenshot](images/race-penup.png)
 
-+ Istället för att dra en linje horisontellt, låt vi rita vertikala linjer för att skapa ett spår:
++ Instead of drawing a line horizontally, let's draw vertical lines to create a track:
     
-    ![skärmdump](images/race-lines.png)
+    ![screenshot](images/race-lines.png)
     
-    `höger (90)` gör sköldpaddan till höger 90 grader (en rätt vinkel.) Flytta `framåt (10)` innan du lägger pennan ner lämnar ett litet mellanrum mellan linjen och början. Efter att du har ritat linjen lyfter du upp pennan och går `bakåt (160)` längden på linjen plus gapet.
+    `right(90)` makes the turtle turn right 90 degrees (a right angle.) Moving `forward(10)` before putting the pen down leaves a small gap between the number and the start of the line. After drawing the line you lift up the pen and go `backward(160)` the length of the line plus the gap.
 
-+ Det ser snygg ut om du centrerar siffrorna:
++ It looks neater if you centre the numbers:
     
-    ![skärmdump](images/race-center.png)
+    ![screenshot](images/race-center.png)
 
-+ Och du kan påskynda sköldpaddan så att den drar snabbare:
++ And you can speed up the turtle so it draws faster:
     
-    ![skärmdump](images/race-speed.png)
+    ![screenshot](images/race-speed.png)
