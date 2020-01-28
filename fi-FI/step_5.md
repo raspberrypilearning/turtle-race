@@ -1,27 +1,27 @@
-## Kilpikonnat
+## Racing turtles
 
-Nyt hauskasta bitistä. Lisätään joitain kilpa-kilpikonnia. Olisi todella tylsää, jos kilpikonnat tekisivät saman ajan joka kerta, jotta he siirtäisivät satunnaiset askeleet joka käänteessä. Voittaja on kilpikonna, joka saa kauimpana 100 kierrosta.
+Now for the fun bit. Let's add some racing turtles. It would be really boring if the turtles did the same thing every time so they will move a random number of steps each turn. The winner is the turtle that gets the furthest in 100 turns.
 
-+ Kun käytät komentoja kuten `eteenpäin (20)` käytät yhtä kilpikonnaa. Mutta voit luoda enemmän kilpikonnia. Lisää seuraava koodi koodin loppuun (mutta varmista, ettei se ole sisennetty):
++ When you use commands like `forward(20)` you are using a single turtle. But you can create more turtles. Add the following code to the end of your script (but make sure it's not indented):
     
-    ![kuvakaappaus](images/race-red.png)
+    ![screenshot](images/race-red.png)
     
-    Ensimmäinen rivi luo kilpikonna nimeltä ada. Seuraavat viivat asettavat kilpikonnan värin ja muodon. Nyt se näyttää siltä kuin kilpikonna!
+    The first line creates a turtle called 'ada'. The next lines set the colour and shape of the turtle. Now it really looks like a turtle!
 
-+ Lähetetään kilpikonna lähtölinjalle:
++ Let's send the turtle to the starting line:
     
-    ![kuvakaappaus](images/race-start.png)
+    ![screenshot](images/race-start.png)
 
-+ Nyt sinun täytyy tehdä kilpikonnaa siirtämällä satunnaisia ​​askeleita kerrallaan. Tarvitset `randint` -toiminnon Python `random` -kirjastosta. Lisää tämä `tuonti` rivi komentosarjan yläosaan:
++ Now you need to make the turtle race by moving a random number of steps at a time. You'll need the `randint` function from the Python `random` library. Add this `import` line to the top of your script:
     
-    ![kuvakaappaus](images/race-randint.png)
+    ![screenshot](images/race-randint.png)
 
-+ `randint` -toiminto palauttaa satunnaisen kokonaislukuarvon (kokonaisluku) valitun arvon välillä. Kilpikonna siirtyy eteenpäin 1, 2, 3, 4 tai 5 askelta jokaisella kierroksella.
++ The `randint` function returns a random integer (whole number) between the values chosen. The turtle will move forward 1, 2, 3, 4, or 5 steps at each turn.
     
-    ![kuvakaappaus](images/race-random.png)
+    ![screenshot](images/race-random.png)
 
-+ Yksi kilpikonna ei ole paljon rotuun! Lisää toinen:
++ One turtle isn't much of a race! Let's add another one:
     
-    ![kuvakaappaus](images/race-blue.png)
+    ![screenshot](images/race-blue.png)
     
-    Huomaa, että sinisen kilpikonnan siirtämisen koodin on oltava **sama** `` silmukan kohdalla kuin punainen kilpikonna siirrettävän koodin niin, että kukin liikkuu joka kierrosta.
+    Note that the code for moving the blue turtle needs to be in **the same** `for` loop as the code for moving the red turtle so that they each make a move every turn.
