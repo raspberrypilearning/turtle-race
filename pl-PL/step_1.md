@@ -26,6 +26,6 @@ Ten projekt obejmuje elementy z następujących wątków z [Raspberry Pi Digital
 
 ### Dodatkowe informacje dla nauczycieli
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/turtle-race/print){:target="_blank"}.
+Jeśli chcesz wydrukować ten projekt, użyj [wersji do druku](https://projects.raspberrypi.org/en/projects/turtle-race/print){:target="_blank"}.
 
-Use the link in the footer to access the GitHub repository for this project, which contains all resources (including an example finished project) in the 'en/resources' folder.
+Skorzystaj z odnośnika w stopce, aby uzyskać dostęp do repozytorium kodu tego projektu w serwisie GitHub. Repozytorium to zawiera wszystkie zasoby (w tym przykład gotowego projektu) w folderze 'pl-PL/resources'.
