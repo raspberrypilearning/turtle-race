@@ -1,10 +1,10 @@
-## Uvod
+## Introduction
 
-Uporabi zanke, da narišeš dirkalno stezo in ustvariš igro v kateri dirkajo želve.
+Use loops to draw a race track and create a racing turtle game.
 
-### Kaj boš ustvaril-a?
+### What you will make
 
-Ta projekt uvaja 'for' zanke skozi zabavne želvje dirke. Zanke se uporabljajo za izrisovanje dirkalne proge in to, da se želve premaknejo za naključno število korakov ob vsakem obratu. Če imaš na voljo več ljudi za igranje igre, potem vsaka lahko izbere želvo, zmaga pa tista, ki pride najdlje.
+This project introduces for loops through a fun turtle race game. Loops are used to draw the race track and to make the turtles move a random number of steps each turn. If you have a group of people to play the game, each person pick a turtle and the one that gets the furthest is the winner.
 
 <div class="trinket">
   <iframe src="https://trinket.io/embed/python/9339862606?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
@@ -12,19 +12,19 @@ Ta projekt uvaja 'for' zanke skozi zabavne želvje dirke. Zanke se uporabljajo z
   <img src="images/race-finished.png">
 </div>
 
-### Kaj se boš naučil-a?
+### What you will learn
 
-Z ustvarjanjem želvje dirke, se boš naučil-a:
+By making your turtle race game, you will learn how to:
 
-+ Pisati `for`zanke v Pythonu
-+ Uporabljati naključna števila v Pythonu
-+ Narisati črte različnih barv s pomočjo Pythonove želve
++ Write `for` loops in Python
++ Use random numbers in Python
++ Draw lines in different colours with Python Turtle
 
-Ta projekt zajema elemente naslednjih sklopov [učnega načrta Raspberry Pi za digitalno ustvarjanje](http://rpf.io/curriculum){:target="_blank"}:
+This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
 
-+ [Uporabe osnovnih programskih gradnikov za ustvarjanje preprostih programov.](https://www.raspberrypi.org/curriculum/programming/creator/){:target="_blank"}
++ [Use basic programming constructs to create simple programs.](https://www.raspberrypi.org/curriculum/programming/creator/){:target="_blank"}
 
-### Dodatne informacije za izobraževalce
+### Additional information for educators
 
 If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/turtle-race/print){:target="_blank"}.
 
