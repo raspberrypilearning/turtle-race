@@ -1,35 +1,35 @@
 ---
-hero_image: images / turtle-race.png
-theme: màu xanh da trời
+hero_image: images/turtle-race.png
+theme: blue
 duration: 2
 listed: true
 ingredient: false
 copyedit: false
-curriculum: 1, thiết kế-0, lập trình-1, phys-comp-0, sản xuất-0, cộng đồng-0
-title: Rùa Race!
+curriculum: 1, design-0, programming-1, phys-comp-0, manufacture-0, community-0
+title: Turtle Race!
 description: Race turtles against each other!
 original_url: https://codeclubprojects.org/en-GB/python/turtle-race
-interests: Trò chơi
-technologies: con trăn
-site_areas: dự án
+interests: games
+technologies: python
+site_areas: projects
 hardware: ''
-software: con trăn
+software: python
 version: 3
 last_tested: 2017-01-01
 steps:
   - 
-    title: Giới thiệu
+    title: Introduction
   - 
-    title: Những gì bạn sẽ cần
+    title: What you will need
   - 
-    title: Đường đua
+    title: Race track
   - 
-    title: 'Thách thức: Nhiều dòng hơn'
+    title: 'Challenge: More lines'
   - 
-    title: Đua rùa
+    title: Racing turtles
   - 
-    title: 'Thách thức: Cuộc đua thời gian!'
+    title: 'Challenge: Race time!'
   - 
-    title: 'Thách thức: Xoay vòng'
+    title: 'Challenge: Do a twirl'
   - 
-    title: 'Thách thức: Đường nét đứt'
+    title: 'Challenge: Dashed lines'
