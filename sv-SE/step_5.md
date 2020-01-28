@@ -1,27 +1,27 @@
-## Racing sköldpaddor
+## Racing turtles
 
-Nu för den roliga biten. Låt oss lägga till några turtles. Det skulle vara väldigt tråkigt om sköldpaddorna gjorde samma sak varje gång så de kommer att flytta ett slumpmässigt antal steg varje tur. Vinnaren är sköldpaddan som blir längst i 100 varv.
+Now for the fun bit. Let's add some racing turtles. It would be really boring if the turtles did the same thing every time so they will move a random number of steps each turn. The winner is the turtle that gets the furthest in 100 turns.
 
-+ När du använder kommandon som `framåt (20)` använder du en enda sköldpadda. Men du kan skapa fler sköldpaddor. Lägg till följande kod till slutet av ditt skript (men se till att det inte är indryckt):
++ When you use commands like `forward(20)` you are using a single turtle. But you can create more turtles. Add the following code to the end of your script (but make sure it's not indented):
     
-    ![skärmdump](images/race-red.png)
+    ![screenshot](images/race-red.png)
     
-    Den första raden skapar en sköldpadda som heter 'ada'. Nästa rader ställer in sköldpaddans färg och form. Nu ser det verkligen ut som en sköldpadda!
+    The first line creates a turtle called 'ada'. The next lines set the colour and shape of the turtle. Now it really looks like a turtle!
 
-+ Låt oss skicka sköldpaddan till startlinjen:
++ Let's send the turtle to the starting line:
     
-    ![skärmdump](images/race-start.png)
+    ![screenshot](images/race-start.png)
 
-+ Nu behöver du göra sköldpaddsloppet genom att flytta ett slumpmässigt antal steg i taget. Du behöver `randint` funktionen från Python `slumpmässigt` biblioteket. Lägg till den här `importen` raden till toppen av ditt skript:
++ Now you need to make the turtle race by moving a random number of steps at a time. You'll need the `randint` function from the Python `random` library. Add this `import` line to the top of your script:
     
-    ![skärmdump](images/race-randint.png)
+    ![screenshot](images/race-randint.png)
 
-+ `randint` funktionen returnerar ett slumpmässigt heltal (heltal) mellan de valda värdena. Sköldpaddan flyttar framåt 1, 2, 3, 4 eller 5 steg vid varje tur.
++ The `randint` function returns a random integer (whole number) between the values chosen. The turtle will move forward 1, 2, 3, 4, or 5 steps at each turn.
     
-    ![skärmdump](images/race-random.png)
+    ![screenshot](images/race-random.png)
 
-+ En sköldpadda är inte mycket av en tävling! Låt oss lägga till en annan:
++ One turtle isn't much of a race! Let's add another one:
     
-    ![skärmdump](images/race-blue.png)
+    ![screenshot](images/race-blue.png)
     
-    Observera att koden för att flytta den blå sköldpaddan måste vara i **samma** `för` slinga som koden för att flytta den röda sköldpaddan så att de vart och ett gör ett drag varje gång.
+    Note that the code for moving the blue turtle needs to be in **the same** `for` loop as the code for moving the red turtle so that they each make a move every turn.
