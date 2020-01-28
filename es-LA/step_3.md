@@ -6,7 +6,7 @@ You're going to create a game with racing turtles. First they'll need a race tra
 
 + Add the following code to draw a line using the 'turtle':
     
-    ![captura de pantalla](images/race-forward.png)
+    ![screenshot](images/race-forward.png)
 
 + Now let's use the turtle to draw some track markings for the race.
     
@@ -14,11 +14,11 @@ You're going to create a game with racing turtles. First they'll need a race tra
     
     Try it:
     
-    ![captura de pantalla](images/race-markings1.png)
+    ![screenshot](images/race-markings1.png)
 
 + Now you need to fill in the numbers in between to create markings:
     
-    ![captura de pantalla](images/race-markings2.png)
+    ![screenshot](images/race-markings2.png)
 
 + Did you notice that your code is very repetitive? The only thing that changes is the number to write.
     
@@ -26,32 +26,32 @@ You're going to create a game with racing turtles. First they'll need a race tra
     
     Update your code to use a `for` loop:
     
-    ![captura de pantalla](images/race-for.png)
+    ![screenshot](images/race-for.png)
 
 + Hmm, that only prints numbers up to 4. In Python `range(5)` returns five numbers, from 0 up to 4. To get it to also return 5 you'll need to use `range(6)`:
     
-    ![captura de pantalla](images/race-range.png)
+    ![screenshot](images/race-range.png)
 
 + Now we can draw some track markings. The turtle starts at coordinates (0,0) in the middle of the screen.
     
     Move the turtle to the top left instead:
     
-    ![captura de pantalla](images/race-goto.png)
+    ![screenshot](images/race-goto.png)
 
 + Ah, you'll want to lift the pen up first!
     
-    ![captura de pantalla](images/race-penup.png)
+    ![screenshot](images/race-penup.png)
 
 + Instead of drawing a line horizontally, let's draw vertical lines to create a track:
     
-    ![captura de pantalla](images/race-lines.png)
+    ![screenshot](images/race-lines.png)
     
     `right(90)` makes the turtle turn right 90 degrees (a right angle.) Moving `forward(10)` before putting the pen down leaves a small gap between the number and the start of the line. After drawing the line you lift up the pen and go `backward(160)` the length of the line plus the gap.
 
 + It looks neater if you centre the numbers:
     
-    ![captura de pantalla](images/race-center.png)
+    ![screenshot](images/race-center.png)
 
 + And you can speed up the turtle so it draws faster:
     
-    ![captura de pantalla](images/race-speed.png)
+    ![screenshot](images/race-speed.png)
