@@ -4,7 +4,7 @@ Now for the fun bit. Let's add some racing turtles. It would be really boring if
 
 + When you use commands like `forward(20)` you are using a single turtle. But you can create more turtles. Add the following code to the end of your script (but make sure it's not indented):
     
-    ![képernyőkép](images/race-red.png)
+    ![screenshot](images/race-red.png)
     
     The first line creates a turtle called 'ada'. The next lines set the colour and shape of the turtle. Now it really looks like a turtle!
 
