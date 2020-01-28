@@ -7,10 +7,10 @@ speed(0)
 penup()
 goto(-140, 140)
 
-for cam in range(15):
-  write(cam, align='center')
+for step in range(15):
+  write(step, align='center')
   right(90)
-  for rhif in range(8):
+  for num in range(8):
     penup()
     forward(10)
     pendown()
@@ -20,53 +20,53 @@ for cam in range(15):
   left(90)
   forward(20)
 
-coch = Turtle()
-coch.color('red')
-coch.shape('turtle')
+red = Turtle()
+red.color('red')
+red.shape('turtle')
 
-coch.penup()
-coch.goto(-160, 100)
-coch.pendown()
+red.penup()
+red.goto(-160, 100)
+red.pendown()
 
-for tro in range(10):
-  coch.right(36)
+for turn in range(10):
+  red.right(36)
 
-glas = Turtle()
-glas.color('blue')
-glas.shape('turtle')
+blue = Turtle()
+blue.color('blue')
+blue.shape('turtle')
 
-glas.penup()
-glas.goto(-160, 70)
-glas.pendown()
+blue.penup()
+blue.goto(-160, 70)
+blue.pendown()
 
-for tro in range(72):
-  glas.left(5)
+for turn in range(72):
+  blue.left(5)
 
-gwyrdd = Turtle()
-gwyrdd.shape('turtle')
-gwyrdd.color('yellow')
+green = Turtle()
+green.shape('turtle')
+green.color('yellow')
 
-gwyrdd.penup()
-gwyrdd.goto(-160, 40)
-gwyrdd.pendown()
+green.penup()
+green.goto(-160, 40)
+green.pendown()
 
-for tro in range(60):
-  gwyrdd.right(6)
+for turn in range(60):
+  green.right(6)
 
-melyn = Turtle()
-melyn.shape('turtle')
-melyn.color('turquoise')
+yellow = Turtle()
+yellow.shape('turtle')
+yellow.color('turquoise')
 
-melyn.penup()
-melyn.goto(-160, 10)
-melyn.pendown()
+yellow.penup()
+yellow.goto(-160, 10)
+yellow.pendown()
 
-for tro in range(30):
-  melyn.left(12)
+for turn in range(30):
+  yellow.left(12)
 
-for tro in range(100):
-  coch.forward(randint(1,5))
-  glas.forward(randint(1,5))
-  gwyrdd.forward(randint(1,5))
-  melyn.forward(randint(1,5))
+for turn in range(100):
+  red.forward(randint(1,5))
+  blue.forward(randint(1,5))
+  green.forward(randint(1,5))
+  yellow.forward(randint(1,5))
   
