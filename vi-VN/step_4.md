@@ -1,11 +1,11 @@
-\--- thử thách \---
+\--- challenge \---
 
-## Thách thức: Nhiều dòng hơn
+## Challenge: More lines
 
-Bạn có thể thay đổi mã của mình để các tuyến đường đi ngay trên màn hình không?
+Can you change your code so that the track lines go right across the screen?
 
-![ảnh chụp màn hình](images/race-challenge1.png)
+![screenshot](images/race-challenge1.png)
 
-Nếu bạn muốn làm cho con rùa đi nhanh hơn, bạn có thể sử dụng `tốc độ (0)`.
+If you want to make the turtle go even faster you can use `speed(0)`.
 
-\--- /thử thách \---
+\--- /challenge \---
