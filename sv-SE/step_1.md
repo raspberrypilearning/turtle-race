@@ -1,10 +1,10 @@
-## Introduktion
+## Introduction
 
-Använd slingor för att rita ett tävlingsspår och skapa ett turtlespel.
+Use loops to draw a race track and create a racing turtle game.
 
-### Vad du kommer att göra
+### What you will make
 
-Projektet introduceras för loopar genom ett roligt sköldpaddsrace spel. Slingor används för att rita loppet och att sköldpaddorna flyttar ett slumpmässigt antal steg varje gång. Om du har en grupp människor att spela spelet väljer varje person en sköldpadda och den som blir längst bort är vinnaren.
+This project introduces for loops through a fun turtle race game. Loops are used to draw the race track and to make the turtles move a random number of steps each turn. If you have a group of people to play the game, each person pick a turtle and the one that gets the furthest is the winner.
 
 <div class="trinket">
   <iframe src="https://trinket.io/embed/python/9339862606?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
@@ -12,19 +12,19 @@ Projektet introduceras för loopar genom ett roligt sköldpaddsrace spel. Slingo
   <img src="images/race-finished.png">
 </div>
 
-### Vad du kommer att lära dig
+### What you will learn
 
-Genom att göra ditt turtle racespel kommer du att lära dig hur man:
+By making your turtle race game, you will learn how to:
 
-+ Skriv `för` slingor i Python
-+ Använd slumpmässiga tal i Python
-+ Rita linjer i olika färger med Python Turtle
++ Write `for` loops in Python
++ Use random numbers in Python
++ Draw lines in different colours with Python Turtle
 
-Detta projekt omfattar element från följande rader av [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){: target = "_ blank"}:
+This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
 
-+ [Använd grundläggande programmeringskonstruktioner för att skapa enkla program.](https://www.raspberrypi.org/curriculum/programming/creator/){: target = "_ blank"}
++ [Use basic programming constructs to create simple programs.](https://www.raspberrypi.org/curriculum/programming/creator/){:target="_blank"}
 
-### Ytterligare information för lärare
+### Additional information for educators
 
 If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/turtle-race/print){:target="_blank"}.
 
