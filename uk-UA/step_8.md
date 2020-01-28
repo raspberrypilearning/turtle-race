@@ -1,11 +1,11 @@
-\--- завдання \---
+\--- challenge \---
 
-## Виклик: пунктирна лінія
+## Challenge: Dashed lines
 
-Чи можете ви використати цикл, щоб зробити лінії треків пунктирними, а не твердими?
+Can you use a loop to make the track lines dashed instead of solid?
 
-![знімок екрану](images/race-finished.png)
+![screenshot](images/race-finished.png)
 
-**Підказка:** Знайдіть код, який малює пряму лінію. Спробуйте скористатись:`для`, `вперед ()`, `penup ()` та `pendown ()`
+**Hint:** Find the code that draws a straight line. Try using:`for`, `forward()`, `penup()` and `pendown()`
 
 \--- /challenge \---
