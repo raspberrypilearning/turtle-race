@@ -26,6 +26,6 @@ Este projeto abrange elementos das seguintes vertentes do [Raspberry Pi Digital 
 
 ### Informações adicionais para educadores
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/turtle-race/print){:target="_blank"}.
+Se necessitar de imprimir este projeto, por favor, utilize a [versão para impressão](https://projects.raspberrypi.org/en/projects/turtle-race/print){: target = "_ blank"}.
 
-Use the link in the footer to access the GitHub repository for this project, which contains all resources (including an example finished project) in the 'en/resources' folder.
+Use o link no rodapé para aceder ao repositório do GitHub deste projeto, que contém todos os recursos (incluindo um exemplo de projeto concluído) na pasta 'en/resources'.
