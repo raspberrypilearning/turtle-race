@@ -18,9 +18,9 @@ version: 3
 last_tested: 2017-01-01
 steps:
   - 
-    title: ভূমিকা
+    title: Introduction
   - 
-    title: যা যা প্রয়োজন
+    title: What you will need
   - 
     title: Race track
   - 
