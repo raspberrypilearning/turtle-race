@@ -1,11 +1,11 @@
-\--- thử thách \---
+\--- challenge \---
 
-## Thách thức: Xoay vòng
+## Challenge: Do a twirl
 
-Bạn có thể sử dụng một `để lần lượt trong phạm vi ():` vòng lặp để làm cho mỗi con rùa làm một xoay 360 độ sau khi họ nhận được để bắt đầu dòng? Bạn sẽ cần phải chắc chắn rằng họ đang phải đối mặt đúng hướng vào lúc bắt đầu cuộc đua!
+Can you use a `for turn in range():` loop to make each turtle do a 360 degree twirl after they get to the starting line? You'll need to make sure they are facing in the right direction at the start of the race!
 
-`ada.right (36)` sẽ biến con rùa đỏ sang phải 36 độ.
+`ada.right(36)` will turn the red turtle right by 36 degrees.
 
-**Gợi ý:** Lần lượt là 360 độ. Một con rùa có thể rẽ phải 10 độ 36 lần, hoặc trái 5 độ 72 lần, hoặc bất kỳ con số nào khác tạo ra 360!
+**Hint:** A full turn is 360 degrees. A turtle could turn right 10 degrees 36 times, or left 5 degrees 72 times, or any other numbers make 360!
 
-\--- /thử thách \---
+\--- /challenge \---
