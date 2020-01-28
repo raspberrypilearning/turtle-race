@@ -1,11 +1,11 @@
 \--- challenge \---
 
-## Izazov: Više linija
+## Challenge: More lines
 
-Možeš li da izmijeniš svoj kôd tako da linije trkališta idu preko cijelog ekrana?
+Can you change your code so that the track lines go right across the screen?
 
 ![screenshot](images/race-challenge1.png)
 
-Ako želiš da kornjača ide još brže, možeš da koristiš `speed(0)`.
+If you want to make the turtle go even faster you can use `speed(0)`.
 
 \--- /challenge \---
