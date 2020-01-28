@@ -1,10 +1,10 @@
-## Giriş
+## Introduction
 
-Döngüleri kullanarak bir yarış pisti çizin ve bir kaplumbağa yarışı oyunu yaratın.
+Use loops to draw a race track and create a racing turtle game.
 
-### Ne yapacaksınız
+### What you will make
 
-Bu proje, eğlenceli bir kaplumbağa yarışı oyunu sayesinde döngüleri tanıtacaktır. Döngüler yarış pistini çizmek ve kaplumbağaların her turda rastgele adım adım ilerlemesini sağlamak için kullanılır. Oyunu oynayacak bir grubunuz varsa, herkes bir kaplumbağayı seçer ve en uzağa giden kazanır.
+This project introduces for loops through a fun turtle race game. Loops are used to draw the race track and to make the turtles move a random number of steps each turn. If you have a group of people to play the game, each person pick a turtle and the one that gets the furthest is the winner.
 
 <div class="trinket">
   <iframe src="https://trinket.io/embed/python/9339862606?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
@@ -12,20 +12,20 @@ Bu proje, eğlenceli bir kaplumbağa yarışı oyunu sayesinde döngüleri tanı
   <img src="images/race-finished.png">
 </div>
 
-### Ne öğreneceksiniz
+### What you will learn
 
-Kaplumbağa yarışı oyununuzu yaparak, şunu nasıl yapacağınızı öğreneceksiniz:
+By making your turtle race game, you will learn how to:
 
-+ Python'da döngüler için `for` fonksiyonunu yazın
-+ Python'da rasgele sayılar kullanın
-+ Python Turtle modülü ile farklı renklerde çizgiler çizin
++ Write `for` loops in Python
++ Use random numbers in Python
++ Draw lines in different colours with Python Turtle
 
-Bu proje, [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){@ target = "_ blank"} 'un aşağıdaki bölümünden bilgiler kapsamaktadır:
+This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
 
-+ [Basit programlar oluşturmak için temel programlama yapılarını kullanın](https://www.raspberrypi.org/curriculum/programming/creator/){:target="_blank"}
++ [Use basic programming constructs to create simple programs.](https://www.raspberrypi.org/curriculum/programming/creator/){:target="_blank"}
 
-### Eğitimciler için ek bilgiler
+### Additional information for educators
 
-Bu projeyi yazdırmanız gerekiyorsa lütfen [yazıcı-dostu sürümü](https://projects.raspberrypi.org/en/projects/turtle-race/print){:target="_blank"} kullanın.
+If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/turtle-race/print){:target="_blank"}.
 
-Bu projeye ait bütün kaynakları içeren (bitmiş örnek bir proje de dahil!) GitHub Repo'suna erişmek için, en alttaki linke tıklayabilirsiniz. Kaynaklar, 'en/resources' klasöründe bulunmakta.
+Use the link in the footer to access the GitHub repository for this project, which contains all resources (including an example finished project) in the 'en/resources' folder.
