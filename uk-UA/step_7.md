@@ -1,11 +1,11 @@
-\--- завдання \---
+\--- challenge \---
 
-## Виклик: обертайся
+## Challenge: Do a twirl
 
-Чи можете ви використовувати `для повороту в діапазоні ():` цикл, щоб кожна черепаха зробила поворот 360 градусів після того, як вони досягають стартової лінії? Ви повинні будете переконатися, що вони стикаються в правильному напрямку на початку гонки!
+Can you use a `for turn in range():` loop to make each turtle do a 360 degree twirl after they get to the starting line? You'll need to make sure they are facing in the right direction at the start of the race!
 
-`ada.right (36)` перетворить червону черепаху прямо на 36 градусів.
+`ada.right(36)` will turn the red turtle right by 36 degrees.
 
-**Підказка:** повна оборона 360 градусів. Черепаха може повернути направо на 10 градусів 36 разів, або залишивши 5 градусів 72 рази, або будь-які інші цифри складатимуть 360!
+**Hint:** A full turn is 360 degrees. A turtle could turn right 10 degrees 36 times, or left 5 degrees 72 times, or any other numbers make 360!
 
 \--- /challenge \---
