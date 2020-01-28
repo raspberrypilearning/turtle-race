@@ -1,8 +1,8 @@
-## Introducción
+## Introduction
 
 Use loops to draw a race track and create a racing turtle game.
 
-### Lo que hará
+### What you will make
 
 This project introduces for loops through a fun turtle race game. Loops are used to draw the race track and to make the turtles move a random number of steps each turn. If you have a group of people to play the game, each person pick a turtle and the one that gets the furthest is the winner.
 
@@ -12,7 +12,7 @@ This project introduces for loops through a fun turtle race game. Loops are used
   <img src="images/race-finished.png">
 </div>
 
-### Lo que aprenderás
+### What you will learn
 
 By making your turtle race game, you will learn how to:
 
