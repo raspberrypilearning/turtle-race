@@ -1,8 +1,8 @@
-## परिचय
+## Introduction
 
 Use loops to draw a race track and create a racing turtle game.
 
-### आप क्या बनाएँगे
+### What you will make
 
 This project introduces for loops through a fun turtle race game. Loops are used to draw the race track and to make the turtles move a random number of steps each turn. If you have a group of people to play the game, each person pick a turtle and the one that gets the furthest is the winner.
 
@@ -12,7 +12,7 @@ This project introduces for loops through a fun turtle race game. Loops are used
   <img src="images/race-finished.png">
 </div>
 
-### आप क्या सीखेंगे
+### What you will learn
 
 By making your turtle race game, you will learn how to:
 
@@ -20,12 +20,12 @@ By making your turtle race game, you will learn how to:
 + Use random numbers in Python
 + Draw lines in different colours with Python Turtle
 
-इस परियोजना में [Raspberry Pi डिजिटल मेकिंग पाठ्यक्रम](http://rpf.io/curriculum){: target = "_ blank"} के निम्नलिखित स्ट्रैंड्स के तत्व शामिल हैं:
+This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
 
 + [Use basic programming constructs to create simple programs.](https://www.raspberrypi.org/curriculum/programming/creator/){:target="_blank"}
 
-### शिक्षकों के लिए अतिरिक्त जानकारी
+### Additional information for educators
 
-अगर आपको इस प्रोजेक्ट को प्रिंट करने की आवश्यकता है, तो कृप्या [प्रिंटर-अनुकूल संस्करण](https://projects.raspberrypi.org/en/projects/turtle-race/print){: target = "_ blank"} का उपयोग करें।
+If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/turtle-race/print){:target="_blank"}.
 
-इस परियोजना के गिटहब भंडार तक पहुंचने के लिए नीचे दिए गए लिंक का उपयोग करें, जिसमें 'en/resources' फ़ोल्डर में सभी संसाधन शामिल हैं (एक उदाहरण संपूर्ण परियोजना सहित)।
+Use the link in the footer to access the GitHub repository for this project, which contains all resources (including an example finished project) in the 'en/resources' folder.
