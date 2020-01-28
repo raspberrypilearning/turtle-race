@@ -1,11 +1,11 @@
-\--- haaste \---
+\--- challenge \---
 
-## Haaste: katkoviivat
+## Challenge: Dashed lines
 
-Voitteko käyttää silmukkaa, jotta raidat katkeutuvat väärällä sijasta?
+Can you use a loop to make the track lines dashed instead of solid?
 
-![kuvakaappaus](images/race-finished.png)
+![screenshot](images/race-finished.png)
 
-**Vihje:** Etsi suora viiva. Yritä käyttää:``, `eteenpäin ()`, `penup ()` ja `pendown ()`
+**Hint:** Find the code that draws a straight line. Try using:`for`, `forward()`, `penup()` and `pendown()`
 
-\--- /haaste \---
+\--- /challenge \---
