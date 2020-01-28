@@ -1,13 +1,13 @@
-\--- haaste \---
+\--- challenge \---
 
-## Haaste: Rotuaika!
+## Challenge: Race time!
 
-Nyt olet valmis kilpailemaan. Valitse kilpikonna ja vastustaja ja näet kuka voittaa.
+Now you're ready to race. Pick a turtle and an opponent and see who wins.
 
-Voitteko lisätä muita kilpikonnia, jotta voit kilpaa useampien ystävien kanssa?
+Can you add more turtles so you can race with more friends?
 
-![kuvakaappaus](images/race-more.png)
+![screenshot](images/race-more.png)
 
-Värit ovat: oranssi, violetti, violetti, tomaatti, turkoosi, magenta ja ruskea - tai voit mennä [jumpto.cc/colours](http://jumpto.cc/colours) ja valita haluamasi värin!
+Colours include: orange, purple, violet, tomato, turquoise, magenta and brown - or you can go to [jumpto.cc/colours](http://jumpto.cc/colours) and pick any colour you like!
 
-\--- /haaste \---
+\--- /challenge \---
