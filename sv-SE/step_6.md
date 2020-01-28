@@ -1,13 +1,13 @@
-\--- utmaning \---
+\--- challenge \---
 
-## Utmaning: Lopptid!
+## Challenge: Race time!
 
-Nu är du redo att tävla. Välj en sköldpadda och en motståndare och se vem som vinner.
+Now you're ready to race. Pick a turtle and an opponent and see who wins.
 
-Kan du lägga till fler sköldpaddor så att du kan tävla med fler vänner?
+Can you add more turtles so you can race with more friends?
 
-![skärmdump](images/race-more.png)
+![screenshot](images/race-more.png)
 
-Färgerna inkluderar: orange, lila, violett, tomat, turkos, magenta och brun - eller du kan gå till [jumpto.cc/colours](http://jumpto.cc/colours) och välja vilken färg du vill!
+Colours include: orange, purple, violet, tomato, turquoise, magenta and brown - or you can go to [jumpto.cc/colours](http://jumpto.cc/colours) and pick any colour you like!
 
-\--- /utmaning \---
+\--- /challenge \---
