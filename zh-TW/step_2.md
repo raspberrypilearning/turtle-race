@@ -1,9 +1,9 @@
-## 你會用到
+## What you will need
 
-### 硬體
+### Hardware
 
 + An internet-connected computer
 
-### 軟體
+### Software
 
 This project uses Python 3. We recommend using [Trinket](https://trinket.io/), which allows you to write Python code online.
