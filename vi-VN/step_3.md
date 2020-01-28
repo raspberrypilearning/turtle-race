@@ -1,57 +1,57 @@
-## Đường đua
+## Race track
 
-Bạn sẽ tạo ra một trò chơi với rùa đua. Đầu tiên, họ sẽ cần một đường đua.
+You're going to create a game with racing turtles. First they'll need a race track.
 
-+ Mở mẫu Python Trinket trống: <a href="http://jumpto.cc/python-new" target="_blank">jumpto.cc/python-new</a>.
++ Open the blank Python template Trinket: <a href="http://jumpto.cc/python-new" target="_blank">jumpto.cc/python-new</a>.
 
-+ Thêm đoạn mã sau để vẽ một đường bằng cách sử dụng 'rùa':
++ Add the following code to draw a line using the 'turtle':
     
-    ![ảnh chụp màn hình](images/race-forward.png)
+    ![screenshot](images/race-forward.png)
 
-+ Bây giờ chúng ta hãy sử dụng con rùa để vẽ một số dấu vết cho cuộc đua.
++ Now let's use the turtle to draw some track markings for the race.
     
-    Hàm rùa `viết` ghi văn bản vào màn hình.
+    The turtle `write` function writes text to the screen.
     
-    Thử nó:
+    Try it:
     
-    ![ảnh chụp màn hình](images/race-markings1.png)
+    ![screenshot](images/race-markings1.png)
 
-+ Bây giờ bạn cần phải điền vào các số ở giữa để tạo các dấu:
++ Now you need to fill in the numbers in between to create markings:
     
-    ![ảnh chụp màn hình](images/race-markings2.png)
+    ![screenshot](images/race-markings2.png)
 
-+ Bạn có nhận thấy rằng mã của bạn rất lặp lại không? Điều duy nhất thay đổi là số để viết.
++ Did you notice that your code is very repetitive? The only thing that changes is the number to write.
     
-    Có một cách tốt hơn để làm điều này trong Python. Bạn có thể sử dụng vòng lặp `cho`.
+    There's a better way of doing this in Python. You can use a `for` loop.
     
-    Cập nhật mã của bạn để sử dụng vòng lặp `cho`:
+    Update your code to use a `for` loop:
     
-    ![ảnh chụp màn hình](images/race-for.png)
+    ![screenshot](images/race-for.png)
 
-+ Hmm, mà chỉ in số lên đến 4. Trong phạm vi Python `(5)` trả về năm số, từ 0 lên đến 4. Để có được nó cũng trả về 5 bạn sẽ cần phải sử dụng `phạm vi (6)`:
++ Hmm, that only prints numbers up to 4. In Python `range(5)` returns five numbers, from 0 up to 4. To get it to also return 5 you'll need to use `range(6)`:
     
-    ![ảnh chụp màn hình](images/race-range.png)
+    ![screenshot](images/race-range.png)
 
-+ Bây giờ chúng ta có thể vẽ một số dấu rãnh ghi. Con rùa bắt đầu tại tọa độ (0,0) ở giữa màn hình.
++ Now we can draw some track markings. The turtle starts at coordinates (0,0) in the middle of the screen.
     
-    Di chuyển con rùa lên trên cùng bên trái để thay thế:
+    Move the turtle to the top left instead:
     
-    ![ảnh chụp màn hình](images/race-goto.png)
+    ![screenshot](images/race-goto.png)
 
-+ Ah, bạn sẽ muốn nhấc bút lên trước!
++ Ah, you'll want to lift the pen up first!
     
-    ![ảnh chụp màn hình](images/race-penup.png)
+    ![screenshot](images/race-penup.png)
 
-+ Thay vì vẽ một đường theo chiều ngang, hãy vẽ các đường thẳng đứng để tạo bản nhạc:
++ Instead of drawing a line horizontally, let's draw vertical lines to create a track:
     
-    ![ảnh chụp màn hình](images/race-lines.png)
+    ![screenshot](images/race-lines.png)
     
-    `right (90)` làm cho con rùa rẽ phải 90 độ (góc phải.) Di chuyển `về phía trước (10)` trước khi đặt bút xuống để lại một khoảng cách nhỏ giữa số và đầu dòng. Sau khi vẽ đường bạn nhấc bút lên và đi `lùi (160)` chiều dài của đường kẻ cộng với khoảng trống.
+    `right(90)` makes the turtle turn right 90 degrees (a right angle.) Moving `forward(10)` before putting the pen down leaves a small gap between the number and the start of the line. After drawing the line you lift up the pen and go `backward(160)` the length of the line plus the gap.
 
-+ Nó trông neater nếu bạn trung tâm các con số:
++ It looks neater if you centre the numbers:
     
-    ![ảnh chụp màn hình](images/race-center.png)
+    ![screenshot](images/race-center.png)
 
-+ Và bạn có thể tăng tốc độ cho rùa để nó nhanh hơn:
++ And you can speed up the turtle so it draws faster:
     
-    ![ảnh chụp màn hình](images/race-speed.png)
+    ![screenshot](images/race-speed.png)
