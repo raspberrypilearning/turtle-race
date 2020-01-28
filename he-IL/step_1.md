@@ -1,8 +1,8 @@
-## מבוא
+## Introduction
 
 Use loops to draw a race track and create a racing turtle game.
 
-### התוצר
+### What you will make
 
 This project introduces for loops through a fun turtle race game. Loops are used to draw the race track and to make the turtles move a random number of steps each turn. If you have a group of people to play the game, each person pick a turtle and the one that gets the furthest is the winner.
 
@@ -12,7 +12,7 @@ This project introduces for loops through a fun turtle race game. Loops are used
   <img src="images/race-finished.png">
 </div>
 
-### מה תלמד
+### What you will learn
 
 By making your turtle race game, you will learn how to:
 
@@ -20,12 +20,12 @@ By making your turtle race game, you will learn how to:
 + Use random numbers in Python
 + Draw lines in different colours with Python Turtle
 
-פרויקט זה מכסה אלמנטים מן הנושאים הבאים של [תוכנית הלימוד הדיגיטלית של Raspberry Pi](http://rpf.io/curriculum){: target = "_ blank"}:
+This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
 
 + [Use basic programming constructs to create simple programs.](https://www.raspberrypi.org/curriculum/programming/creator/){:target="_blank"}
 
-### מידע נוסף למורי המועדון
+### Additional information for educators
 
-אם עליך להדפיס את הפרויקט הזה, השתמש ב [גרסה ידידותית למדפסת](https://projects.raspberrypi.org/en/projects/turtle-race/print){:target="_blank"}.
+If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/turtle-race/print){:target="_blank"}.
 
-השתמש בקישור בכותרת התחתונה כדי לגשת למאגר של GitHub לפרויקט זה, המכיל את כל החומר הנדרש (כולל פרויקט גמור לדוגמה) בתיקייה 'en / resources'.
+Use the link in the footer to access the GitHub repository for this project, which contains all resources (including an example finished project) in the 'en/resources' folder.
