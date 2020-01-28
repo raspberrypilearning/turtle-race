@@ -1,6 +1,6 @@
 \--- challenge \---
 
-## Challenge: Do a twirl
+## चुनौती: डैश की लाइनें
 
 Can you use a `for turn in range():` loop to make each turtle do a 360 degree twirl after they get to the starting line? You'll need to make sure they are facing in the right direction at the start of the race!
 
