@@ -2,7 +2,7 @@
 
 Use loops to draw a race track and create a racing turtle game.
 
-### Ce que vous ferez
+### What you will make
 
 This project introduces for loops through a fun turtle race game. Loops are used to draw the race track and to make the turtles move a random number of steps each turn. If you have a group of people to play the game, each person pick a turtle and the one that gets the furthest is the winner.
 
@@ -26,6 +26,6 @@ This project covers elements from the following strands of the [Raspberry Pi Dig
 
 ### Additional information for educators
 
-Si tu as besoin d’imprimer ce projet, utilise plutôt la [printer-friendly version](https://projects.raspberrypi.org/en/projects/turtle-race/print){:target="_blank"}.
+If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/turtle-race/print){:target="_blank"}.
 
 Use the link in the footer to access the GitHub repository for this project, which contains all resources (including an example finished project) in the 'en/resources' folder.
