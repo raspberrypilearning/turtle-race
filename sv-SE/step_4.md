@@ -1,11 +1,11 @@
-\--- utmaning \---
+\--- challenge \---
 
-## Utmaning: Fler rader
+## Challenge: More lines
 
-Kan du ändra din kod så att spårlinjerna går tvärs över skärmen?
+Can you change your code so that the track lines go right across the screen?
 
-![skärmdump](images/race-challenge1.png)
+![screenshot](images/race-challenge1.png)
 
-Om du vill göra sköldpaddan går ännu snabbare kan du använda `hastighet (0)`.
+If you want to make the turtle go even faster you can use `speed(0)`.
 
-\--- /utmaning \---
+\--- /challenge \---
