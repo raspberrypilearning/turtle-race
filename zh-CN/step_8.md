@@ -10,8 +10,11 @@
 
 --- /challenge ---
 
-### 社区贡献的翻译 
+***
+该项目由以下志愿者翻译：
 
-该项目由Jude Chen 翻译并通过Qing Dai 审查。
+Jude Chen
 
-我们出色的翻译志愿者帮助我们为世界各地的儿童提供学习编码的机会。通过翻译我们的项目，您可以帮助我们覆盖更多的儿童 - 更多详情请阅读[rpf.io/translate](https://rpf.io/translate)。
+戴晴
+
+正因为志愿者们的辛勤工作，我们才能为世界各地的人们提供用母语来学习的机会。您也可以通过志愿翻译工作来帮助我们吸引更多的人 - 更多信息，请访问[rpf.io/translate](https://rpf.io/translate)。
