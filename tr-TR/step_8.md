@@ -1,11 +1,11 @@
 \--- challenge \---
 
-## Challenge: Dashed lines
+## Meydan Okuma: Kesik çizgiler
 
-Can you use a loop to make the track lines dashed instead of solid?
+Şerit çizgilerini düz yerine kesik yapmak için bir döngü kullanabilir misiniz?
 
-![screenshot](images/race-finished.png)
+![ekran görüntüsü](images/race-finished.png)
 
-**Hint:** Find the code that draws a straight line. Try using:`for`, `forward()`, `penup()` and `pendown()`
+**İpucu:** Düz bir çizgi çeken kodu bulun. `for`, `forward()`, `penup()` and `pendown()` komutlarını deneyin
 
 \--- /challenge \---
