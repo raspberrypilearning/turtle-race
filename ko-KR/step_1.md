@@ -26,6 +26,6 @@
 
 ### 교육자를 위한 추가 정보
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/turtle-race/print){:target="_blank"}.
+이 프로젝트를 인쇄하려면 [프린트용 버전](https://projects.raspberrypi.org/en/projects/turtle-race/print){:target="_blank"}을 사용하십시오.
 
-Use the link in the footer to access the GitHub repository for this project, which contains all resources (including an example finished project) in the 'en/resources' folder.
+하단의 링크를 사용하여 이 프로젝트의 GitHub 저장소에 접속합니다. 모든 리소스 (완성된 프로젝트 예제를 포함) 가 'en/resources' 폴더에 들어 있습니다.
