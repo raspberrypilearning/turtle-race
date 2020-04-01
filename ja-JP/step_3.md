@@ -2,7 +2,7 @@
 
 これから、カメが競争するゲームを作ります。まず最初にレーストラックが必要です。
 
-+ 空のPythonテンプレートTrinketを開きます、<a href="https://trinket.io/python/f69e360eb8" target="_blank">trinket.io/python/f69e360eb8</a>。
++ 空のPythonテンプレートTrinketを開きます、<a href="http://jumpto.cc/python-new" target="_blank">jumpto.cc/python-new</a>。
 
 + 以下のコードを追加して、「turtle」で線を描きます。
     

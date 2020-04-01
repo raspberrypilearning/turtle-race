@@ -12,7 +12,7 @@
     
     ![スクリーンショット](images/race-start.png)
 
-+ 一度にランダムな歩数だけ動くようなカメのレースにする必要があります。 Pythonの`random`ライブラリの`randint`関数を使います。 この</code>import</0>行をスクリプトの先頭に追加します。
++ 一度にランダムな歩数だけ動くようなカメのレースにする必要があります。 Pythonの`random`ライブラリの`randint`関数を使います。 この`import`行をスクリプトの先頭に追加します。
     
     ![スクリーンショット](images/race-randint.png)
 

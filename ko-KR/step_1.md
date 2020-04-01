@@ -22,14 +22,10 @@
 
 이 프로젝트는 [라즈베리 파이 디지털 메이킹 교육과정](http://rpf.io/curriculum){:target="_blank"} 중 아래의 과정에 있는 요소들을 다룹니다.
 
-+ [ 기본 프로그래밍 구조를 사용하여 간단한 프로그램 작성 ](https://www.raspberrypi.org/curriculum/programming/creator/){:target="_blank"}
++ [기본 프로그래밍 구조를 사용하여 간단한 프로그램 작성](https://www.raspberrypi.org/curriculum/programming/creator/){:target="_blank"}
 
 ### 교육자를 위한 추가 정보
 
 이 프로젝트를 인쇄하려면 [프린트용 버전](https://projects.raspberrypi.org/ko-KR/projects/turtle-race/print){:target="_blank"}을 사용하십시오.
 
-아래쪽에 있는 이 프로젝트를 위한 GitHub repository 링크를 이용하세요. (완성된 프로젝트 예제를 포함한) 모든 리소스가 'ko-KR/resources' 폴더에 들어 있습니다.
-
-### 교육자들을 위한 추가 정보
-
-이 프로젝트를 인쇄하려면 [프린트용 문서](https://projects.raspberrypi.org/ko-KR/projects/turtle-race/print)를 사용하십시오.
+하단의 링크를 사용하여 이 프로젝트의 GitHub 저장소에 접속합니다. 모든 리소스 (완성된 프로젝트 예제를 포함) 가 'ko-KR/resources' 폴더에 들어 있습니다.

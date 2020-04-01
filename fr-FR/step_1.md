@@ -28,4 +28,4 @@ Ce projet traite des éléments des sections suivantes du [Programme de Créatio
 
 Si vous besoin d'imprimer ce projet, merci d'utiliser la [version imprimable.](https://projects.raspberrypi.org/fr-FR/projects/turtle-race/print){:target="_blank"}.
 
-Utilisez le lien en bas de cette page pour accéder au dépôt GitHub de ce projet, qui contient toutes les ressources (y compris un exemple du projet terminé) dans le dossier 'en/resources'.
+Utilise le lien dans au bas de la page pour accéder au dépôt GitHub pour ce projet, qui contient toutes les ressources (y compris un exemple d'un projet terminé) dans le dossier 'fr-FR/resources'.
