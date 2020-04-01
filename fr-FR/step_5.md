@@ -20,7 +20,7 @@ Maintenant pour le plaisir. Ajoutons des tortues de course. Ce serait vraiment e
     
     ![capture d'écran](images/race-random.png)
 
-+ Une tortue n'est pas assez ! Ajoutons-en une autre :
++ Une tortue, ce n'est pas assez ! Ajoutons-en une autre :
     
     ![capture d'écran](images/race-blue.png)
     
