@@ -1,27 +1,27 @@
-## Racing turtles
+## Yarışan kaplumbağalar
 
-Now for the fun bit. Let's add some racing turtles. It would be really boring if the turtles did the same thing every time so they will move a random number of steps each turn. The winner is the turtle that gets the furthest in 100 turns.
+Şimdi eğlence zamanı. Hadi biraz daha kaplumbağa ekleyelim. Kaplumbağaların her seferinde aynı şeyi yapmaları çok sıkıcı olurdu, bu yüzden her turda rastgele adımlarla ilerleyecekler. Kazanan, 100 turda en uzağa giden kaplumbağa olur.
 
-+ When you use commands like `forward(20)` you are using a single turtle. But you can create more turtles. Add the following code to the end of your script (but make sure it's not indented):
++ `forward(20)` gibi komutlar kullandığınızda bunu sadece bir kaplumbağada kullanıyorsunuz demektir. Fakat daha fazla kaplumbağa yaratabilirsiniz. Aşağıdaki kodu, kodlama satırınızın sonuna ekleyin. (ama girintili olmadığından emin olun):
     
-    ![screenshot](images/race-red.png)
+    ![ekran görüntüsü](images/race-red.png)
     
-    The first line creates a turtle called 'ada'. The next lines set the colour and shape of the turtle. Now it really looks like a turtle!
+    İlk satır 'ipek' adında bir kaplumbağa yaratır. Sonraki satırlar kaplumbağanın rengini ve şeklini belirler. Şimdi gerçekten bir kaplumbağa gibi görünüyor!
 
-+ Let's send the turtle to the starting line:
++ Kaplumbağayı başlangıç çizgisine gönderelim:
     
-    ![screenshot](images/race-start.png)
+    ![ekran görüntüsü](images/race-start.png)
 
-+ Now you need to make the turtle race by moving a random number of steps at a time. You'll need the `randint` function from the Python `random` library. Add this `import` line to the top of your script:
++ Şimdi bir seferde rastgele sayıdaki adımları hareket ettirerek kaplumbağa yarışını yapmanız gerekiyor. Python'un `random` kütüphanesinden `randint` işlevine ihtiyacınız olacak. Kodlama satırınızın en üstüne bu `import` satırını ekleyin:
     
-    ![screenshot](images/race-randint.png)
+    ![ekran görüntüsü](images/race-randint.png)
 
-+ The `randint` function returns a random integer (whole number) between the values chosen. The turtle will move forward 1, 2, 3, 4, or 5 steps at each turn.
++ `randint` işlevi seçilen değerler arasında rasgele bir tamsayı seçer. Kaplumbağa her turda 1, 2, 3, 4 veya 5 adım ileri hareket edecektir.
     
-    ![screenshot](images/race-random.png)
+    ![ekran görüntüsü](images/race-random.png)
 
-+ One turtle isn't much of a race! Let's add another one:
++ Tek kaplumbağayla yarış olmaz! Hadi bir tane daha ekleyelim:
     
-    ![screenshot](images/race-blue.png)
+    ![ekran görüntüsü](images/race-blue.png)
     
-    Note that the code for moving the blue turtle needs to be in **the same** `for` loop as the code for moving the red turtle so that they each make a move every turn.
+    Mavi kaplumbağayı hareket ettiren kod, kırmızı kaplumbağayı hareket ettiren kodla **aynı** `for` döngüsü içinde olması gerektiğine dikkat edin böylece her turda kendi hareketini yaparlar.
