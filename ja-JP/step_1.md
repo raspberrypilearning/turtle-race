@@ -28,4 +28,4 @@
 
 このプロジェクトを印刷する必要がある場合は、 [印刷用バージョン](https://projects.raspberrypi.org/en/projects/turtle-race/print){:target="_blank"}を使用してください。
 
-フッターのリンクから、このプロジェクトのGitHubリポジトリにアクセスできます。このリポジトリには、 'en/resources'フォルダ内のすべてのリソース (プロジェクトの完成例を含む) が含まれています。
+Use the link in the footer to access the GitHub repository for this project, which contains all resources (including an example finished project) in the 'en/resources' folder.
