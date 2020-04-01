@@ -6,4 +6,4 @@
 
 ### Logiciel
 
-Ce projet utilise Python 3. Nous recommandons d’utiliser [Trinket](https://trinket.io/), qui te permet d’écrire du code Python en ligne.
+Ce projet utilise Python 3. Nous recommandons d’utiliser [Trinket](https://trinket.io/) , qui te permet d’écrire du code Python en ligne.

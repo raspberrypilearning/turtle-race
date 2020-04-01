@@ -22,10 +22,10 @@ En réalisant ton jeu de course de tortues, tu apprendras à:
 
 Ce projet traite des éléments des sections suivantes du [Programme de Création Numérique Raspberry Pi](http://rpf.io/curriculum){:target="_blank"}:
 
-+ [Utilise des concepts de base de programmation pour créer des programmes simples](https://www.raspberrypi.org/curriculum/programming/creator/){:target="_blank"}
++ [Utilise des concepts de base de programmation pour créer des programmes simples](https://www.raspberrypi.org/curriculum/programming/creator/) {:target="_ blank"}
 
 ### Informations supplémentaires pour les éducateurs
 
 Si vous besoin d'imprimer ce projet, merci d'utiliser la [version imprimable.](https://projects.raspberrypi.org/fr-FR/projects/turtle-race/print){:target="_blank"}.
 
-Utilisez le lien en bas de cette page pour accéder au dépôt GitHub de ce projet, qui contient toutes les ressources (y compris un exemple du projet terminé) dans le dossier 'en/resources'.
+Utilise le lien dans au bas de la page pour accéder au dépôt GitHub pour ce projet, qui contient toutes les ressources (y compris un exemple d'un projet terminé) dans le dossier 'fr-FR/resources'.

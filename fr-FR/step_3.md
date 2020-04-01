@@ -2,7 +2,7 @@
 
 Tu vas créer un jeu avec des tortues de course. D'abord, elles auront besoin d'une piste de course.
 
-+ Ouvre le modèle de Trinket Python vierge : <a href="https://trinket.io/python/f69e360eb8" target="_blank">trinket.io/python/f69e360eb8</a>.
++ Ouvre le modèle de Trinket Python vierge : <a href="http://jumpto.cc/python-new" target="_blank">jumpto.cc/python-new</a>.
 
 + Ajoute le code suivant pour dessiner une ligne à l'aide de "turtle":
     

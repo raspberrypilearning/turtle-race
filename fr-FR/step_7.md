@@ -2,7 +2,7 @@
 
 ## Défi: faire un tourbillon
 
-Peux-tu utiliser une boucle `for turn in range():` pour que chaque tortue fasse un tourbillon de 360 degrés après avoir atteint la ligne de départ? Tu devras t'assurer qu'elles font face dans la bonne direction au début de la course!
+Peux-tu utiliser une boucle `for tourner in range():` pour que chaque tortue fasse un tourbillon de 360 degrés après avoir atteint la ligne de départ? Tu devras t'assurer qu'elles font face dans la bonne direction au début de la course!
 
 `ada.right(36)` tournera la tortue rouge à droite de 36 degrés.
 
