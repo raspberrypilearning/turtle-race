@@ -22,7 +22,7 @@ En réalisant ton jeu de course de tortues, tu apprendras à:
 
 Ce projet traite des éléments des sections suivantes du [Programme de Création Numérique Raspberry Pi](http://rpf.io/curriculum){:target="_blank"}:
 
-+ [Utilise des concepts de base de programmation pour créer des programmes simples](https://www.raspberrypi.org/curriculum/programming/creator/) {:target="_ blank"}
++ [Utilise des concepts de base de programmation pour créer des programmes simples](https://www.raspberrypi.org/curriculum/programming/creator/){:target="_blank"}
 
 ### Informations supplémentaires pour les éducateurs
 
