@@ -46,7 +46,7 @@ Você vai criar um jogo com as tartarugas de corrida. Primeiro eles precisam de 
     
     ![captura de tela](images/race-lines.png)
     
-    `direita (90)` faz com que a tartaruga vire à direita 90 graus (um ângulo reto). Movendo `para frente (10)` antes de colocar a caneta no chão, há um pequeno espaço entre o número e o início da linha. After drawing the line you lift up the pen and go `backward(160)` the length of the line plus the gap.
+    `direita (90)` faz com que a tartaruga vire à direita 90 graus (um ângulo reto). Movendo `para frente (10)` antes de colocar a caneta no chão, há um pequeno espaço entre o número e o início da linha. Depois de desenhares a linha, levanta a caneta e anda ` para trás (160) ` o comprimento da linha mais o espaço.
 
 + Parece mais simples se você centralizar os números:
     
