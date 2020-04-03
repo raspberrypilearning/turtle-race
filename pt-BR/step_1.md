@@ -28,4 +28,4 @@ Este projeto abrange elementos das seguintes vertentes do [Currículo de Criaç�
 
 Se for necessário imprimir este projeto por favor utilize a [versão para impressão](https://projects.raspberrypi.org/en/projects/turtle-race/print){:target="_blank"}.
 
-Use the link in the footer to access the GitHub repository for this project, which contains all resources (including an example finished project) in the 'en/resources' folder.
+Utilize o link do rodapé para acessar o repositório GitHub deste projeto, que contém todos os recursos (incluindo um exemplo de projeto terminado) na pasta 'en/resources'.
