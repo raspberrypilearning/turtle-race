@@ -1,57 +1,57 @@
-## Race track
+## Pista de corrida
 
-You're going to create a game with racing turtles. First they'll need a race track.
+Você vai criar um jogo de corrida de tartarugas. Primeiro elas precisam de uma pista de corrida.
 
-+ Open the blank Python template Trinket: <a href="http://jumpto.cc/python-new" target="_blank">jumpto.cc/python-new</a>.
++ Abra um modelo Python em branco no Trinket: <a href="http://jumpto.cc/python-new" target="_blank">jumpto.cc/python-new</a>.
 
-+ Add the following code to draw a line using the 'turtle':
++ Adicione o seguinte código para desenhar uma linha usando o módulo 'turtle':
     
     ![screenshot](images/race-forward.png)
 
-+ Now let's use the turtle to draw some track markings for the race.
++ Agora vamos usar turte para desenhar algumas marcas para a corrida.
     
-    The turtle `write` function writes text to the screen.
+    A função turtle `write` escreve texto na tela.
     
-    Try it:
+    Tente:
     
     ![screenshot](images/race-markings1.png)
 
-+ Now you need to fill in the numbers in between to create markings:
++ Agora você precisa preencher os números intermediários para criar marcações:
     
     ![screenshot](images/race-markings2.png)
 
-+ Did you notice that your code is very repetitive? The only thing that changes is the number to write.
++ Você notou que seu código é muito repetitivo? A única coisa que muda é o número a ser escrito.
     
-    There's a better way of doing this in Python. You can use a `for` loop.
+    Existe uma maneira melhor de fazer isso em Python. Você pode usar um laço`for`.
     
-    Update your code to use a `for` loop:
+    Atualize seu código para usar um laço `for`:
     
     ![screenshot](images/race-for.png)
 
-+ Hmm, that only prints numbers up to 4. In Python `range(5)` returns five numbers, from 0 up to 4. To get it to also return 5 you'll need to use `range(6)`:
++ Hmm, isso só imprime números até 4. No Python `range(5)` retorna cinco números, de 0 a 4. Para que ele também retorne 5, você precisará usar `range(6)`:
     
     ![screenshot](images/race-range.png)
 
-+ Now we can draw some track markings. The turtle starts at coordinates (0,0) in the middle of the screen.
++ Agora podemos desenhar algumas marcas de pista. A tartaruga começa nas coordenadas (0,0) no meio da tela.
     
-    Move the turtle to the top left instead:
+    Em vez disso, mova a tartaruga para o canto superior esquerdo:
     
     ![screenshot](images/race-goto.png)
 
-+ Ah, you'll want to lift the pen up first!
++ Ah, você vai querer levantar a caneta primeiro!
     
     ![screenshot](images/race-penup.png)
 
-+ Instead of drawing a line horizontally, let's draw vertical lines to create a track:
++ Em vez de desenhar uma linha horizontalmente, vamos desenhar linhas verticais para criar uma trilha:
     
     ![screenshot](images/race-lines.png)
     
-    `right(90)` makes the turtle turn right 90 degrees (a right angle.) Moving `forward(10)` before putting the pen down leaves a small gap between the number and the start of the line. After drawing the line you lift up the pen and go `backward(160)` the length of the line plus the gap.
+    `right(90)` faz a tartaruga girar 90 graus para a direita (um ângulo reto). Movendo `forward(10)` antes de pousar a caneta, deixa um pequeno espaço entre o número e o início da linha. Após desenhar a linha, você levanta a caneta e volta `backward(160)` o comprimento da linha mais o espaço.
 
-+ It looks neater if you centre the numbers:
++ Fica mais organizado se você centralizar os números:
     
     ![screenshot](images/race-center.png)
 
-+ And you can speed up the turtle so it draws faster:
++ E você pode acelerar a tartaruga para que ela desenhe mais rápido:
     
     ![screenshot](images/race-speed.png)
