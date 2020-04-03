@@ -20,53 +20,53 @@ for passo in range(15):
   left(90)
   forward(20)
 
-vermelha = Turtle()
-vermelha.color('red')
-vermelha.shape('turtle')
+maria = Turtle()
+maria.color('red')
+maria.shape('turtle')
 
-vermelha.penup()
-vermelha.goto(-160, 100)
-vermelha.pendown()
+maria.penup()
+maria.goto(-160, 100)
+maria.pendown()
 
 for turn in range(10):
-  vermelha.right(36)
+  maria.right(36)
 
-azul = Turtle()
-azul.color('blue')
-azul.shape('turtle')
+joao = Turtle()
+joao.color('blue')
+joao.shape('turtle')
 
-azul.penup()
-azul.goto(-160, 70)
-azul.pendown()
+joao.penup()
+joao.goto(-160, 70)
+joao.pendown()
 
 for turn in range(72):
-  azul.left(5)
+  joao.left(5)
 
-verde = Turtle()
-verde.shape('turtle')
-verde.color('green')
+antonio = Turtle()
+antonio.shape('turtle')
+antonio.color('green')
 
-verde.penup()
-verde.goto(-160, 40)
-verde.pendown()
+antonio.penup()
+antonio.goto(-160, 40)
+antonio.pendown()
 
 for turn in range(60):
-  verde.right(6)
+  antonio.right(6)
 
-amarela = Turtle()
-amarela.shape('turtle')
-amarela.color('yellow')
+bianca = Turtle()
+bianca.shape('turtle')
+bianca.color('yellow')
 
-amarela.penup()
-amarela.goto(-160, 10)
-amarela.pendown()
+bianca.penup()
+bianca.goto(-160, 10)
+bianca.pendown()
 
 for turn in range(30):
-  amarela.left(12)
+  bianca.left(12)
 
 for turn in range(100):
-  vermelha.forward(randint(1,5))
-  azul.forward(randint(1,5))
-  verde.forward(randint(1,5))
-  amarela.forward(randint(1,5))
+  maria.forward(randint(1,5))
+  joao.forward(randint(1,5))
+  antonio.forward(randint(1,5))
+  bianca.forward(randint(1,5))
   
