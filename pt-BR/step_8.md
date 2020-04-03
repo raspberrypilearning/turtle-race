@@ -1,11 +1,11 @@
 \--- challenge \---
 
-## Challenge: Dashed lines
+## Desafio: Linhas tracejadas
 
-Can you use a loop to make the track lines dashed instead of solid?
+Você pode usar um laço para fazer as linhas da pista ficarem tracejadas em vez de sólidas?
 
 ![screenshot](images/race-finished.png)
 
-**Hint:** Find the code that draws a straight line. Try using:`for`, `forward()`, `penup()` and `pendown()`
+**Dica:** Encontre o código que desenha uma linha reta. Tente usar:`for`, `forward()`, `penup()` e `pendown()`
 
 \--- /challenge \---
