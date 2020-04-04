@@ -1,10 +1,10 @@
-## Introduction
+## Introducció
 
-Use loops to draw a race track and create a racing turtle game.
+Fes servir bucles per dibuixar un circuit de carreres i crear un joc de carreres de tortugues.
 
-### What you will make
+### Què faràs
 
-This project introduces for loops through a fun turtle race game. Loops are used to draw the race track and to make the turtles move a random number of steps each turn. If you have a group of people to play the game, each person pick a turtle and the one that gets the furthest is the winner.
+Aquest projecte introdueix bucles for mitjançant un divertit joc de curses de tortugues. Els bucles s’utilitzen per dibuixar la pista de la cursa i fer que les tortugues es desplacin un nombre de passos aleatoris cada tanda. If you have a group of people to play the game, each person pick a turtle and the one that gets the furthest is the winner.
 
 <div class="trinket">
   <iframe src="https://trinket.io/embed/python/9339862606?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
