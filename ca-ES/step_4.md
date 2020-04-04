@@ -1,10 +1,10 @@
 \--- challenge \---
 
-## Challenge: More lines
+## Repte: més línies
 
-Can you change your code so that the track lines go right across the screen?
+Pots canviar el teu codi per tal que les línies de pista creuïn la pantalla?
 
-![screenshot](images/race-challenge1.png)
+![captura de pantalla](images/race-challenge1.png)
 
 If you want to make the turtle go even faster you can use `speed(0)`.
 
