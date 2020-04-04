@@ -22,10 +22,10 @@ En fer el joc de curses de tortugues, aprendràs a:
 
 Aquest projecte tracta elements dels següents aspectes del [Currículum de Fabricació Digital de Raspberry Pi](http://rpf.io/curriculum){:target="_blank"}:
 
-+ [Use basic programming constructs to create simple programs.](https://www.raspberrypi.org/curriculum/programming/creator/){:target="_blank"}
++ [Utilitzar estructures de programació bàsiques per crear programes simples.](https://www.raspberrypi.org/curriculum/programming/creator/){:target="_blank"}
 
-### Additional information for educators
+### Informació addicional per a educadors
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/turtle-race/print){:target="_blank"}.
+Si necessites imprimir aquest projecte, si us plau, utilitza la [versió per imprimir](https://projects.raspberrypi.org/en/projects/turtle-race/print){:target="_blank"}.
 
-Use the link in the footer to access the GitHub repository for this project, which contains all resources (including an example finished project) in the 'en/resources' folder.
+Utilitza l'enllaç del peu de pàgina per accedir al repositori de GitHub per a aquest projecte, el qual conté tots els recursos (incloent un exemple de projecte acabat) a la carpeta ‘ca-ES/resources’.
