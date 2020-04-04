@@ -1,9 +1,9 @@
-## What you will need
+## Que necessitaràs
 
-### Hardware
+### Maquinari
 
-+ An internet-connected computer
++ Un ordinador connectat a Internet
 
-### Software
+### Programari
 
-This project uses Python 3. We recommend using [Trinket](https://trinket.io/), which allows you to write Python code online.
+Aquest projecte utilitza Python 3. Et recomanem que facis servir [Trinket](https://trinket.io/), que et permet escriure codi Python en línia.
