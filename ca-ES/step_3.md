@@ -24,29 +24,29 @@ Crearàs un joc amb tortugues corredores. El primer que necessitaran és un circ
     
     Hi ha una manera millor de fer això a Python. Pots utilitzar un bucle `for`.
     
-    Update your code to use a `for` loop:
+    Actualitza el teu codi per utilitzar un bucle `for`:
     
     ![screenshot](images/race-for.png)
 
-+ Hmm, that only prints numbers up to 4. In Python `range(5)` returns five numbers, from 0 up to 4. To get it to also return 5 you'll need to use `range(6)`:
++ Hmm, això només imprimeix nombres fins a 4. Python `rang(5)` retorna cinc números, de 0 a 4. Per obtenir-ne fins al 5, hauries de fer servir ` rang(6) `:
     
     ![screenshot](images/race-range.png)
 
-+ Now we can draw some track markings. The turtle starts at coordinates (0,0) in the middle of the screen.
++ Ara podem dibuixar algunes marques de pistes. La tortuga comença a les coordenades (0,0) a la meitat de la pantalla.
     
-    Move the turtle to the top left instead:
+    Millor que moguis la tortuga a la part superior esquerra:
     
     ![screenshot](images/race-goto.png)
 
-+ Ah, you'll want to lift the pen up first!
++ Ah, primer voldràs aixecar el llapis!
     
     ![screenshot](images/race-penup.png)
 
-+ Instead of drawing a line horizontally, let's draw vertical lines to create a track:
++ En lloc de dibuixar una línia horitzontalment, dibuixem línies verticals per crear una pista:
     
     ![screenshot](images/race-lines.png)
     
-    `right(90)` makes the turtle turn right 90 degrees (a right angle.) Moving `forward(10)` before putting the pen down leaves a small gap between the number and the start of the line. After drawing the line you lift up the pen and go `backward(160)` the length of the line plus the gap.
+    `right(90)` fa que la tortuga giri a la dreta 90 graus (un angle recte). Avançant `forward(10)` abans d'abaixar el llapis deixa un petit buit entre el nombre i l’inici de la línia. After drawing the line you lift up the pen and go `backward(160)` the length of the line plus the gap.
 
 + It looks neater if you centre the numbers:
     
