@@ -6,7 +6,7 @@ Crearàs un joc amb tortugues corredores. El primer que necessitaran és un circ
 
 + Afegeix el codi següent per dibuixar una línia mitjançant la 'tortuga':
     
-    ![screenshot](images/race-forward.png)
+    ![captura de pantalla](images/race-forward.png)
 
 + Ara utilitzarem la tortuga per dibuixar algunes marques de pista per a la cursa.
     
@@ -14,11 +14,11 @@ Crearàs un joc amb tortugues corredores. El primer que necessitaran és un circ
     
     Prova-ho:
     
-    ![screenshot](images/race-markings1.png)
+    ![captura de pantalla](images/race-markings1.png)
 
 + Ara has d'omplir amb números per enumerar les marques:
     
-    ![screenshot](images/race-markings2.png)
+    ![captura de pantalla](images/race-markings2.png)
 
 + T'has adonat que el teu codi és molt repetitiu? L’únic que canvia és el número a escriure.
     
@@ -26,32 +26,32 @@ Crearàs un joc amb tortugues corredores. El primer que necessitaran és un circ
     
     Actualitza el teu codi per utilitzar un bucle `for`:
     
-    ![screenshot](images/race-for.png)
+    ![captura de pantalla](images/race-for.png)
 
-+ Hmm, això només imprimeix nombres fins a 4. Python `rang(5)` retorna cinc números, de 0 a 4. Per obtenir-ne fins al 5, hauries de fer servir ` rang(6) `:
++ Hmm, això només imprimeix nombres fins a 4. A Python `rang(5)` retorna cinc números, de 0 a 4. Per obtenir-ne fins al 5, hauries de fer servir ` rang(6) `:
     
-    ![screenshot](images/race-range.png)
+    ![captura de pantalla](images/race-range.png)
 
 + Ara podem dibuixar algunes marques de pistes. La tortuga comença a les coordenades (0,0) a la meitat de la pantalla.
     
     Millor que moguis la tortuga a la part superior esquerra:
     
-    ![screenshot](images/race-goto.png)
+    ![captura de pantalla](images/race-goto.png)
 
 + Ah, primer voldràs aixecar el llapis!
     
-    ![screenshot](images/race-penup.png)
+    ![captura de pantalla](images/race-penup.png)
 
 + En lloc de dibuixar una línia horitzontalment, dibuixem línies verticals per crear una pista:
     
-    ![screenshot](images/race-lines.png)
+    ![captura de pantalla](images/race-lines.png)
     
-    `right(90)` fa que la tortuga giri a la dreta 90 graus (un angle recte). Avançant `forward(10)` abans d'abaixar el llapis deixa un petit buit entre el nombre i l’inici de la línia. After drawing the line you lift up the pen and go `backward(160)` the length of the line plus the gap.
+    `right(90)` fa que la tortuga giri a la dreta 90 graus (un angle recte). Avançant `forward(10)` abans d'abaixar el llapis deixa un petit buit entre el nombre i l’inici de la línia. Després de traçar la línia, puja el llapis i ves `backward(160)` la longitud de la línia més el buit.
 
-+ It looks neater if you centre the numbers:
++ Es veu millor si centres els números:
     
-    ![screenshot](images/race-center.png)
+    ![captura de pantalla](images/race-center.png)
 
-+ And you can speed up the turtle so it draws faster:
++ I pots accelerar la tortuga perquè es dibuixi més ràpidament:
     
-    ![screenshot](images/race-speed.png)
+    ![captura de pantalla](images/race-speed.png)
