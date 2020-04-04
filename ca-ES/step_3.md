@@ -1,28 +1,28 @@
 ## Race track
 
-You're going to create a game with racing turtles. First they'll need a race track.
+Crearàs un joc amb tortugues corredores. El primer que necessitaran és un circuit.
 
-+ Open the blank Python template Trinket: <a href="http://jumpto.cc/python-new" target="_blank">jumpto.cc/python-new</a>.
++ Obre la plantilla Python en blanc a Trinket: <a href="http://jumpto.cc/python-new" target="_blank">jumpto.cc/python-new</a>.
 
-+ Add the following code to draw a line using the 'turtle':
++ Afegeix el codi següent per dibuixar una línia mitjançant la 'tortuga':
     
     ![screenshot](images/race-forward.png)
 
-+ Now let's use the turtle to draw some track markings for the race.
++ Ara utilitzarem la tortuga per dibuixar algunes marques de pista per a la cursa.
     
-    The turtle `write` function writes text to the screen.
+    La funció `write` de la tortuga escriu text a la pantalla.
     
-    Try it:
+    Prova-ho:
     
     ![screenshot](images/race-markings1.png)
 
-+ Now you need to fill in the numbers in between to create markings:
++ Ara has d'omplir amb números per enumerar les marques:
     
     ![screenshot](images/race-markings2.png)
 
-+ Did you notice that your code is very repetitive? The only thing that changes is the number to write.
++ T'has adonat que el teu codi és molt repetitiu? L’únic que canvia és el número a escriure.
     
-    There's a better way of doing this in Python. You can use a `for` loop.
+    Hi ha una manera millor de fer això a Python. Pots utilitzar un bucle `for`.
     
     Update your code to use a `for` loop:
     
