@@ -1,11 +1,11 @@
 \--- challenge \---
 
-## Challenge: More lines
+## Завдання: більше ліній
 
-Can you change your code so that the track lines go right across the screen?
+Чи можеш ти змінити свій код так, щоб лінії траси йшли вправо через увесь екран?
 
-![screenshot](images/race-challenge1.png)
+![знімок екрана](images/race-challenge1.png)
 
-If you want to make the turtle go even faster you can use `speed(0)`.
+Якщо ти хочеш, щоб turtle рухалася ще швидше, ти можеш використати `speed(0)`.
 
 \--- /challenge \---
