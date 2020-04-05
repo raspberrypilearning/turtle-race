@@ -16,9 +16,9 @@
 
 Зробивши власну гру в черепашачіі перегони, ти навчишся:
 
-+ Write `for` loops in Python
++ Писати цикли `for` в Python
 + Використовувати випадкові числа в Python
-+ Малювати лінії різного кольору з Python Turtle
++ Малювати лінії різного кольору за допомогою Python Turtle
 
 Цей проект охоплює елементи з наступних частин [Електронного навчального плану Raspberry Pi](http://rpf.io/curriculum){:target="_blank"}:
 
@@ -26,6 +26,6 @@
 
 ### Додаткова інформація для вчителів
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/turtle-race/print){:target="_blank"}.
+Якщо вам потрібно роздрукувати цей проєкт, будь ласка, скористайтеся [версією для друку](https://projects.raspberrypi.org/en/projects/turtle-race/print){:target="_blank"}.
 
-Use the link in the footer to access the GitHub repository for this project, which contains all resources (including an example finished project) in the 'en/resources' folder.
+Скористайся посиланням у нижньому колонтитулі, щоб отримати доступ до сховища GitHub для даного проєкту, який містить усі ресурси (включаючи приклад готового проєкту) в папці 'en/resources'.
