@@ -1,57 +1,57 @@
 ## Гоночна траса
 
-You're going to create a game with racing turtles. First they'll need a race track.
+Ти збираєшся створити гру з гоночними черепахами. Для початку їм потрібна гоночна траса.
 
-+ Open the blank Python template Trinket: <a href="http://jumpto.cc/python-new" target="_blank">jumpto.cc/python-new</a>.
++ Відкрий пустий шаблон для Python у Trinket (трінкет): <a href="http://jumpto.cc/python-new" target="_blank">jumpto.cc/python-new</a>.
 
-+ Add the following code to draw a line using the 'turtle':
++ Додай наступний код, щоб намалювати лінію за допомогою "turtle":
     
-    ![screenshot](images/race-forward.png)
+    ![знімок екрана](images/race-forward.png)
 
-+ Now let's use the turtle to draw some track markings for the race.
++ Тепер давай використаємо turtle, щоб намалювати розмітку для перегонів.
     
-    The turtle `write` function writes text to the screen.
+    Функція turtle `write` виводить текст на екран.
     
-    Try it:
+    Спробуй:
     
-    ![screenshot](images/race-markings1.png)
+    ![знімок екрана](images/race-markings1.png)
 
-+ Now you need to fill in the numbers in between to create markings:
++ Тепер тобі треба поставити числа, щоб створити відмітки:
     
-    ![screenshot](images/race-markings2.png)
+    ![знімок екрана](images/race-markings2.png)
 
-+ Did you notice that your code is very repetitive? The only thing that changes is the number to write.
++ Ти помітив, що код сильно повторюється? Єдине, що змінюється — це число, яке потрібно вивести.
     
-    There's a better way of doing this in Python. You can use a `for` loop.
+    Існує кращий спосіб це зробити в Python. Ти можеш використовувати цикл `for`.
     
-    Update your code to use a `for` loop:
+    Зміни свій код, щоб використати цикл `for`:
     
-    ![screenshot](images/race-for.png)
+    ![знімок екрана](images/race-for.png)
 
-+ Hmm, that only prints numbers up to 4. In Python `range(5)` returns five numbers, from 0 up to 4. To get it to also return 5 you'll need to use `range(6)`:
++ Хм, таким чином друкуються лише числа до 4. У Python `range(5)` повертає п'ять чисел від 0 до 4. Щоб отримати і 5, тобі потрібно використовувати `range(6)`:
     
-    ![screenshot](images/race-range.png)
+    ![знімок екрана](images/race-range.png)
 
-+ Now we can draw some track markings. The turtle starts at coordinates (0,0) in the middle of the screen.
++ Тепер ти можеш намалювати деяку розмітку. Turtle починає з координат (0,0) посередині екрана.
     
-    Move the turtle to the top left instead:
+    Замість цього перемісти turtle вгору вліво:
     
-    ![screenshot](images/race-goto.png)
+    ![знімок екрана](images/race-goto.png)
 
-+ Ah, you'll want to lift the pen up first!
++ А, тобі ж спочатку треба підняти ручку (pen)!
     
-    ![screenshot](images/race-penup.png)
+    ![знімок екрана](images/race-penup.png)
 
-+ Instead of drawing a line horizontally, let's draw vertical lines to create a track:
++ Замість того, щоб малювати горизонтальну лінію, давай малювати вертикальні для створення траси:
     
-    ![screenshot](images/race-lines.png)
+    ![знімок екрана](images/race-lines.png)
     
-    `right(90)` makes the turtle turn right 90 degrees (a right angle.) Moving `forward(10)` before putting the pen down leaves a small gap between the number and the start of the line. After drawing the line you lift up the pen and go `backward(160)` the length of the line plus the gap.
+    `right(90)` повертає turtle праворуч на 90 градусів (прямий кут). Переміщення `forward(10)` перед тим, як опустити ручку (pen), залишає невеликий проміжок між номером і початком лінії. Після нанесення лінії ти піднімаєш ручку та повертаєшся `backward(160)` на довжину лінії плюс розрив.
 
-+ It looks neater if you centre the numbers:
++ Буде виглядати охайніше, якщо вирівняти числа по центру:
     
-    ![screenshot](images/race-center.png)
+    ![знімок екрана](images/race-center.png)
 
-+ And you can speed up the turtle so it draws faster:
++ Такожи ти можеш прискорити turtle, щоб вона малювала швидше:
     
-    ![screenshot](images/race-speed.png)
+    ![знімок екрана](images/race-speed.png)
