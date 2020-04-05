@@ -1,4 +1,4 @@
-## Race track
+## Circuit de carreres
 
 Crearàs un joc amb tortugues corredores. El primer que necessitaran és un circuit.
 
