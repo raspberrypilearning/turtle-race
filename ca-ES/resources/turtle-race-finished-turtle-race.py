@@ -7,8 +7,8 @@ speed(0)
 penup()
 goto(-140, 140)
 
-for step in range(15):
-  write(step, align='center')
+for passa in range(15):
+  write(passa, align='center')
   right(90)
   for num in range(8):
     penup()
@@ -20,53 +20,53 @@ for step in range(15):
   left(90)
   forward(20)
 
-red = Turtle()
-red.color('red')
-red.shape('turtle')
+vermella = Turtle()
+vermella.color('red')
+vermella.shape('turtle')
 
-red.penup()
-red.goto(-160, 100)
-red.pendown()
+vermella.penup()
+vermella.goto(-160, 100)
+vermella.pendown()
 
-for turn in range(10):
-  red.right(36)
+for torn in range(10):
+  vermella.right(36)
 
-blue = Turtle()
-blue.color('blue')
-blue.shape('turtle')
+blava = Turtle()
+blava.color('blue')
+blava.shape('turtle')
 
-blue.penup()
-blue.goto(-160, 70)
-blue.pendown()
+blava.penup()
+blava.goto(-160, 70)
+blava.pendown()
 
-for turn in range(72):
-  blue.left(5)
+for torn in range(72):
+  blava.left(5)
 
-green = Turtle()
-green.shape('turtle')
-green.color('yellow')
+verda = Turtle()
+verda.shape('turtle')
+verda.color('yellow')
 
-green.penup()
-green.goto(-160, 40)
-green.pendown()
+verda.penup()
+verda.goto(-160, 40)
+verda.pendown()
 
-for turn in range(60):
-  green.right(6)
+for torn in range(60):
+  verda.right(6)
 
-yellow = Turtle()
-yellow.shape('turtle')
-yellow.color('turquoise')
+groga = Turtle()
+groga.shape('turtle')
+groga.color('turquoise')
 
-yellow.penup()
-yellow.goto(-160, 10)
-yellow.pendown()
+groga.penup()
+groga.goto(-160, 10)
+groga.pendown()
 
-for turn in range(30):
-  yellow.left(12)
+for torn in range(30):
+  groga.left(12)
 
-for turn in range(100):
-  red.forward(randint(1,5))
-  blue.forward(randint(1,5))
-  green.forward(randint(1,5))
-  yellow.forward(randint(1,5))
+for torn in range(100):
+  vermella.forward(randint(1,5))
+  blava.forward(randint(1,5))
+  verda.forward(randint(1,5))
+  groga.forward(randint(1,5))
   
