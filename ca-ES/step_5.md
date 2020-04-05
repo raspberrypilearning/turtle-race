@@ -1,6 +1,6 @@
 ## Tortugues corredores
 
-Ara una mica més de diversió. Afegim algunes tortugues de cursa. Seria realment avorrit si les tortugues fessin el mateix cada vegada, per la qual cosa es mouran un nombre aleatori de passos cada torn. La tortuga guanyadora serà la que arribi més lluny en 100 voltes.
+Ara una mica més de diversió. Afegim algunes tortugues de cursa. Seria realment avorrit si les tortugues fessin el mateix cada vegada, per la qual cosa es mouran un nombre aleatori de passes cada torn. La tortuga guanyadora serà la que arribi més lluny en 100 voltes.
 
 + Quan fas servir comandes com `forward(20)` estàs fent servir una única tortuga. Però pots crear més tortugues. Afegeix el següent codi al final del teu programa (però assegura't que no tingui sagnat):
     
@@ -12,7 +12,7 @@ Ara una mica més de diversió. Afegim algunes tortugues de cursa. Seria realmen
     
     ![captura de pantalla](images/race-start.png)
 
-+ Ara has de fer que la tortuga corri movent-se un nombre aleatori de passos alhora. Necessitaràs la funció `randint` de la biblioteca de Python `random`. Afegeix aquesta línia `import` a la part superior del teu codi:
++ Ara has de fer que la tortuga corri movent-se un nombre aleatori de passes alhora. Necessitaràs la funció `randint` de la biblioteca de Python `random`. Afegeix aquesta línia `import` a la part superior del teu codi:
     
     ![captura de pantalla](images/race-randint.png)
 
