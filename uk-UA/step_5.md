@@ -1,27 +1,27 @@
 ## Гоночні черепахи
 
-Now for the fun bit. Let's add some racing turtles. It would be really boring if the turtles did the same thing every time so they will move a random number of steps each turn. The winner is the turtle that gets the furthest in 100 turns.
+А зараз час для забави. Давай створимо декілька гоночних черепах. Було б нудно, якби черепахи робили щоразу те саме, тому вони будуть рухатися на випадкове число кроків за хід. Переможець — черепаха, яка добереться найдалі на 100 ходів.
 
-+ When you use commands like `forward(20)` you are using a single turtle. But you can create more turtles. Add the following code to the end of your script (but make sure it's not indented):
++ Коли ти використовуєш команди, типу `forward(20)`, ти використовуєш єдину turtle. Але ти можеш створити більше екземплярів turtle. Додай наступний код до кінця свого скрипта (але переконайся, що він йде без відступу):
     
-    ![screenshot](images/race-red.png)
+    ![знімок екрана](images/race-red.png)
     
-    The first line creates a turtle called 'ada'. The next lines set the colour and shape of the turtle. Now it really looks like a turtle!
+    У першому рядку створюється turtle (черепаха) з іменем "ada". Наступні рядки встановлюють колір і форму turtle. Тепер вона дійсно схожа на черепаху!
 
-+ Let's send the turtle to the starting line:
++ Давай відправимо черепаху до стартової лінії:
     
-    ![screenshot](images/race-start.png)
+    ![знімок екрана](images/race-start.png)
 
-+ Now you need to make the turtle race by moving a random number of steps at a time. You'll need the `randint` function from the Python `random` library. Add this `import` line to the top of your script:
++ Тепер тобі потрібно зробити, щоб черепашка бігла, переміщуючи її на випадкову кількість кроків щоразу. Тобі згодиться функція `randint` з бібліотеки Python `random`. Додай цей рядок `import` на початку свого скрипта:
     
-    ![screenshot](images/race-randint.png)
+    ![знімок екрана](images/race-randint.png)
 
-+ The `randint` function returns a random integer (whole number) between the values chosen. The turtle will move forward 1, 2, 3, 4, or 5 steps at each turn.
++ Функція `randint` повертає випадкове ціле число між вибраними значеннями. Черепаха буде рухатися вперед по 1, 2, 3, 4 або 5 кроків за кожен хід.
     
-    ![screenshot](images/race-random.png)
+    ![знімок екрана](images/race-random.png)
 
-+ One turtle isn't much of a race! Let's add another one:
++ Одна черепаха — це ніякі не перегони! Додамо ще одну:
     
-    ![screenshot](images/race-blue.png)
+    ![знімок екрана](images/race-blue.png)
     
-    Note that the code for moving the blue turtle needs to be in **the same** `for` loop as the code for moving the red turtle so that they each make a move every turn.
+    Зверни увагу, що код для переміщення синьої черепахи повинен бути в **тому ж** циклі `for`, що й код для переміщення червоної, щоб кожна з них робила якесь переміщення на кожному ході.
