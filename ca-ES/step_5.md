@@ -4,24 +4,24 @@ Ara una mica més de diversió. Afegim algunes tortugues de cursa. Seria realmen
 
 + Quan fas servir comandes com `forward(20)` estàs fent servir una única tortuga. Però pots crear més tortugues. Afegeix el següent codi al final del teu programa (però assegura't que no tingui sagnat):
     
-    ![screenshot](images/race-red.png)
+    ![captura de pantalla](images/race-red.png)
     
     La primera línia crea una tortuga anomenada "ada". Les següents línies estableixen el color i la forma de la tortuga. Ara realment sembla una tortuga!
 
 + Anem a enviar la tortuga a la línia de sortida:
     
-    ![screenshot](images/race-start.png)
+    ![captura de pantalla](images/race-start.png)
 
 + Ara has de fer que la tortuga corri movent-se un nombre aleatori de passos alhora. Necessitaràs la funció `randint` de la biblioteca de Python `random`. Afegeix aquesta línia `import` a la part superior del teu codi:
     
-    ![screenshot](images/race-randint.png)
+    ![captura de pantalla](images/race-randint.png)
 
-+ The `randint` function returns a random integer (whole number) between the values chosen. The turtle will move forward 1, 2, 3, 4, or 5 steps at each turn.
++ La funció `randint` retorna un enter aleatori (un número sencer) entre els valors escollits. La tortuga es mourà endavant 1, 2, 3, 4, o 5 passes a cada torn.
     
-    ![screenshot](images/race-random.png)
+    ![captura de pantalla](images/race-random.png)
 
-+ One turtle isn't much of a race! Let's add another one:
++ Una tortuga no és gaire per fer una cursa! Afegim-ne una altra:
     
-    ![screenshot](images/race-blue.png)
+    ![captura de pantalla](images/race-blue.png)
     
-    Note that the code for moving the blue turtle needs to be in **the same** `for` loop as the code for moving the red turtle so that they each make a move every turn.
+    Pren nota que el codi per moure la tortuga blava necessita estar **al mateix** bucle `for` que el codi per moure la tortuga vermella de manera que cadascuna faci un moviment cada torn.
