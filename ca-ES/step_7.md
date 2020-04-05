@@ -1,8 +1,8 @@
 \--- challenge \---
 
-## Challenge: Do a twirl
+## Repte: fer una pirueta
 
-Can you use a `for turn in range():` loop to make each turtle do a 360 degree twirl after they get to the starting line? You'll need to make sure they are facing in the right direction at the start of the race!
+Pots utilitzar un bucle `for turn in range():` per fer que cada tortuga faci un gir de 360 graus després d'arribar a la línia de sortida? Has d’assegurar-te que mirin en la direcció correcta a l’inici de la cursa!
 
 `ada.right(36)` will turn the red turtle right by 36 degrees.
 
