@@ -1,13 +1,13 @@
 \--- challenge \---
 
-## Challenge: Race time!
+## Repte: temps de cursa!
 
-Now you're ready to race. Pick a turtle and an opponent and see who wins.
+Ara ja estàs a punt per competir. Tria una tortuga i un adversari i mira qui guanya.
 
-Can you add more turtles so you can race with more friends?
+Pots afegir més tortugues perquè puguis còrrer amb més amics?
 
-![screenshot](images/race-more.png)
+![captura de pantalla](images/race-more.png)
 
-Colours include: orange, purple, violet, tomato, turquoise, magenta and brown - or you can go to [jumpto.cc/colours](http://jumpto.cc/colours) and pick any colour you like!
+Els colors inclouen: taronja, morat, violeta, tomàquet, turquesa, magenta i marró - o pots anar a [ jumpto.cc/colours](http://jumpto.cc/colours) i triar el color que t'agradi!
 
 \--- /challenge \---
