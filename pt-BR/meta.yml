@@ -1,0 +1,27 @@
+---
+hero_image: images/turtle-race.png
+theme: blue
+duration: 2
+listed: true
+ingredient: false
+copyedit: false
+curriculum: 1, design-0, programming-1, phys-comp-0, manufacture-0, community-0
+title: Raça da tartaruga!
+description: Corrida de tartarugas, umas contra as outras!
+original_url: https://codeclubprojects.org/en-GB/python/turtle-race
+interests: games
+technologies: python
+site_areas: projects
+hardware: ''
+software: python
+version: 3
+last_tested: 2017-01-01
+steps:
+  - title: Introdução
+  - title: O que você vai precisar
+  - title: Pista de corrida
+  - title: 'Desafio: Mais linhas'
+  - title: Corrida de tartarugas
+  - title: 'Desafio: Hora da corrida!'
+  - title: 'Desafio: Dê uma volta'
+  - title: 'Desafio: Linhas tracejadas'
