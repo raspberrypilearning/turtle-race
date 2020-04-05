@@ -1,18 +1,18 @@
-## Racing turtles
+## Tortugues corredores
 
-Now for the fun bit. Let's add some racing turtles. It would be really boring if the turtles did the same thing every time so they will move a random number of steps each turn. The winner is the turtle that gets the furthest in 100 turns.
+Ara una mica més de diversió. Afegim algunes tortugues de cursa. Seria realment avorrit si les tortugues fessin el mateix cada vegada, per la qual cosa es mouran un nombre aleatori de passos cada torn. La tortuga guanyadora serà la que arribi més lluny en 100 voltes.
 
-+ When you use commands like `forward(20)` you are using a single turtle. But you can create more turtles. Add the following code to the end of your script (but make sure it's not indented):
++ Quan fas servir comandes com `forward(20)` estàs fent servir una única tortuga. Però pots crear més tortugues. Afegeix el següent codi al final del teu programa (però assegura't que no tingui sagnat):
     
     ![screenshot](images/race-red.png)
     
-    The first line creates a turtle called 'ada'. The next lines set the colour and shape of the turtle. Now it really looks like a turtle!
+    La primera línia crea una tortuga anomenada "ada". Les següents línies estableixen el color i la forma de la tortuga. Ara realment sembla una tortuga!
 
-+ Let's send the turtle to the starting line:
++ Anem a enviar la tortuga a la línia de sortida:
     
     ![screenshot](images/race-start.png)
 
-+ Now you need to make the turtle race by moving a random number of steps at a time. You'll need the `randint` function from the Python `random` library. Add this `import` line to the top of your script:
++ Ara has de fer que la tortuga corri movent-se un nombre aleatori de passos alhora. Necessitaràs la funció `randint` de la biblioteca de Python `random`. Afegeix aquesta línia `import` a la part superior del teu codi:
     
     ![screenshot](images/race-randint.png)
 
