@@ -20,7 +20,7 @@ Vytvořením závodní hry želv se naučíš, jak:
 + Používat náhodná čísla v jazyce Python
 + Nakreslit čáry v různých barvách pomocí Python Turtle
 
-Tento projekt zahrnuje prvky z následujících částí výukového curricula [Raspberry Pi digitální osnovy](http://rpf.io/curriculum){:target="_ blank"}:
+Tento projekt zahrnuje prvky z následujících částí výukového curricula [Raspberry Pi Digitální bastlení](http://rpf.io/curriculum){:target="_ blank"}:
 
 + [Použij základních programovacích konstrukcí k vytvoření jednoduchých programů.](https://www.raspberrypi.org/curriculum/programming/creator/) {:target = "_blank"}
 
