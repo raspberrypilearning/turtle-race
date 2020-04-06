@@ -1,9 +1,9 @@
-## What you will need
+## Co budeš potřebovat
 
 ### Hardware
 
-+ An internet-connected computer
++ Počítač s připojením k internetu
 
 ### Software
 
-This project uses Python 3. We recommend using [Trinket](https://trinket.io/), which allows you to write Python code online.
+Tento projekt využívá Python 3. Doporučuje používat [Trinket](https://trinket.io/), který ti umožňuje psát kód v jazyce Python online.
