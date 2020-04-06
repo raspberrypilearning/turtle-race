@@ -1,10 +1,10 @@
-## Introduction
+## Úvod
 
-Use loops to draw a race track and create a racing turtle game.
+Pomocí cyklů nakresli závodní dráhu a vytvoř závodní hru želv.
 
-### What you will make
+### Co budeš dělat
 
-This project introduces for loops through a fun turtle race game. Loops are used to draw the race track and to make the turtles move a random number of steps each turn. If you have a group of people to play the game, each person pick a turtle and the one that gets the furthest is the winner.
+Tento projekt seznamuje s cykly „for“ prostřednictvím zábavné závodní hry želv. Cykly použijeme pro nakreslení závodní dráhy a k rozpohybování želv o náhodný počet kroků v každém tahu. Pokud máš na hraní skupinu lidí, ať si každý vybere želvu a ten, jehož želva se dostane nejdále, vyhrává.
 
 <div class="trinket">
   <iframe src="https://trinket.io/embed/python/9339862606?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
@@ -12,20 +12,20 @@ This project introduces for loops through a fun turtle race game. Loops are used
   <img src="images/race-finished.png">
 </div>
 
-### What you will learn
+### Co se naučíš
 
-By making your turtle race game, you will learn how to:
+Vytvořením závodní hry želv se naučíš, jak:
 
-+ Write `for` loops in Python
-+ Use random numbers in Python
-+ Draw lines in different colours with Python Turtle
++ Psát cykly `for` v jazyce Python
++ Používat náhodná čísla v jazyce Python
++ Nakreslit čáry v různých barvách pomocí Python Turtle
 
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
+Tento projekt zahrnuje prvky z následujících částí výukového curricula [Raspberry Pi digitální osnovy](http://rpf.io/curriculum){:target="_ blank"}:
 
-+ [Use basic programming constructs to create simple programs.](https://www.raspberrypi.org/curriculum/programming/creator/){:target="_blank"}
++ [Použij základních programovacích konstrukcí k vytvoření jednoduchých programů.](https://www.raspberrypi.org/curriculum/programming/creator/) {:target = "_blank"}
 
-### Additional information for educators
+### Další informace pro učitele
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/turtle-race/print){:target="_blank"}.
+Potřebujete-li tento projekt vytisknout, použijte verzi [pro tisk](https://projects.raspberrypi.org/en/projects/turtle-race/print){:target="_blank"}.
 
-Use the link in the footer to access the GitHub repository for this project, which contains all resources (including an example finished project) in the 'en/resources' folder.
+Použijte odkaz v zápatí pro přístup ke GitHub úložišti tohoto projektu, obsahující ve složce "en/resources" veškeré zdroje, včetně příkladu dokončeného projektu.
