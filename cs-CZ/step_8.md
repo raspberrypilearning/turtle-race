@@ -1,11 +1,11 @@
 \--- challenge \---
 
-## Challenge: Dashed lines
+## Výzva: Přerušované čáry
 
-Can you use a loop to make the track lines dashed instead of solid?
+Dokážeš použít cyklus tak, aby z plných čar na dráze vznikly přerušované?
 
 ![screenshot](images/race-finished.png)
 
-**Hint:** Find the code that draws a straight line. Try using:`for`, `forward()`, `penup()` and `pendown()`
+**Tip:** Najdi kód, který nakreslí plnou čáru. Zkus použít:`for`, `forward()`, `penup()` a `pendown()`
 
 \--- /challenge \---
