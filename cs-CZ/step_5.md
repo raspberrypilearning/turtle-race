@@ -1,27 +1,27 @@
-## Racing turtles
+## Závodící želvy
 
-Now for the fun bit. Let's add some racing turtles. It would be really boring if the turtles did the same thing every time so they will move a random number of steps each turn. The winner is the turtle that gets the furthest in 100 turns.
+A teď ta zábavná část. Pojďme přidat nějaké závodící želvy. Bylo by opravdu nudné, kdyby želvy dělaly pokaždé tu stejnou věc, tudíž se budou každým tahem pohybovat o náhodný počet kroků. Vítězem bude ta želva, která se dostane za 100 tahů nejdále.
 
-+ When you use commands like `forward(20)` you are using a single turtle. But you can create more turtles. Add the following code to the end of your script (but make sure it's not indented):
++ Používáš-li příkazy jako `forward(20)`, hýbeš pouze s jednou želvou. Můžeš ale přidat více želv. Přidej následující kód na konec svého skriptu (ale ujisti se, že jej neodsadíš):
     
     ![screenshot](images/race-red.png)
     
-    The first line creates a turtle called 'ada'. The next lines set the colour and shape of the turtle. Now it really looks like a turtle!
+    První řádek vytváří želvu se jménem „ada“. Další řádky nastavují barvu a tvar želvy. Teď to vypadá jako opravdická želva!
 
-+ Let's send the turtle to the starting line:
++ Pojďme poslat želvu na startovní čáru:
     
     ![screenshot](images/race-start.png)
 
-+ Now you need to make the turtle race by moving a random number of steps at a time. You'll need the `randint` function from the Python `random` library. Add this `import` line to the top of your script:
++ Nyní budeš muset želvu přinutit závodit tím, že se bude pohybovat a náhodný počet kroků najednou. Budeš potřebovat funkci `randint` z knihovny `random` od jazyka Python. Na začátek svého skriptu přidej tento `import` řádek:
     
     ![screenshot](images/race-randint.png)
 
-+ The `randint` function returns a random integer (whole number) between the values chosen. The turtle will move forward 1, 2, 3, 4, or 5 steps at each turn.
++ Funkce `randint` navrací náhodné celé číslo mezi zvolenými hodnotami. Želva se každým tahem pohne dopředu o 1, 2, 3, 4, nebo 5 kroků.
     
     ![screenshot](images/race-random.png)
 
-+ One turtle isn't much of a race! Let's add another one:
++ S jednou želvou závodit nelze! Pojďme přidat další:
     
     ![screenshot](images/race-blue.png)
     
-    Note that the code for moving the blue turtle needs to be in **the same** `for` loop as the code for moving the red turtle so that they each make a move every turn.
+    Měj na paměti, že kód pro rozpohybování modré želvy musí mít **ten stejný** cyklus `for`, jako je v kódu pro rozpohybování červené želvy tak, že obě udělají v každém tahu krok.
