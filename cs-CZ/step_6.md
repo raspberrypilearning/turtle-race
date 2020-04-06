@@ -1,13 +1,13 @@
 \--- challenge \---
 
-## Challenge: Race time!
+## Challenge: Čas závodu!
 
-Now you're ready to race. Pick a turtle and an opponent and see who wins.
+Nyní máme závod připravený. Se soupeřem si vyberte želvu a podívejte se, kdo vyhraje.
 
-Can you add more turtles so you can race with more friends?
+Dokážeš přidat více želv, aby s tebou mohlo závodit více přátel?
 
 ![screenshot](images/race-more.png)
 
-Colours include: orange, purple, violet, tomato, turquoise, magenta and brown - or you can go to [jumpto.cc/colours](http://jumpto.cc/colours) and pick any colour you like!
+Můžeš použít následující barvy: orange (oranžová), purple (purpurová), violet (fialová), turquoise (tyrkysová), magenta (červenofialová) a brown (hnědá). Můžeš také jít na [jumpto.cc/colours](http://jumpto.cc/colours) a vybrat si barvu, která se ti libí!
 
 \--- /challenge \---
