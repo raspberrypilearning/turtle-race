@@ -1,8 +1,8 @@
 \--- challenge \---
 
-## Challenge: Do a twirl
+## Výzva: Udělej otočku
 
-Can you use a `for turn in range():` loop to make each turtle do a 360 degree twirl after they get to the starting line? You'll need to make sure they are facing in the right direction at the start of the race!
+Dokážeš využít cyklus `for turn in range():` tak, aby každá želva udělala otočku o 360 stupňů poté, co se dostane na startovní čáru? You'll need to make sure they are facing in the right direction at the start of the race!
 
 `ada.right(36)` will turn the red turtle right by 36 degrees.
 
