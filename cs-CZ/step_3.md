@@ -4,13 +4,13 @@ Chystáš se vytvořit hru se závodními želvami. Nejprve budou potřebovat z�
 
 + Otevři prázdnou šablonu pro Python na Trinketu: <a href="http://jumpto.cc/python-new" target="_blank">jumpto.cc/python-new</a>.
 
-+ Add the following code to draw a line using the 'turtle':
++ Přidej následující kód pro nakreslení čáry s využitím knihovny „turtle“:
     
     ![screenshot](images/race-forward.png)
 
 + Nyní použijeme želvu pro nakreslení pár značek na závodní dráhu.
     
-    The turtle `write` function writes text to the screen.
+    Funkce `write`, kterou želva obsahuje, vypíše na obrazovku text.
     
     Vyzkoušej si to:
     
