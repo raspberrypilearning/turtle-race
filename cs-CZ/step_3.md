@@ -1,57 +1,57 @@
-## Race track
+## Závodní dráha
 
-You're going to create a game with racing turtles. First they'll need a race track.
+Chystáš se vytvořit hru se závodními želvami. Nejprve budou potřebovat závodní dráhu.
 
-+ Open the blank Python template Trinket: <a href="http://jumpto.cc/python-new" target="_blank">jumpto.cc/python-new</a>.
++ Otevři prázdnou šablonu pro Python na Trinketu: <a href="http://jumpto.cc/python-new" target="_blank">jumpto.cc/python-new</a>.
 
 + Add the following code to draw a line using the 'turtle':
     
     ![screenshot](images/race-forward.png)
 
-+ Now let's use the turtle to draw some track markings for the race.
++ Nyní použijeme želvu pro nakreslení pár značek na závodní dráhu.
     
     The turtle `write` function writes text to the screen.
     
-    Try it:
+    Vyzkoušej si to:
     
     ![screenshot](images/race-markings1.png)
 
-+ Now you need to fill in the numbers in between to create markings:
++ Nyní musíš mezi to vyplnit čísla pro vytvoření značek:
     
     ![screenshot](images/race-markings2.png)
 
-+ Did you notice that your code is very repetitive? The only thing that changes is the number to write.
++ Povšimni si, že se tvůj kód velmi často opakuje. Mění se pouze číslo.
     
-    There's a better way of doing this in Python. You can use a `for` loop.
+    V jazyce Python existuje lepší způsob, jak to udělat. Můžeš použít cyklus `for`.
     
-    Update your code to use a `for` loop:
+    Aktualizuj svůj kód tak, aby používal cyklus `for`:
     
     ![screenshot](images/race-for.png)
 
-+ Hmm, that only prints numbers up to 4. In Python `range(5)` returns five numbers, from 0 up to 4. To get it to also return 5 you'll need to use `range(6)`:
++ Hmm, to pouze vypisuje čísla do 4. V Pythonu `range(5)` vrátí pět čísel, od 0 do 4. Aby ti to vrátilo i 5, budeš muset použít `range(6)`:
     
     ![screenshot](images/race-range.png)
 
-+ Now we can draw some track markings. The turtle starts at coordinates (0,0) in the middle of the screen.
++ Nyní můžeme nakreslit pár značek na dráhu. Želva začíná na souřadnicích (0,0) uprostřed obrazovky.
     
-    Move the turtle to the top left instead:
+    Místo toho přesuň želvu doleva nahoru:
     
     ![screenshot](images/race-goto.png)
 
-+ Ah, you'll want to lift the pen up first!
++ Ach, nejprve budeš muset zvednout pero!
     
     ![screenshot](images/race-penup.png)
 
-+ Instead of drawing a line horizontally, let's draw vertical lines to create a track:
++ Než abychom nakreslili vodorovnou čáru, pojďme nakreslit svislé čáry pro vytvoření dráhy:
     
     ![screenshot](images/race-lines.png)
     
-    `right(90)` makes the turtle turn right 90 degrees (a right angle.) Moving `forward(10)` before putting the pen down leaves a small gap between the number and the start of the line. After drawing the line you lift up the pen and go `backward(160)` the length of the line plus the gap.
+    `right(90)` způsobí to, že se želva otočí o 90 stupňů doprava (pravý úhel). Pohyb `forward(10)` před položením pera zapříčiní to, že před číslem a začátkem čáry vynechá malou mezeru. Po nakreslení čáry zvedni pero a přejdi `backward(160)` po délce čáry včetně mezery.
 
-+ It looks neater if you centre the numbers:
++ Pokud vycentruješ čísla, vypadá to ještě lépe:
     
     ![screenshot](images/race-center.png)
 
-+ And you can speed up the turtle so it draws faster:
++ Taky můžeš zrychlit želvu, aby kreslila rychleji:
     
     ![screenshot](images/race-speed.png)
