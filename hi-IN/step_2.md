@@ -1,9 +1,9 @@
-## What you will need
+## आपको किन चीज़ों की आवश्यकता होगी
 
-### Hardware
+### हार्डवेयर
 
-+ An internet-connected computer
++ इंटरनेट से जुड़ा एक कंप्यूटर
 
-### Software
+### सॉफ्टवेयर
 
-This project uses Python 3. We recommend using [Trinket](https://trinket.io/), which allows you to write Python code online.
+**इस प्रोजेक्ट में Python 3 का उपयोग किया जाता है।** Python को ऑनलाइन लिखने के लिए हम [Trinket](https://trinket.io/) का उपयोग करने की सलाह देते हैं।
