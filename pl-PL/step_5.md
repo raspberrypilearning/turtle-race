@@ -1,6 +1,6 @@
 ## Wyścigi żółwi
 
-A teraz najważniejsza część gry. Dodajmy kilka wyścigowych żółwi. Gra będzie naprawdę nudna, jeśli żółwie będą robić to samo za każdym razem, więc będziemy przesuwać je o losową liczbę kroków w każdej turze. Zwycięzcą będzie żółw, który dotrze najdalej po 100 turach.
+Czas na zabawę! Dodajmy kilka wyścigowych żółwi. Gra byłaby naprawdę nudna, gdyby żółwie robiły to samo za każdym razem, więc będziemy przesuwać je o losową liczbę kroków w każdej turze. Zwycięzcą będzie żółw, który dotrze najdalej po 100 turach.
 
 + Kiedy używasz poleceń takich jak `forward(20)`, używasz pojedynczego żółwia. Możesz jednak stworzyć więcej żółwi. Dodaj następujący kod na końcu skryptu (ale upewnij się, że nie jest wcięty):
     
@@ -12,11 +12,11 @@ A teraz najważniejsza część gry. Dodajmy kilka wyścigowych żółwi. Gra b�
     
     ![screenshot](images/race-start.png)
 
-+ Teraz musisz zrobić wyścig, przesuwając żółwia o losową liczbę kroków. Będziesz potrzebować funkcji `randint` z biblioteki Pythona o nazwie `random`. Dodaj linię z instrukcją `import` na początku skryptu:
++ Teraz musisz sprawić, by żółw się ścigał, przesuwając go o losową liczbę kroków. Będziesz potrzebować funkcji `randint` z biblioteki Pythona o nazwie `random`. Dodaj linię z instrukcją `import` na początku skryptu:
     
     ![screenshot](images/race-randint.png)
 
-+ Funkcja `randint` zwraca losową liczbę całkowitą (ang. integer) między wybranymi wartościami. Żółw przesunie się o 1, 2, 3, 4 lub 5 kroków w każdej turze.
++ Funkcja `randint` zwraca losową liczbę całkowitą między wybranymi wartościami. Żółw przesunie się o 1, 2, 3, 4 lub 5 kroków w każdej turze.
     
     ![screenshot](images/race-random.png)
 
