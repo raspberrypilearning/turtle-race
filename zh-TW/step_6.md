@@ -1,13 +1,13 @@
 \--- challenge \---
 
-## Challenge: Race time!
+## 挑戰：比賽時間！
 
-Now you're ready to race. Pick a turtle and an opponent and see who wins.
+現在，可以開始比賽了。挑選一隻烏龜和一個對手，看看誰會贏了。
 
-Can you add more turtles so you can race with more friends?
+你可以添加更多的烏龜，以便與更多的朋友比賽嗎？
 
-![screenshot](images/race-more.png)
+![螢幕截圖](images/race-more.png)
 
-Colours include: orange, purple, violet, tomato, turquoise, magenta and brown - or you can go to [jumpto.cc/colours](http://jumpto.cc/colours) and pick any colour you like!
+可以指定的顏色包括：orange(橙色)、purple(紫色)、violet(紫羅蘭色)、tomato(番茄色)、turquoise(青綠色)、magenta (洋紅色)和brown (棕色)－或者可以到[ jumpto.cc/colours ](http://jumpto.cc/colours)挑選你喜歡的任何顏色！
 
 \--- /challenge \---
