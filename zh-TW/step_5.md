@@ -1,27 +1,27 @@
-## Racing turtles
+## 烏龜賽跑
 
-Now for the fun bit. Let's add some racing turtles. It would be really boring if the turtles did the same thing every time so they will move a random number of steps each turn. The winner is the turtle that gets the furthest in 100 turns.
+現在來一點有趣的東西。 讓我們來添加一些賽跑的烏龜。 如果烏龜每次都做同樣的事情，那真的很無聊，因此牠們每個回合都會移動隨機的步數。 獲勝者是在100 個回合中跑得最遠的烏龜。
 
-+ When you use commands like `forward(20)` you are using a single turtle. But you can create more turtles. Add the following code to the end of your script (but make sure it's not indented):
++ 使用`forward(20)`之類的命令時，你使用的是一隻烏龜。但是你也可以建立更多的烏龜。將以下程式碼添加到命令稿的末尾（但請不要縮排）：
     
-    ![screenshot](images/race-red.png)
+    ![螢幕截圖](images/race-red.png)
     
-    The first line creates a turtle called 'ada'. The next lines set the colour and shape of the turtle. Now it really looks like a turtle!
+    第一列建立了一個名為“ada” 的烏龜。接下來的要設定了烏龜的顏色和形狀。現在看起來真的像隻烏龜了！
 
-+ Let's send the turtle to the starting line:
++ 讓我們將烏龜送到起跑線：
     
-    ![screenshot](images/race-start.png)
+    ![螢幕截圖](images/race-start.png)
 
-+ Now you need to make the turtle race by moving a random number of steps at a time. You'll need the `randint` function from the Python `random` library. Add this `import` line to the top of your script:
++ 現在你需要通過一次移動隨機的步數來進行烏龜賽跑。 你將需要使用 Python ` random ` 程式庫中的 `randint`函式。 把這個 `import` 程式碼添加到命令稿的頂部：
     
-    ![screenshot](images/race-randint.png)
+    ![螢幕截圖](images/race-randint.png)
 
-+ The `randint` function returns a random integer (whole number) between the values chosen. The turtle will move forward 1, 2, 3, 4, or 5 steps at each turn.
++ ` randint `函式會傳回一個隨機整數，其範圍不會超過你所選定兩個值。烏龜每一回合將會移動 1、2、3、4 或 5步。
     
-    ![screenshot](images/race-random.png)
+    ![螢幕截圖](images/race-random.png)
 
-+ One turtle isn't much of a race! Let's add another one:
++ 一隻烏龜是無法比賽的！讓我們再添加一隻吧！
     
-    ![screenshot](images/race-blue.png)
+    ![螢幕截圖](images/race-blue.png)
     
-    Note that the code for moving the blue turtle needs to be in **the same** `for` loop as the code for moving the red turtle so that they each make a move every turn.
+    請注意，用於移動藍色烏龜的程式碼與用於移動紅色烏龜的程式碼都必須放在 **相同的** ` for` 迴圈中，這樣牠們每個回合都會移動。
