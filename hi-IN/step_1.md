@@ -1,10 +1,10 @@
-## Introduction
+## परिचय
 
-Use loops to draw a race track and create a racing turtle game.
+रेस ट्रैक बनाने और रेसिंग कछुआ गेम बनाने के लिए लूप्स का उपयोग करेंगे।
 
-### What you will make
+### आप क्या बनाएँगे?
 
-This project introduces for loops through a fun turtle race game. Loops are used to draw the race track and to make the turtles move a random number of steps each turn. If you have a group of people to play the game, each person pick a turtle and the one that gets the furthest is the winner.
+यह प्रोजेक्ट एक मजेदार टर्टल रेस गेम के माध्यम से for लूप्स का परिचय देता है। लूप्स का उपयोग रेस ट्रैक को खींचने के लिए और कछुओं को प्रत्येक मोड़ पर यादृच्छिक संख्या(random number ) कदम चालाने के लिए किया जाता है। यदि आपके पास गेम खेलने के लिए लोगों का एक समूह है, तो प्रत्येक व्यक्ति एक टर्टल चुनता है और जो सबसे आगे निकलता है वह विजेता होता है।
 
 <div class="trinket">
   <iframe src="https://trinket.io/embed/python/9339862606?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
@@ -12,20 +12,20 @@ This project introduces for loops through a fun turtle race game. Loops are used
   <img src="images/race-finished.png">
 </div>
 
-### What you will learn
+### आप क्या सीखेंगे
 
-By making your turtle race game, you will learn how to:
+अपने टर्टल रेस गेम बनाकर, आप सीखेंगे कि कैसे:
 
-+ Write `for` loops in Python
-+ Use random numbers in Python
-+ Draw lines in different colours with Python Turtle
++ Python में `for` लूप्स लिखें
++ python में यादृच्छिक संख्या का उपयोग करें
++ Python टर्टल के साथ अलग अलग रंगो में रेखाएँ बनाए
 
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
+इस प्रोजेक्ट में [Raspberry Pi डिजिटल मेकिंग पाठ्यक्रम](http://rpf.io/curriculum) के निम्नलिखित स्ट्रैंड्स के तत्व शामिल हैं {: target = "_ blank"} :
 
-+ [Use basic programming constructs to create simple programs.](https://www.raspberrypi.org/curriculum/programming/creator/){:target="_blank"}
++ [साधारण प्रोग्राम बनाने के लिए आधारभूत प्रोग्रामिंग का उपयोग करें](https://www.raspberrypi.org/curriculum/programming/creator/){:target="_blank"}
 
-### Additional information for educators
+### शिक्षकों के लिए अतिरिक्त जानकारी
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/turtle-race/print){:target="_blank"}.
+अगर आपको इस प्रोजेक्ट को प्रिंट करने की आवश्यकता है, तो कृप्या [प्रिंटर-अनुकूल संस्करण](https://projects.raspberrypi.org/en/projects/turtle-race/print)का उपयोग करें।
 
-Use the link in the footer to access the GitHub repository for this project, which contains all resources (including an example finished project) in the 'en/resources' folder.
+इस प्रोजेक्ट के गिटहब रेपॉज़िटॉरी तक पहुंचने के लिए नीचे दिए गए लिंक का उपयोग करें, जिसमें 'en/resources' फ़ोल्डर में सभी संसाधन शामिल हैं (एक उदाहरण संपूर्ण प्रोजेक्ट सहित)।
