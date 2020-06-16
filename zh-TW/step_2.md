@@ -1,9 +1,9 @@
-## What you will need
+## 你會用到
 
-### Hardware
+### 硬體
 
-+ An internet-connected computer
++ 一台連上網路的電腦
 
-### Software
+### 軟體
 
-This project uses Python 3. We recommend using [Trinket](https://trinket.io/), which allows you to write Python code online.
+本課程使用的是 Python 3 程式語言。我們建議你使用 [Trinket](https://trinket.io/)，它讓你得以在線上撰寫 Python 程式碼。
