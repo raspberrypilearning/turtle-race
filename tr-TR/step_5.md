@@ -24,4 +24,4 @@
     
     ![ekran görüntüsü](images/race-blue.png)
     
-    Mavi kaplumbağayı hareket ettiren kod, kırmızı kaplumbağayı hareket ettiren kodla **aynı** `for` döngüsü içinde olması gerektiğine dikkat edin böylece her turda kendi hareketini yaparlar.
+    Mavi kaplumbağayı hareket ettiren kodun, kırmızı kaplumbağayı hareket ettiren kodla **aynı** `for` döngüsü içinde olması gerektiğine dikkat edin böylece her turda her bir kaplumbağa hareket eder.
