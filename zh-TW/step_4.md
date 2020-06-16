@@ -1,11 +1,11 @@
 \--- challenge \---
 
-## Challenge: More lines
+## 挑戰：更多的賽道線
 
-Can you change your code so that the track lines go right across the screen?
+你可以更改程式碼，令賽道標線橫越螢幕嗎？
 
-![screenshot](images/race-challenge1.png)
+![螢幕截圖](images/race-challenge1.png)
 
-If you want to make the turtle go even faster you can use `speed(0)`.
+如果要讓烏龜走得更快，可以使用`speed(0) ` 。
 
 \--- /challenge \---
