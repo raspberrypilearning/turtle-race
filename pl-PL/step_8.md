@@ -2,7 +2,7 @@
 
 ## Wyzwanie: Linie przerywane
 
-Czy możesz użyć pętli, aby zamiast lini ciągłych narysować linie przerywane?
+Czy potrafisz użyć pętli, aby zamiast lini ciągłych narysować linie przerywane?
 
 ![screenshot](images/race-finished.png)
 
