@@ -1,13 +1,13 @@
 \--- challenge \---
 
-## Challenge: Race time!
+## चुनौती: रेस टाइम!
 
-Now you're ready to race. Pick a turtle and an opponent and see who wins.
+अब आप रेस के लिए तैयार हैं। एक टर्टल और एक प्रतिद्वंद्वी चुनें और देखें कि कौन जीतता है।
 
-Can you add more turtles so you can race with more friends?
+क्या आप अधिक टर्टल जोड़ सकते हैं ताकि आप अधिक दोस्तों के साथ रेस कर सकें?
 
-![screenshot](images/race-more.png)
+![स्क्रीनशॉट](images/race-more.png)
 
-Colours include: orange, purple, violet, tomato, turquoise, magenta and brown - or you can go to [jumpto.cc/colours](http://jumpto.cc/colours) and pick any colour you like!
+रंगों में शामिल हैं: नारंगी, बैंगनी, बैंगनी, टमाटर, फ़िरोज़ा, मैजेंटा और ब्राउन - या आप [ jumpto.cc/colours](http://jumpto.cc/colours) पर जा सकते हैं और अपना पसंदीदा रंग चुन सकते हैं!
 
 \--- /challenge \---
