@@ -1,27 +1,27 @@
-## Racing turtles
+## चुनौती: रेस टाइम!
 
-Now for the fun bit. Let's add some racing turtles. It would be really boring if the turtles did the same thing every time so they will move a random number of steps each turn. The winner is the turtle that gets the furthest in 100 turns.
+अब इसमें और रोमांच लाते हैं। चलिए कुछ रेसिंग टर्टल्ज़ और जोड़ते हैं। यह वास्तव में मज़ेदार नहीं होगा अगर टर्टल ने हर बार एक ही चीज़ दोहराई इसलिए अब वे प्रत्येक मोड़ पर यादृच्छिक संख्या में कदम बढ़ाएंगे। विजेता वह टर्टल होगा जो 100 मोड़ में सबसे दूर जा पाता है।
 
-+ When you use commands like `forward(20)` you are using a single turtle. But you can create more turtles. Add the following code to the end of your script (but make sure it's not indented):
++ जब आप `forward(20)` जैसे आदेशों का उपयोग करते हैं तो आप एक ही टर्टल इस्तेमाल कर रहे हैं। लेकिन आप और भी टर्टल बना सकते हैं।निम्नलिखित कोड को अपने script के अंत में जोड़ दे (परंतु ध्यान रहे की वो इंडेंटेड नहीं हो): 
     
-    ![screenshot](images/race-red.png)
+    ![स्क्रीनशॉट](images/race-red.png)
     
-    The first line creates a turtle called 'ada'. The next lines set the colour and shape of the turtle. Now it really looks like a turtle!
+    पहली पंक्ति एक टर्टल बनती है जो की कहलाया जाता है 'ada'। अगली पंक्तियाँ टर्टल का रंग और आकार निर्धारित करती हैं। अब ये वास्तव में अब टर्टल जैसा दिख रहा है!
 
-+ Let's send the turtle to the starting line:
++ आइए टर्टल को शुरुआती लाइन पर भेज देते हैं:
     
-    ![screenshot](images/race-start.png)
+    ![स्क्रीनशॉट](images/race-start.png)
 
-+ Now you need to make the turtle race by moving a random number of steps at a time. You'll need the `randint` function from the Python `random` library. Add this `import` line to the top of your script:
++ अब आपको एक समय में यादृच्छिक संख्या में कदम बढ़ाकर टर्टल की दौड़ाने की आवश्यकता है। इसके लिए आपको python की `random` कोश से `randint` फ़ंक्शन की आवश्यक्ता पढ़ेगी। अपनी स्क्रिप्ट की शुरुआत में, `import` ये पंक्ति जोड़े:
     
-    ![screenshot](images/race-randint.png)
+    ![स्क्रीनशॉट](images/race-randint.png)
 
-+ The `randint` function returns a random integer (whole number) between the values chosen. The turtle will move forward 1, 2, 3, 4, or 5 steps at each turn.
++ `randint` फ़ंक्शन चुने गए मूल्यों के बीच एक यादृच्छिक पूर्णांक संख्या देता है। टर्टल प्रत्येक मोड़ पर 1, 2, 3, 4 या 5 कदम आगे बढ़ेगा।
     
-    ![screenshot](images/race-random.png)
+    ![स्क्रीनशॉट](images/race-random.png)
 
-+ One turtle isn't much of a race! Let's add another one:
++ लेकिन एक टर्टल में कैसी रेस! आइए इसमें एक और जोड़ें:
     
-    ![screenshot](images/race-blue.png)
+    ![स्क्रीनशॉट](images/race-blue.png)
     
-    Note that the code for moving the blue turtle needs to be in **the same** `for` loop as the code for moving the red turtle so that they each make a move every turn.
+    ध्यान दें कि नीले टर्टल को स्थानांतरित करने के लिए उसका कोड ** उसी ** ` for ` लूप में होना चाहिए जैसे की लाल टर्टल को स्थानांतरित करने के लिए ताकि वे दोनो ही अपनी अपनी चालें चल सकें प्रत्यक बारी में।
