@@ -1,11 +1,11 @@
 \--- challenge \---
 
-## Challenge: Dashed lines
+## चुनौती: डैश की लाइनें
 
-Can you use a loop to make the track lines dashed instead of solid?
+क्या आप ट्रैक लाइन को स्थायी के बजाय डैश की बना सकते हैं?
 
-![screenshot](images/race-finished.png)
+![स्क्रीनशॉट](images/race-finished.png)
 
-**Hint:** Find the code that draws a straight line. Try using:`for`, `forward()`, `penup()` and `pendown()`
+** सुझाव: ** ऐसा कोड ढूँढ़ें, जो सीधी रेखा बनाता है। `for`, `forward()`, `penup()` aur `pendown()`इनका उपयोग करने का प्रयास करें
 
 \--- /challenge \---
