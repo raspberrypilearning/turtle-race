@@ -1,57 +1,57 @@
-## Race track
+## 賽道
 
-You're going to create a game with racing turtles. First they'll need a race track.
+你將會建立一個烏龜賽跑的遊戲。首先，牠們將需要一條賽道。
 
-+ Open the blank Python template Trinket: <a href="http://jumpto.cc/python-new" target="_blank">jumpto.cc/python-new</a>.
++ 開啟空白的 Python 模板： <a href="http://jumpto.cc/python-new" target="_blank">jumpto.cc/python-new</a>。
 
-+ Add the following code to draw a line using the 'turtle':
++ 添加以下程式碼，以便使用烏龜( turtle )來繪製線條： 
     
-    ![screenshot](images/race-forward.png)
+    ![螢幕截圖](images/race-forward.png)
 
-+ Now let's use the turtle to draw some track markings for the race.
++ 現在，讓我們使用烏龜來為比賽繪製一些賽道標記。
     
-    The turtle `write` function writes text to the screen.
+    烏龜的 `write` 函式可將文字寫到螢幕上。
     
-    Try it:
+    試試看！
     
-    ![screenshot](images/race-markings1.png)
+    ![螢幕截圖](images/race-markings1.png)
 
-+ Now you need to fill in the numbers in between to create markings:
++ 現在，你需要在各線段之間填上數字，以便建立標記：
     
-    ![screenshot](images/race-markings2.png)
+    ![螢幕截圖](images/race-markings2.png)
 
-+ Did you notice that your code is very repetitive? The only thing that changes is the number to write.
++ 你是否已經注意得到，程式碼的重複性太高？唯一不同的是輸入的數字。
     
-    There's a better way of doing this in Python. You can use a `for` loop.
+    在 Python 裏有更好的做法。你可以使用`for`迴圈。
     
-    Update your code to use a `for` loop:
+    將你的程式碼修改成使用`for`迴圈：
     
-    ![screenshot](images/race-for.png)
+    ![螢幕截圖](images/race-for.png)
 
-+ Hmm, that only prints numbers up to 4. In Python `range(5)` returns five numbers, from 0 up to 4. To get it to also return 5 you'll need to use `range(6)`:
++ 嗯，4 是最後被印出的數字。Python 中，` range(5)` 會傳回 5 個數字，從 0 到 4。要讓它傳回 5，則需要使用` range(6) ` ：
     
-    ![screenshot](images/race-range.png)
+    ![螢幕截圖](images/race-range.png)
 
-+ Now we can draw some track markings. The turtle starts at coordinates (0,0) in the middle of the screen.
++ 現在我們可以繪製一些賽道標記。烏龜的起點位於螢幕中間的 (0,0) 坐標。
     
-    Move the turtle to the top left instead:
+    將烏龜移動到左上方：
     
-    ![screenshot](images/race-goto.png)
+    ![螢幕截圖](images/race-goto.png)
 
-+ Ah, you'll want to lift the pen up first!
++ 啊，你得先把畫筆舉起來！
     
-    ![screenshot](images/race-penup.png)
+    ![螢幕截圖](images/race-penup.png)
 
-+ Instead of drawing a line horizontally, let's draw vertical lines to create a track:
++ 現在繪製一些垂直線來作為賽道：
     
-    ![screenshot](images/race-lines.png)
+    ![螢幕截圖](images/race-lines.png)
     
-    `right(90)` makes the turtle turn right 90 degrees (a right angle.) Moving `forward(10)` before putting the pen down leaves a small gap between the number and the start of the line. After drawing the line you lift up the pen and go `backward(160)` the length of the line plus the gap.
+    `right(90)`可使烏龜向右轉90度（直角）。放下筆之前，`forward(10)`可使烏龜向前移動10步，讓數字和線的開頭之間留下一個小空隙。 畫完線後，舉起筆並使用 `backward(160)` 讓烏龜向後退160步，也就是，線的長度加上空隙。
 
-+ It looks neater if you centre the numbers:
++ 如果讓數字置中，看起來會更整齊：
     
-    ![screenshot](images/race-center.png)
+    ![螢幕截圖](images/race-center.png)
 
-+ And you can speed up the turtle so it draws faster:
++ 你可以加快烏龜的速度，使其繪製得更快：
     
-    ![screenshot](images/race-speed.png)
+    ![螢幕截圖](images/race-speed.png)
