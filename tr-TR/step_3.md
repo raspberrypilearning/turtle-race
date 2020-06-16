@@ -2,7 +2,7 @@
 
 Kağlumbağaların yarıştığı bir oyun yaratacaksın. Bunun için ilk önce bir yarış pistine ihtiyaçları var.
 
-+ Trinket'ta boş Python şablonunu açın: <a href="http://jumpto.cc/python-new" target="_blank">jumpto.cc/python-new</a>.
++ Trinket'te boş Python şablonunu açın: <a href="http://jumpto.cc/python-new" target="_blank">jumpto.cc/python-new</a>.
 
 + 'Turtle' modülünü kullanarak bir çizgi çizmek için aşağıdaki kodu ekleyin:
     
@@ -22,9 +22,9 @@ Kağlumbağaların yarıştığı bir oyun yaratacaksın. Bunun için ilk önce 
 
 + Kodunuzun çok fazla tekrar ettiğini fark ettiniz mi? Kodların içinde değişen tek şey yazılan sayı.
     
-    Bunu Python'da yapmanın daha iyi bir yolu var. Döngüler için `for` işlevini kullanabilirsiniz.
+    Bunu Python'da yapmanın daha iyi bir yolu var. Bir `for` döngüsü kullanabilirsiniz.
     
-    Kodunuzu `for` döngüsü kullanarak güncelleyin:
+    Kodunuzu `for` döngüsü kullanacak şekilde güncelleyin:
     
     ![ekran görüntüsü](images/race-for.png)
 
