@@ -4,7 +4,7 @@
 
 Şimdi yarışa hazırsın. Bir kaplumbağa ve bir rakip seç ve kimin kazandığını gör.
 
-Daha fazla kaplumbağa ekleyebilir misin, böylece daha fazla arkadaşınla yarışabilirsin?
+Daha fazla arkadaşınla yarışabilmek için daha fazla kaplumbağa ekleyebilir misin?
 
 ![ekran görüntüsü](images/race-more.png)
 
