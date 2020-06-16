@@ -2,7 +2,7 @@
 
 ### Sprzęt
 
-+ Komputer podłączony do Internetu
++ Komputer podłączony do internetu
 
 ### Oprogramowanie
 
