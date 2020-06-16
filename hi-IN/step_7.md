@@ -1,11 +1,11 @@
 \--- challenge \---
 
-## Challenge: Do a twirl
+## चुनौती: घुमाओ 
 
-Can you use a `for turn in range():` loop to make each turtle do a 360 degree twirl after they get to the starting line? You'll need to make sure they are facing in the right direction at the start of the race!
+क्या आप एक `for turn in range():` लूप का इस्तेमाल कर सकते है ताकि प्रत्येक टर्टल ३६० डिग्री घूमे जैसे ही वो प्रारम्भिक रेखा पर पहुँचे? आपको यह सुनिश्चित करने की आवश्यकता होगी कि वे दौड़ की शुरुआत में सही दिशा में सामना कर रहे हैं!
 
-`ada.right(36)` will turn the red turtle right by 36 degrees.
+`ada.right(36) ` लाल टर्टल को 36 डिग्री से दाईं ओर मोड़ देगा।
 
-**Hint:** A full turn is 360 degrees. A turtle could turn right 10 degrees 36 times, or left 5 degrees 72 times, or any other numbers make 360!
+** सुझाव: ** एक पूर्ण मोड़ 360 डिग्री है। एक टर्टल दाईं ओर 10 डिग्री 36 बार, या बाएं 5 डिग्री 72 बार मुड़ सकता है, या कोई अन्य संचय जो की 360 बना सकते हैं!
 
 \--- /challenge \---
