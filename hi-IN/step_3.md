@@ -1,57 +1,57 @@
-## Race track
+## रेस ट्रैक
 
-You're going to create a game with racing turtles. First they'll need a race track.
+आप रेसिंग टर्टल के साथ एक गेम बनाने जा रहे हैं। पहले उन्हें एक रेस ट्रैक की आवश्यकता होगी।
 
-+ Open the blank Python template Trinket: <a href="http://jumpto.cc/python-new" target="_blank">jumpto.cc/python-new</a>.
++ रिक्त Python टेंपलेट Trinket खोलें: <a href="http://jumpto.cc/python-new" target="_blank">jumpto.cc/python-new</a>.
 
-+ Add the following code to draw a line using the 'turtle':
++ 'टर्टल' का उपयोग करके एक रेखा खींचने के लिए निम्नलिखित कोड लिखें:
     
-    ![screenshot](images/race-forward.png)
+    ![स्क्रीनशॉट](images/race-forward.png)
 
-+ Now let's use the turtle to draw some track markings for the race.
++ आइए अब रेस के लिए ट्रैक की मार्किंग के लिए टर्टल का उपयोग करें।
     
-    The turtle `write` function writes text to the screen.
+    टर्टल ` write ` फंक्शन स्क्रीन पर टेक्स्ट लिखता है।
     
-    Try it:
+    इसे आजमाएँ!
     
-    ![screenshot](images/race-markings1.png)
+    ![स्क्रीनशॉट](images/race-markings1.png)
 
-+ Now you need to fill in the numbers in between to create markings:
++ अब आपको मार्किंग बनाने के लिए बीच में संख्याओं को भरना होगा:
     
-    ![screenshot](images/race-markings2.png)
+    ![स्क्रीनशॉट](images/race-markings2.png)
 
-+ Did you notice that your code is very repetitive? The only thing that changes is the number to write.
++ क्या आपने ध्यान दिया कि आपका कोड बहुत दोहराया जा रहा है? केवल एक चीज जो बदल रही है वह है संख्या जिसको लिखना है ।
     
-    There's a better way of doing this in Python. You can use a `for` loop.
+    Python में ऐसा करने का एक बेहतर तरीका है। आप `for` लूप का उपयोग कर सकते हैं।
     
-    Update your code to use a `for` loop:
+    `for` लूप का उपयोग करने के लिए अपने कोड को अपडेट करें:
     
-    ![screenshot](images/race-for.png)
+    ![स्क्रीनशॉट](images/race-for.png)
 
-+ Hmm, that only prints numbers up to 4. In Python `range(5)` returns five numbers, from 0 up to 4. To get it to also return 5 you'll need to use `range(6)`:
++ हम्म, यह केवल 4 तक संख्या प्रिंट कर पा रहा है। Python में ` range(5) ` आपको पाँच संख्याएँ दे सकता है, 0 से 4 तक। इससे 5 भी प्राप्त करने के लिए आपको ` range(6)` का उपयोग करना होगा।:
     
-    ![screenshot](images/race-range.png)
+    ![स्क्रीनशॉट](images/race-range.png)
 
-+ Now we can draw some track markings. The turtle starts at coordinates (0,0) in the middle of the screen.
++ अब हम कुछ ट्रैक मार्किंग बना सकते हैं। टर्टल स्क्रीन के मध्य में निर्देशांक (0,0) से शुरू होता है।
     
-    Move the turtle to the top left instead:
+    इसके बजाय टर्टल को सब से ऊपर बाईं ओर ले जाएं:
     
-    ![screenshot](images/race-goto.png)
+    ![स्क्रीनशॉट](images/race-goto.png)
 
-+ Ah, you'll want to lift the pen up first!
++ आह, आप पहले कलम को ऊपर उठाना चाहेंगे!
     
-    ![screenshot](images/race-penup.png)
+    ![स्क्रीनशॉट](images/race-penup.png)
 
-+ Instead of drawing a line horizontally, let's draw vertical lines to create a track:
++ क्षैतिज रेखा खींचने के बजाय, एक ट्रैक बनाने के लिए ऊर्ध्वाधर रेखाएँ खींचते हैं:
     
-    ![screenshot](images/race-lines.png)
+    ![स्क्रीनशॉट](images/race-lines.png)
     
-    `right(90)` makes the turtle turn right 90 degrees (a right angle.) Moving `forward(10)` before putting the pen down leaves a small gap between the number and the start of the line. After drawing the line you lift up the pen and go `backward(160)` the length of the line plus the gap.
+    `right(90)` टर्टल को दाहिनी ओर 90 डिग्री (एक समकोण) पर मोड़ देता है। पेन को नीचे रखने से पहले `forward(10)` से आगे बढ़ने से संख्या और रेखा की शुरुआत के बीच एक छोटा सा अंतर छोड़ देता है। रेखा खींचने के बाद आप कलम उठाए और `backward(160)`जाए, जो की लाइन की लंबाई और दूरी के योग के समान है ।
 
-+ It looks neater if you centre the numbers:
++ यदि आप संख्याओं को बीच में रखते हैं, तो यह अच्छा दिखाई देगा:
     
-    ![screenshot](images/race-center.png)
+    ![स्क्रीनशॉट](images/race-center.png)
 
-+ And you can speed up the turtle so it draws faster:
++ और आप टर्टल की गति बढ़ा सकते हैं ताकि यह तेज़ी से इसे बना ले:
     
-    ![screenshot](images/race-speed.png)
+    ![स्क्रीनशॉट](images/race-speed.png)
