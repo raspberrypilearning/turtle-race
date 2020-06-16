@@ -1,11 +1,11 @@
 \--- challenge \---
 
-## Challenge: Dashed lines
+## 挑戰：虛線
 
-Can you use a loop to make the track lines dashed instead of solid?
+你是否可以使用迴圈，讓賽道線變為虛線而不是實線嗎？
 
-![screenshot](images/race-finished.png)
+![螢幕截圖](images/race-finished.png)
 
-**Hint:** Find the code that draws a straight line. Try using:`for`, `forward()`, `penup()` and `pendown()`
+**提示： **找到繪製直線的程式碼。 嘗試使用：`for`、`forward()`、`penup()` 和 `pendown()`
 
 \--- /challenge \---
