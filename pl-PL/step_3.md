@@ -4,7 +4,7 @@ Będziesz tworzyć grę ze ścigającymi się żółwiami. Zaczniemy od stworzen
 
 + Otwórz pusty szablon dla języka Python w edytorze Trinket: <a href="http://jumpto.cc/python-new" target="_blank">jumpto.cc/python-new</a>.
 
-+ Dodaj następujący kod, aby narysować linię za pomocą "żółwia":
++ Dodaj następujący kod, aby narysować linię za pomocą biblioteki "turtle" (żółw):
     
     ![screenshot](images/race-forward.png)
 
@@ -20,9 +20,9 @@ Będziesz tworzyć grę ze ścigającymi się żółwiami. Zaczniemy od stworzen
     
     ![screenshot](images/race-markings2.png)
 
-+ Czy zauważyłeś, że twój kod jest bardzo powtarzalny? Jedyne, co się zmienia, to liczba, którą żółw zapisuje na ekranie.
++ Czy zauważyłeś, że twój kod jest bardzo powtarzalny? Jedyne, co się zmienia, to liczba do wpisania.
     
-    W Pythonie jest lepszy sposób na to, aby zapisać taki powtarzający się kod. Możesz użyć pętli `for`.
+    W Pythonie jest na to lepszy sposób. Możesz użyć pętli `for`.
     
     Zmień swój kod używając pętli `for`:
     
@@ -34,11 +34,11 @@ Będziesz tworzyć grę ze ścigającymi się żółwiami. Zaczniemy od stworzen
 
 + Teraz możemy narysować tor. Żółw zaczyna od współrzędnych (0,0) na środku ekranu.
     
-    Przesuń żółwia w lewy górny róg:
+    Przesuń żółwia ("goto") w lewy górny róg:
     
     ![screenshot](images/race-goto.png)
 
-+ Ach, najpierw trzeba będzie podnieść pisak!
++ Ach, najpierw trzeba będzie podnieść pisak ("penup")!
     
     ![screenshot](images/race-penup.png)
 
@@ -46,7 +46,7 @@ Będziesz tworzyć grę ze ścigającymi się żółwiami. Zaczniemy od stworzen
     
     ![screenshot](images/race-lines.png)
     
-    `right(90)` powoduje, że żółw skręca w prawo o 90 stopni (kąt prosty). Poruszanie się do przodu (`forward(10)`) przed przyłożeniem pisaka pozostawia niewielką przerwę między liczbą a początkiem linii. Po narysowaniu linii podnieś pisak i przesuń do tyłu o długość linii plus przerwa (`backward(160)`).
+    `right(90)` powoduje, że żółw skręca w prawo o 90 stopni (kąt prosty). Poruszanie się do przodu `forward(10)` przed przyłożeniem pisaka pozostawia niewielką przerwę między liczbą a początkiem linii. Po narysowaniu linii podnieś pisak i przesuń do tyłu o długość linii plus przerwa `backward(160)`.
 
 + Będzie lepiej wyglądać, jeśli wyśrodkujesz liczby:
     
