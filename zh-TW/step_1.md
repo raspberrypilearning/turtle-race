@@ -26,6 +26,6 @@
 
 ### 給教師的其他資訊
 
-如果你需要列印此課程，請下載 [列印版本](https://projects.raspberrypi.org/zh-TW/projects/turtle-race/print){target="_ blank"}。
+如果你需要列印此課程，請下載 [列印版本](https://projects.raspberrypi.org/zh-TW/projects/turtle-race/print){target="_blank"}。
 
 使用頁腳中的連結造訪此課程的 GitHub 存儲庫，在 'zh-TW/resources' 資料夾中有本課程的所有資源(包括一個完整的範例程式)。
