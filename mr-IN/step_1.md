@@ -4,7 +4,7 @@
 
 ### तुम्ही काय तयार करणार
 
-हा प्रोजेक्ट गमतीशीर टर्टल रेस गेमद्वारे फॉर लूपची (for loops) ओळख करुन देतो. लूप चा उपयोग रेस ट्रॅक काढण्यासाठी आणि प्रत्येक वेळी कासवाला यादृच्छिक (Random) संख्येची पाऊले हलविण्यासाठी होऊ शकतो. If you have a group of people to play the game, each person pick a turtle and the one that gets the furthest is the winner.
+हा प्रोजेक्ट गमतीशीर टर्टल रेस गेमद्वारे फॉर लूपची (for loops) ओळख करुन देतो. लूप चा उपयोग रेस ट्रॅक काढण्यासाठी आणि प्रत्येक वेळी कासवाला यादृच्छिक (Random) संख्येची पाऊले हलविण्यासाठी होऊ शकतो. हा गेम खेळण्यासाठी तुमच्याकडे लोकांचा गट असल्यास, प्रत्येकजण एक कासव निवडतो आणि जो सर्वात पुढे निघून जातो तो विजेता होतो.
 
 <div class="trinket">
   <iframe src="https://trinket.io/embed/python/9339862606?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
@@ -28,4 +28,4 @@
 
 तुम्हाला हा प्रोजेक्ट प्रिंट करणे आवश्यक असल्यास, कृपया [प्रिंटर अनुकूल आवृत्ती](https://projects.raspberrypi.org/en/projects/turtle-race/print){: target = "_ blank"} वापरा.
 
-Use the link in the footer to access the GitHub repository for this project, which contains all resources (including an example finished project) in the 'en/resources' folder.
+या प्रोजेक्टचे GitHub repository मिळवण्यासाठी फूटरमध्ये दिलेली लिंक वापरा, ज्यात 'en/resources' फोल्डरमध्ये सर्व संसाधने (व उदाहरणार्थ पूर्ण झालेले प्रोजेक्ट) समाविष्ट आहे.
