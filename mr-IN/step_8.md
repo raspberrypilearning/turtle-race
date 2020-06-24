@@ -2,10 +2,10 @@
 
 ## आव्हान: तुटक रेषा
 
-Can you use a loop to make the track lines dashed instead of solid?
+तुम्ही ट्रॅकच्या रेषा घन च्याऐवजी तुटक करण्यासाठी लूप(loop) वापरू शकता का?
 
 ![screenshot](images/race-finished.png)
 
-**Hint:** Find the code that draws a straight line. Try using:`for`, `forward()`, `penup()` and `pendown()`
+**Hint:** एक सरळ रेष रेखाटणारा कोड शोधा. `for`, `forward()`, `penup()` आणि `pendown()`:वापरुन पहा
 
 \--- /challenge \---
