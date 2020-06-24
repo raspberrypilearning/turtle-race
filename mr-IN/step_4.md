@@ -1,11 +1,11 @@
 \--- challenge \---
 
-## Challenge: More lines
+## आव्हान: अधिक ओळी
 
-Can you change your code so that the track lines go right across the screen?
+तुम्ही तुमचा कोड बदलू शकता का जेणेकरून ट्रॅकच्या ओळी स्क्रीनवर उभ्या दिसतील?
 
 ![screenshot](images/race-challenge1.png)
 
-If you want to make the turtle go even faster you can use `speed(0)`.
+तुम्ही कासवाला आणखी वेगवान बनवू इच्छित असल्यास तुम्ही `speed(0)` वापरू शकता.
 
 \--- /challenge \---
