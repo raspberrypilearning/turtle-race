@@ -1,6 +1,6 @@
 \--- challenge \---
 
-## Challenge: Dashed lines
+## आव्हान: तुटक रेषा
 
 Can you use a loop to make the track lines dashed instead of solid?
 
