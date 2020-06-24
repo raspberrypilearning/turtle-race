@@ -1,57 +1,57 @@
-## Race track
+## रेस ट्रॅक
 
-You're going to create a game with racing turtles. First they'll need a race track.
+तुम्ही कासवांचा शर्यतीचा एक गेम तयार करणार आहात. प्रथम त्यांना रेस ट्रॅकची आवश्यकता असेल.
 
-+ Open the blank Python template Trinket: <a href="http://jumpto.cc/python-new" target="_blank">jumpto.cc/python-new</a>.
++ रिकामा Python टेंप्लेट Trinket उघडा: <a href="http://jumpto.cc/python-new" target="_blank">jumpto.cc/python-new</a>.
 
-+ Add the following code to draw a line using the 'turtle':
++ 'turtle' वापरून रेखा काढण्यासाठी खालील कोड जोडा:
     
     ![screenshot](images/race-forward.png)
 
-+ Now let's use the turtle to draw some track markings for the race.
++ आता शर्यतीच्या काही ट्रॅक खुणा काढण्यासाठी turtle वापरूया.
     
-    The turtle `write` function writes text to the screen.
+    turtle `write` फंकशन (function) स्क्रीनवर मजकूर लिहितो.
     
-    Try it:
+    करून पाहा:
     
     ![screenshot](images/race-markings1.png)
 
-+ Now you need to fill in the numbers in between to create markings:
++ आता तुम्हाला चिन्हांकन तयार करण्यासाठी मध्ये संख्या भरण्याची आवश्यकता आहे:
     
     ![screenshot](images/race-markings2.png)
 
-+ Did you notice that your code is very repetitive? The only thing that changes is the number to write.
++ तुमच्या लक्षात आला आहे का की तुमचा कोड खूप पुनरावृत्त(repetitive) आहे? फक्त बदलणारी गोष्ट म्हणजे लिहायची संख्या.
     
-    There's a better way of doing this in Python. You can use a `for` loop.
+    Python मध्ये हे करण्याचा एक चांगला मार्ग आहे. तुम्ही `for` लूप वापरू शकता.
     
-    Update your code to use a `for` loop:
+    `for` लूप वापरण्यासाठी तुमचा कोड अद्यतनित करा:
     
     ![screenshot](images/race-for.png)
 
-+ Hmm, that only prints numbers up to 4. In Python `range(5)` returns five numbers, from 0 up to 4. To get it to also return 5 you'll need to use `range(6)`:
++ हम्म, ते फक्त 4 पर्यंतचे अंक प्रिंट करतो. Python मध्ये `range(5)` ने पाच अंक परत मिळतात, 0 ते 4 पर्यतं. 5 परत मिळविण्यासाठी तुम्हाला `range(6)` वापरण्याची गरज आहे:
     
     ![screenshot](images/race-range.png)
 
-+ Now we can draw some track markings. The turtle starts at coordinates (0,0) in the middle of the screen.
++ आता आपण काही ट्रॅक खुणा काढू शकतो. कासव स्क्रीनच्या मध्यभागी निर्देशांकानवर(coordinates) (0,0) प्रारंभ होते.
     
-    Move the turtle to the top left instead:
+    त्याऐवजी कासव डावीकडे वर हलवा:
     
     ![screenshot](images/race-goto.png)
 
-+ Ah, you'll want to lift the pen up first!
++ आह, तुम्हाला आधी पेन उचलावा लागेल!
     
     ![screenshot](images/race-penup.png)
 
-+ Instead of drawing a line horizontally, let's draw vertical lines to create a track:
++ ट्रॅक तयार करण्यासाठी आडव्या रेषा रेखांकित करण्याऐवजी उभ्या रेषा काढूया:
     
     ![screenshot](images/race-lines.png)
     
-    `right(90)` makes the turtle turn right 90 degrees (a right angle.) Moving `forward(10)` before putting the pen down leaves a small gap between the number and the start of the line. After drawing the line you lift up the pen and go `backward(160)` the length of the line plus the gap.
+    `right(90)` कासवाला 90 डिग्री पर्यंत उजवीकडे वळवतो (a right angle.) हलवून `forward(10)` पेन खाली ठेवण्यापूर्वी संख्या आणि ओळ सुरू होण्याच्या दरम्यान एक लहान अंतर सोडते. रेखा काढल्यानंतर आपण पेन उचला आणि `backward(160)` रेषा आणि अंतरांची लांबी अनुसार जा.
 
-+ It looks neater if you centre the numbers:
++ तुम्ही संख्या मध्यभागी घेतल्यास हे अधिक चांगले दिसते:
     
     ![screenshot](images/race-center.png)
 
-+ And you can speed up the turtle so it draws faster:
++ आणि तुम्ही कासवाचे वेग वाढवू शकता जेणेकरून ते वेगवान होईल:
     
     ![screenshot](images/race-speed.png)
