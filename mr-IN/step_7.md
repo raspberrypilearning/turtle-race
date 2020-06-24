@@ -1,11 +1,11 @@
 \--- challenge \---
 
-## Challenge: Do a twirl
+## आव्हान: एक गिरकी घ्या
 
-Can you use a `for turn in range():` loop to make each turtle do a 360 degree twirl after they get to the starting line? You'll need to make sure they are facing in the right direction at the start of the race!
+प्रत्येक कासव सुरुवातीच्या मार्गावर गेल्यानंतर 360 डिग्री फिरवून घेण्यासाठी तुम्ही`for turn in range():` लूप वापरू शकता का? तुम्हाला खात्री करून घ्यावी लागेल कि शर्यतीच्या सुरूवातीला ते योग्य दिशेला आहेत!
 
-`ada.right(36)` will turn the red turtle right by 36 degrees.
+`ada.right(36)` लाल कासवाला 36 डिगरींनी उजवीकडे वळवेल.
 
-**Hint:** A full turn is 360 degrees. A turtle could turn right 10 degrees 36 times, or left 5 degrees 72 times, or any other numbers make 360!
+**Hint:**एक पूर्ण वळण 360 डिगरींचं आहे. एक कासव 36 वेळा उजवीकडे 10 डिग्री किंवा डावीकडे 72 वेळा 5 डिग्री किंवा इतर कोणतीही संख्या 360 बनवू शकते!
 
 \--- /challenge \---
