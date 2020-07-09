@@ -1,27 +1,27 @@
 ## कासवांची शर्यत
 
-आता मजा करण्यासाठी. चला काही शर्यत करणारी कासव जोडू. It would be really boring if the turtles did the same thing every time so they will move a random number of steps each turn. The winner is the turtle that gets the furthest in 100 turns.
+आता मजा करण्यासाठी. चला काही शर्यत करणारी कासव जोडू. कासवांनी प्रत्येक वेळी असेच केले तर ते खरोखर कंटाळवाणे होईल म्हणून प्रत्येक वळणावर ते यादृच्छिक(random) पावले हलतील. तो कासव विजेता आहे जो 100 फेरांमध्ये सर्वात पुढे येतो.
 
-+ When you use commands like `forward(20)` you are using a single turtle. But you can create more turtles. Add the following code to the end of your script (but make sure it's not indented):
++ जेव्हा तुम्ही `forward(20)` सारख्या आज्ञा(command) वापरता तुम्ही एकच कासव वापरत आहात. परंतु तुम्ही अधिक कासव तयार करू शकता. तुमच्या स्क्रिप्टच्या शेवटी पुढील कोड जोडा (परंतु तो इंडेंट केलेला नाही याची खात्री करा):
     
     ![screenshot](images/race-red.png)
     
-    The first line creates a turtle called 'ada'. The next lines set the colour and shape of the turtle. Now it really looks like a turtle!
+    पहिली ओळ 'अडा' नावाची कासव तयार करते. पुढील ओळी कासवाचा रंग आणि आकार सेट करतात. आता ते खरोखरच कासवांसारखे दिसत आहेत!
 
-+ Let's send the turtle to the starting line:
++ चला कासवाला सुरुवातीच्या ओळीवर पाठवू:
     
     ![screenshot](images/race-start.png)
 
-+ Now you need to make the turtle race by moving a random number of steps at a time. You'll need the `randint` function from the Python `random` library. Add this `import` line to the top of your script:
++ आता तुम्हाला एका वेळी यादृच्छिक(random) संख्येने पावले टाकून कासवाला शर्यत करविणे आवश्यक आहे. तुम्हाला Python `random` लायब्ररीमधील `randInt` फंकशनची आवश्यकता असेल. तुमच्या स्क्रिप्टच्या सुरवातीला `import` ही ओळ जोडा:
     
     ![screenshot](images/race-randint.png)
 
-+ The `randint` function returns a random integer (whole number) between the values chosen. The turtle will move forward 1, 2, 3, 4, or 5 steps at each turn.
++ `randInt` फंकशन निवडलेल्या मूल्यांच्या दरम्यान यादृच्छिक(random) संपूर्ण संख्या(integer) देते. कासव प्रत्येक वळणावर 1, 2, 3, 4 किंवा 5 चरण पुढे जाईल.
     
     ![screenshot](images/race-random.png)
 
-+ One turtle isn't much of a race! Let's add another one:
++ एक कासव शर्यतीसाठी पुरेसा नाही! चला आणखी एक जोडूया:
     
     ![screenshot](images/race-blue.png)
     
-    Note that the code for moving the blue turtle needs to be in **the same** `for` loop as the code for moving the red turtle so that they each make a move every turn.
+    लक्षात घ्या की निळा कासव हलविण्यासाठीचा कोड आणि लाल कासव हलविण्यासाठीचा कोड ** समान** `for` लूप मध्ये असणे आवश्यक आहे जेणेकरून ते प्रत्येक वळण मध्ये हलू शकतात.
