@@ -1,0 +1,27 @@
+---
+hero_image: images/turtle-race.png
+theme: blue
+duration: 2
+listed: true
+ingredient: false
+copyedit: false
+curriculum: 1, design-0, programming-1, phys-comp-0, manufacture-0, community-0
+title: कासवाची शर्यत!
+description: कासवांची एकमेकांच्या विरूद्ध शर्यत लावा!
+original_url: https://codeclubprojects.org/en-GB/python/turtle-race
+interests: games
+technologies: python
+site_areas: projects
+hardware: ''
+software: python
+version: 3
+last_tested: 2017-01-01
+steps:
+  - title: परिचय
+  - title: तुम्हाला काय लागेल
+  - title: रेस ट्रॅक
+  - title: 'आव्हान: अधिक ओळी'
+  - title: कासवांची शर्यत
+  - title: 'आव्हान: शर्यतीची वेळ!'
+  - title: 'आव्हान: एक गिरकी घ्या'
+  - title: 'आव्हान: तुटक रेषा'
