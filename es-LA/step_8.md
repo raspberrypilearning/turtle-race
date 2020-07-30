@@ -1,11 +1,11 @@
 \--- challenge \---
 
-## Challenge: Dashed lines
+## Desafío: Líneas discontinuas
 
-Can you use a loop to make the track lines dashed instead of solid?
+¿Puedes usar un bucle para hacer que las líneas de la pista sean discontinuas en lugar de continuas?
 
-![screenshot](images/race-finished.png)
+![captura de pantalla](images/race-finished.png)
 
-**Hint:** Find the code that draws a straight line. Try using:`for`, `forward()`, `penup()` and `pendown()`
+**Pista:** encuentra el código que dibuja una línea recta. Intenta usar: `for`, `forward()`, `penup()` y `pendown()`
 
 \--- /challenge \---
