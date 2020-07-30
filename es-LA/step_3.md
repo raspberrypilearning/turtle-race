@@ -46,7 +46,7 @@ Vas a crear un juego con carreras de tortugas. Lo primero que necesitarás es un
     
     ![captura de pantalla](images/race-lines.png)
     
-    `right(90)` hace que la tortuga gire a la derecha 90 grados (en ángulo recto). Al mover `forward(10)` antes de dejar el lápiz, deja un pequeño espacio entre el número y el inicio de la línea. Después de dibujar la línea, levanta el lápiz y ve hacia atrás 160:`backward(160)`, la longitud de la línea más la separación.
+    `right(90)` hace que la tortuga gire a la derecha 90 grados (en ángulo recto). Al mover `forward(10)` antes de dejar el lápiz, deja un pequeño espacio entre el número y el inicio de la línea. Después de dibujar la línea, levanta el lápiz y ve hacia atrás 160: `backward(160)`, la longitud de la línea más la separación.
 
 + Se ve mejor si centras los números:
     
