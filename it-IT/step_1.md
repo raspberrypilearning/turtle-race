@@ -20,7 +20,7 @@ Creando il tuo gioco di corse di tartarughe, imparerai come:
 + Usare numeri casuali in Python
 + Tracciare linee di diversi colori con Python Turtle
 
-Questo progetto include elementi tratti dalle seguenti componenti del [Digital Making Curriculum di Raspberry Pi](http://rpf.io/curriculum){:target="_blank"}:
+Questo progetto include elementi tratti dalle seguenti componenti del [Digital Making Curriculum di Raspberry Pi](https://rpf.io/curriculum){:target="_blank"}:
 
 + [Utilizzare i costrutti base di un linguaggio di programmazione per creare programmi semplici](https://www.raspberrypi.org/curriculum/programming/creator/){:target="_blank"}
 

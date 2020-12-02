@@ -20,7 +20,7 @@
 + Pythonでのランダム(乱数)の使い方
 + Python Turtleで様々な色の線の書き方
 
-このプロジェクトでは[Raspberry Piデジタル・メイキング・カリキュラム](http://rpf.io/curriculum){:target="_blank"}の以下の要素を学びます。
+このプロジェクトでは[Raspberry Piデジタル・メイキング・カリキュラム](https://rpf.io/curriculum){:target="_blank"}の以下の要素を学びます。
 
 + [基本的なプログラミング構造を使用して簡単なプログラムを作成する](https://www.raspberrypi.org/curriculum/programming/creator/){:target="_blank"}
 

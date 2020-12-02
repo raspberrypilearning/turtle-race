@@ -20,7 +20,7 @@ Izradom igre trke kornjača naučićeš kako da:
 + Koristiš slučajne brojeve u Pythonu
 + Crtaš linije različitih boja koristeći Python kornjaču
 
-Ovim projektom obuhvaćeni su elementi iz sljedećih dijelova [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
+Ovim projektom obuhvaćeni su elementi iz sljedećih dijelova [Raspberry Pi Digital Making Curriculum](https://rpf.io/curriculum){:target="_blank"}:
 
 + [Koristite osnovne programske konstrukcije za kreiranje jednostavnih programa.](https://www.raspberrypi.org/curriculum/programming/creator/){:target="_blank"}
 

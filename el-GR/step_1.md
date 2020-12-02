@@ -20,7 +20,7 @@
 + Χρησιμοποιείς τυχαίους αριθμούς στην Python
 + Σχεδιάζεις γραμμές με διαφορετικά χρώματα με την χελώνα στην Python
 
-Αυτό το πρόγραμμα καλύπτει στοιχεία από τις ακόλουθες πτυχές του [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
+Αυτό το πρόγραμμα καλύπτει στοιχεία από τις ακόλουθες πτυχές του [Raspberry Pi Digital Making Curriculum](https://rpf.io/curriculum){:target="_blank"}:
 
 + [Χρησιμοποίησε βασικές δομές προγραμματισμού για να δημιουργήσεις απλά προγράμματα](https://www.raspberrypi.org/curriculum/programming/creator/){:target="_blank"}
 

@@ -20,7 +20,7 @@
 + 파이썬에서 난수(랜덤한 숫자)를 사용하는 방법
 + 각 거북이별로 다른 색상의 선 그리기
 
-이 프로젝트는 [라즈베리 파이 디지털 메이킹 교육과정](http://rpf.io/curriculum){:target="_blank"} 중 아래의 과정에 있는 요소들을 다룹니다.
+이 프로젝트는 [라즈베리 파이 디지털 메이킹 교육과정](https://rpf.io/curriculum){:target="_blank"} 중 아래의 과정에 있는 요소들을 다룹니다.
 
 + [기본 프로그래밍 구조를 사용하여 간단한 프로그램 작성](https://www.raspberrypi.org/curriculum/programming/creator/){:target="_blank"}
 

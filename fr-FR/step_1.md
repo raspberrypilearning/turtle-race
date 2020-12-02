@@ -20,7 +20,7 @@ En réalisant ton jeu de course de tortues, tu apprendras à:
 + Utiliser des numéros aléatoires en Python
 + Dessiner des lignes en différentes couleurs avec Python Turtle
 
-Ce projet traite des éléments des sections suivantes du [Programme de Création Numérique Raspberry Pi](http://rpf.io/curriculum){:target="_blank"}:
+Ce projet traite des éléments des sections suivantes du [Programme de Création Numérique Raspberry Pi](https://rpf.io/curriculum){:target="_blank"}:
 
 + [Utilise des concepts de base de programmation pour créer des programmes simples](https://www.raspberrypi.org/curriculum/programming/creator/){:target="_blank"}
 
