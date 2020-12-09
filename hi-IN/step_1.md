@@ -20,7 +20,7 @@
 + python में यादृच्छिक संख्या का उपयोग करें
 + Python टर्टल के साथ अलग अलग रंगो में रेखाएँ बनाए
 
-इस प्रोजेक्ट में [Raspberry Pi डिजिटल मेकिंग पाठ्यक्रम](http://rpf.io/curriculum){:target="_blank"} के निम्नलिखित स्ट्रैंड्स के तत्व शामिल हैं:
+इस प्रोजेक्ट में [Raspberry Pi डिजिटल मेकिंग पाठ्यक्रम](https://rpf.io/curriculum){:target="_blank"} के निम्नलिखित स्ट्रैंड्स के तत्व शामिल हैं:
 
 + [साधारण प्रोग्राम बनाने के लिए आधारभूत प्रोग्रामिंग का उपयोग करें](https://www.raspberrypi.org/curriculum/programming/creator/){:target="_blank"}
 

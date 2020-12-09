@@ -20,7 +20,7 @@ Al hacer tu juego de carreras de tortugas, aprenderás cómo:
 + Usar números aleatorios en Python
 + Dibujar líneas de diferentes colores con Python Turtle
 
-Este proyecto incluye elementos de los siguientes aspectos del [currículo de creación digital de Raspberry Pi](http://rpf.io/curriculum){:target="_blank"}:
+Este proyecto incluye elementos de los siguientes aspectos del [currículo de creación digital de Raspberry Pi](https://rpf.io/curriculum){:target="_blank"}:
 
 + [Usar estructuras de programación básica para crear programas simples.](https://www.raspberrypi.org/curriculum/programming/creator/){:target="_blank"}
 

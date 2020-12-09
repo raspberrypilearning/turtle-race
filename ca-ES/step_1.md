@@ -20,7 +20,7 @@ En fer el joc de curses de tortugues, aprendràs a:
 + Utilitzar nombres aleatoris en Python
 + Dibuixar línies en diferents colors amb Python Turtle
 
-Aquest projecte tracta elements dels següents aspectes del [Currículum de Fabricació Digital de Raspberry Pi](http://rpf.io/curriculum){:target="_blank"}:
+Aquest projecte tracta elements dels següents aspectes del [Currículum de Fabricació Digital de Raspberry Pi](https://rpf.io/curriculum){:target="_blank"}:
 
 + [Utilitzar estructures de programació bàsiques per crear programes simples.](https://www.raspberrypi.org/curriculum/programming/creator/){:target="_blank"}
 
