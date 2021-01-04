@@ -20,7 +20,7 @@
 + Использовать случайные числа в Python
 + Рисовать линии разных цветов с помощью черепашки от Python
 
-Этот проект охватывает элементы из следующих разделов [Учебного курса по цифровому изготовлению с Raspberry Pi](http://rpf.io/curriculum){: target = "_ blank"}:
+This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](https://rpf.io/curriculum){:target="_blank"}:
 
 + [Используйте базовые конструкции программирования для создания простых программ](https://www.raspberrypi.org/curriculum/programming/creator/){: target = "_ blank"}
 
