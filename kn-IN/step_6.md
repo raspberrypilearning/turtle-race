@@ -8,6 +8,6 @@
 
 ![screenshot](images/race-more.png)
 
-ಬಣ್ಣಗಳಲ್ಲಿ orange, purple, tomato, turquoise magenta and brown - ಅಥವಾ ನೀವು [jumpto.cc/colours](http://jumpto.cc/colours) ಗೆ ಹೋಗಿ ಮತ್ತು ನೀವು ಇಷ್ಟಪಡುವ ಯಾವುದೇ ಬಣ್ಣವನ್ನು ಆಯ್ಕೆ ಮಾಡಬಹುದು!
+ಬಣ್ಣಗಳಲ್ಲಿ orange, purple, tomato, turquoise magenta ಮತ್ತು brown - ಅಥವಾ ನೀವು [jumpto.cc/colours](http://jumpto.cc/colours) ಗೆ ಹೋಗಿ ಮತ್ತು ನೀವು ಇಷ್ಟಪಡುವ ಯಾವುದೇ ಬಣ್ಣವನ್ನು ಆಯ್ಕೆ ಮಾಡಬಹುದು!
 
 \--- /challenge \---
