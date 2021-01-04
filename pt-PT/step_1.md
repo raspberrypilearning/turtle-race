@@ -20,7 +20,7 @@ Ao fazer o seu jogo de corrida de tartarugas, você aprenderá a:
 + Use números aleatórios em Python
 + Desenhar linhas em cores diferentes com o Python Turtle
 
-Este projeto abrange elementos das seguintes vertentes do [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){: target = "_ blank"}:
+This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](https://rpf.io/curriculum){:target="_blank"}:
 
 + [Use construções básicas de programação para criar programas simples.](https://www.raspberrypi.org/curriculum/programming/creator/){: target = "_ blank"}
 
