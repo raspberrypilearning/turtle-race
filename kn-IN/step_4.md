@@ -1,11 +1,11 @@
 \--- challenge \---
 
-## Challenge: More lines
+## ಸವಾಲು: ಹೆಚ್ಚಿನ ಸಾಲುಗಳು
 
-Can you change your code so that the track lines go right across the screen?
+ನಿಮ್ಮ ಕೋಡ್ ಅನ್ನು ನೀವು ಬದಲಾಯಿಸಬಹುದೇ ಆದ್ದರಿಂದ ಟ್ರ್ಯಾಕ್ ರೇಖೆಗಳು ಪರದೆಯಾದ್ಯಂತ ಹೋಗುತ್ತವೆ?
 
 ![screenshot](images/race-challenge1.png)
 
-If you want to make the turtle go even faster you can use `speed(0)`.
+ಆಮೆ ಇನ್ನಷ್ಟು ವೇಗವಾಗಿ ಹೋಗುವ ನೀವು ಬಯಸಿದರೆ ನೀವು speed (0)<0> ಅನ್ನು ಬಳಸಬಹುದು.</p>
 
-\--- /challenge \---
+<p>--- /challenge ---</p>
