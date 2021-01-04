@@ -20,7 +20,7 @@ Door het maken van jouw schildpad race spel, leer je:
 + willekeurige getallen te gebruiken in Python
 + lijnen te tekenen in verschillende kleuren met Python Turtle
 
-Dit project behandelt elementen uit de volgende onderdelen van het [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
+This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](https://rpf.io/curriculum){:target="_blank"}:
 
 + [Gebruik basale programmeerconstructies om eenvoudige programma's te maken.](https://www.raspberrypi.org/curriculum/programming/creator/){:target="_ blank"}
 
