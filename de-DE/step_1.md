@@ -20,7 +20,7 @@ Indem du das Schildkröten-Rennspiel erstellst, wirst du folgendes lernen:
 + Wie du zufällige Zahlen in Python verwenden kannst
 + Wie du mit Python Turtle Linien in verschiedenen Farben malen kannst
 
-Dieses Projekt umfasst Elemente aus den folgenden Teilen des [ Raspberry Pi Digital Making Curriculums ](http://rpf.io/curriculum) {:target="_blank"}:
+This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](https://rpf.io/curriculum){:target="_blank"}:
 
 + [Verwende grundlegende Programmierkonstrukte, um einfache Programme zu erstellen ](https://www.raspberrypi.org/curriculum/programming/creator/){:target="_blank"}
 
