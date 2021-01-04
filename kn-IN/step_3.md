@@ -1,57 +1,57 @@
-## Race track
+## ರೇಸ್ ಟ್ರ್ಯಾಕ್ (ಪಂದ್ಯದ ಹಾದಿ)
 
-You're going to create a game with racing turtles. First they'll need a race track.
+ರೇಸಿಂಗ್ ಆಮೆಗಳೊಂದಿಗೆ ನೀವು ಆಟವನ್ನು ರಚಿಸಲು ಹೊರಟಿದ್ದೀರಿ. ಮೊದಲು ಅವರಿಗೆ ರೇಸ್ ಟ್ರ್ಯಾಕ್ ಅಗತ್ಯವಿದೆ.
 
-+ Open the blank Python template Trinket: <a href="http://jumpto.cc/python-new" target="_blank">jumpto.cc/python-new</a>.
++ ಖಾಲಿ ಪೈಥಾನ್ ಟೆಂಪ್ಲೆಟ್ Trinket (ಟ್ರಿಂಕೆಟ್): <a href="http://jumpto.cc/python-new" target="_blank">jumpto.cc/python-new</a> ಅನ್ನು ತೆರೆಯಿರಿ.
 
-+ Add the following code to draw a line using the 'turtle':
++ 'turtle' ಬಳಸಿ ರೇಖೆಯನ್ನು ಸೆಳೆಯಲು ಈ ಕೆಳಗಿನ ಕೋಡ್ ಸೇರಿಸಿ:
     
     ![screenshot](images/race-forward.png)
 
-+ Now let's use the turtle to draw some track markings for the race.
++ ಈಗ ನಾವು 'turtle' ಅನ್ನು ಬಳಸಿ ಓಟದ ಪಥದ ನಿರ್ಮಾಣಕ್ಕಾಗಿ ಗುರುತುಗಳನ್ನು ಹಾಕೋಣ.
     
-    The turtle `write` function writes text to the screen.
+    ಆಮೆಯ `write` function ಪದಗಳನ್ನು screen ಮೇಲೆ ಮುದ್ರಿಸುತ್ತದೆ.
     
-    Try it:
+    ಪ್ರಯತ್ನಿಸಿ ನೋಡಿ:
     
     ![screenshot](images/race-markings1.png)
 
-+ Now you need to fill in the numbers in between to create markings:
++ ಗುರುತುಗಳನ್ನು ರಚಿಸಲು ಈಗ ನೀವು ನಡುವೆ ಸಂಖ್ಯೆಗಳನ್ನು ಭರ್ತಿ ಮಾಡಬೇಕಾಗಿದೆ:
     
     ![screenshot](images/race-markings2.png)
 
-+ Did you notice that your code is very repetitive? The only thing that changes is the number to write.
++ ನಿಮ್ಮ ಕೋಡ್ ತುಂಬಾ ಪುನರಾವರ್ತಿತ ವಾಗಿದೆ ಎಂದು ನೀವು ಗಮನಿಸಿದ್ದೀರಾ? ಬದಲಾಗುವ ಏಕೈಕ ವಿಷಯವೆಂದರೆ ಬರೆಯಬೇಕಾದ ಸಂಖ್ಯೆ.
     
-    There's a better way of doing this in Python. You can use a `for` loop.
+    ಪೈಥಾನ್ನಲ್ಲಿ ಇದನ್ನು ಮಾಡಲು ಉತ್ತಮ ಮಾರ್ಗವಿದೆ `for` loop ಅನ್ನು ಬಳಸಬಹುದು.
     
-    Update your code to use a `for` loop:
+    `for` loop ಅನ್ನು ಬಳಸಲು ನಿಮ್ಮ ಕೋಡನ್ನು ನವೀಕರಿಸಿ:
     
     ![screenshot](images/race-for.png)
 
-+ Hmm, that only prints numbers up to 4. In Python `range(5)` returns five numbers, from 0 up to 4. To get it to also return 5 you'll need to use `range(6)`:
++ ಓಹ್, ಅದು ಕೇವಲ 4 ರವರೆಗೆ ಸಂಖ್ಯೆಗಳನ್ನು ಮುದ್ರಿಸುತ್ತದೆ. Python ನಲ್ಲಿ `range(5)` 0 ರಿಂದ 4 ರವರೆಗೆ ಐದು ಸಂಖ್ಯೆಗಳನ್ನು ಹಿಂದಿರುಗಿಸುತ್ತದೆ. ಅದನ್ನು 5 ಹಿಂದಿರುಗಿಸಲು ನೀವು ಬಳಸಬೇಕಾಗುತ್ತದೆ `range(6)`:
     
     ![screenshot](images/race-range.png)
 
-+ Now we can draw some track markings. The turtle starts at coordinates (0,0) in the middle of the screen.
++ ಈಗ ನಾವು ಕೆಲವು ಟ್ರ್ಯಾಕ್ ಗುರುತುಗಳನ್ನು ಸೆಳೆಯಬಹುದು. ಆಮೆ ಪ್ರಾರಂಭವಾಗುತ್ತದೆ coordinates (0,0) screen ಮಧ್ಯದಲ್ಲಿ.
     
-    Move the turtle to the top left instead:
+    ಆಮೆಯ ಬದಲು ಮೇಲಿನ ಎಡಕ್ಕೆ ಸರಿಸಿ:
     
     ![screenshot](images/race-goto.png)
 
-+ Ah, you'll want to lift the pen up first!
++ ಆಹ್, ನೀವು ಮೊದಲು ಪೆನ್ನನ್ನು ಮೇಲಕ್ಕೆತ್ತಲು ಬಯಸುತ್ತೀರಿ!
     
     ![screenshot](images/race-penup.png)
 
-+ Instead of drawing a line horizontally, let's draw vertical lines to create a track:
++ ಪಥವನ್ನು ರಚಿಸಲು ರೇಖೆಗಳನ್ನು ಅಡ್ಡವಾಗಿ ಬಿಡಿಸುವ ಬದಲು ಲಂಬವಾಗಿ ಬಿಡಿಸೋಣ:
     
     ![screenshot](images/race-lines.png)
     
-    `right(90)` makes the turtle turn right 90 degrees (a right angle.) Moving `forward(10)` before putting the pen down leaves a small gap between the number and the start of the line. After drawing the line you lift up the pen and go `backward(160)` the length of the line plus the gap.
+    `right(90)`ಯು ಆಮೆಯನ್ನು 90 ಕೋನಗಳಿಗೆ ತಿರುಗಿಸುತ್ತದೆ (ಲಂಬ ಕೋನ). ಪೆನ್ ಕೆಳಗಿಡುವ ಮೊದಲು`forward(10)` ಉಪಯೋಗಿಸಿದರೆ ಸಂಖ್ಯೆ ಮತ್ತು ಪ್ರಾರಂಭದ ರೇಖೆ ನಡುವೆ ಸಣ್ಣ ಅಂತರವನ್ನು ಬಿಡುತ್ತದೆ. ರೇಖೆಯನ್ನು ಚಿತ್ರಿಸಿದ ನಂತರ ಪೆನ್ನನ್ನು ಮೇಲಕೆತ್ತಿ ಹಿಂದಿರುಗಲು `backward(160)` ,ಅಂದರೆ ರೇಖೆ ಮತ್ತು ಅಂತರದ ಮೊತ್ತ.
 
-+ It looks neater if you centre the numbers:
++ ನೀವು ಸಂಖ್ಯೆಯನ್ನು ಮಧ್ಯದಲ್ಲಿ ಇರಿಸಿದರೆ ಅದು ಅಚ್ಚುಕಟ್ಟಾಗಿ ಕಾಣುತ್ತದೆ:
     
     ![screenshot](images/race-center.png)
 
-+ And you can speed up the turtle so it draws faster:
++ ಮತ್ತು ನೀವು ಆಮೆಯನ್ನು ವೇಗಗೊಳಿಸಬಹುದು ಆದ್ದರಿಂದ ಅದು ವೇಗವಾಗಿ ಸೆಳೆಯುತ್ತದೆ:
     
     ![screenshot](images/race-speed.png)
