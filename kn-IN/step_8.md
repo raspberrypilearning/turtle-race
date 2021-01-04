@@ -6,6 +6,6 @@
 
 ![screenshot](images/race-finished.png)
 
-** Hint:** ಸರಳ ರೇಖೆಯನ್ನು ಸೆಳೆಯುವ ಕೋಡ್ ಅನ್ನು ಹುಡುಕಿ. ಬಳಸಲು ಪ್ರಯತ್ನಿಸಿ:`for`,`forward()`,`penup()` ಮತ್ತು `pendown()`
+**ಸುಳಿವು:** ಸರಳ ರೇಖೆಯನ್ನು ಸೆಳೆಯುವ ಕೋಡ್ ಅನ್ನು ಹುಡುಕಿ. ಬಳಸಲು ಪ್ರಯತ್ನಿಸಿ:`for`,`forward()`,`penup()` ಮತ್ತು `pendown()`
 
 \--- /challenge \---
