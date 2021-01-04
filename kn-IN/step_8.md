@@ -1,11 +1,11 @@
 \--- challenge \---
 
-## Challenge: Dashed lines
+## ಸವಾಲು: ಡ್ಯಾಶ್ಡ್ ಲೈನ್
 
-Can you use a loop to make the track lines dashed instead of solid?
+ನೀವು ಲೂಪ್ ಅನ್ನು ಬಳಸೆ ಟ್ರ್ಯಾಕ್ ಲೈನ್ ಗಳಾನು ಡ್ಯಾಶ್ ಮಾಡಬಹುದೇ ಸೋಲಿಡ್ಸ್ ಗೆ ಬದಲಾಗೀ?
 
 ![screenshot](images/race-finished.png)
 
-**Hint:** Find the code that draws a straight line. Try using:`for`, `forward()`, `penup()` and `pendown()`
+** Hint:** ಸರಳ ರೇಖೆಯನ್ನು ಸೆಳೆಯುವ ಕೋಡ್ ಅನ್ನು ಹುಡುಕಿ. ಬಳಸಲು ಪ್ರಯತ್ನಿಸಿ:`for`,`forward()`,`penup()` ಮತ್ತು `pendown()`
 
 \--- /challenge \---
