@@ -1,13 +1,13 @@
 \--- challenge \---
 
-## Challenge: Race time!
+## ಸವಾಲು: ಪಂದ್ಯದ ಸಮಯ!
 
-Now you're ready to race. Pick a turtle and an opponent and see who wins.
+ಈಗ ನೀವು ರೇಸ್ ಮಾಡಲು ಸಿದ್ಧರಿದ್ದೀರಿ. ಆಮೆ ಮತ್ತು ಎದುರಾಳಿಯನ್ನು ಆರಿಸಿ ಮತ್ತು ಯಾರು ಗೆಲ್ಲುತ್ತಾರೆ ಎಂಬುದನ್ನು ನೋಡಿ.
 
-Can you add more turtles so you can race with more friends?
+ಹೆಚ್ಚಿನ ಸ್ನೇಹಿತರೊಂದಿಗೆ ಸ್ಪರ್ಧಿಸಲು ನೀವು ಹೆಚ್ಚಿನ ಆಮೆಗಳನ್ನು ಸೇರಿಸಬಹುದೇ?
 
 ![screenshot](images/race-more.png)
 
-Colours include: orange, purple, violet, tomato, turquoise, magenta and brown - or you can go to [jumpto.cc/colours](http://jumpto.cc/colours) and pick any colour you like!
+ಬಣ್ಣಗಳಲ್ಲಿ orange, purple, tomato, turquoise magenta and brown - ಅಥವಾ ನೀವು [jumpto.cc/colours](http://jumpto.cc/colours) ಗೆ ಹೋಗಿ ಮತ್ತು ನೀವು ಇಷ್ಟಪಡುವ ಯಾವುದೇ ಬಣ್ಣವನ್ನು ಆಯ್ಕೆ ಮಾಡಬಹುದು!
 
 \--- /challenge \---
