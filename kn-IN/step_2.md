@@ -1,9 +1,9 @@
-## What you will need
+## ನಿಮಗೆ ಬೇಕಾದುದು
 
-### Hardware
+### ಯಂತ್ರಾಂಶ (ಹಾರ್ಡ್ವೇರ್)
 
-+ An internet-connected computer
++ ಇಂಟರ್ನೆಟ್ ಸಂಪರ್ಕಿತ ಕಂಪ್ಯೂಟರ್
 
-### Software
+### ಸಾಫ್ಟ್ವೇರ್
 
-This project uses Python 3. We recommend using [Trinket](https://trinket.io/), which allows you to write Python code online.
+ಈ ಯೋಜನೆಯು ಪೈಥಾನ್ 3 (Python 3) ಅನ್ನು ಬಳಸುತ್ತದೆ. [Trinket](https://trinket.io/) ಅನ್ನು ಬಳಸಲು ನಾವು ಶಿಫಾರಸು ಮಾಡುತ್ತೇವೆ, ಇದು ಪೈಥಾನ್ ಕೋಡ್ ಅನ್ನು ಆನ್‌ಲೈನ್‌ನಲ್ಲಿ ಬರೆಯಲು ನಿಮಗೆ ಅನುಮತಿಸುತ್ತದೆ.
