@@ -20,12 +20,12 @@
 + Python ನಲ್ಲಿ ಯಾದೃಚ್ ಸಂಖ್ಯೆಗಳನ್ನು (random numbers) ಬಳಸಿ
 + Python ಆಮೆಯೊಂದಿಗೆ ವಿವಿಧ ಬಣ್ಣಗಳಲ್ಲಿ ರೇಖೆಗಳನ್ನು ಎಳೆಯಿರಿ
 
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](https://rpf.io/curriculum){:target="_blank"}:
+ಈ ಯೋಜನೆಯು ಈ ಕೆಳಗಿನ ಎಳೆಗಳಿಂದ ಅಂಶಗಳನ್ನು ಒಳಗೊಂಡಿದೆ [Raspberry Pi Digital Making Curriculum](https://rpf.io/curriculum){:target="_blank"}:
 
-+ [Use basic programming constructs to create simple programs](https://www.raspberrypi.org/curriculum/programming/creator/){:target="_ blank"}
++ [ಸರಳ ಕಾರ್ಯಕ್ರಮಗಳನ್ನು ರಚಿಸಲು ಮೂಲ ಪ್ರೋಗ್ರಾಮಿಂಗ್ ರಚನೆಗಳನ್ನು ಬಳಸಿ.](https://www.raspberrypi.org/curriculum/programming/creator/){:target="_blank"}
 
 ### ಶಿಕ್ಷಣತಜ್ಞರಿಗೆ ಹೆಚ್ಚುವರಿ ಮಾಹಿತಿ
 
-ನೀವು ಈ ಯೋಜನೆಯನ್ನು ಮುದ್ರಿಸಬೇಕಾದರೆ, ದಯವಿಟ್ಟು [printer-friendly version](https://projects.raspberrypi.org/en/projects/turtle-race/print){:target="_blank"}.
+ನೀವು ಈ ಯೋಜನೆಯನ್ನು ಮುದ್ರಿಸಬೇಕಾದರೆ, ದಯವಿಟ್ಟು [ ಮುದ್ರಕ-ಸ್ನೇಹಿ ಆವೃತ್ತಿಯನ್ನು ಬಳಸಿ ](https://projects.raspberrypi.org/en/projects/turtle-race/print) {:target = "_blank"}.
 
 ಈ ಯೋಜನೆಯ GitHub repository ಅನ್ನು ಪ್ರವೇಶಿಸಲು ಅಡಿಟಿಪ್ಪಣಿ link ಬಳಸಿ, ಅದು ಅದರ 'en/resources' folder ನಲ್ಲಿರುವ ಎಲ್ಲಾ ಸಂಪನ್ಮೂಲಗಳನ್ನು ಒಳಗೊಂಡಿದೆ (ಸಿದ್ಧಪಡಿಸಿದ ಉದಾಹರಣೆ ಪ್ರಾಜೆಕ್ಟ್ ಸೇರಿದಂತೆ).
