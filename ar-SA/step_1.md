@@ -20,7 +20,7 @@
 + استخدام الأرقام العشوائية في Python
 + رسم خطوط بألوان مختلفة بإستخدام Python Turtle
 
-يتناول هذا المشروع عناصر من معايير المناهج الرقمية الخاصة بـ [Raspberry Pi](http://rpf.io/curriculum){:target="_blank"}:
+This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](https://rpf.io/curriculum){:target="_blank"}:
 
 + [استخدام تراكيب البرمجة الأساسية لإنشاء برامج بسيطة.](https://www.raspberrypi.org/curriculum/programming/creator/){:target="_blank"}
 
