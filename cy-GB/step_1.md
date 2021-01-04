@@ -20,7 +20,7 @@ Wrth wneud eich gêm rasio crwbanod, byddwch chi'n dysgu sut i:
 + Defnyddio rhifau ar hap mewn Python
 + Tynnu llinellau mewn gwahanol liwiau â Python Turtle
 
-Mae'r prosiect hwn yn cwmpasu elfennau o ffrydiau dilynol y [Cwricwlwm Creu Digidol Raspberry Pi](http://rpf.io/curriculum){:target="_blank"}:
+This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](https://rpf.io/curriculum){:target="_blank"}:
 
 + [Defnyddiwch lluniadau rhaglennu sylfaenol i greu rhaglenni syml.](https://www.raspberrypi.org/curriculum/programming/creator/) {:target="_blank"}
 
