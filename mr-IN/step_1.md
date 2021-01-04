@@ -20,7 +20,7 @@
 + यादृच्छिक(Random) क्रमांक Python मध्ये वापरणे
 + Python Turtle सह वेगवेगळ्या रंगात ओळी काढा
 
-हा प्रोजेक्ट [Raspberry Pi Digital Making च्या अभ्यासक्रमतील](http://rpf.io/curriculum){:target="_blank"} पुढील बाबी समाविष्ट आहेत:
+This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](https://rpf.io/curriculum){:target="_blank"}:
 
 + [साधे प्रोग्राम तयार करण्यासाठी बेसिक प्रोग्रामिंग कॉन्स्ट्रक्टचा वापर करा.](https://www.raspberrypi.org/curriculum/programming/creator/){:target="_blank"}
 
