@@ -20,7 +20,7 @@
 + Використовувати випадкові числа в Python
 + Малювати лінії різного кольору за допомогою Python Turtle
 
-Цей проект охоплює елементи з наступних частин [Електронного навчального плану Raspberry Pi](http://rpf.io/curriculum){:target="_blank"}:
+This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](https://rpf.io/curriculum){:target="_blank"}:
 
 + [Використовування основних конструкції програмування для створення простих програм](https://www.raspberrypi.org/curriculum/programming/creator/){:target="_blank"}
 
