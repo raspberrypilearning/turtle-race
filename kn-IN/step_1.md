@@ -1,10 +1,10 @@
-## Introduction
+## ಪರಿಚಯ
 
-Use loops to draw a race track and create a racing turtle game.
+ರೇಸ್ ಟ್ರ್ಯಾಕ್ ಸೆಳೆಯಲು ಮತ್ತು ರೇಸಿಂಗ್ ಆಮೆ ಆಟವನ್ನು ರಚಿಸಲು ಲೂಪ್‌ಗಳನ್ನು ಬಳಸಿ.
 
-### What you will make
+### ನೀವು ಮಾಡುವುದು
 
-This project introduces for loops through a fun turtle race game. Loops are used to draw the race track and to make the turtles move a random number of steps each turn. If you have a group of people to play the game, each person pick a turtle and the one that gets the furthest is the winner.
+ಈ ಯೋಜನೆಯು ಮೋಜಿನ ಆಮೆ ರೇಸ್ ಆಟದ ಮೂಲಕ ಲೂಪ್‌ಗಳಿಗಾಗಿ ಪರಿಚಯಿಸುತ್ತದೆ. ರೇಸ್ ಟ್ರ್ಯಾಕ್ ಅನ್ನು ಸೆಳೆಯಲು ಮತ್ತು ಆಮೆಗಳು ಪ್ರತಿ ತಿರುವಿನಲ್ಲಿ ಯಾದೃಚ್ (random) ಸಂಖ್ಯೆಯ ಹಂತಗಳನ್ನು ಚಲಿಸುವಂತೆ ಮಾಡಲು ಲೂಪ್‌ಗಳನ್ನು ಬಳಸಲಾಗುತ್ತದೆ. ಆಟವನ್ನು ಆಡಲು ನೀವು ಜನರ ಗುಂಪನ್ನು ಹೊಂದಿದ್ದರೆ, ಪ್ರತಿಯೊಬ್ಬ ವ್ಯಕ್ತಿಯು ಆಮೆ ಆರಿಸಿಕೊಳ್ಳುತ್ತಾನೆ ಮತ್ತು ಹೆಚ್ಚಿನದನ್ನು ಪಡೆಯುವವನು ವಿಜೇತರಾಗುತ್ತಾನೆ.
 
 <div class="trinket">
   <iframe src="https://trinket.io/embed/python/9339862606?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
@@ -12,20 +12,20 @@ This project introduces for loops through a fun turtle race game. Loops are used
   <img src="images/race-finished.png">
 </div>
 
-### What you will learn
+### ನೀವು ಏನು ಕಲಿಯುವಿರಿ
 
-By making your turtle race game, you will learn how to:
+ನಿಮ್ಮ ಆಮೆ ರೇಸ್ ಆಟವನ್ನು ಮಾಡುವ ಮೂಲಕ, ಹೇಗೆ ಮಾಡಬೇಕೆಂದು ನೀವು ಕಲಿಯುವಿರಿ:
 
-+ Write `for` loops in Python
-+ Use random numbers in Python
-+ Draw lines in different colours with Python Turtle
++ Python ನಲ್ಲಿ `for` loops ಬರೆಯುವುದು
++ Python ನಲ್ಲಿ ಯಾದೃಚ್ ಸಂಖ್ಯೆಗಳನ್ನು (random numbers) ಬಳಸಿ
++ Python ಆಮೆಯೊಂದಿಗೆ ವಿವಿಧ ಬಣ್ಣಗಳಲ್ಲಿ ರೇಖೆಗಳನ್ನು ಎಳೆಯಿರಿ
 
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
+This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](https://rpf.io/curriculum){:target="_blank"}:
 
-+ [Use basic programming constructs to create simple programs.](https://www.raspberrypi.org/curriculum/programming/creator/){:target="_blank"}
++ [Use basic programming constructs to create simple programs](https://www.raspberrypi.org/curriculum/programming/creator/){:target="_ blank"}
 
-### Additional information for educators
+### ಶಿಕ್ಷಣತಜ್ಞರಿಗೆ ಹೆಚ್ಚುವರಿ ಮಾಹಿತಿ
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/turtle-race/print){:target="_blank"}.
+ನೀವು ಈ ಯೋಜನೆಯನ್ನು ಮುದ್ರಿಸಬೇಕಾದರೆ, ದಯವಿಟ್ಟು [printer-friendly version](https://projects.raspberrypi.org/en/projects/turtle-race/print){:target="_blank"}.
 
-Use the link in the footer to access the GitHub repository for this project, which contains all resources (including an example finished project) in the 'en/resources' folder.
+ಈ ಯೋಜನೆಯ GitHub repository ಅನ್ನು ಪ್ರವೇಶಿಸಲು ಅಡಿಟಿಪ್ಪಣಿ link ಬಳಸಿ, ಅದು ಅದರ 'en/resources' folder ನಲ್ಲಿರುವ ಎಲ್ಲಾ ಸಂಪನ್ಮೂಲಗಳನ್ನು ಒಳಗೊಂಡಿದೆ (ಸಿದ್ಧಪಡಿಸಿದ ಉದಾಹರಣೆ ಪ್ರಾಜೆಕ್ಟ್ ಸೇರಿದಂತೆ).
