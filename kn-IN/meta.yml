@@ -6,8 +6,8 @@ listed: true
 ingredient: false
 copyedit: false
 curriculum: 1, design-0, programming-1, phys-comp-0, manufacture-0, community-0
-title: Turtle Race!
-description: Race turtles against each other!
+title: ಆಮೆಯ ರೇಸ್!
+description: ' ಪರಸ್ಪರ ಆಮೆಗಳ ವಿರುದ್ಧ ರೇಸ್!'
 original_url: https://codeclubprojects.org/en-GB/python/turtle-race
 interests: games
 technologies: python
@@ -18,18 +18,18 @@ version: 3
 last_tested: 2017-01-01
 steps:
   - 
-    title: Introduction
+    title: ಪರಿಚಯ
   - 
-    title: What you will need
+    title: ನಿಮಗೆ ಬೇಕಾದುದನ್ನು
   - 
-    title: Race track
+    title: ರೇಸ್ ಟ್ರ್ಯಾಕ್ (ಪಂದ್ಯದ ಹಾದಿ)
   - 
-    title: 'Challenge: More lines'
+    title: 'ಸವಾಲು: ಹೆಚ್ಚಿನ ಸಾಲುಗಳು'
   - 
-    title: Racing turtles
+    title: ಪಂದ್ಯದ ಆಮೆಗಳು (ರೇಸಿಂಗ್ ಆಮೆಗಳು)
   - 
-    title: 'Challenge: Race time!'
+    title: 'ಸವಾಲು: ಪಂದ್ಯದ ಸಮಯ!'
   - 
-    title: 'Challenge: Do a twirl'
+    title: 'ಸವಾಲು: ಒಂದು ತಿರುವು ಮಾಡಿ'
   - 
-    title: 'Challenge: Dashed lines'
+    title: 'ಸವಾಲು: ಬಿಡಿ ಸಾಲು'
