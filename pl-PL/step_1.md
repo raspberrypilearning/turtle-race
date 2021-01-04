@@ -20,7 +20,7 @@ Tworząc grę Wyścig żółwi, nauczysz się:
 + Jak używać liczb losowych w Pythonie
 + Jak rysować linie o różnych kolorach za pomocą biblioteki "turtle" (żółw) w Pythonie
 
-Ten projekt obejmuje elementy z następujących wątków z [Cyfrowego Programu Nauczania Raspberry Pi](http://rpf.io/curriculum){:target="_blank"}:
+This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](https://rpf.io/curriculum){:target="_blank"}:
 
 + [Użycie podstawowych konstrukcji programistycznych do tworzenia prostych programów](https://www.raspberrypi.org/curriculum/programming/creator/){:target="_blank"}
 
