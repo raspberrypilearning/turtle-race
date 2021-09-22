@@ -12,6 +12,10 @@ Ce projet introduit les boucles dans un jeu amusant de course de tortues. Les bo
   <img src="images/race-finished.png">
 </div>
 
+## \--- collapse \---
+
+## title: What you will learn
+
 ### Ce que tu vas apprendre
 
 En réalisant ton jeu de course de tortues, tu apprendras à:
@@ -24,8 +28,16 @@ This project covers elements from the following strands of the [Raspberry Pi Dig
 
 + [ Utilise des concepts de base de programmation pour créer des programmes simples ](https://www.raspberrypi.org/curriculum/programming/creator/) {:target="_ blank"}
 
+\--- /collapse \---
+
+## \--- collapse \---
+
+## title: Additional information for educators
+
 ### Informations supplémentaires pour les éducateurs
 
-Si vous besoin d'imprimer ce projet, merci d'utiliser la [version imprimable.](https://projects.raspberrypi.org/en/projects/turtle-race/print){:target="_blank"}.
+If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/turtle-race/print){:target="_blank"}.
 
-Utilise le lien dans au bas de la page pour accéder au dépôt GitHub pour ce projet, qui contient toutes les ressources (y compris un exemple d'un projet terminé) dans le dossier 'en / resources'.
+Use the link in the footer to access the GitHub repository for this project, which contains all resources (including an example finished project) in the 'en/resources' folder.
+
+\--- /collapse \---
