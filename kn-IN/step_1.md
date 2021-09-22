@@ -12,6 +12,10 @@
   <img src="images/race-finished.png">
 </div>
 
+## \--- collapse \---
+
+## title: What you will learn
+
 ### ನೀವು ಏನು ಕಲಿಯುವಿರಿ
 
 ನಿಮ್ಮ ಆಮೆ ರೇಸ್ ಆಟವನ್ನು ಮಾಡುವ ಮೂಲಕ, ಹೇಗೆ ಮಾಡಬೇಕೆಂದು ನೀವು ಕಲಿಯುವಿರಿ:
@@ -24,8 +28,16 @@
 
 + [ಸರಳ ಕಾರ್ಯಕ್ರಮಗಳನ್ನು ರಚಿಸಲು ಮೂಲ ಪ್ರೋಗ್ರಾಮಿಂಗ್ ರಚನೆಗಳನ್ನು ಬಳಸಿ.](https://www.raspberrypi.org/curriculum/programming/creator/){:target="_blank"}
 
+\--- /collapse \---
+
+## \--- collapse \---
+
+## title: Additional information for educators
+
 ### ಶಿಕ್ಷಣತಜ್ಞರಿಗೆ ಹೆಚ್ಚುವರಿ ಮಾಹಿತಿ
 
-ನೀವು ಈ ಯೋಜನೆಯನ್ನು ಮುದ್ರಿಸಬೇಕಾದರೆ, ದಯವಿಟ್ಟು [ ಮುದ್ರಕ-ಸ್ನೇಹಿ ಆವೃತ್ತಿಯನ್ನು ಬಳಸಿ ](https://projects.raspberrypi.org/en/projects/turtle-race/print) {:target = "_blank"}.
+If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/turtle-race/print){:target="_blank"}.
 
-ಈ ಯೋಜನೆಯ GitHub repository ಅನ್ನು ಪ್ರವೇಶಿಸಲು ಅಡಿಟಿಪ್ಪಣಿ link ಬಳಸಿ, ಅದು ಅದರ 'en/resources' folder ನಲ್ಲಿರುವ ಎಲ್ಲಾ ಸಂಪನ್ಮೂಲಗಳನ್ನು ಒಳಗೊಂಡಿದೆ (ಸಿದ್ಧಪಡಿಸಿದ ಉದಾಹರಣೆ ಪ್ರಾಜೆಕ್ಟ್ ಸೇರಿದಂತೆ).
+Use the link in the footer to access the GitHub repository for this project, which contains all resources (including an example finished project) in the 'en/resources' folder.
+
+\--- /collapse \---
