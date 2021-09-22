@@ -12,6 +12,10 @@
   <img src="images/race-finished.png">
 </div>
 
+## \--- collapse \---
+
+## title: What you will learn
+
 ### Τι θα μάθεις
 
 Με το παιχνίδι αγώνα χελώνων, θα μάθεις πώς να:
@@ -24,8 +28,16 @@ This project covers elements from the following strands of the [Raspberry Pi Dig
 
 + [Χρησιμοποίησε βασικές δομές προγραμματισμού για να δημιουργήσεις απλά προγράμματα](https://www.raspberrypi.org/curriculum/programming/creator/){:target="_blank"}
 
+\--- /collapse \---
+
+## \--- collapse \---
+
+## title: Additional information for educators
+
 ### Πρόσθετες πληροφορίες για εκπαιδευτικούς
 
-Αν χρειαστεί να εκτυπώσεις αυτό το έργο, χρησιμοποίησε την [εκτυπώσιμη έκδοση](https://projects.raspberrypi.org/en/projects/turtle-race/print)"{:target="_blank"}.
+If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/turtle-race/print){:target="_blank"}.
 
-Χρησιμοποίησε το σύνδεσμο στο υποσέλιδο για να αποκτήσεις πρόσβαση στο αποθετήριο GitHub για αυτό το έργο, το οποίο περιέχει όλους τους πόρους (συμπεριλαμβανομένου ενός έργου που έχει ολοκληρωθεί στο παράδειγμα) στο φάκελο 'en/resources'.
+Use the link in the footer to access the GitHub repository for this project, which contains all resources (including an example finished project) in the 'en/resources' folder.
+
+\--- /collapse \---
