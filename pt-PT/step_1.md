@@ -12,6 +12,10 @@ Este projeto introduz para loops através de um divertido jogo de corrida de tar
   <img src="images/race-finished.png">
 </div>
 
+## \--- collapse \---
+
+## title: What you will learn
+
 ### O que você vai aprender
 
 Ao fazer o seu jogo de corrida de tartarugas, você aprenderá a:
@@ -24,8 +28,16 @@ This project covers elements from the following strands of the [Raspberry Pi Dig
 
 + [Use construções básicas de programação para criar programas simples.](https://www.raspberrypi.org/curriculum/programming/creator/){: target = "_ blank"}
 
+\--- /collapse \---
+
+## \--- collapse \---
+
+## title: Additional information for educators
+
 ### Informações adicionais para educadores
 
-Se necessitar de imprimir este projeto, por favor, utilize a [versão para impressão](https://projects.raspberrypi.org/en/projects/turtle-race/print){: target = "_ blank"}.
+If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/turtle-race/print){:target="_blank"}.
 
-Use o link no rodapé para aceder ao repositório do GitHub deste projeto, que contém todos os recursos (incluindo um exemplo de projeto concluído) na pasta 'en/resources'.
+Use the link in the footer to access the GitHub repository for this project, which contains all resources (including an example finished project) in the 'en/resources' folder.
+
+\--- /collapse \---
