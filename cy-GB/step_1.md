@@ -12,6 +12,10 @@ Mae'r prosiect hwn yn cyflwyno dolenni trwy gêm rasio crwbanod hwyliog. Defnydd
   <img src="images/race-finished.png">
 </div>
 
+## \--- collapse \---
+
+## title: What you will learn
+
 ### Beth fyddwch chi'n ei ddysgu
 
 Wrth wneud eich gêm rasio crwbanod, byddwch chi'n dysgu sut i:
@@ -24,8 +28,16 @@ This project covers elements from the following strands of the [Raspberry Pi Dig
 
 + [Defnyddiwch lluniadau rhaglennu sylfaenol i greu rhaglenni syml.](https://www.raspberrypi.org/curriculum/programming/creator/) {:target="_blank"}
 
+\--- /collapse \---
+
+## \--- collapse \---
+
+## title: Additional information for educators
+
 ### Gwybodaeth ychwanegol ar gyfer addysgwyr
 
 If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/turtle-race/print){:target="_blank"}.
 
 Use the link in the footer to access the GitHub repository for this project, which contains all resources (including an example finished project) in the 'en/resources' folder.
+
+\--- /collapse \---
