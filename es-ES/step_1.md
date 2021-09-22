@@ -12,6 +12,10 @@ Este proyecto introduce bucles for a través de un divertido juego de carreras d
   <img src="images/race-finished.png">
 </div>
 
+## \--- collapse \---
+
+## title: What you will learn
+
 ### Lo que aprenderás
 
 Al hacer tu juego de carreras de tortugas, aprenderás cómo:
@@ -24,8 +28,16 @@ This project covers elements from the following strands of the [Raspberry Pi Dig
 
 + [Usar estructuras de programación básicas para crear programas simples.](https://www.raspberrypi.org/curriculum/programming/creator/){:target="_blank"}
 
+\--- /collapse \---
+
+## \--- collapse \---
+
+## title: Additional information for educators
+
 ### Información adicional para los educadores
 
 If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/turtle-race/print){:target="_blank"}.
 
 Use the link in the footer to access the GitHub repository for this project, which contains all resources (including an example finished project) in the 'en/resources' folder.
+
+\--- /collapse \---
