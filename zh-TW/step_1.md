@@ -12,6 +12,10 @@
   <img src="images/race-finished.png">
 </div>
 
+## \--- collapse \---
+
+## title: What you will learn
+
 ### 學習綱領︰
 
 通過製作烏龜賽跑遊戲，你將學到如何：
@@ -24,8 +28,16 @@
 
 + [使用基本的程式語言結構來建立簡單的程式。](https://www.raspberrypi.org/curriculum/programming/creator/){:target="_blank"}
 
+\--- /collapse \---
+
+## \--- collapse \---
+
+## title: Additional information for educators
+
 ### 給教師的其他資訊
 
-如果你需要列印此課程，請下載 [列印版本。](https://projects.raspberrypi.org/en/projects/turtle-race/print){:target="_blank"}
+If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/turtle-race/print){:target="_blank"}.
 
-使用頁腳中的連結造訪此課程的 GitHub 存儲庫，在 'en / resources' 資料夾中有本課程的所有資源(包括一個完整的範例程式)。
+Use the link in the footer to access the GitHub repository for this project, which contains all resources (including an example finished project) in the 'en/resources' folder.
+
+\--- /collapse \---
