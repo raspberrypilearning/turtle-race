@@ -12,6 +12,10 @@ Tento projekt seznamuje s cykly „for“ prostřednictvím zábavné závodní 
   <img src="images/race-finished.png">
 </div>
 
+## \--- collapse \---
+
+## title: What you will learn
+
 ### Co se naučíš
 
 Vytvořením závodní hry želv se naučíš, jak:
@@ -24,8 +28,16 @@ This project covers elements from the following strands of the [Raspberry Pi Dig
 
 + [Použij základních programovacích konstrukcí k vytvoření jednoduchých programů.](https://www.raspberrypi.org/curriculum/programming/creator/) {:target = "_blank"}
 
+\--- /collapse \---
+
+## \--- collapse \---
+
+## title: Additional information for educators
+
 ### Další informace pro učitele
 
-Potřebujete-li tento projekt vytisknout, použijte verzi [pro tisk](https://projects.raspberrypi.org/en/projects/turtle-race/print){:target="_blank"}.
+If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/turtle-race/print){:target="_blank"}.
 
-Použijte odkaz v zápatí pro přístup ke GitHub úložišti tohoto projektu, obsahující ve složce "en/resources" veškeré zdroje, včetně příkladu dokončeného projektu.
+Use the link in the footer to access the GitHub repository for this project, which contains all resources (including an example finished project) in the 'en/resources' folder.
+
+\--- /collapse \---
