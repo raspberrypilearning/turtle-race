@@ -12,6 +12,10 @@
   <img src="images/race-finished.png">
 </div>
 
+## \--- collapse \---
+
+## title: What you will learn
+
 ### Чему ты научишься
 
 Создавая свою игру о гоночных черепахах, ты научишься:
@@ -24,8 +28,16 @@ This project covers elements from the following strands of the [Raspberry Pi Dig
 
 + [Используйте базовые конструкции программирования для создания простых программ](https://www.raspberrypi.org/curriculum/programming/creator/){: target = "_ blank"}
 
+\--- /collapse \---
+
+## \--- collapse \---
+
+## title: Additional information for educators
+
 ### Дополнительная информация для преподавателей
 
-Если вам нужно распечатать этот проект, пожалуйста, используйте [ версию для печати](https://projects.raspberrypi.org/en/projects/turtle-race/print) {:target="_blank"}.
+If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/turtle-race/print){:target="_blank"}.
 
-Используйте ссылку в подвале для доступа к GitHub репозиторию этого проекта, в котором содержатся все материалы (включая пример готового проекта) в папке 'en / resources'.
+Use the link in the footer to access the GitHub repository for this project, which contains all resources (including an example finished project) in the 'en/resources' folder.
+
+\--- /collapse \---
