@@ -14,7 +14,7 @@
 
 ## \--- collapse \---
 
-## title: What you will learn
+## title: Чого ти навчишся
 
 ### Чого ти навчишся
 
@@ -32,12 +32,12 @@
 
 ## \--- collapse \---
 
-## title: Additional information for educators
+## title: Додаткова інформація для викладачів
 
 ### Додаткова інформація для вчителів
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/turtle-race/print){:target="_blank"}.
+Якщо вам потрібно роздрукувати цей проєкт, будь ласка, скористайтеся [версією для друку](https://projects.raspberrypi.org/en/projects/turtle-race/print){:target="_blank"}.
 
-Use the link in the footer to access the GitHub repository for this project, which contains all resources (including an example finished project) in the 'en/resources' folder.
+Скористайтеся посиланням у нижньому колонтитулі, щоб отримати доступ до сховища GitHub для даного проєкту, яке містить усі ресурси (включаючи приклад готового проєкту) в папці "en/resources".
 
 \--- /collapse \---
