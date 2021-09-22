@@ -12,6 +12,10 @@ Aquest projecte introdueix bucles for mitjançant un divertit joc de curses de t
   <img src="images/race-finished.png">
 </div>
 
+## \--- collapse \---
+
+## title: What you will learn
+
 ### Què aprendràs
 
 En fer el joc de curses de tortugues, aprendràs a:
@@ -24,8 +28,16 @@ This project covers elements from the following strands of the [Raspberry Pi Dig
 
 + [Utilitzar estructures de programació bàsiques per crear programes simples.](https://www.raspberrypi.org/curriculum/programming/creator/){:target="_blank"}
 
+\--- /collapse \---
+
+## \--- collapse \---
+
+## title: Additional information for educators
+
 ### Informació addicional per a educadors
 
-Si necessites imprimir aquest projecte, si us plau, utilitza la [versió per imprimir](https://projects.raspberrypi.org/en/projects/turtle-race/print){:target="_blank"}.
+If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/turtle-race/print){:target="_blank"}.
 
-Utilitza l'enllaç del peu de pàgina per accedir al repositori de GitHub per a aquest projecte, el qual conté tots els recursos (incloent un exemple de projecte acabat) a la carpeta ‘ca-ES/resources’.
+Use the link in the footer to access the GitHub repository for this project, which contains all resources (including an example finished project) in the 'en/resources' folder.
+
+\--- /collapse \---
