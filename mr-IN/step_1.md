@@ -12,6 +12,10 @@
   <img src="images/race-finished.png">
 </div>
 
+## \--- collapse \---
+
+## title: What you will learn
+
 ### ह्यातून तुम्हाला काय शिकायला मिळेल
 
 तुमचा कासव शर्यतीचा गेम बनवून तुम्ही हे कसं कारचं शिकाल:
@@ -24,8 +28,16 @@ This project covers elements from the following strands of the [Raspberry Pi Dig
 
 + [साधे प्रोग्राम तयार करण्यासाठी बेसिक प्रोग्रामिंग कॉन्स्ट्रक्टचा वापर करा.](https://www.raspberrypi.org/curriculum/programming/creator/){:target="_blank"}
 
+\--- /collapse \---
+
+## \--- collapse \---
+
+## title: Additional information for educators
+
 ### शिक्षकांसाठी अधिक माहिती
 
-तुम्हाला हा प्रोजेक्ट प्रिंट करणे आवश्यक असल्यास, कृपया [प्रिंटर अनुकूल आवृत्ती](https://projects.raspberrypi.org/en/projects/turtle-race/print){: target = "_ blank"} वापरा.
+If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/turtle-race/print){:target="_blank"}.
 
-या प्रोजेक्टचे GitHub repository मिळवण्यासाठी फूटरमध्ये दिलेली लिंक वापरा, ज्यात 'en/resources' फोल्डरमध्ये सर्व संसाधने (व उदाहरणार्थ पूर्ण झालेले प्रोजेक्ट) समाविष्ट आहे.
+Use the link in the footer to access the GitHub repository for this project, which contains all resources (including an example finished project) in the 'en/resources' folder.
+
+\--- /collapse \---
