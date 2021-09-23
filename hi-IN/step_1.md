@@ -14,7 +14,7 @@
 
 ## \--- collapse \---
 
-## title: What you will learn
+## title: आप क्या सीखेंगे
 
 ### आप क्या सीखेंगे
 
@@ -24,7 +24,7 @@
 + Python में यादृच्छिक संख्या का उपयोग करें
 + Python Turtle के साथ अलग अलग रंगो में रेखाएँ बनाए
 
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](https://rpf.io/curriculum){:target="_blank"}:
+इस परियोजना में [Raspberry Pi डिजिटल निर्माण पाठ्यक्रम](https://rpf.io/curriculum){:target="_blank"} के निम्नलिखित स्ट्रैंड्स के तत्व शामिल हैं:
 
 + [साधारण प्रोग्राम बनाने के लिए आधारभूत प्रोग्रामिंग का उपयोग करें](https://www.raspberrypi.org/curriculum/programming/creator/){:target="_blank"}
 
@@ -32,12 +32,12 @@ This project covers elements from the following strands of the [Raspberry Pi Dig
 
 ## \--- collapse \---
 
-## title: Additional information for educators
+## title: शिक्षकों के लिए अतिरिक्त जानकारी
 
 ### शिक्षकों के लिए अतिरिक्त जानकारी
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/turtle-race/print){:target="_blank"}.
+अगर आपको इस प्रोजेक्ट को प्रिंट करने की आवश्यकता है, तो कृप्या [प्रिंटर-अनुकूल संस्करण](https://projects.raspberrypi.org/en/projects/turtle-race/print)का उपयोग करें।
 
-Use the link in the footer to access the GitHub repository for this project, which contains all resources (including an example finished project) in the 'en/resources' folder.
+इस परियोजना के गिटहब भंडार तक पहुंचने के लिए नीचे दिए गए लिंक का उपयोग करें, जिसमें 'en/resources' फ़ोल्डर में सभी संसाधन शामिल हैं (एक उदाहरण और संपूर्ण परियोजना सहित)।
 
 \--- /collapse \---
