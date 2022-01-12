@@ -17,11 +17,13 @@ software: python
 version: 3
 last_tested: 2017-01-01
 steps:
-  - title: Inleiding
-  - title: Wat heb je nodig
-  - title: Racebaan
-  - title: 'Uitdaging: meer lijnen'
-  - title: Raceschildpadden
-  - title: 'Uitdaging: racetijd!'
-  - title: 'Uitdaging: maak een draai'
-  - title: 'Uitdaging: stippellijnen'
+- title: Inleiding
+- title: Wat heb je nodig
+  completion: engaged
+- title: Racebaan
+- title: 'Uitdaging: meer lijnen'
+- title: Raceschildpadden
+- title: 'Uitdaging: racetijd!'
+- title: 'Uitdaging: maak een draai'
+  completion: internal
+- title: 'Uitdaging: stippellijnen'

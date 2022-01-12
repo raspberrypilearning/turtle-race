@@ -17,11 +17,13 @@ software: python
 version: 3
 last_tested: 2017-01-01
 steps:
-  - title: Introducció
-  - title: Què necessitaràs
-  - title: Circuit de carreres
-  - title: 'Repte: més línies'
-  - title: Tortugues corredores
-  - title: 'Repte: temps de cursa!'
-  - title: 'Repte: fer una pirueta'
-  - title: 'Repte: línies discontinues'
+- title: Introducció
+- title: Què necessitaràs
+  completion: engaged
+- title: Circuit de carreres
+- title: 'Repte: més línies'
+- title: Tortugues corredores
+- title: 'Repte: temps de cursa!'
+- title: 'Repte: fer una pirueta'
+  completion: internal
+- title: 'Repte: línies discontinues'

@@ -17,11 +17,13 @@ software: python
 version: 3
 last_tested: 2017-01-01
 steps:
-  - title: Einleitung
-  - title: Was du brauchen wirst
-  - title: Rennstrecke
-  - title: 'Aufgabe: Noch mehr Linien'
-  - title: Schildkröten Wettrennen
-  - title: 'Aufgabe: Das Rennen kann losgehen!'
-  - title: 'Aufgabe: Bring die Schildkröte dazu, sich zu drehen'
-  - title: 'Aufgabe: Gestrichelte Linien'
+- title: Einleitung
+- title: Was du brauchen wirst
+  completion: engaged
+- title: Rennstrecke
+- title: 'Aufgabe: Noch mehr Linien'
+- title: Schildkröten Wettrennen
+- title: 'Aufgabe: Das Rennen kann losgehen!'
+- title: 'Aufgabe: Bring die Schildkröte dazu, sich zu drehen'
+  completion: internal
+- title: 'Aufgabe: Gestrichelte Linien'

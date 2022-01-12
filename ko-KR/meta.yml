@@ -17,11 +17,13 @@ software: python
 version: 3
 last_tested: 2017-01-01
 steps:
-  - title: 소개
-  - title: 준비물
-  - title: 레이스 트랙 만들기
-  - title: '도전과제: 라인 여러개 만들기'
-  - title: 거북이 경주
-  - title: '도전과제: 레이스 타임!'
-  - title: '도전과제: 빙글빙글 돌리기!'
-  - title: '도전과제: 파선(숨은선) 그리기'
+- title: 소개
+- title: 준비물
+  completion: engaged
+- title: 레이스 트랙 만들기
+- title: '도전과제: 라인 여러개 만들기'
+- title: 거북이 경주
+- title: '도전과제: 레이스 타임!'
+- title: '도전과제: 빙글빙글 돌리기!'
+  completion: internal
+- title: '도전과제: 파선(숨은선) 그리기'
