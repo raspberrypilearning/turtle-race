@@ -17,19 +17,14 @@ software: python
 version: 3
 last_tested: 2017-01-01
 steps:
-  - 
-    title: Wprowadzenie
-  - 
-    title: Czego będziesz potrzebować
-  - 
-    title: Tor wyścigowy
-  - 
-    title: 'Wyzwanie: Więcej linii'
-  - 
-    title: Wyścigi żółwi
-  - 
-    title: 'Wyzwanie: Czas na wyścigi!'
-  - 
-    title: 'Wyzwanie: Zakręć się'
-  - 
-    title: 'Wyzwanie: Linie przerywane'
+- title: Wprowadzenie
+- title: Czego będziesz potrzebować
+- title: Tor wyścigowy
+- title: 'Wyzwanie: Więcej linii'
+- title: Wyścigi żółwi
+  completion:
+  - engaged
+  - internal
+- title: 'Wyzwanie: Czas na wyścigi!'
+- title: 'Wyzwanie: Zakręć się'
+- title: 'Wyzwanie: Linie przerywane'

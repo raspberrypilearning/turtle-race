@@ -17,11 +17,14 @@ software: python
 version: 3
 last_tested: 2017-01-01
 steps:
-  - title: Uvod
-  - title: Šta će ti biti potrebno
-  - title: Trkalište
-  - title: 'Izazov: Više linija'
-  - title: Kornjače za trku
-  - title: 'Izazov: Vrijeme je za trku!'
-  - title: 'Izazov: Napravi zaokret'
-  - title: 'Izazov: Isprekidane linije'
+- title: Uvod
+- title: Šta će ti biti potrebno
+- title: Trkalište
+- title: 'Izazov: Više linija'
+- title: Kornjače za trku
+  completion:
+  - engaged
+  - internal
+- title: 'Izazov: Vrijeme je za trku!'
+- title: 'Izazov: Napravi zaokret'
+- title: 'Izazov: Isprekidane linije'

@@ -1,3 +1,4 @@
+---
 hero_image: images/turtle-race.png
 theme: blue
 duration: 2
@@ -15,12 +16,15 @@ hardware: ''
 software: python
 version: 3
 last_tested: 2017-01-01
-steps: 
+steps:
 - title: Introduction
 - title: What you will need
 - title: Race track
 - title: 'Challenge: More lines'
 - title: Racing turtles
+  completion:
+  - engaged
+  - internal
 - title: 'Challenge: Race time!'
 - title: 'Challenge: Do a twirl'
 - title: 'Challenge: Dashed lines'

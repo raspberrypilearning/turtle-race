@@ -17,11 +17,14 @@ software: python
 version: 3
 last_tested: 2017-01-01
 steps:
-  - title: Introduzione
-  - title: Di cosa avrai bisogno
-  - title: Tracciato di gara
-  - title: 'Sfida: altre linee'
-  - title: Tartarughe in corsa
-  - title: 'Sfida: tempo di gara!'
-  - title: 'Sfida: fai un giro'
-  - title: 'Sfida: linee tratteggiate'
+- title: Introduzione
+- title: Di cosa avrai bisogno
+- title: Tracciato di gara
+- title: 'Sfida: altre linee'
+- title: Tartarughe in corsa
+  completion:
+  - engaged
+  - internal
+- title: 'Sfida: tempo di gara!'
+- title: 'Sfida: fai un giro'
+- title: 'Sfida: linee tratteggiate'
