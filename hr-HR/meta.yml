@@ -19,11 +19,12 @@ last_tested: 2017-01-01
 steps:
 - title: Uvod
 - title: Trebat ćeš
-  completion: engaged
 - title: Trkalište
 - title: 'Izazov: Dodaj još linija'
 - title: Kornjače za utrku
+  completion:
+  - engaged
+  - internal
 - title: 'Izazov: Vrijeme je za utrku!'
 - title: 'Izazov: Napravi zaokret'
-  completion: internal
 - title: 'Izazov: Isprekidane linije'

@@ -19,11 +19,12 @@ last_tested: 2017年1月1日
 steps:
 - title: 介绍
 - title: 你需要什么
-  completion: engaged
 - title: 赛道
 - title: 挑战：更多线条
 - title: 赛跑的乌龟
+  completion:
+  - engaged
+  - internal
 - title: 挑战：比赛时间！
 - title: '挑战: 做一个旋转'
-  completion: internal
 - title: 挑战：虚线

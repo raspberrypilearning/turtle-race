@@ -19,11 +19,12 @@ last_tested: 2017-01-01
 steps:
 - title: परिचय
 - title: आपको किसकी ज़रूरत होगी
-  completion: engaged
 - title: रेस ट्रैक
 - title: 'चुनौती: अधिक लाइनें'
 - title: कछुए की दौड़
+  completion:
+  - engaged
+  - internal
 - title: 'चुनौती: रेस का समय!'
 - title: 'चुनौती: घुमाओ'
-  completion: internal
 - title: 'चुनौती: डैश की लाइनें'

@@ -19,11 +19,12 @@ last_tested: 2017-01-01
 steps:
 - title: Inleiding
 - title: Wat heb je nodig
-  completion: engaged
 - title: Racebaan
 - title: 'Uitdaging: meer lijnen'
 - title: Raceschildpadden
+  completion:
+  - engaged
+  - internal
 - title: 'Uitdaging: racetijd!'
 - title: 'Uitdaging: maak een draai'
-  completion: internal
 - title: 'Uitdaging: stippellijnen'

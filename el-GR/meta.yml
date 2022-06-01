@@ -19,11 +19,12 @@ last_tested: 2017-01-01
 steps:
 - title: Εισαγωγή
 - title: Τι θα χρειαστείς
-  completion: engaged
 - title: Πίστα αγώνα
 - title: 'Πρόκληση: περισσότερες γραμμές'
 - title: Αγωνιστικές χελώνες
+  completion:
+  - engaged
+  - internal
 - title: 'Πρόκληση: Ώρα για αγώνα!'
 - title: 'Πρόκληση: Κάνε ένα στριφογύρισμα'
-  completion: internal
 - title: 'Πρόκληση: Διακεκομμένες γραμμές'

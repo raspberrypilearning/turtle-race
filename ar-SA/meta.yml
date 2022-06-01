@@ -19,11 +19,12 @@ last_tested: 2017-01-01
 steps:
 - title: المقدمة
 - title: ما ستحتاج إليه
-  completion: engaged
 - title: مضمار السباق
 - title: 'التحدي: خطوط أخرى'
 - title: السلاحف المتسابقة
+  completion:
+  - engaged
+  - internal
 - title: 'التحدي: وقت السباق!'
 - title: 'التحدي: أنشئ حركة دورانية'
-  completion: internal
 - title: 'التحدي: خطوط متقطعة'

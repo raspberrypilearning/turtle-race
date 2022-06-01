@@ -19,11 +19,12 @@ last_tested: 2017-01-01
 steps:
 - title: Введение
 - title: Что тебе понадобится
-  completion: engaged
 - title: Гоночная трасса
 - title: 'Задача: больше линий'
 - title: Черепахи гонщики
+  completion:
+  - engaged
+  - internal
 - title: 'Задача: время гонки!'
 - title: 'Задача: сделать полный поворот'
-  completion: internal
 - title: 'Задача: пунктирные линии'

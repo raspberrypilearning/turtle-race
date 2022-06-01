@@ -19,11 +19,12 @@ last_tested: 2017-01-01
 steps:
 - title: Introducción
 - title: Lo que necesitarás
-  completion: engaged
 - title: Pista de carreras
 - title: 'Desafío: Más líneas'
 - title: Carreras de tortugas
+  completion:
+  - engaged
+  - internal
 - title: 'Desafío: ¡Hora de correr!'
 - title: 'Desafío: Hacer una pirueta'
-  completion: internal
 - title: 'Desafío: Líneas discontinuas'

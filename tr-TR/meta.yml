@@ -19,11 +19,12 @@ last_tested: 2017-01-01
 steps:
 - title: Giriş
 - title: Nelere ihtiyacınız olacak
-  completion: engaged
 - title: Yarış Pisti
 - title: 'Meydan Okuma: Daha fazla çizgi'
 - title: Yarışan kaplumbağalar
+  completion:
+  - engaged
+  - internal
 - title: 'Meydan okuma: Yarış zamanı!'
 - title: 'Meydan okuma: Bir burgu yap'
-  completion: internal
 - title: 'Meydan Okuma: Kesik çizgiler'

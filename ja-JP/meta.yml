@@ -19,11 +19,12 @@ last_tested: 2017-01-01
 steps:
 - title: はじめに
 - title: 必要なもの
-  completion: engaged
 - title: レーストラック
 - title: チャレンジ：もっと線を描いてみよう
 - title: カメのレース
+  completion:
+  - engaged
+  - internal
 - title: チャレンジ：レースの時間！
 - title: チャレンジ：くるくる回してみよう
-  completion: internal
 - title: チャレンジ：破線を描いてみよう

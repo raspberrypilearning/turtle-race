@@ -19,11 +19,12 @@ last_tested: 2017-01-01
 steps:
 - title: Вступ
 - title: Що тобі знадобиться
-  completion: engaged
 - title: Гоночна траса
 - title: 'Завдання: більше ліній'
 - title: Гоночні черепахи
+  completion:
+  - engaged
+  - internal
 - title: 'Завдання: Час перегонів!'
 - title: 'Завдання: зроби оберт'
-  completion: internal
 - title: 'Завдання: пунктирні лінії'

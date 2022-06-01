@@ -19,11 +19,12 @@ last_tested: 2017-01-01
 steps:
 - title: Introdução
 - title: O que você vai precisar
-  completion: engaged
 - title: Pista de corrida
 - title: 'Desafio: Mais linhas'
 - title: Corrida de tartarugas
+  completion:
+  - engaged
+  - internal
 - title: 'Desafio: Hora da corrida!'
 - title: 'Desafio: Dê uma volta'
-  completion: internal
 - title: 'Desafio: Linhas tracejadas'

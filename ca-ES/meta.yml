@@ -19,11 +19,12 @@ last_tested: 2017-01-01
 steps:
 - title: Introducció
 - title: Què necessitaràs
-  completion: engaged
 - title: Circuit de carreres
 - title: 'Repte: més línies'
 - title: Tortugues corredores
+  completion:
+  - engaged
+  - internal
 - title: 'Repte: temps de cursa!'
 - title: 'Repte: fer una pirueta'
-  completion: internal
 - title: 'Repte: línies discontinues'

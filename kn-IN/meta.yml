@@ -19,11 +19,12 @@ last_tested: 2017-01-01
 steps:
 - title: ಪರಿಚಯ
 - title: ನಿಮಗೆ ಬೇಕಾದುದು
-  completion: engaged
 - title: ರೇಸ್ ಟ್ರ್ಯಾಕ್ (ಪಂದ್ಯದ ಹಾದಿ)
 - title: 'ಸವಾಲು: ಹೆಚ್ಚಿನ ಸಾಲುಗಳು'
 - title: ರೇಸಿಂಗ್ ಆಮೆಗಳು
+  completion:
+  - engaged
+  - internal
 - title: 'ಸವಾಲು: ಪಂದ್ಯದ ಸಮಯ!'
 - title: 'ಸವಾಲು: ಒಂದು ತಿರುವು ಮಾಡಿ'
-  completion: internal
 - title: 'ಸವಾಲು: ಡ್ಯಾಶ್ಡ್ ಲೈನ್'

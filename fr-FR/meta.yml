@@ -19,11 +19,12 @@ last_tested: 2017-01-01
 steps:
 - title: Introduction
 - title: Ce dont tu auras besoin
-  completion: engaged
 - title: Piste de course
 - title: 'Défi: plus de lignes'
 - title: Tortues de course
+  completion:
+  - engaged
+  - internal
 - title: 'Défi: c''est l''heure de la course!'
 - title: 'Défi: faire un tourbillon'
-  completion: internal
 - title: 'Défi: lignes pointillées'

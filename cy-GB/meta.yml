@@ -19,11 +19,12 @@ last_tested: 2017-01-01
 steps:
 - title: Cyflwyniad
 - title: Beth fydd ei angen arnoch chi
-  completion: engaged
 - title: Trac rasio
 - title: 'Her: Mwy o linellau'
 - title: Crwbanod rasio
+  completion:
+  - engaged
+  - internal
 - title: 'Her: Amser ras!'
 - title: 'Her: Gwnewch droelliad'
-  completion: internal
 - title: 'Her: Llinellau toredig'
