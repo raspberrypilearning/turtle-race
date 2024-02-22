@@ -4,7 +4,7 @@ You're going to create a game with racing turtles. First they'll need a race tra
 
 --- task ---
 
-Open the [Rock, Paper, Scissors](https://editor.raspberrypi.org/en/projects/turtle-race-starter){:target="_blank"} project. The code editor will open in another browser tab.
+Open the [Turtle race starter](https://editor.raspberrypi.org/en/projects/turtle-race-starter){:target="_blank"} project. The code editor will open in another browser tab.
 
 --- /task ---
 
