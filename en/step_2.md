@@ -31,12 +31,10 @@ forward(100)
 
 --- task ---
 
-Now let's use the turtle to draw some track markings for the race. 
+Now use the turtle to draw some track markings for the race. 
 
 The turtle `write` function writes text to the screen. 
   
-Try it:
-
 --- code ---
 ---
 language: python
@@ -56,7 +54,7 @@ write(5)
 
 --- task ---
 
-Now you need to fill in the numbers in between to create markings:
+Next you need to add the numbers in between to create markings.
 
 --- code ---
 ---
@@ -87,11 +85,11 @@ forward(20)
   
 Did you notice that your code is very repetitive? The only thing that changes is the number to write.
 
-There's a better way of doing this in Python. You can use a `for` loop. 
+There's a better way of doing this. You can use a `for` loop. 
 
 --- task ---
 
-Update your code to use a `for` loop:
+Update your code to use a `for` loop.
 
 --- code ---
 ---
@@ -112,7 +110,17 @@ for step in range(5):
 
 --- task ---
 
-Hmm, that only prints numbers up to 4. In Python `range(5)` returns five numbers, from 0 up to 4. To get it to also return 5 you'll need to use `range(6)`:
+**Click Run**
+
+Did you notice that only prints numbers up to 4?
+
+In Python `range(5)` returns five numbers, from 0 up to 4. 
+
+--- /task ---
+
+--- task ---
+
+To also return the number 5, you need to use `range(6)`
 
 --- code ---
 ---
@@ -133,7 +141,7 @@ for step in range(6):
 
 --- task ---
 
-Now we can draw some track markings. The turtle starts at coordinates (0,0). 
+Now draw some track markings. The turtle starts at coordinates (0,0). 
 
 Move the turtle to the top left instead:
 
@@ -154,13 +162,21 @@ for step in range(6):
     write(step)
 --- /code ---
 
+--- /task ---
+
+--- task ---
+
+**Click Run**
+
+Notice the turtle starts drawing immediately.
+
 ![screenshot](images/race-goto.png)
 
 --- /task ---
 
 --- task ---
 
-Ah, you'll want to lift the pen up first!
+You need to lift the pen up first!
 
 --- code ---
 ---
@@ -184,7 +200,13 @@ for step in range(6):
 
 --- task ---
 
-Instead of drawing a line horizontally, let's draw vertical lines to create a track:
+**Click Run** to test your code.
+
+--- /task ---
+
+--- task ---
+
+Instead of drawing a line horizontally, you need to draw vertical lines to create a track.
 
 --- code ---
 ---
@@ -206,16 +228,21 @@ for step in range(6):
     forward(20) 
 --- /code ---
 
+**Click Run** to test your code.
+
 ![screenshot](images/race-lines.png)
 
 --- /task ---
 
-  
-`right(90)` makes the turtle turn right 90 degrees (a right angle.) Moving `forward(10)` before putting the pen down leaves a small gap between the number and the start of the line. After drawing the line you lift up the pen and go `backward(160)` the length of the line plus the gap. 
+`right(90)` makes the turtle turn right 90 degrees (a right angle). 
+
+Moving `forward(10)` before putting the pen down leaves a small gap between the number and the start of the line. 
+
+After drawing the line the pen lifts up, then the turtle moves `backward(160)` (the length of the line plus the gap). 
 
 --- task ---
 
-It looks neater if you centre the numbers:
+It looks neater if you centre the numbers.
 
 --- code ---
 ---
@@ -233,7 +260,7 @@ for step in range(6):
 
 --- task ---
 
-And you can speed up the turtle so it draws faster:
+You can speed up the turtle so it draws faster!
 
 --- code ---
 ---

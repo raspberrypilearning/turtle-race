@@ -1,10 +1,18 @@
 ## Racing turtles
 
-Now for the fun bit. Let's add some racing turtles. It would be really boring if the turtles did the same thing every time so they will move a random number of steps each turn. The winner is the turtle that gets the furthest in 100 turns. 
+Now for the fun bit. 
+
+Add some racing turtles! 
+
+It would be really boring if the turtles did the same thing every time, so they will move a random number of steps each time. 
+
+The winner is the turtle that gets the furthest in 100 turns.
 
 --- task ---
 
-When you use commands like `forward(20)` you are using a single turtle. But you can create more turtles. Add the following code to the end of your script (but make sure it's not indented):
+When you use commands like `forward(20)` you are using a single turtle. But you can create more turtles. 
+
+Add the following code to the end of your code (but make sure it's not indented)
 
 --- code ---
 ---
@@ -30,7 +38,7 @@ The first line creates a turtle called 'ada'. The next lines set the colour and 
   
 --- task ---
 
-Let's send the turtle to the starting line:
+Send the turtle to the starting line:
 
 --- code ---
 ---
@@ -49,13 +57,17 @@ ada.goto(-160, 100)
 ada.pendown()
 --- /code ---
 
-  ![screenshot](images/race-start.png)
+**Click Run** to test your code.
 
 --- /task ---
 
+Now you need to make the turtle race by moving a random number of steps each time. 
+
+You will use the `randint` function from the Python `random` library. 
+
 --- task ---
 
-Now you need to make the turtle race by moving a random number of steps at a time. You'll need the `randint` function from the Python `random` library. Add this `import` line to the top of your script:
+Add this `import` line to the top of your code.
 
 --- code ---
 ---
@@ -73,7 +85,9 @@ from random import randint
 
 --- task ---
 
-The `randint` function returns a random integer (whole number) between the values chosen. The turtle will move forward 1, 2, 3, 4, or 5 steps at each turn. 
+The `randint` function returns a random integer (whole number) between the values chosen. 
+
+The turtle will move forward 1, 2, 3, 4, or 5 steps each time. 
 
 --- code ---
 ---
@@ -95,7 +109,9 @@ for turn in range(100):
   
 --- task ---
 
-One turtle isn't much of a race! Let's add another one:
+One turtle isn't much of a race! 
+
+Add another one!
 
 --- code ---
 ---
@@ -122,11 +138,10 @@ for turn in range(100):
     bob.forward(randint(1, 5))
 --- /code ---
 
+**Click Run** to test your code.
+
 ![screenshot](images/race-blue.png)
 
 --- /task ---
 
- Note that the code for moving the blue turtle needs to be in __the same__ `for` loop as the code for moving the red turtle so that they each make a move every turn. 
-  
-
-
+Note that the code for moving the blue turtle needs to be in __the same__ `for` loop as the code for moving the red turtle, so that they each make a move every turn.

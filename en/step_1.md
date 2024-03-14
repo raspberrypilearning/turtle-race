@@ -4,7 +4,11 @@ Use loops to draw a race track and create a racing turtle game.
 
 ### What you will make
 
-This project introduces for loops through a fun turtle race game. Loops are used to draw the race track and to make the turtles move a random number of steps each turn. If you have a group of people to play the game, each person pick a turtle and the one that gets the furthest is the winner.
+This project introduces `for` loops through a fun turtle race game. 
+
+Loops are used to draw the race track and to make the turtles move a random number of steps each turn. 
+
+If you have a group of people to play the game, each person can pick a turtle and the one that gets the furthest is the winner.
 
 <iframe src="https://editor.raspberrypi.org/en/embed/viewer/turtle-race-solution" width="600" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen> </iframe> 
 
@@ -19,10 +23,6 @@ By making your turtle race game, you will learn how to:
 + Write `for` loops in Python
 + Use random numbers in Python
 + Draw lines in different colours with Python Turtle
-
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](https://rpf.io/curriculum){:target="_blank"}:
-
-+ [Use basic programming constructs to create simple programs.](https://www.raspberrypi.org/curriculum/programming/creator/){:target="_blank"}
 
 --- /collapse ---
 
