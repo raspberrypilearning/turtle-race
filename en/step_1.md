@@ -10,7 +10,7 @@ Loops are used to draw the race track and to make the turtles move a random numb
 
 If you have a group of people to play the game, each person can pick a turtle and the one that gets the furthest is the winner.
 
-<iframe src="https://editor.raspberrypi.org/en/embed/viewer/turtle-race-solution" width="600" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen> </iframe> 
+<iframe src="https://editor.raspberrypi.org/en/embed/viewer/turtle-race-solution?pyodide=true" width="600" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen> </iframe> 
 
 --- collapse ---
 ---
