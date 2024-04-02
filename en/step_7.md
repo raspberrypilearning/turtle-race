@@ -1,11 +1,10 @@
 --- challenge ---
-## Challenge: Do a twirl
+## Challenge: Dashed lines
 
-Can you use a `for turn in range():` loop to make each turtle do a 360 degree twirl after they get to the starting line? You'll need to make sure they are facing in the right direction at the start of the race!
+Can you use a loop to make the track lines dashed instead of solid?
 
-`ada.right(36)` will turn the red turtle right by 36 degrees. 
+<iframe src="https://editor.raspberrypi.org/en/embed/viewer/turtle-race-solution" width="600" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen> </iframe> 
 
-**Hint:** A full turn is 360 degrees. A turtle could turn right 10 degrees 36 times, or left 5 degrees 72 times, or any other numbers make 360!
-
+**Hint:** Find the code that draws a straight line. Try using:`for`, `forward()`, `penup()` and `pendown()`
 
 --- /challenge ---
