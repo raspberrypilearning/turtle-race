@@ -19,11 +19,13 @@ last_tested: 2017-01-01
 steps:
 - title: Introduction
 - title: Race track
+  completion:
+  - engaged
 - title: 'Challenge: More lines'
 - title: Racing turtles
   completion:
-  - engaged
   - internal
+  - external
 - title: 'Challenge: Race time!'
 - title: 'Challenge: Do a twirl'
 - title: 'Challenge: Dashed lines'
